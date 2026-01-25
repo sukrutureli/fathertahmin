@@ -1,36 +1,4 @@
 [ {
-  "name" : "Atl. Club d'Escaldes - Inter Escaldes",
-  "time" : "15:15",
-  "detailUrl" : "https://istatistik.nesine.com/2604896",
-  "odds" : {
-    "ms1" : 3.42,
-    "msX" : 2.87,
-    "ms2" : 1.75,
-    "over25" : 1.83,
-    "under25" : 1.5,
-    "bttsYes" : 1.67,
-    "bttsNo" : 1.63,
-    "mbs" : 3
-  },
-  "index" : 0,
-  "mbs" : 0
-}, {
-  "name" : "Nejmeh SC - AL Ansar SC",
-  "time" : "15:15",
-  "detailUrl" : "https://istatistik.nesine.com/2686762",
-  "odds" : {
-    "ms1" : 2.55,
-    "msX" : 2.43,
-    "ms2" : 2.43,
-    "over25" : 1.75,
-    "under25" : 1.56,
-    "bttsYes" : 1.48,
-    "bttsNo" : 1.86,
-    "mbs" : 3
-  },
-  "index" : 1,
-  "mbs" : 0
-}, {
   "name" : "Antwerp - Charleroi",
   "time" : "15:30",
   "detailUrl" : "https://istatistik.nesine.com/2604872",
@@ -44,7 +12,7 @@
     "bttsNo" : 1.77,
     "mbs" : 1
   },
-  "index" : 2,
+  "index" : 0,
   "mbs" : 0
 }, {
   "name" : "Paderborn - Preussen M.",
@@ -60,7 +28,7 @@
     "bttsNo" : 1.89,
     "mbs" : 1
   },
-  "index" : 3,
+  "index" : 1,
   "mbs" : 0
 }, {
   "name" : "Schalke 04 - Kaiserslautern",
@@ -76,7 +44,7 @@
     "bttsNo" : 1.82,
     "mbs" : 1
   },
-  "index" : 4,
+  "index" : 2,
   "mbs" : 0
 }, {
   "name" : "Elversberg - Bochum",
@@ -92,23 +60,39 @@
     "bttsNo" : 2.07,
     "mbs" : 1
   },
-  "index" : 5,
+  "index" : 3,
   "mbs" : 0
 }, {
   "name" : "Mannheim 07 - H. Rostock",
   "time" : "15:30",
   "detailUrl" : "https://istatistik.nesine.com/2604237",
   "odds" : {
-    "ms1" : 2.69,
-    "msX" : 3.31,
-    "ms2" : 1.98,
+    "ms1" : 2.76,
+    "msX" : 3.3,
+    "ms2" : 1.94,
     "over25" : 1.44,
     "under25" : 2.05,
     "bttsYes" : 1.38,
     "bttsNo" : 2.2,
     "mbs" : 2
   },
-  "index" : 6,
+  "index" : 4,
+  "mbs" : 0
+}, {
+  "name" : "KF Tirana - Flamurtari Vlore",
+  "time" : "15:30",
+  "detailUrl" : "https://istatistik.nesine.com/2599266",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 5,
   "mbs" : 0
 }, {
   "name" : "Petrolul Ploiesti - Farul Cons.",
@@ -124,39 +108,39 @@
     "bttsNo" : 1.58,
     "mbs" : 3
   },
-  "index" : 7,
+  "index" : 6,
   "mbs" : 0
 }, {
   "name" : "Sivasspor - Amed Sportif",
   "time" : "16:00",
   "detailUrl" : "https://istatistik.nesine.com/2605080",
   "odds" : {
-    "ms1" : 2.91,
-    "msX" : 3.13,
-    "ms2" : 1.93,
-    "over25" : 1.64,
-    "under25" : 1.75,
-    "bttsYes" : 1.52,
-    "bttsNo" : 1.91,
+    "ms1" : 2.83,
+    "msX" : 3.16,
+    "ms2" : 1.95,
+    "over25" : 1.62,
+    "under25" : 1.77,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.94,
     "mbs" : 2
   },
-  "index" : 8,
+  "index" : 7,
   "mbs" : 0
 }, {
   "name" : "Atl Madrid - Mallorca",
   "time" : "16:00",
   "detailUrl" : "https://istatistik.nesine.com/2604694",
   "odds" : {
-    "ms1" : 1.2,
-    "msX" : 4.54,
-    "ms2" : 7.75,
+    "ms1" : 1.19,
+    "msX" : 4.65,
+    "ms2" : 8.07,
     "over25" : 1.55,
     "under25" : 1.86,
-    "bttsYes" : 1.91,
-    "bttsNo" : 1.53,
+    "bttsYes" : 1.93,
+    "bttsNo" : 1.51,
     "mbs" : 1
   },
-  "index" : 9,
+  "index" : 8,
   "mbs" : 0
 }, {
   "name" : "Saint Eloi Lupopo - MC Alger",
@@ -172,7 +156,7 @@
     "bttsNo" : 1.38,
     "mbs" : 2
   },
-  "index" : 10,
+  "index" : 9,
   "mbs" : 0
 }, {
   "name" : "Nairobi Utd - Azam",
@@ -188,7 +172,7 @@
     "bttsNo" : 1.38,
     "mbs" : 3
   },
-  "index" : 11,
+  "index" : 10,
   "mbs" : 0
 }, {
   "name" : "Zesco Utd - Kaizer Chiefs",
@@ -204,6 +188,38 @@
     "bttsNo" : 1.56,
     "mbs" : 3
   },
+  "index" : 11,
+  "mbs" : 0
+}, {
+  "name" : "VfL Bochum II - Fortuna Köln",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2604079",
+  "odds" : {
+    "ms1" : 5.11,
+    "msX" : 4.05,
+    "ms2" : 1.29,
+    "over25" : 1.38,
+    "under25" : 2.04,
+    "bttsYes" : 1.52,
+    "bttsNo" : 1.8,
+    "mbs" : 3
+  },
   "index" : 12,
+  "mbs" : 0
+}, {
+  "name" : "Wiedenbrück - Köln II",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2604983",
+  "odds" : {
+    "ms1" : 2.41,
+    "msX" : 3.32,
+    "ms2" : 2.01,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.31,
+    "bttsNo" : 2.22,
+    "mbs" : 3
+  },
+  "index" : 13,
   "mbs" : 0
 } ]
