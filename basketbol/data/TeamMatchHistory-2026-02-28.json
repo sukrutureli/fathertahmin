@@ -1,0 +1,2593 @@
+[ {
+  "teamName" : "Brezilya - Venezuela",
+  "teamEv" : "Brezilya",
+  "teamDep" : "Venezuela",
+  "detailUrl" : "https://istatistik.nesine.com/2683229",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 16.1,
+    "h1Value" : 0.0,
+    "h2Value" : 26.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 77,
+    "awayScore" : 84,
+    "matchDate" : "2023",
+    "tournament" : "PAN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 83,
+    "awayScore" : 71,
+    "matchDate" : "2023",
+    "tournament" : "HAZ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 72,
+    "awayScore" : 56,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 72,
+    "awayScore" : 60,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 64,
+    "awayScore" : 58,
+    "matchDate" : "2016",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 70,
+    "awayScore" : 60,
+    "matchDate" : "2016",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Şili",
+    "homeScore" : 78,
+    "awayScore" : 62,
+    "matchDate" : "1 Ara",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 66,
+    "awayScore" : 82,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 47,
+    "awayScore" : 55,
+    "matchDate" : "1 Eyl",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "ABD",
+    "homeScore" : 92,
+    "awayScore" : 77,
+    "matchDate" : "30 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 82,
+    "awayScore" : 94,
+    "matchDate" : "28 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "ABD",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 90,
+    "awayScore" : 78,
+    "matchDate" : "27 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 80,
+    "awayScore" : 78,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panama",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 73,
+    "awayScore" : 77,
+    "matchDate" : "25 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Porto Riko",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 97,
+    "awayScore" : 70,
+    "matchDate" : "24 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Kanada",
+    "homeScore" : 54,
+    "awayScore" : 88,
+    "matchDate" : "23 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Şili",
+    "homeScore" : 63,
+    "awayScore" : 63,
+    "matchDate" : "24 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 67,
+    "awayScore" : 64,
+    "matchDate" : "21 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.6333333333333333,
+  "ms2" : 0.29166666666666663,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.4083333333333333,
+  "alt" : 0.5916666666666667,
+  "max" : "MS1"
+}, {
+  "teamName" : "Cornell Big - Yale",
+  "teamEv" : "Cornell Big",
+  "teamDep" : "Yale",
+  "detailUrl" : "https://istatistik.nesine.com/2683120",
+  "odds" : {
+    "ms1" : 2.21,
+    "ms2" : 1.27,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.66,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 102,
+    "awayScore" : 68,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 90,
+    "awayScore" : 84,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 92,
+    "awayScore" : 88,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Yale",
+    "homeScore" : 88,
+    "awayScore" : 103,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 69,
+    "awayScore" : 57,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Yale",
+    "homeScore" : 65,
+    "awayScore" : 62,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Harvard",
+    "homeScore" : 54,
+    "awayScore" : 73,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 82,
+    "awayScore" : 76,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Princeton Ti",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 65,
+    "awayScore" : 89,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 67,
+    "awayScore" : 88,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 81,
+    "awayScore" : 91,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 87,
+    "awayScore" : 64,
+    "matchDate" : "31 Oca",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 74,
+    "awayScore" : 70,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Yale",
+    "homeScore" : 66,
+    "awayScore" : 66,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Yale",
+    "homeScore" : 70,
+    "awayScore" : 83,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Howard Bison",
+    "awayTeam" : "Yale",
+    "homeScore" : 71,
+    "awayScore" : 71,
+    "matchDate" : "10 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 81,
+    "awayScore" : 69,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Harvard",
+    "homeScore" : 65,
+    "awayScore" : 67,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.5333333333333333,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.14166666666666666,
+  "alt" : 0.8583333333333334,
+  "max" : "Alt"
+}, {
+  "teamName" : "W. Michigan - Miami Ohio R",
+  "teamEv" : "W. Michigan",
+  "teamDep" : "Miami Ohio R",
+  "detailUrl" : "https://istatistik.nesine.com/2683677",
+  "odds" : {
+    "ms1" : 5.37,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Miami Ohio R",
+    "awayTeam" : "W. Michigan",
+    "homeScore" : 87,
+    "awayScore" : 76,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "W. Michigan",
+    "awayTeam" : "Miami Ohio R",
+    "homeScore" : 78,
+    "awayScore" : 70,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Miami Ohio R",
+    "awayTeam" : "W. Michigan",
+    "homeScore" : 91,
+    "awayScore" : 71,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "W. Michigan",
+    "awayTeam" : "Miami Ohio R",
+    "homeScore" : 77,
+    "awayScore" : 58,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Miami Ohio R",
+    "awayTeam" : "W. Michigan",
+    "homeScore" : 74,
+    "awayScore" : 83,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Bowling G.",
+    "awayTeam" : "W. Michigan",
+    "homeScore" : 79,
+    "awayScore" : 88,
+    "matchDate" : "25 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Central M.",
+    "awayTeam" : "W. Michigan",
+    "homeScore" : 83,
+    "awayScore" : 70,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "W. Michigan",
+    "awayTeam" : "Akron",
+    "homeScore" : 73,
+    "awayScore" : 90,
+    "matchDate" : "18 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "E. Michigan",
+    "awayTeam" : "W. Michigan",
+    "homeScore" : 62,
+    "awayScore" : 76,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "W. Michigan",
+    "awayTeam" : "Toledo Rock.",
+    "homeScore" : 79,
+    "awayScore" : 90,
+    "matchDate" : "12 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Texas State",
+    "awayTeam" : "W. Michigan",
+    "homeScore" : 77,
+    "awayScore" : 61,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "E. Michigan",
+    "awayTeam" : "Miami Ohio R",
+    "homeScore" : 64,
+    "awayScore" : 74,
+    "matchDate" : "25 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miami Ohio R",
+    "awayTeam" : "Bowling G.",
+    "homeScore" : 91,
+    "awayScore" : 77,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Massachusett",
+    "awayTeam" : "Miami Ohio R",
+    "homeScore" : 77,
+    "awayScore" : 86,
+    "matchDate" : "18 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miami Ohio R",
+    "awayTeam" : "Ohio",
+    "homeScore" : 90,
+    "awayScore" : 74,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Marshall Th.",
+    "awayTeam" : "Miami Ohio R",
+    "homeScore" : 74,
+    "awayScore" : 90,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Buffalo",
+    "awayTeam" : "Miami Ohio R",
+    "homeScore" : 71,
+    "awayScore" : 73,
+    "matchDate" : "4 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms1" : 0.21,
+  "ms2" : 0.79,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.375,
+  "alt" : 0.625,
+  "max" : "MS2"
+}, {
+  "teamName" : "Şili - Kolombiya",
+  "teamEv" : "Şili",
+  "teamDep" : "Kolombiya",
+  "detailUrl" : "https://istatistik.nesine.com/2682303",
+  "odds" : {
+    "ms1" : 1.84,
+    "ms2" : 1.43,
+    "h1Value" : 2.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 149.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Şili",
+    "homeScore" : 97,
+    "awayScore" : 91,
+    "matchDate" : "23-25",
+    "tournament" : "AME",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 74,
+    "awayScore" : 80,
+    "matchDate" : "23-25",
+    "tournament" : "AME",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 77,
+    "awayScore" : 65,
+    "matchDate" : "23/24",
+    "tournament" : "OLI",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Şili",
+    "homeScore" : 67,
+    "awayScore" : 66,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 90,
+    "awayScore" : 76,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Şili",
+    "homeScore" : 57,
+    "awayScore" : 64,
+    "matchDate" : "20/21",
+    "tournament" : "AME",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Şili",
+    "homeScore" : 78,
+    "awayScore" : 62,
+    "matchDate" : "1 Ara",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 66,
+    "awayScore" : 82,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Küba",
+    "homeScore" : 78,
+    "awayScore" : 74,
+    "matchDate" : "11 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "El Salvador",
+    "awayTeam" : "Şili",
+    "homeScore" : 47,
+    "awayScore" : 98,
+    "matchDate" : "10 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Ekvador",
+    "homeScore" : 101,
+    "awayScore" : 59,
+    "matchDate" : "9 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Şili",
+    "homeScore" : 63,
+    "awayScore" : 63,
+    "matchDate" : "24 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 80,
+    "awayScore" : 78,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 94,
+    "awayScore" : 56,
+    "matchDate" : "29 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 84,
+    "awayScore" : 83,
+    "matchDate" : "26 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 89,
+    "awayScore" : 86,
+    "matchDate" : "25 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 84,
+    "awayScore" : 59,
+    "matchDate" : "23 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 82,
+    "awayScore" : 98,
+    "matchDate" : "24 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.575,
+  "ms2" : 0.35,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.575,
+  "alt" : 0.42500000000000004,
+  "max" : "MS1"
+}, {
+  "teamName" : "Niagara Pur. - Quinnipiac B",
+  "teamEv" : "Niagara Pur.",
+  "teamDep" : "Quinnipiac B",
+  "detailUrl" : "https://istatistik.nesine.com/2682103",
+  "odds" : {
+    "ms1" : 3.55,
+    "ms2" : 0.0,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 136.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 56,
+    "awayScore" : 55,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 75,
+    "awayScore" : 76,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 66,
+    "awayScore" : 80,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Niagara Pur.",
+    "awayTeam" : "Quinnipiac B",
+    "homeScore" : 63,
+    "awayScore" : 63,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 67,
+    "awayScore" : 62,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 76,
+    "awayScore" : 63,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Niagara Pur.",
+    "awayTeam" : "Iona",
+    "homeScore" : 70,
+    "awayScore" : 68,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Niagara Pur.",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 69,
+    "awayScore" : 76,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 56,
+    "awayScore" : 55,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Niagara Pur.",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 65,
+    "awayScore" : 56,
+    "matchDate" : "4 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 79,
+    "awayScore" : 85,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Merrimack W.",
+    "homeScore" : 49,
+    "awayScore" : 56,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "Quinnipiac B",
+    "homeScore" : 62,
+    "awayScore" : 74,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 56,
+    "awayScore" : 55,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 75,
+    "awayScore" : 60,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fairfield S.",
+    "awayTeam" : "Quinnipiac B",
+    "homeScore" : 65,
+    "awayScore" : 72,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 16,
+  "ms1" : 0.35,
+  "ms2" : 0.625,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.42500000000000004,
+  "alt" : 0.575,
+  "max" : "MS2"
+}, {
+  "teamName" : "Detroit - Cleveland",
+  "teamEv" : "Detroit",
+  "teamDep" : "Cleveland",
+  "detailUrl" : "https://istatistik.nesine.com/2682825",
+  "odds" : {
+    "ms1" : 1.2,
+    "ms2" : 2.47,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.56,
+    "h2" : 1.68,
+    "hOverUnderValue" : 227.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Detroit",
+    "homeScore" : 110,
+    "awayScore" : 114,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 95,
+    "awayScore" : 116,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Detroit",
+    "homeScore" : 118,
+    "awayScore" : 100,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 133,
+    "awayScore" : 122,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 115,
+    "awayScore" : 118,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Detroit",
+    "homeScore" : 110,
+    "awayScore" : 91,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 124,
+    "awayScore" : 116,
+    "matchDate" : "26 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 103,
+    "awayScore" : 114,
+    "matchDate" : "24 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Detroit",
+    "homeScore" : 110,
+    "awayScore" : 126,
+    "matchDate" : "22 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Detroit",
+    "homeScore" : 111,
+    "awayScore" : 126,
+    "matchDate" : "20 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Detroit",
+    "homeScore" : 95,
+    "awayScore" : 113,
+    "matchDate" : "12 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Detroit",
+    "homeScore" : 104,
+    "awayScore" : 110,
+    "matchDate" : "10 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 118,
+    "awayScore" : 116,
+    "matchDate" : "26 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "New York",
+    "homeScore" : 109,
+    "awayScore" : 94,
+    "matchDate" : "25 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 121,
+    "awayScore" : 113,
+    "matchDate" : "22 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 113,
+    "awayScore" : 118,
+    "matchDate" : "21 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Brooklyn",
+    "homeScore" : 112,
+    "awayScore" : 84,
+    "matchDate" : "20 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Washington",
+    "homeScore" : 138,
+    "awayScore" : 113,
+    "matchDate" : "12 Şub",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.5583333333333333,
+  "ms2" : 0.44166666666666665,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5583333333333333,
+  "alt" : 0.44166666666666665,
+  "max" : "MS1"
+}, {
+  "teamName" : "Troy Trojans - Louisiana M.",
+  "teamEv" : "Troy Trojans",
+  "teamDep" : "Louisiana M.",
+  "detailUrl" : "https://istatistik.nesine.com/2681785",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 12.35,
+    "h1Value" : 0.0,
+    "h2Value" : 19.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Louisiana M.",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 76,
+    "awayScore" : 77,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Troy Trojans",
+    "awayTeam" : "Louisiana M.",
+    "homeScore" : 87,
+    "awayScore" : 50,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Louisiana M.",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 58,
+    "awayScore" : 77,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Louisiana M.",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 78,
+    "awayScore" : 84,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Troy Trojans",
+    "awayTeam" : "Louisiana M.",
+    "homeScore" : 85,
+    "awayScore" : 57,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Troy Trojans",
+    "awayTeam" : "Louis. Lafa.",
+    "homeScore" : 78,
+    "awayScore" : 59,
+    "matchDate" : "25 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S. Alabama",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 65,
+    "awayScore" : 54,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Louisiana M.",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 76,
+    "awayScore" : 77,
+    "matchDate" : "19 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden Eagle",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 69,
+    "awayScore" : 65,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Texas State",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 74,
+    "awayScore" : 62,
+    "matchDate" : "12 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Troy Trojans",
+    "awayTeam" : "Akron",
+    "homeScore" : 79,
+    "awayScore" : 69,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "S. Alabama",
+    "awayTeam" : "Louisiana M.",
+    "homeScore" : 89,
+    "awayScore" : 54,
+    "matchDate" : "26 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Louisiana M.",
+    "awayTeam" : "Arkansas",
+    "homeScore" : 94,
+    "awayScore" : 102,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Louisiana M.",
+    "awayTeam" : "Troy Trojans",
+    "homeScore" : 76,
+    "awayScore" : 77,
+    "matchDate" : "19 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Texas State",
+    "awayTeam" : "Louisiana M.",
+    "homeScore" : 95,
+    "awayScore" : 84,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arkansas",
+    "awayTeam" : "Louisiana M.",
+    "homeScore" : 103,
+    "awayScore" : 70,
+    "matchDate" : "12 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Louisiana M.",
+    "awayTeam" : "Ball State",
+    "homeScore" : 68,
+    "awayScore" : 73,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms1" : 0.775,
+  "ms2" : 0.225,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.245,
+  "alt" : 0.755,
+  "max" : "MS1"
+}, {
+  "teamName" : "Canisius G. - Merrimack W.",
+  "teamEv" : "Canisius G.",
+  "teamDep" : "Merrimack W.",
+  "detailUrl" : "https://istatistik.nesine.com/2681797",
+  "odds" : {
+    "ms1" : 3.92,
+    "ms2" : 0.0,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 130.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Merrimack W.",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 69,
+    "awayScore" : 51,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Canisius G.",
+    "awayTeam" : "Merrimack W.",
+    "homeScore" : 52,
+    "awayScore" : 60,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 68,
+    "awayScore" : 47,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 66,
+    "awayScore" : 72,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Canisius G.",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 65,
+    "awayScore" : 69,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Canisius G.",
+    "awayTeam" : "Iona",
+    "homeScore" : 63,
+    "awayScore" : 69,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 75,
+    "awayScore" : 60,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Niagara Pur.",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 65,
+    "awayScore" : 56,
+    "matchDate" : "4 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Merrimack W.",
+    "awayTeam" : "Iona",
+    "homeScore" : 68,
+    "awayScore" : 68,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Merrimack W.",
+    "awayTeam" : "Siena Saints",
+    "homeScore" : 66,
+    "awayScore" : 66,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Merrimack W.",
+    "homeScore" : 49,
+    "awayScore" : 56,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Merrimack W.",
+    "awayTeam" : "Marist Red",
+    "homeScore" : 81,
+    "awayScore" : 56,
+    "matchDate" : "13 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Merrimack W.",
+    "homeScore" : 47,
+    "awayScore" : 73,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Merrimack W.",
+    "homeScore" : 70,
+    "awayScore" : 87,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 14,
+  "ms1" : 0.075,
+  "ms2" : 0.7749999999999999,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.6,
+  "alt" : 0.4,
+  "max" : "MS2"
+}, {
+  "teamName" : "Iona - Rider Broncs",
+  "teamEv" : "Iona",
+  "teamDep" : "Rider Broncs",
+  "detailUrl" : "https://istatistik.nesine.com/2681805",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.34,
+    "h1Value" : 0.0,
+    "h2Value" : 11.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 141.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Iona",
+    "homeScore" : 72,
+    "awayScore" : 68,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Iona",
+    "awayTeam" : "Rider Broncs",
+    "homeScore" : 71,
+    "awayScore" : 74,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Iona",
+    "homeScore" : 67,
+    "awayScore" : 73,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Iona",
+    "homeScore" : 78,
+    "awayScore" : 75,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Iona",
+    "awayTeam" : "Rider Broncs",
+    "homeScore" : 94,
+    "awayScore" : 93,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Iona",
+    "homeScore" : 64,
+    "awayScore" : 72,
+    "matchDate" : "20/21",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Merrimack W.",
+    "awayTeam" : "Iona",
+    "homeScore" : 68,
+    "awayScore" : 68,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Iona",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 61,
+    "awayScore" : 61,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Niagara Pur.",
+    "awayTeam" : "Iona",
+    "homeScore" : 70,
+    "awayScore" : 68,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Canisius G.",
+    "awayTeam" : "Iona",
+    "homeScore" : 63,
+    "awayScore" : 69,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Iona",
+    "awayTeam" : "Mount St.",
+    "homeScore" : 76,
+    "awayScore" : 83,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "Iona",
+    "homeScore" : 79,
+    "awayScore" : 72,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 67,
+    "awayScore" : 62,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 66,
+    "awayScore" : 72,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacred Heart",
+    "awayTeam" : "Rider Broncs",
+    "homeScore" : 86,
+    "awayScore" : 75,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Mount St.",
+    "homeScore" : 55,
+    "awayScore" : 65,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Merrimack W.",
+    "homeScore" : 47,
+    "awayScore" : 73,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Marist Red",
+    "awayTeam" : "Rider Broncs",
+    "homeScore" : 81,
+    "awayScore" : 52,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.35000000000000003,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.275,
+  "alt" : 0.725,
+  "max" : "Alt"
+}, {
+  "teamName" : "Penn Quakers - Dartmouth B.",
+  "teamEv" : "Penn Quakers",
+  "teamDep" : "Dartmouth B.",
+  "detailUrl" : "https://istatistik.nesine.com/2682037",
+  "odds" : {
+    "ms1" : 1.13,
+    "ms2" : 2.83,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 74,
+    "awayScore" : 84,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 88,
+    "awayScore" : 75,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 73,
+    "awayScore" : 70,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 69,
+    "awayScore" : 82,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 80,
+    "awayScore" : 51,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 89,
+    "awayScore" : 79,
+    "matchDate" : "22/23",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 74,
+    "awayScore" : 70,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 82,
+    "awayScore" : 76,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Columbia Lio",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 61,
+    "awayScore" : 60,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 81,
+    "awayScore" : 91,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 72,
+    "awayScore" : 67,
+    "matchDate" : "31 Oca",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 63,
+    "awayScore" : 64,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 76,
+    "awayScore" : 79,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Yale",
+    "homeScore" : 70,
+    "awayScore" : 83,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Harvard",
+    "homeScore" : 58,
+    "awayScore" : 71,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 65,
+    "awayScore" : 65,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 83,
+    "awayScore" : 68,
+    "matchDate" : "31 Oca",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.6833333333333333,
+  "ms2" : 0.24166666666666664,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.275,
+  "alt" : 0.725,
+  "max" : "Alt"
+}, {
+  "teamName" : "S.P. Peacock - Manhattan",
+  "teamEv" : "S.P. Peacock",
+  "teamDep" : "Manhattan",
+  "detailUrl" : "https://istatistik.nesine.com/2682318",
+  "odds" : {
+    "ms1" : 1.07,
+    "ms2" : 3.33,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 145.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 75,
+    "awayScore" : 80,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 71,
+    "awayScore" : 71,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "S.P. Peacock",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 67,
+    "awayScore" : 70,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "S.P. Peacock",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 89,
+    "awayScore" : 57,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 68,
+    "awayScore" : 81,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 72,
+    "awayScore" : 63,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Iona",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 61,
+    "awayScore" : 61,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S.P. Peacock",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 83,
+    "awayScore" : 74,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacred Heart",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 78,
+    "awayScore" : 71,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S.P. Peacock",
+    "awayTeam" : "Siena Saints",
+    "homeScore" : 70,
+    "awayScore" : 65,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 75,
+    "awayScore" : 80,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "Marist Red",
+    "homeScore" : 70,
+    "awayScore" : 84,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Canisius G.",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 65,
+    "awayScore" : 69,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Niagara Pur.",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 69,
+    "awayScore" : 76,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "Sacred Heart",
+    "homeScore" : 80,
+    "awayScore" : 68,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 75,
+    "awayScore" : 80,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 72,
+    "awayScore" : 65,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms1" : 0.51,
+  "ms2" : 0.395,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.51,
+  "alt" : 0.49,
+  "max" : "MS1"
+}, {
+  "teamName" : "Fairfield S. - Siena Saints",
+  "teamEv" : "Fairfield S.",
+  "teamDep" : "Siena Saints",
+  "detailUrl" : "https://istatistik.nesine.com/2682460",
+  "odds" : {
+    "ms1" : 1.71,
+    "ms2" : 1.53,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 142.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 85,
+    "awayScore" : 77,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 68,
+    "awayScore" : 64,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Fairfield S.",
+    "awayTeam" : "Siena Saints",
+    "homeScore" : 88,
+    "awayScore" : 64,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 69,
+    "awayScore" : 93,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Quinnipiac B",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 79,
+    "awayScore" : 85,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fairfield S.",
+    "awayTeam" : "Sacred Heart",
+    "homeScore" : 78,
+    "awayScore" : 68,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S.P. Peacock",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 83,
+    "awayScore" : 74,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fairfield S.",
+    "awayTeam" : "Marist Red",
+    "homeScore" : 63,
+    "awayScore" : 60,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacred Heart",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 87,
+    "awayScore" : 92,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fairfield S.",
+    "awayTeam" : "Quinnipiac B",
+    "homeScore" : 65,
+    "awayScore" : 72,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 72,
+    "awayScore" : 63,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Merrimack W.",
+    "awayTeam" : "Siena Saints",
+    "homeScore" : 66,
+    "awayScore" : 66,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Marist Red",
+    "awayTeam" : "Siena Saints",
+    "homeScore" : 63,
+    "awayScore" : 67,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "Quinnipiac B",
+    "homeScore" : 62,
+    "awayScore" : 74,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S.P. Peacock",
+    "awayTeam" : "Siena Saints",
+    "homeScore" : 70,
+    "awayScore" : 65,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Siena Saints",
+    "awayTeam" : "Iona",
+    "homeScore" : 79,
+    "awayScore" : 72,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 16,
+  "ms1" : 0.5,
+  "ms2" : 0.42500000000000004,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.45,
+  "alt" : 0.55,
+  "max" : "Alt"
+}, {
+  "teamName" : "Columbia Lio - Brown Bears",
+  "teamEv" : "Columbia Lio",
+  "teamDep" : "Brown Bears",
+  "detailUrl" : "https://istatistik.nesine.com/2682504",
+  "odds" : {
+    "ms1" : 1.19,
+    "ms2" : 2.47,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 140.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Columbia Lio",
+    "homeScore" : 72,
+    "awayScore" : 72,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Columbia Lio",
+    "homeScore" : 86,
+    "awayScore" : 61,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 74,
+    "awayScore" : 72,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 64,
+    "awayScore" : 66,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Columbia Lio",
+    "homeScore" : 69,
+    "awayScore" : 83,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 73,
+    "awayScore" : 84,
+    "matchDate" : "22/23",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 63,
+    "awayScore" : 64,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Princeton Ti",
+    "awayTeam" : "Columbia Lio",
+    "homeScore" : 65,
+    "awayScore" : 75,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Columbia Lio",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 67,
+    "awayScore" : 88,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 68,
+    "awayScore" : 80,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Penn Quakers",
+    "homeScore" : 72,
+    "awayScore" : 67,
+    "matchDate" : "31 Oca",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 80,
+    "awayScore" : 71,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 76,
+    "awayScore" : 79,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 56,
+    "awayScore" : 53,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 81,
+    "awayScore" : 69,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Dartmouth B.",
+    "homeScore" : 65,
+    "awayScore" : 65,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Harvard",
+    "homeScore" : 59,
+    "awayScore" : 69,
+    "matchDate" : "31 Oca",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.4083333333333333,
+  "ms2" : 0.5,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5333333333333333,
+  "alt" : 0.4666666666666667,
+  "max" : "Üst"
+}, {
+  "teamName" : "Sacred Heart - Mount St.",
+  "teamEv" : "Sacred Heart",
+  "teamDep" : "Mount St.",
+  "detailUrl" : "https://istatistik.nesine.com/2682600",
+  "odds" : {
+    "ms1" : 1.38,
+    "ms2" : 1.95,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 150.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Sacred Heart",
+    "homeScore" : 80,
+    "awayScore" : 87,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Sacred Heart",
+    "homeScore" : 73,
+    "awayScore" : 71,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Marist Red",
+    "awayTeam" : "Sacred Heart",
+    "homeScore" : 65,
+    "awayScore" : 63,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fairfield S.",
+    "awayTeam" : "Sacred Heart",
+    "homeScore" : 78,
+    "awayScore" : 68,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacred Heart",
+    "awayTeam" : "Rider Broncs",
+    "homeScore" : 86,
+    "awayScore" : 75,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacred Heart",
+    "awayTeam" : "S.P. Peacock",
+    "homeScore" : 78,
+    "awayScore" : 71,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Manhattan",
+    "awayTeam" : "Sacred Heart",
+    "homeScore" : 80,
+    "awayScore" : 68,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacred Heart",
+    "awayTeam" : "Fairfield S.",
+    "homeScore" : 87,
+    "awayScore" : 92,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Canisius G.",
+    "homeScore" : 68,
+    "awayScore" : 47,
+    "matchDate" : "22 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Niagara Pur.",
+    "homeScore" : 76,
+    "awayScore" : 63,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rider Broncs",
+    "awayTeam" : "Mount St.",
+    "homeScore" : 55,
+    "awayScore" : 65,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Iona",
+    "awayTeam" : "Mount St.",
+    "homeScore" : 76,
+    "awayScore" : 83,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Merrimack W.",
+    "homeScore" : 70,
+    "awayScore" : 87,
+    "matchDate" : "6 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mount St.",
+    "awayTeam" : "Manhattan",
+    "homeScore" : 72,
+    "awayScore" : 65,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 14,
+  "ms1" : 0.275,
+  "ms2" : 0.725,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.35,
+  "alt" : 0.65,
+  "max" : "MS2"
+}, {
+  "teamName" : "Princeton Ti - Harvard",
+  "teamEv" : "Princeton Ti",
+  "teamDep" : "Harvard",
+  "detailUrl" : "https://istatistik.nesine.com/2683167",
+  "odds" : {
+    "ms1" : 2.21,
+    "ms2" : 1.27,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 129.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 72,
+    "awayScore" : 72,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Princeton Ti",
+    "awayTeam" : "Harvard",
+    "homeScore" : 76,
+    "awayScore" : 71,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 64,
+    "awayScore" : 68,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 53,
+    "awayScore" : 66,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Princeton Ti",
+    "awayTeam" : "Harvard",
+    "homeScore" : 89,
+    "awayScore" : 58,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 56,
+    "awayScore" : 58,
+    "matchDate" : "22/23",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 80,
+    "awayScore" : 71,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Princeton Ti",
+    "awayTeam" : "Columbia Lio",
+    "homeScore" : 65,
+    "awayScore" : 75,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Princeton Ti",
+    "awayTeam" : "Cornell Big",
+    "homeScore" : 65,
+    "awayScore" : 89,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penn Quakers",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 61,
+    "awayScore" : 60,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Columbia Lio",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 68,
+    "awayScore" : 80,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Princeton Ti",
+    "homeScore" : 87,
+    "awayScore" : 64,
+    "matchDate" : "31 Oca",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Cornell Big",
+    "awayTeam" : "Harvard",
+    "homeScore" : 54,
+    "awayScore" : 73,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Yale",
+    "homeScore" : 66,
+    "awayScore" : 66,
+    "matchDate" : "15 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Harvard",
+    "awayTeam" : "Brown Bears",
+    "homeScore" : 56,
+    "awayScore" : 53,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dartmouth B.",
+    "awayTeam" : "Harvard",
+    "homeScore" : 58,
+    "awayScore" : 71,
+    "matchDate" : "8 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yale",
+    "awayTeam" : "Harvard",
+    "homeScore" : 65,
+    "awayScore" : 67,
+    "matchDate" : "1 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brown Bears",
+    "awayTeam" : "Harvard",
+    "homeScore" : 59,
+    "awayScore" : 69,
+    "matchDate" : "31 Oca",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.15833333333333333,
+  "ms2" : 0.75,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5916666666666667,
+  "alt" : 0.4083333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "G.Washinghto - Dayton",
+  "teamEv" : "G.Washinghto",
+  "teamDep" : "Dayton",
+  "detailUrl" : "https://istatistik.nesine.com/2683201",
+  "odds" : {
+    "ms1" : 1.4,
+    "ms2" : 1.91,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Dayton",
+    "awayTeam" : "G.Washinghto",
+    "homeScore" : 79,
+    "awayScore" : 72,
+    "matchDate" : "25/26",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "G.Washinghto",
+    "awayTeam" : "Dayton",
+    "homeScore" : 82,
+    "awayScore" : 62,
+    "matchDate" : "24/25",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dayton",
+    "awayTeam" : "G.Washinghto",
+    "homeScore" : 83,
+    "awayScore" : 61,
+    "matchDate" : "23/24",
+    "tournament" : "NCA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "La Salle",
+    "awayTeam" : "G.Washinghto",
+    "homeScore" : 77,
+    "awayScore" : 104,
+    "matchDate" : "25 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "VCU",
+    "awayTeam" : "G.Washinghto",
+    "homeScore" : 89,
+    "awayScore" : 75,
+    "matchDate" : "18 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "G.Washinghto",
+    "awayTeam" : "George Mason",
+    "homeScore" : 72,
+    "awayScore" : 53,
+    "matchDate" : "14 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "G.Washinghto",
+    "awayTeam" : "Rhode Island",
+    "homeScore" : 75,
+    "awayScore" : 70,
+    "matchDate" : "11 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Duquesne D.",
+    "awayTeam" : "G.Washinghto",
+    "homeScore" : 88,
+    "awayScore" : 86,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Saint Joseph",
+    "awayTeam" : "G.Washinghto",
+    "homeScore" : 76,
+    "awayScore" : 73,
+    "matchDate" : "5 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Dayton",
+    "awayTeam" : "Saint Louis",
+    "homeScore" : 77,
+    "awayScore" : 62,
+    "matchDate" : "25 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dayton",
+    "awayTeam" : "Duquesne D.",
+    "homeScore" : 78,
+    "awayScore" : 66,
+    "matchDate" : "21 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "George Mason",
+    "awayTeam" : "Dayton",
+    "homeScore" : 67,
+    "awayScore" : 82,
+    "matchDate" : "19 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dayton",
+    "awayTeam" : "Davidson",
+    "homeScore" : 70,
+    "awayScore" : 59,
+    "matchDate" : "16 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "VCU",
+    "awayTeam" : "Dayton",
+    "homeScore" : 99,
+    "awayScore" : 73,
+    "matchDate" : "7 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dayton",
+    "awayTeam" : "Bonaventure",
+    "homeScore" : 72,
+    "awayScore" : 70,
+    "matchDate" : "4 Şub",
+    "tournament" : "NCA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "ms1" : 0.33333333333333337,
+  "ms2" : 0.6666666666666667,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.3,
+  "alt" : 0.7,
+  "max" : "Alt"
+} ]
