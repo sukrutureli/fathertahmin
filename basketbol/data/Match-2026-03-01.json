@@ -1,0 +1,621 @@
+[ {
+  "homeTeam" : "Edwardsville",
+  "awayTeam" : "E. Illinois",
+  "homeStats" : {
+    "avgPointsFor" : 65.5,
+    "avgPointsAgainst" : 64.5,
+    "avgTotalPoints" : 130.0,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 69.5,
+    "avgPointsAgainst" : 69.16666666666667,
+    "avgTotalPoints" : 138.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.14,
+    "ms2" : 2.73,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.57,
+    "h2" : 1.67,
+    "hOverUnderValue" : 129.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 67.16666666666667,
+  "avgPointsForAway" : 60.0,
+  "h2hAvgTotalPoints" : 127.16666666666667
+}, {
+  "homeTeam" : "Mercer",
+  "awayTeam" : "E. Tennessee",
+  "homeStats" : {
+    "avgPointsFor" : 73.5,
+    "avgPointsAgainst" : 74.16666666666667,
+    "avgTotalPoints" : 147.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 77.0,
+    "avgPointsAgainst" : 69.16666666666667,
+    "avgTotalPoints" : 146.16666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.52,
+    "ms2" : 1.73,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 150.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 63.333333333333336,
+  "avgPointsForAway" : 66.0,
+  "h2hAvgTotalPoints" : 129.33333333333334
+}, {
+  "homeTeam" : "Saint Leo L.",
+  "awayTeam" : "Embry Ridd.",
+  "homeStats" : {
+    "avgPointsFor" : 71.5,
+    "avgPointsAgainst" : 88.33333333333333,
+    "avgTotalPoints" : 159.83333333333334,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 83.5,
+    "avgPointsAgainst" : 87.16666666666667,
+    "avgTotalPoints" : 170.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.59,
+    "ms2" : 0.0,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 71.6,
+  "avgPointsForAway" : 91.0,
+  "h2hAvgTotalPoints" : 162.6
+}, {
+  "homeTeam" : "Eckerd Tri.",
+  "awayTeam" : "Barry Buccan",
+  "homeStats" : {
+    "avgPointsFor" : 78.5,
+    "avgPointsAgainst" : 82.66666666666667,
+    "avgTotalPoints" : 161.16666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 83.0,
+    "avgPointsAgainst" : 80.83333333333333,
+    "avgTotalPoints" : 163.83333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.31,
+    "ms2" : 2.13,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 157.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 75.4,
+  "avgPointsForAway" : 87.6,
+  "h2hAvgTotalPoints" : 163.0
+}, {
+  "homeTeam" : "Delaware S.",
+  "awayTeam" : "NC Central",
+  "homeStats" : {
+    "avgPointsFor" : 60.0,
+    "avgPointsAgainst" : 73.66666666666667,
+    "avgTotalPoints" : 133.66666666666666,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 69.16666666666667,
+    "avgPointsAgainst" : 76.16666666666667,
+    "avgTotalPoints" : 145.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.91,
+    "ms2" : 1.4,
+    "h1Value" : 2.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 135.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 73.16666666666667,
+  "avgPointsForAway" : 75.33333333333333,
+  "h2hAvgTotalPoints" : 148.5
+}, {
+  "homeTeam" : "Maryland E.",
+  "awayTeam" : "S. Carolina",
+  "homeStats" : {
+    "avgPointsFor" : 61.166666666666664,
+    "avgPointsAgainst" : 69.33333333333333,
+    "avgTotalPoints" : 130.5,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 69.33333333333333,
+    "avgPointsAgainst" : 75.0,
+    "avgTotalPoints" : 144.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.14,
+    "ms2" : 2.81,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 132.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 59.0,
+  "avgPointsForAway" : 69.8,
+  "h2hAvgTotalPoints" : 128.8
+}, {
+  "homeTeam" : "W. Illinois",
+  "awayTeam" : "Lindenwood",
+  "homeStats" : {
+    "avgPointsFor" : 61.5,
+    "avgPointsAgainst" : 75.83333333333333,
+    "avgTotalPoints" : 137.33333333333334,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 69.83333333333333,
+    "avgPointsAgainst" : 75.5,
+    "avgTotalPoints" : 145.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 5.42,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : 0.0,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 149.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 72.2,
+  "avgPointsForAway" : 72.8,
+  "h2hAvgTotalPoints" : 145.0
+}, {
+  "homeTeam" : "Newman Jets",
+  "awayTeam" : "W. Griffons",
+  "homeStats" : {
+    "avgPointsFor" : 66.5,
+    "avgPointsAgainst" : 84.33333333333333,
+    "avgTotalPoints" : 150.83333333333334,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 80.33333333333333,
+    "avgPointsAgainst" : 76.0,
+    "avgTotalPoints" : 156.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.33,
+    "ms2" : 0.0,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 160.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 68.0,
+  "avgPointsForAway" : 88.33333333333333,
+  "h2hAvgTotalPoints" : 156.33333333333334
+}, {
+  "homeTeam" : "Houston B.",
+  "awayTeam" : "S. F. Austin",
+  "homeStats" : {
+    "avgPointsFor" : 61.833333333333336,
+    "avgPointsAgainst" : 65.83333333333333,
+    "avgTotalPoints" : 127.66666666666667,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 76.0,
+    "avgPointsAgainst" : 70.66666666666667,
+    "avgTotalPoints" : 146.66666666666666,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.47,
+    "ms2" : 1.05,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 138.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 74.0,
+  "avgPointsForAway" : 71.33333333333333,
+  "h2hAvgTotalPoints" : 145.33333333333334
+}, {
+  "homeTeam" : "Coppin State",
+  "awayTeam" : "Norfolk S.",
+  "homeStats" : {
+    "avgPointsFor" : 62.5,
+    "avgPointsAgainst" : 63.5,
+    "avgTotalPoints" : 126.0,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 74.66666666666667,
+    "avgPointsAgainst" : 71.66666666666667,
+    "avgTotalPoints" : 146.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.97,
+    "ms2" : 1.11,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 141.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 63.833333333333336,
+  "avgPointsForAway" : 80.83333333333333,
+  "h2hAvgTotalPoints" : 144.66666666666666
+}, {
+  "homeTeam" : "Southeast M.",
+  "awayTeam" : "Tennessee T.",
+  "homeStats" : {
+    "avgPointsFor" : 67.83333333333333,
+    "avgPointsAgainst" : 65.16666666666667,
+    "avgTotalPoints" : 133.0,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 64.16666666666667,
+    "avgPointsAgainst" : 63.333333333333336,
+    "avgTotalPoints" : 127.5,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.08,
+    "ms2" : 3.22,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 141.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 79.16666666666667,
+  "avgPointsForAway" : 76.83333333333333,
+  "h2hAvgTotalPoints" : 156.0
+}, {
+  "homeTeam" : "Alabama A&M",
+  "awayTeam" : "Alabama S.",
+  "homeStats" : {
+    "avgPointsFor" : 71.16666666666667,
+    "avgPointsAgainst" : 70.0,
+    "avgTotalPoints" : 141.16666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 70.0,
+    "avgPointsAgainst" : 66.66666666666667,
+    "avgTotalPoints" : 136.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.52,
+    "ms2" : 1.72,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 143.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 60.6,
+  "avgPointsForAway" : 71.4,
+  "h2hAvgTotalPoints" : 132.0
+}, {
+  "homeTeam" : "South Dakota",
+  "awayTeam" : "Western Colo",
+  "homeStats" : {
+    "avgPointsFor" : 75.5,
+    "avgPointsAgainst" : 91.33333333333333,
+    "avgTotalPoints" : 166.83333333333334,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 79.83333333333333,
+    "avgPointsAgainst" : 81.66666666666667,
+    "avgTotalPoints" : 161.5,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.28,
+    "ms2" : 2.19,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 70.5,
+  "avgPointsForAway" : 67.75,
+  "h2hAvgTotalPoints" : 138.25
+}, {
+  "homeTeam" : "Kennesaw St.",
+  "awayTeam" : "Delaware",
+  "homeStats" : {
+    "avgPointsFor" : 74.5,
+    "avgPointsAgainst" : 76.16666666666667,
+    "avgTotalPoints" : 150.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 71.5,
+    "avgPointsAgainst" : 71.66666666666667,
+    "avgTotalPoints" : 143.16666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.81,
+    "h1Value" : 0.0,
+    "h2Value" : 11.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 141.5,
+    "over" : 1.58,
+    "under" : 1.65
+  },
+  "avgPointsForHome" : 52.0,
+  "avgPointsForAway" : 67.0,
+  "h2hAvgTotalPoints" : 119.0
+}, {
+  "homeTeam" : "New Mexico",
+  "awayTeam" : "Angelo State",
+  "homeStats" : {
+    "avgPointsFor" : 88.66666666666667,
+    "avgPointsAgainst" : 77.5,
+    "avgTotalPoints" : 166.16666666666666,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 65.33333333333333,
+    "avgPointsAgainst" : 61.666666666666664,
+    "avgTotalPoints" : 127.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.36,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 149.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 90.0,
+  "avgPointsForAway" : 76.6,
+  "h2hAvgTotalPoints" : 166.6
+}, {
+  "homeTeam" : "Regis Ranger",
+  "awayTeam" : "Metropolitan",
+  "homeStats" : {
+    "avgPointsFor" : 74.5,
+    "avgPointsAgainst" : 92.33333333333333,
+    "avgTotalPoints" : 166.83333333333334,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 74.16666666666667,
+    "avgPointsAgainst" : 75.66666666666667,
+    "avgTotalPoints" : 149.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.76,
+    "ms2" : 1.14,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 156.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 67.25,
+  "avgPointsForAway" : 75.0,
+  "h2hAvgTotalPoints" : 142.25
+}, {
+  "homeTeam" : "Colorado Chr",
+  "awayTeam" : "Fort Lewis S",
+  "homeStats" : {
+    "avgPointsFor" : 74.5,
+    "avgPointsAgainst" : 70.0,
+    "avgTotalPoints" : 144.5,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 76.83333333333333,
+    "avgPointsAgainst" : 79.83333333333333,
+    "avgTotalPoints" : 156.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.27,
+    "ms2" : 1.25,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 56.0,
+  "avgPointsForAway" : 79.5,
+  "h2hAvgTotalPoints" : 135.5
+}, {
+  "homeTeam" : "Chadron Stat",
+  "awayTeam" : "Westminster",
+  "homeStats" : {
+    "avgPointsFor" : 74.16666666666667,
+    "avgPointsAgainst" : 79.66666666666667,
+    "avgTotalPoints" : 153.83333333333334,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 78.33333333333333,
+    "avgPointsAgainst" : 76.66666666666667,
+    "avgTotalPoints" : 155.0,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.71,
+    "ms2" : 1.53,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 69.5,
+  "avgPointsForAway" : 67.0,
+  "h2hAvgTotalPoints" : 136.5
+}, {
+  "homeTeam" : "San Jose St.",
+  "awayTeam" : "Colorado St.",
+  "homeStats" : {
+    "avgPointsFor" : 75.5,
+    "avgPointsAgainst" : 79.33333333333333,
+    "avgTotalPoints" : 154.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 80.5,
+    "avgPointsAgainst" : 71.5,
+    "avgTotalPoints" : 152.0,
+    "ppg" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.31,
+    "ms2" : 1.07,
+    "h1Value" : 7.5,
+    "h2Value" : 0.0,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 145.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 54.4,
+  "avgPointsForAway" : 71.6,
+  "h2hAvgTotalPoints" : 126.0
+}, {
+  "homeTeam" : "Texas S.",
+  "awayTeam" : "Jackson St.",
+  "homeStats" : {
+    "avgPointsFor" : 75.0,
+    "avgPointsAgainst" : 71.33333333333333,
+    "avgTotalPoints" : 146.33333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 78.5,
+    "avgPointsAgainst" : 78.16666666666667,
+    "avgTotalPoints" : 156.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.17,
+    "ms2" : 2.58,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 73.16666666666667,
+  "avgPointsForAway" : 73.16666666666667,
+  "h2hAvgTotalPoints" : 146.33333333333334
+} ]
