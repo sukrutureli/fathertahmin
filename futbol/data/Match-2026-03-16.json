@@ -1,0 +1,508 @@
+[ {
+  "homeTeam" : "Coritiba",
+  "awayTeam" : "Remo",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 56.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.25,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 42.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.25,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.55,
+    "msX" : 3.11,
+    "ms2" : 4.22,
+    "over25" : 1.71,
+    "under25" : 1.62,
+    "bttsYes" : 1.65,
+    "bttsNo" : 1.68,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Palmeiras",
+  "awayTeam" : "Mirassol",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 78.0,
+    "last5Points" : 15.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 2.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 31.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.45,
+    "msX" : 3.39,
+    "ms2" : 4.51,
+    "over25" : 1.6,
+    "under25" : 1.73,
+    "bttsYes" : 1.62,
+    "bttsNo" : 1.71,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Monarchs",
+  "awayTeam" : "Los Angeles",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 3.1666666666666665,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 71.0,
+    "last5Points" : 13.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 2.1666666666666665,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 3.1666666666666665,
+    "rating100" : 20.0,
+    "last5Points" : 2.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 0.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "Genesis",
+  "awayTeam" : "CD Olimpia",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 2.0,
+    "rating100" : 43.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 45.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.86,
+    "msX" : 3.25,
+    "ms2" : 1.49,
+    "over25" : 1.55,
+    "under25" : 1.68,
+    "bttsYes" : 1.53,
+    "bttsNo" : 1.7,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "C. Nacional",
+  "awayTeam" : "Rubio Nu",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.0,
+    "rating100" : 50.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.3333333333333333,
+    "rating100" : 60.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.65,
+    "msX" : 2.79,
+    "ms2" : 3.63,
+    "over25" : 2.08,
+    "under25" : 1.32,
+    "bttsYes" : 1.86,
+    "bttsNo" : 1.42,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Spokane V.",
+  "awayTeam" : "Union Omaha",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 33.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 0.5,
+    "rating100" : 70.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.91,
+    "msX" : 2.94,
+    "ms2" : 2.66,
+    "over25" : 1.74,
+    "under25" : 1.5,
+    "bttsYes" : 1.57,
+    "bttsNo" : 1.65,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "O. de Safi",
+  "awayTeam" : "W Casablanca",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 35.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.3333333333333335,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 79.0,
+    "last5Points" : 15.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.06,
+    "msX" : 2.68,
+    "ms2" : 1.61,
+    "over25" : 2.31,
+    "under25" : 1.24,
+    "bttsYes" : 2.05,
+    "bttsNo" : 1.33,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Oujda",
+  "awayTeam" : "Moghreb Ath.",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 36.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.5,
+    "rating100" : 50.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.25,
+    "msX" : 2.51,
+    "ms2" : 2.51,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.03,
+    "bttsNo" : 1.34,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "R. B. Mellal",
+  "awayTeam" : "Ben Gueri",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.0,
+    "rating100" : 43.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.5,
+    "rating100" : 24.0,
+    "last5Points" : 3.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 0.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.86,
+    "msX" : 2.58,
+    "ms2" : 3.2,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.09,
+    "bttsNo" : 1.32,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Wydad Temara",
+  "awayTeam" : "Racing Athle",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 43.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 34.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 5,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.8333333333333334,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.6,
+    "msX" : 2.72,
+    "ms2" : 4.06,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.03,
+    "bttsNo" : 1.33,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "LDU Quito",
+  "awayTeam" : "S. Wanderers",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8,
+    "avgGA" : 1.4,
+    "rating100" : 31.0,
+    "last5Points" : 4.0,
+    "last5Count" : 5,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.8,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 0.0,
+    "rating100" : 100.0,
+    "last5Points" : 6.0,
+    "last5Count" : 2,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 3.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.65,
+    "msX" : 2.95,
+    "ms2" : 3.39,
+    "over25" : 1.84,
+    "under25" : 1.44,
+    "bttsYes" : 1.7,
+    "bttsNo" : 1.54,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "River Plate",
+  "awayTeam" : "CA Sarmiento",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 57.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.0,
+    "rating100" : 39.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.29,
+    "msX" : 3.57,
+    "ms2" : 6.62,
+    "over25" : 2.05,
+    "under25" : 1.39,
+    "bttsYes" : 2.27,
+    "bttsNo" : 1.31,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "San Jose",
+  "awayTeam" : "Seattle",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 0.3333333333333333,
+    "rating100" : 94.0,
+    "last5Points" : 18.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 3.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 1.0,
+    "rating100" : 65.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.14,
+    "msX" : 3.2,
+    "ms2" : 2.36,
+    "over25" : 1.52,
+    "under25" : 1.82,
+    "bttsYes" : 1.43,
+    "bttsNo" : 1.98,
+    "mbs" : 2
+  }
+} ]
