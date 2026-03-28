@@ -1,65 +1,5 @@
 [ {
   "algorithm" : "EnsembleModel",
-  "homeTeam" : "Naegohyang",
-  "awayTeam" : "Ho Chi Minh",
-  "pHome" : 0.45319296788983277,
-  "pDraw" : 0.12888589076881302,
-  "pAway" : 0.13622236769160356,
-  "pOver25" : 0.8520893767759233,
-  "pBttsYes" : 0.7284113377045045,
-  "pick" : "Üst",
-  "confidence" : 0.85,
-  "scoreline" : "6-1"
-}, {
-  "algorithm" : "EnsembleModel",
-  "homeTeam" : "Moreton City",
-  "awayTeam" : "E. Suburbs",
-  "pHome" : 0.5431980962065276,
-  "pDraw" : 0.21031357809871204,
-  "pAway" : 0.24648832569476042,
-  "pOver25" : 0.7640899035257389,
-  "pBttsYes" : 0.8249235589404562,
-  "pick" : "Var",
-  "confidence" : 0.82,
-  "scoreline" : "3-1"
-}, {
-  "algorithm" : "EnsembleModel",
-  "homeTeam" : "St George W.",
-  "awayTeam" : "Capalaba",
-  "pHome" : 0.36255088689977444,
-  "pDraw" : 0.3097311024362047,
-  "pAway" : 0.31971801066402095,
-  "pOver25" : 0.5355696697305931,
-  "pBttsYes" : 0.5449027141326281,
-  "pick" : "MS1",
-  "confidence" : 0.36,
-  "scoreline" : "1-1"
-}, {
-  "algorithm" : "EnsembleModel",
-  "homeTeam" : "Maitland",
-  "awayTeam" : "Kahibah",
-  "pHome" : 0.45280831125256604,
-  "pDraw" : 0.24081884009813892,
-  "pAway" : 0.3063728486492951,
-  "pOver25" : 0.7056072196500132,
-  "pBttsYes" : 0.802527541211474,
-  "pick" : "Var",
-  "confidence" : 0.8,
-  "scoreline" : "2-1"
-}, {
-  "algorithm" : "EnsembleModel",
-  "homeTeam" : "Yenisey K.",
-  "awayTeam" : "UFA",
-  "pHome" : 0.49240739308814074,
-  "pDraw" : 0.2452477749381572,
-  "pAway" : 0.26234483197370206,
-  "pOver25" : 0.3722857993796411,
-  "pBttsYes" : 0.4877653534254136,
-  "pick" : "Alt",
-  "confidence" : 0.63,
-  "scoreline" : "1-0"
-}, {
-  "algorithm" : "EnsembleModel",
   "homeTeam" : "W. Adelaide",
   "awayTeam" : "Campbelltown",
   "pHome" : 0.44356358318453504,
@@ -240,18 +180,6 @@
   "scoreline" : "1-1"
 }, {
   "algorithm" : "EnsembleModel",
-  "homeTeam" : "İtalya",
-  "awayTeam" : "Polonya",
-  "pHome" : 0.6662520593613217,
-  "pDraw" : 0.16885432283540797,
-  "pAway" : 0.16489361780327028,
-  "pOver25" : 0.6214825700643735,
-  "pBttsYes" : 0.5986306682551155,
-  "pick" : "MS1",
-  "confidence" : 0.67,
-  "scoreline" : "3-0"
-}, {
-  "algorithm" : "EnsembleModel",
   "homeTeam" : "İngiltere",
   "awayTeam" : "Polonya",
   "pHome" : 0.6509256593032301,
@@ -393,5 +321,77 @@
   "pBttsYes" : 0.48710438532555544,
   "pick" : "Alt",
   "confidence" : 0.66,
+  "scoreline" : "0-1"
+}, {
+  "algorithm" : "EnsembleModel",
+  "homeTeam" : "Haverford.",
+  "awayTeam" : "Briton Ferry",
+  "pHome" : 0.42241953691061995,
+  "pDraw" : 0.26853860070601776,
+  "pAway" : 0.3090418623833623,
+  "pOver25" : 0.28773387748471907,
+  "pBttsYes" : 0.46670622007350027,
+  "pick" : "Alt",
+  "confidence" : 0.71,
+  "scoreline" : "1-0"
+}, {
+  "algorithm" : "EnsembleModel",
+  "homeTeam" : "Harrogate",
+  "awayTeam" : "Notts County",
+  "pHome" : 0.2632272816849976,
+  "pDraw" : 0.23364722442173647,
+  "pAway" : 0.503125493893266,
+  "pOver25" : 0.45866560553639857,
+  "pBttsYes" : 0.5637396428217173,
+  "pick" : "Var",
+  "confidence" : 0.56,
+  "scoreline" : "0-1"
+}, {
+  "algorithm" : "EnsembleModel",
+  "homeTeam" : "Söke 1970 SK",
+  "awayTeam" : "Afyon",
+  "pHome" : 0.3544022485247095,
+  "pDraw" : 0.25866668089776845,
+  "pAway" : 0.38693107057752213,
+  "pOver25" : 0.3432825024807262,
+  "pBttsYes" : 0.42927665833677264,
+  "pick" : "Alt",
+  "confidence" : 0.66,
+  "scoreline" : "0-1"
+}, {
+  "algorithm" : "EnsembleModel",
+  "homeTeam" : "Gütersloh",
+  "awayTeam" : "Bonner",
+  "pHome" : 0.40162320616109576,
+  "pDraw" : 0.27248715897469145,
+  "pAway" : 0.32588963486421274,
+  "pOver25" : 0.28771156201367976,
+  "pBttsYes" : 0.39873724432615293,
+  "pick" : "Alt",
+  "confidence" : 0.71,
+  "scoreline" : "1-1"
+}, {
+  "algorithm" : "EnsembleModel",
+  "homeTeam" : "Fortuna Dus.",
+  "awayTeam" : "Fortuna Köln",
+  "pHome" : 0.2512128563746693,
+  "pDraw" : 0.22801326652600068,
+  "pAway" : 0.52077387709933,
+  "pOver25" : 0.44134644992727856,
+  "pBttsYes" : 0.6189237228259861,
+  "pick" : "Var",
+  "confidence" : 0.62,
+  "scoreline" : "0-1"
+}, {
+  "algorithm" : "EnsembleModel",
+  "homeTeam" : "TSV Aubstadt",
+  "awayTeam" : "Ansbach",
+  "pHome" : 0.29162034147385396,
+  "pDraw" : 0.24934737411381203,
+  "pAway" : 0.4590322844123341,
+  "pOver25" : 0.2803933012482168,
+  "pBttsYes" : 0.40616187957172034,
+  "pick" : "Alt",
+  "confidence" : 0.72,
   "scoreline" : "0-1"
 } ]

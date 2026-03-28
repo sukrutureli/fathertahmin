@@ -1,84 +1,4 @@
 [ {
-  "name" : "Naegohyang (K) - Ho Chi Minh (K)",
-  "time" : "11:00",
-  "detailUrl" : "https://istatistik.nesine.com/2756654",
-  "odds" : {
-    "ms1" : 0.0,
-    "msX" : 8.52,
-    "ms2" : 11.45,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.99,
-    "bttsNo" : 1.36,
-    "mbs" : 3
-  },
-  "index" : 0,
-  "mbs" : 0
-}, {
-  "name" : "Moreton City E. - Suburbs Bri.",
-  "time" : "11:00",
-  "detailUrl" : "https://istatistik.nesine.com/2756392",
-  "odds" : {
-    "ms1" : 1.5,
-    "msX" : 3.92,
-    "ms2" : 3.15,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.15,
-    "bttsNo" : 2.7,
-    "mbs" : 2
-  },
-  "index" : 1,
-  "mbs" : 0
-}, {
-  "name" : "ST George Willawong - Capalaba Bull.",
-  "time" : "11:00",
-  "detailUrl" : "https://istatistik.nesine.com/2756614",
-  "odds" : {
-    "ms1" : 0.0,
-    "msX" : 0.0,
-    "ms2" : 0.0,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 0.0,
-    "bttsNo" : 0.0,
-    "mbs" : -1
-  },
-  "index" : 2,
-  "mbs" : 0
-}, {
-  "name" : "Maitland - Kahibah",
-  "time" : "11:00",
-  "detailUrl" : "https://istatistik.nesine.com/2755778",
-  "odds" : {
-    "ms1" : 1.36,
-    "msX" : 3.97,
-    "ms2" : 3.98,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.22,
-    "bttsNo" : 2.37,
-    "mbs" : 2
-  },
-  "index" : 3,
-  "mbs" : 0
-}, {
-  "name" : "Y. Krasnoyarsk - Ufa",
-  "time" : "11:00",
-  "detailUrl" : "https://istatistik.nesine.com/2805423",
-  "odds" : {
-    "ms1" : 1.86,
-    "msX" : 2.65,
-    "ms2" : 3.07,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.92,
-    "bttsNo" : 1.39,
-    "mbs" : 3
-  },
-  "index" : 4,
-  "mbs" : 0
-}, {
   "name" : "West Adelaide - Campbelltown C.",
   "time" : "11:30",
   "detailUrl" : "https://istatistik.nesine.com/2756802",
@@ -92,7 +12,7 @@
     "bttsNo" : 2.46,
     "mbs" : 2
   },
-  "index" : 5,
+  "index" : 0,
   "mbs" : 0
 }, {
   "name" : "Ukrayna U19 - Kazakistan U19",
@@ -108,7 +28,7 @@
     "bttsNo" : 1.39,
     "mbs" : 2
   },
-  "index" : 6,
+  "index" : 1,
   "mbs" : 0
 }, {
   "name" : "Queensland L. - Brisbane City",
@@ -124,7 +44,7 @@
     "bttsNo" : 2.41,
     "mbs" : 2
   },
-  "index" : 7,
+  "index" : 2,
   "mbs" : 0
 }, {
   "name" : "Olympic - G. Coast Knights",
@@ -140,7 +60,7 @@
     "bttsNo" : 2.12,
     "mbs" : 2
   },
-  "index" : 8,
+  "index" : 3,
   "mbs" : 0
 }, {
   "name" : "S. Bratislava B - Liptovsky Mikulas",
@@ -156,7 +76,7 @@
     "bttsNo" : 2.02,
     "mbs" : 3
   },
-  "index" : 9,
+  "index" : 4,
   "mbs" : 0
 }, {
   "name" : "Dianella White E. - Bayswater",
@@ -172,7 +92,7 @@
     "bttsNo" : 2.0,
     "mbs" : 2
   },
-  "index" : 10,
+  "index" : 5,
   "mbs" : 0
 }, {
   "name" : "L. Las Planas (K) - Alh. Femenino (K)",
@@ -188,7 +108,7 @@
     "bttsNo" : 1.36,
     "mbs" : 3
   },
-  "index" : 11,
+  "index" : 6,
   "mbs" : 0
 }, {
   "name" : "Salerm Puente Genil - Y. Deportivo",
@@ -204,7 +124,7 @@
     "bttsNo" : 1.34,
     "mbs" : 3
   },
-  "index" : 12,
+  "index" : 7,
   "mbs" : 0
 }, {
   "name" : "Valencia M. - Terrassa",
@@ -220,7 +140,7 @@
     "bttsNo" : 1.58,
     "mbs" : 3
   },
-  "index" : 13,
+  "index" : 8,
   "mbs" : 0
 }, {
   "name" : "Bandari - Bidco Utd",
@@ -236,7 +156,7 @@
     "bttsNo" : 1.28,
     "mbs" : 3
   },
-  "index" : 14,
+  "index" : 9,
   "mbs" : 0
 }, {
   "name" : "Aps Bomet - Nairobi Utd",
@@ -252,7 +172,7 @@
     "bttsNo" : 1.35,
     "mbs" : 3
   },
-  "index" : 15,
+  "index" : 10,
   "mbs" : 0
 }, {
   "name" : "Fransa U19 - Macaristan U19",
@@ -268,7 +188,7 @@
     "bttsNo" : 1.74,
     "mbs" : 3
   },
-  "index" : 16,
+  "index" : 11,
   "mbs" : 0
 }, {
   "name" : "İngiltere U19 - İspanya U19",
@@ -284,7 +204,7 @@
     "bttsNo" : 2.15,
     "mbs" : 3
   },
-  "index" : 17,
+  "index" : 12,
   "mbs" : 0
 }, {
   "name" : "Norveç U19 - Lüksemburg U19",
@@ -300,11 +220,11 @@
     "bttsNo" : 1.56,
     "mbs" : 3
   },
-  "index" : 18,
+  "index" : 13,
   "mbs" : 0
 }, {
   "name" : "Finlandiya U19 - Estonya U19",
-  "time" : "14:00",
+  "time" : "",
   "detailUrl" : "https://istatistik.nesine.com/2838484",
   "odds" : {
     "ms1" : 1.27,
@@ -316,23 +236,7 @@
     "bttsNo" : 1.57,
     "mbs" : 3
   },
-  "index" : 19,
-  "mbs" : 0
-}, {
-  "name" : "İtalya U19 - Polonya U19",
-  "time" : "14:00",
-  "detailUrl" : "https://istatistik.nesine.com/2839071",
-  "odds" : {
-    "ms1" : 1.29,
-    "msX" : 3.72,
-    "ms2" : 5.15,
-    "over25" : 1.53,
-    "under25" : 1.7,
-    "bttsYes" : 1.66,
-    "bttsNo" : 1.56,
-    "mbs" : 3
-  },
-  "index" : 20,
+  "index" : 14,
   "mbs" : 0
 }, {
   "name" : "İngiltere U19 - Polonya U19",
@@ -348,7 +252,7 @@
     "bttsNo" : 1.77,
     "mbs" : 2
   },
-  "index" : 21,
+  "index" : 15,
   "mbs" : 0
 }, {
   "name" : "Hırvatistan U19 - Norveç U19",
@@ -364,7 +268,7 @@
     "bttsNo" : 1.82,
     "mbs" : 2
   },
-  "index" : 22,
+  "index" : 16,
   "mbs" : 0
 }, {
   "name" : "Avusturya U19 - İsveç U19",
@@ -380,7 +284,7 @@
     "bttsNo" : 1.75,
     "mbs" : 2
   },
-  "index" : 23,
+  "index" : 17,
   "mbs" : 0
 }, {
   "name" : "Çin U23 - Kuzey Kore U23",
@@ -396,7 +300,7 @@
     "bttsNo" : 1.58,
     "mbs" : 2
   },
-  "index" : 24,
+  "index" : 18,
   "mbs" : 0
 }, {
   "name" : "Ishoej IF - VSK Aarhus",
@@ -412,7 +316,7 @@
     "bttsNo" : 1.7,
     "mbs" : 3
   },
-  "index" : 25,
+  "index" : 19,
   "mbs" : 0
 }, {
   "name" : "Namibya - Komorlar",
@@ -428,7 +332,7 @@
     "bttsNo" : 1.51,
     "mbs" : 3
   },
-  "index" : 26,
+  "index" : 20,
   "mbs" : 0
 }, {
   "name" : "Everton (K) - Liverpool (K)",
@@ -444,7 +348,7 @@
     "bttsNo" : 1.71,
     "mbs" : 3
   },
-  "index" : 27,
+  "index" : 21,
   "mbs" : 0
 }, {
   "name" : "KCB Nairobi - Mara Sugar",
@@ -460,7 +364,7 @@
     "bttsNo" : 1.38,
     "mbs" : 3
   },
-  "index" : 28,
+  "index" : 22,
   "mbs" : 0
 }, {
   "name" : "FK Tauras Taurage - Dfk Dainava",
@@ -476,7 +380,7 @@
     "bttsNo" : 1.86,
     "mbs" : 3
   },
-  "index" : 29,
+  "index" : 23,
   "mbs" : 0
 }, {
   "name" : "Budaorsi - SC Sopron",
@@ -492,7 +396,7 @@
     "bttsNo" : 1.98,
     "mbs" : 3
   },
-  "index" : 30,
+  "index" : 24,
   "mbs" : 0
 }, {
   "name" : "Volga Ulyan. - Spartak Kostroma",
@@ -508,7 +412,7 @@
     "bttsNo" : 1.55,
     "mbs" : 3
   },
-  "index" : 31,
+  "index" : 25,
   "mbs" : 0
 }, {
   "name" : "Lyseng IF - Bk Frem",
@@ -522,6 +426,102 @@
     "under25" : 1.5,
     "bttsYes" : 1.67,
     "bttsNo" : 1.56,
+    "mbs" : 3
+  },
+  "index" : 26,
+  "mbs" : 0
+}, {
+  "name" : "Haverfordwest C. - Briton Ferry",
+  "time" : "15:30",
+  "detailUrl" : "https://istatistik.nesine.com/2755854",
+  "odds" : {
+    "ms1" : 1.65,
+    "msX" : 3.07,
+    "ms2" : 3.26,
+    "over25" : 1.5,
+    "under25" : 1.75,
+    "bttsYes" : 1.43,
+    "bttsNo" : 1.85,
+    "mbs" : 3
+  },
+  "index" : 27,
+  "mbs" : 0
+}, {
+  "name" : "Harrogate - Notts County",
+  "time" : "15:30",
+  "detailUrl" : "https://istatistik.nesine.com/2758588",
+  "odds" : {
+    "ms1" : 3.25,
+    "msX" : 3.02,
+    "ms2" : 1.67,
+    "over25" : 1.61,
+    "under25" : 1.62,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.73,
+    "mbs" : 2
+  },
+  "index" : 28,
+  "mbs" : 0
+}, {
+  "name" : "Söke 1970 SK - Afyonspor K.",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2758579",
+  "odds" : {
+    "ms1" : 1.48,
+    "msX" : 3.58,
+    "ms2" : 4.01,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : 3
+  },
+  "index" : 29,
+  "mbs" : 0
+}, {
+  "name" : "Gutersloh 2000 - Bonner",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2756639",
+  "odds" : {
+    "ms1" : 1.85,
+    "msX" : 3.05,
+    "ms2" : 2.7,
+    "over25" : 1.49,
+    "under25" : 1.76,
+    "bttsYes" : 1.4,
+    "bttsNo" : 1.9,
+    "mbs" : 3
+  },
+  "index" : 30,
+  "mbs" : 0
+}, {
+  "name" : "F. Düsseldorf II - Fortuna Köln",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2805417",
+  "odds" : {
+    "ms1" : 5.0,
+    "msX" : 3.51,
+    "ms2" : 1.33,
+    "over25" : 1.52,
+    "under25" : 1.72,
+    "bttsYes" : 1.61,
+    "bttsNo" : 1.62,
+    "mbs" : 3
+  },
+  "index" : 31,
+  "mbs" : 0
+}, {
+  "name" : "TSV Aubstadt - Ansbach",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2755745",
+  "odds" : {
+    "ms1" : 1.76,
+    "msX" : 3.16,
+    "ms2" : 2.8,
+    "over25" : 1.53,
+    "under25" : 1.7,
+    "bttsYes" : 1.45,
+    "bttsNo" : 1.81,
     "mbs" : 3
   },
   "index" : 32,
