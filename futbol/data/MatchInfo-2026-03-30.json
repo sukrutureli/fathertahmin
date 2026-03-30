@@ -1,18 +1,450 @@
 [ {
   "name" : "Yeni Zelanda - Şili",
-  "time" : "09:00",
-  "detailUrl" : "https://istatistik.nesine.com/2838545",
+  "time" : "09:15",
+  "detailUrl" : "nesine://match/12019816",
+  "odds" : {
+    "ms1" : 50.153,
+    "msX" : 0.0,
+    "ms2" : 50.153,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 0,
+  "mbs" : 0
+}, {
+  "name" : "Arsenal U21 - West Bromwich Albion U21",
+  "time" : "16:00",
+  "detailUrl" : "nesine://match/11955105",
   "odds" : {
     "ms1" : 0.0,
     "msX" : 0.0,
     "ms2" : 0.0,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.83,
-    "bttsNo" : 1.44,
-    "mbs" : 3
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
   },
-  "index" : 0,
+  "index" : 1,
+  "mbs" : 0
+}, {
+  "name" : "Leeds United U21 - Manchester United U21",
+  "time" : "14:30",
+  "detailUrl" : "nesine://match/11955178",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 2,
+  "mbs" : 0
+}, {
+  "name" : "Vikingur - HB Torshavn",
+  "time" : "21:00",
+  "detailUrl" : "nesine://match/11999001",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 3,
+  "mbs" : 0
+}, {
+  "name" : "Newcastle Olympic - Adamstown Rosebuds",
+  "time" : "12:00",
+  "detailUrl" : "nesine://match/12008671",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 4,
+  "mbs" : 0
+}, {
+  "name" : "Hereford - Macclesfield FC",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11935625",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 5,
+  "mbs" : 0
+}, {
+  "name" : "Alfreton Town - Chorley",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11935846",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 6,
+  "mbs" : 0
+}, {
+  "name" : "Weston Super Mare - Hemel Hempstead Town",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11936400",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 7,
+  "mbs" : 0
+}, {
+  "name" : "Maidenhead United - Bath City",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11936358",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 8,
+  "mbs" : 0
+}, {
+  "name" : "Spennymoor Town - Kidderminster Harriers",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11935867",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 9,
+  "mbs" : 0
+}, {
+  "name" : "Denbigh Town - Holyhead Hotspur",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11922056",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 10,
+  "mbs" : 0
+}, {
+  "name" : "Wealdstone - Hartlepool United",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11935375",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 11,
+  "mbs" : 0
+}, {
+  "name" : "AFC Fylde - Marine",
+  "time" : "21:45",
+  "detailUrl" : "nesine://match/11935848",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 12,
+  "mbs" : 0
+}, {
+  "name" : "Sag Lomas B - CA Lanus",
+  "time" : "00:00",
+  "detailUrl" : "nesine://match/4117854",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 13,
+  "mbs" : 0
+}, {
+  "name" : "Queanbeyan City - Canberra Croatia",
+  "time" : "07:00",
+  "detailUrl" : "nesine://match/12019925",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 14,
+  "mbs" : 0
+}, {
+  "name" : "Gulf United FC U21 - Shabab Al Ahli U21",
+  "time" : "16:45",
+  "detailUrl" : "nesine://match/12020438",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 15,
+  "mbs" : 0
+}, {
+  "name" : "Al Wasl U21 - Al Jazira U21",
+  "time" : "16:45",
+  "detailUrl" : "nesine://match/12020440",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 16,
+  "mbs" : 0
+}, {
+  "name" : "Al Sharjah U21 - Emirates U21",
+  "time" : "16:45",
+  "detailUrl" : "nesine://match/12020439",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 17,
+  "mbs" : 0
+}, {
+  "name" : "Orlando Pirates B - Leruma United",
+  "time" : "16:00",
+  "detailUrl" : "nesine://match/12020437",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 18,
+  "mbs" : 0
+}, {
+  "name" : "Al-Kawkab - Al-Saqer FC",
+  "time" : "15:45",
+  "detailUrl" : "nesine://match/12020432",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 19,
+  "mbs" : 0
+}, {
+  "name" : "EV Zug - HC Davos",
+  "time" : "21:00",
+  "detailUrl" : "nesine://match/8194095",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 20,
+  "mbs" : 0
+}, {
+  "name" : "Soto, Matias - Artnak, Bor",
+  "time" : "20:00",
+  "detailUrl" : "nesine://match/70377102",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 21,
+  "mbs" : 0
+}, {
+  "name" : "ZSC Lions - HC Lugano",
+  "time" : "21:00",
+  "detailUrl" : "nesine://match/8194088",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 22,
+  "mbs" : 0
+}, {
+  "name" : "Leksand Stars - HV71",
+  "time" : "20:00",
+  "detailUrl" : "nesine://match/8194089",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 23,
+  "mbs" : 0
+}, {
+  "name" : "Trinec - Mountfield",
+  "time" : "16:00",
+  "detailUrl" : "nesine://match/8194090",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 24,
+  "mbs" : 0
+}, {
+  "name" : "Nava, Emilio - Navone, Mariano",
+  "time" : "10:00",
+  "detailUrl" : "nesine://match/70370722",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 25,
+  "mbs" : 0
+}, {
+  "name" : "LLANEROS FC - CD ONCE CALDAS",
+  "time" : "04:30",
+  "detailUrl" : "nesine://match/367698034",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 26,
+  "mbs" : 0
+}, {
+  "name" : "Wqf1 - Wqf2",
+  "time" : "23:05",
+  "detailUrl" : "nesine://match/70035512",
+  "odds" : {
+    "ms1" : 45.403,
+    "msX" : 0.0,
+    "ms2" : 45.403,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  },
+  "index" : 27,
   "mbs" : 0
 }, {
   "name" : "ST Kitts ve Nevis - Solomon Adaları",
@@ -28,23 +460,23 @@
     "bttsNo" : 2.0,
     "mbs" : 3
   },
-  "index" : 1,
+  "index" : 28,
   "mbs" : 0
 }, {
   "name" : "Melbourne V. Gençler - Langwarrin SC",
   "time" : "12:30",
   "detailUrl" : "https://istatistik.nesine.com/2757953",
   "odds" : {
-    "ms1" : 1.63,
-    "msX" : 3.62,
-    "ms2" : 2.86,
+    "ms1" : 1.61,
+    "msX" : 3.6,
+    "ms2" : 2.95,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 1.16,
-    "bttsNo" : 2.65,
+    "bttsNo" : 2.64,
     "mbs" : 3
   },
-  "index" : 2,
+  "index" : 29,
   "mbs" : 0
 }, {
   "name" : "Trinidad & T. - Gabon",
@@ -60,7 +492,7 @@
     "bttsNo" : 1.66,
     "mbs" : 2
   },
-  "index" : 3,
+  "index" : 30,
   "mbs" : 0
 }, {
   "name" : "Swansea U21 - Barnsley U21",
@@ -76,7 +508,7 @@
     "bttsNo" : 2.65,
     "mbs" : 3
   },
-  "index" : 4,
+  "index" : 31,
   "mbs" : 0
 }, {
   "name" : "AL Talaba - AL Naft",
@@ -92,23 +524,23 @@
     "bttsNo" : 1.38,
     "mbs" : 3
   },
-  "index" : 5,
+  "index" : 32,
   "mbs" : 0
 }, {
   "name" : "Bournemouth U21 - Crewe Alexandra U21",
   "time" : "15:00",
   "detailUrl" : "https://istatistik.nesine.com/2758172",
   "odds" : {
-    "ms1" : 1.05,
-    "msX" : 6.18,
-    "ms2" : 7.98,
+    "ms1" : 1.06,
+    "msX" : 6.09,
+    "ms2" : 7.6,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.27,
-    "bttsNo" : 2.21,
+    "bttsYes" : 1.26,
+    "bttsNo" : 2.26,
     "mbs" : 3
   },
-  "index" : 6,
+  "index" : 33,
   "mbs" : 0
 }, {
   "name" : "Endonezya - Bulgaristan",
@@ -124,7 +556,7 @@
     "bttsNo" : 1.79,
     "mbs" : 3
   },
-  "index" : 7,
+  "index" : 34,
   "mbs" : 0
 }, {
   "name" : "Özbekistan - Venezuela",
@@ -140,55 +572,55 @@
     "bttsNo" : 1.63,
     "mbs" : 2
   },
-  "index" : 8,
+  "index" : 35,
   "mbs" : 0
 }, {
   "name" : "Grenada - Kenya",
   "time" : "17:00",
   "detailUrl" : "https://istatistik.nesine.com/2845728",
   "odds" : {
-    "ms1" : 8.81,
-    "msX" : 4.66,
+    "ms1" : 9.11,
+    "msX" : 4.77,
     "ms2" : 1.09,
     "over25" : 1.5,
     "under25" : 1.75,
-    "bttsYes" : 1.98,
-    "bttsNo" : 1.37,
+    "bttsYes" : 2.01,
+    "bttsNo" : 1.35,
     "mbs" : 3
   },
-  "index" : 9,
+  "index" : 36,
   "mbs" : 0
 }, {
   "name" : "Duhok - Zakho",
   "time" : "17:30",
   "detailUrl" : "https://istatistik.nesine.com/2845603",
   "odds" : {
-    "ms1" : 2.33,
-    "msX" : 2.57,
-    "ms2" : 2.38,
+    "ms1" : 2.39,
+    "msX" : 2.4,
+    "ms2" : 2.47,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.85,
+    "bttsYes" : 1.82,
     "bttsNo" : 1.44,
     "mbs" : 3
   },
-  "index" : 10,
+  "index" : 37,
   "mbs" : 0
 }, {
   "name" : "AL Mosul SC - AL Kahraba",
   "time" : "17:30",
   "detailUrl" : "https://istatistik.nesine.com/2845758",
   "odds" : {
-    "ms1" : 1.96,
-    "msX" : 2.65,
-    "ms2" : 2.84,
+    "ms1" : 2.03,
+    "msX" : 2.54,
+    "ms2" : 2.83,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.86,
-    "bttsNo" : 1.42,
+    "bttsYes" : 1.85,
+    "bttsNo" : 1.43,
     "mbs" : 3
   },
-  "index" : 11,
+  "index" : 38,
   "mbs" : 0
 }, {
   "name" : "AL Karkh - AL Minaa",
@@ -204,23 +636,23 @@
     "bttsNo" : 1.48,
     "mbs" : 3
   },
-  "index" : 12,
+  "index" : 39,
   "mbs" : 0
 }, {
-  "name" : "Sunderland U21 - Reading U21",
-  "time" : "21:00",
-  "detailUrl" : "https://istatistik.nesine.com/2759044",
+  "name" : "Azerbaycan - Sierra Leone",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2843039",
   "odds" : {
-    "ms1" : 1.55,
-    "msX" : 3.58,
-    "ms2" : 3.18,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.27,
-    "bttsNo" : 2.23,
+    "ms1" : 1.44,
+    "msX" : 3.14,
+    "ms2" : 4.48,
+    "over25" : 1.99,
+    "under25" : 1.36,
+    "bttsYes" : 1.96,
+    "bttsNo" : 1.38,
     "mbs" : 3
   },
-  "index" : 13,
+  "index" : 40,
   "mbs" : 0
 }, {
   "name" : "Al Mokawloon - ZED",
@@ -236,7 +668,7 @@
     "bttsNo" : 1.4,
     "mbs" : 2
   },
-  "index" : 14,
+  "index" : 41,
   "mbs" : 0
 }, {
   "name" : "CA Juventud De Las Piedras - Boston River",
@@ -252,7 +684,7 @@
     "bttsNo" : 1.47,
     "mbs" : 3
   },
-  "index" : 15,
+  "index" : 42,
   "mbs" : 0
 }, {
   "name" : "Cwmbran Celtic - Trefelin",
@@ -268,7 +700,7 @@
     "bttsNo" : 1.37,
     "mbs" : 3
   },
-  "index" : 16,
+  "index" : 43,
   "mbs" : 0
 }, {
   "name" : "Amanat Baghdad SC - AL Karma",
@@ -284,7 +716,7 @@
     "bttsNo" : 1.52,
     "mbs" : 3
   },
-  "index" : 17,
+  "index" : 44,
   "mbs" : 0
 }, {
   "name" : "SS Arezzo - Ascoli",
@@ -300,23 +732,23 @@
     "bttsNo" : 1.5,
     "mbs" : 2
   },
-  "index" : 18,
+  "index" : 45,
   "mbs" : 0
 }, {
   "name" : "Casertana - Sorrento",
   "time" : "21:30",
   "detailUrl" : "https://istatistik.nesine.com/2759047",
   "odds" : {
-    "ms1" : 1.47,
-    "msX" : 3.13,
-    "ms2" : 4.19,
-    "over25" : 1.72,
-    "under25" : 1.52,
-    "bttsYes" : 1.68,
-    "bttsNo" : 1.55,
+    "ms1" : 1.38,
+    "msX" : 3.32,
+    "ms2" : 4.75,
+    "over25" : 1.68,
+    "under25" : 1.55,
+    "bttsYes" : 1.73,
+    "bttsNo" : 1.51,
     "mbs" : 2
   },
-  "index" : 19,
+  "index" : 46,
   "mbs" : 0
 }, {
   "name" : "Almanya - Gana",
@@ -324,15 +756,15 @@
   "detailUrl" : "https://istatistik.nesine.com/2759045",
   "odds" : {
     "ms1" : 0.0,
-    "msX" : 6.51,
-    "ms2" : 10.55,
-    "over25" : 1.21,
-    "under25" : 2.67,
-    "bttsYes" : 1.67,
-    "bttsNo" : 1.65,
+    "msX" : 6.9,
+    "ms2" : 11.8,
+    "over25" : 1.2,
+    "under25" : 2.73,
+    "bttsYes" : 1.71,
+    "bttsNo" : 1.62,
     "mbs" : 1
   },
-  "index" : 20,
+  "index" : 47,
   "mbs" : 0
 }, {
   "name" : "Chelmsford C. - AFC Totton",
@@ -348,6 +780,22 @@
     "bttsNo" : 1.72,
     "mbs" : 3
   },
-  "index" : 21,
+  "index" : 48,
+  "mbs" : 0
+}, {
+  "name" : "Defensores B. - Atl De Rafaela",
+  "time" : "22:00",
+  "detailUrl" : "https://istatistik.nesine.com/2758408",
+  "odds" : {
+    "ms1" : 1.89,
+    "msX" : 2.38,
+    "ms2" : 3.46,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.31,
+    "bttsNo" : 1.24,
+    "mbs" : 3
+  },
+  "index" : 49,
   "mbs" : 0
 } ]
