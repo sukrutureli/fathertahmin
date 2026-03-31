@@ -67,9 +67,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 36.713,
+    "ms1" : 0.0,
     "msX" : 0.0,
-    "ms2" : 36.713,
+    "ms2" : 0.0,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -106,9 +106,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 10.4,
+    "ms1" : 0.0,
     "msX" : 0.0,
-    "ms2" : 10.4,
+    "ms2" : 0.0,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -145,9 +145,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 19.616,
+    "ms1" : 0.0,
     "msX" : 0.0,
-    "ms2" : 19.616,
+    "ms2" : 0.0,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -184,9 +184,1062 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 15.158,
+    "ms1" : 0.0,
     "msX" : 0.0,
-    "ms2" : 15.158,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 28.969,
+    "msX" : 0.0,
+    "ms2" : 28.969,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 49.598,
+    "msX" : 0.0,
+    "ms2" : 49.598,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 29.096,
+    "msX" : 0.0,
+    "ms2" : 29.096,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 17.196,
+    "msX" : 0.0,
+    "ms2" : 17.196,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 50.202,
+    "msX" : 0.0,
+    "ms2" : 50.202,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 8.966,
+    "msX" : 0.0,
+    "ms2" : 8.966,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 8.928,
+    "msX" : 0.0,
+    "ms2" : 8.928,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 35.509,
+    "msX" : 0.0,
+    "ms2" : 35.509,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 16.939,
+    "msX" : 0.0,
+    "ms2" : 16.939,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.11,
+    "msX" : 0.0,
+    "ms2" : 4.11,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 35.752,
+    "msX" : 0.0,
+    "ms2" : 35.752,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 36.877,
+    "msX" : 0.0,
+    "ms2" : 36.877,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 51.534,
+    "msX" : 0.0,
+    "ms2" : 51.534,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 35.115,
+    "msX" : 0.0,
+    "ms2" : 35.115,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 28.93,
+    "msX" : 0.0,
+    "ms2" : 28.93,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 9.014,
+    "msX" : 0.0,
+    "ms2" : 9.014,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 48.935,
+    "msX" : 0.0,
+    "ms2" : 48.935,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 21.254,
+    "msX" : 0.0,
+    "ms2" : 21.254,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 40.569,
+    "msX" : 0.0,
+    "ms2" : 40.569,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 32.831,
+    "msX" : 0.0,
+    "ms2" : 32.831,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 59.814,
+    "msX" : 0.0,
+    "ms2" : 59.814,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 44.439,
+    "msX" : 0.0,
+    "ms2" : 44.439,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 22.032,
+    "msX" : 0.0,
+    "ms2" : 22.032,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -574,48 +1627,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 0.0,
+    "ms1" : 8.829,
     "msX" : 0.0,
-    "ms2" : 0.0,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 0.0,
-    "bttsNo" : 0.0,
-    "mbs" : -1
-  }
-}, {
-  "homeTeam" : "-",
-  "awayTeam" : "-",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 0.0,
-    "avgGA" : 0.0,
-    "rating100" : 20.0,
-    "last5Points" : 0.0,
-    "last5Count" : 0,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 0.0,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 0.0,
-    "avgGA" : 0.0,
-    "rating100" : 20.0,
-    "last5Points" : 0.0,
-    "last5Count" : 0,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 0.0,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 0.0,
-    "msX" : 0.0,
-    "ms2" : 0.0,
+    "ms2" : 8.829,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1003,9 +2017,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 41.2,
+    "ms1" : 11.882,
     "msX" : 0.0,
-    "ms2" : 41.2,
+    "ms2" : 11.882,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1042,9 +2056,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 13.828,
+    "ms1" : 16.731,
     "msX" : 0.0,
-    "ms2" : 13.828,
+    "ms2" : 16.731,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1081,9 +2095,87 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 42.107,
+    "ms1" : 26.261,
     "msX" : 0.0,
-    "ms2" : 42.107,
+    "ms2" : 26.261,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 36.2,
+    "msX" : 0.0,
+    "ms2" : 36.2,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 39.815,
+    "msX" : 0.0,
+    "ms2" : 39.815,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1122,7 +2214,7 @@
   "odds" : {
     "ms1" : 0.0,
     "msX" : 0.0,
-    "ms2" : 37.467,
+    "ms2" : 0.0,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1159,9 +2251,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 32.173,
+    "ms1" : 53.142,
     "msX" : 0.0,
-    "ms2" : 32.173,
+    "ms2" : 53.142,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1198,9 +2290,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 24.508,
+    "ms1" : 52.907,
     "msX" : 0.0,
-    "ms2" : 2.374,
+    "ms2" : 52.907,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1237,9 +2329,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 42.263,
+    "ms1" : 2.959,
     "msX" : 0.0,
-    "ms2" : 4.73,
+    "ms2" : 2.959,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1276,9 +2368,9 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 8.022,
+    "ms1" : 12.788,
     "msX" : 0.0,
-    "ms2" : 8.022,
+    "ms2" : 12.788,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1315,9 +2407,204 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 40.179,
+    "ms1" : 49.43,
     "msX" : 0.0,
-    "ms2" : 40.179,
+    "ms2" : 49.43,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 49.204,
+    "msX" : 0.0,
+    "ms2" : 49.204,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.939,
+    "msX" : 0.0,
+    "ms2" : 4.939,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 50.132,
+    "msX" : 0.0,
+    "ms2" : 50.132,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 34.3,
+    "msX" : 0.0,
+    "ms2" : 34.3,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 8.38,
+    "msX" : 0.0,
+    "ms2" : 8.38,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
@@ -1403,861 +2690,1212 @@
     "mbs" : -1
   }
 }, {
-  "homeTeam" : "I. Medellin",
-  "awayTeam" : "America Cali",
+  "homeTeam" : "-",
+  "awayTeam" : "-",
   "homeStats" : {
     "teamName" : "",
-    "avgGF" : 1.5,
-    "avgGA" : 1.1666666666666667,
-    "rating100" : 56.0,
-    "last5Points" : 10.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.16666666666666666,
-    "avgPointsPerMatch" : 1.6666666666666667,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.1666666666666667,
-    "avgGA" : 0.6666666666666666,
-    "rating100" : 62.0,
-    "last5Points" : 11.0,
-    "last5Count" : 6,
-    "h2hWins" : 2,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.3333333333333333,
-    "avgPointsPerMatch" : 1.8333333333333333,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.84,
-    "msX" : 2.79,
-    "ms2" : 2.97,
-    "over25" : 1.78,
-    "under25" : 1.47,
-    "bttsYes" : 1.59,
-    "bttsNo" : 1.63,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "Cerro Largo",
-  "awayTeam" : "Danubio",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.5,
-    "rating100" : 36.0,
-    "last5Points" : 6.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.16666666666666666,
-    "avgPointsPerMatch" : 1.0,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.3333333333333333,
-    "avgGA" : 1.6666666666666667,
-    "rating100" : 38.0,
-    "last5Points" : 6.0,
-    "last5Count" : 6,
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
     "h2hWins" : 0,
-    "h2hCount" : 6,
+    "h2hCount" : 0,
     "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.0,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 2.51,
-    "msX" : 2.66,
-    "ms2" : 2.15,
-    "over25" : 2.06,
-    "under25" : 1.33,
-    "bttsYes" : 0.0,
-    "bttsNo" : 0.0,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "Libertad",
-  "awayTeam" : "CD Recoleta",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 2.3333333333333335,
-    "avgGA" : 1.0,
-    "rating100" : 68.0,
-    "last5Points" : 12.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 5,
-    "h2hWinRate" : 0.2,
-    "avgPointsPerMatch" : 2.0,
+    "avgPointsPerMatch" : 0.0,
     "empty" : false
   },
   "awayStats" : {
     "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.5,
-    "rating100" : 33.0,
-    "last5Points" : 5.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 5,
-    "h2hWinRate" : 0.2,
-    "avgPointsPerMatch" : 0.8333333333333334,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.5,
-    "msX" : 2.88,
-    "ms2" : 4.35,
-    "over25" : 1.67,
-    "under25" : 1.56,
-    "bttsYes" : 1.6,
-    "bttsNo" : 1.63,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "CD Palestino",
-  "awayTeam" : "O Higgins",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 2.0,
-    "avgGA" : 1.5,
-    "rating100" : 56.0,
-    "last5Points" : 10.0,
-    "last5Count" : 6,
-    "h2hWins" : 4,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.6666666666666666,
-    "avgPointsPerMatch" : 1.6666666666666667,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.3333333333333333,
-    "avgGA" : 1.1666666666666667,
-    "rating100" : 58.0,
-    "last5Points" : 11.0,
-    "last5Count" : 6,
-    "h2hWins" : 2,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.3333333333333333,
-    "avgPointsPerMatch" : 1.8333333333333333,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.81,
-    "msX" : 3.04,
-    "ms2" : 2.78,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.44,
-    "bttsNo" : 1.84,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "U.Concepcion",
-  "awayTeam" : "Nublense",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.3333333333333333,
-    "rating100" : 44.0,
-    "last5Points" : 8.0,
-    "last5Count" : 6,
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
     "h2hWins" : 0,
-    "h2hCount" : 6,
+    "h2hCount" : 0,
     "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.3333333333333333,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.3333333333333333,
-    "avgGA" : 0.8333333333333334,
-    "rating100" : 61.0,
-    "last5Points" : 11.0,
-    "last5Count" : 6,
-    "h2hWins" : 4,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.6666666666666666,
-    "avgPointsPerMatch" : 1.8333333333333333,
+    "avgPointsPerMatch" : 0.0,
     "empty" : false
   },
   "odds" : {
-    "ms1" : 2.35,
-    "msX" : 2.74,
-    "ms2" : 2.22,
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
     "bttsNo" : 0.0,
-    "mbs" : 3
+    "mbs" : -1
   }
 }, {
-  "homeTeam" : "Central Esp.",
-  "awayTeam" : "D. Maldonado",
+  "homeTeam" : "-",
+  "awayTeam" : "-",
   "homeStats" : {
     "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.5,
-    "rating100" : 33.0,
-    "last5Points" : 5.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 0.8333333333333334,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.0,
-    "rating100" : 53.0,
-    "last5Points" : 10.0,
-    "last5Count" : 6,
-    "h2hWins" : 4,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.6666666666666666,
-    "avgPointsPerMatch" : 1.6666666666666667,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 2.72,
-    "msX" : 2.72,
-    "ms2" : 1.98,
-    "over25" : 1.93,
-    "under25" : 1.39,
-    "bttsYes" : 1.68,
-    "bttsNo" : 1.55,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "CA Union S.F",
-  "awayTeam" : "Agropecuario",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.8333333333333333,
-    "avgGA" : 1.5,
-    "rating100" : 59.0,
-    "last5Points" : 11.0,
-    "last5Count" : 6,
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
     "h2hWins" : 0,
     "h2hCount" : 0,
     "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.8333333333333333,
+    "avgPointsPerMatch" : 0.0,
     "empty" : false
   },
   "awayStats" : {
     "teamName" : "",
-    "avgGF" : 0.8333333333333334,
-    "avgGA" : 0.8333333333333334,
-    "rating100" : 47.0,
-    "last5Points" : 8.0,
-    "last5Count" : 6,
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
     "h2hWins" : 0,
     "h2hCount" : 0,
     "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.3333333333333333,
+    "avgPointsPerMatch" : 0.0,
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.3,
-    "msX" : 3.27,
-    "ms2" : 6.11,
-    "over25" : 2.07,
-    "under25" : 1.33,
-    "bttsYes" : 2.22,
-    "bttsNo" : 1.27,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "Millonarios",
-  "awayTeam" : "Fortaleza",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 3.0,
-    "avgGA" : 0.8333333333333334,
-    "rating100" : 81.0,
-    "last5Points" : 15.0,
-    "last5Count" : 6,
-    "h2hWins" : 6,
-    "h2hCount" : 6,
-    "h2hWinRate" : 1.0,
-    "avgPointsPerMatch" : 2.5,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.1666666666666667,
-    "avgGA" : 2.0,
-    "rating100" : 28.0,
-    "last5Points" : 4.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 0.6666666666666666,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.33,
-    "msX" : 3.48,
-    "ms2" : 5.05,
-    "over25" : 1.65,
-    "under25" : 1.57,
-    "bttsYes" : 1.74,
-    "bttsNo" : 1.5,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "Kamerun",
-  "awayTeam" : "Çin",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.0,
-    "rating100" : 53.0,
-    "last5Points" : 10.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.6666666666666667,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 0.6666666666666666,
-    "avgGA" : 1.0,
-    "rating100" : 46.0,
-    "last5Points" : 9.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.5,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.21,
-    "msX" : 3.92,
-    "ms2" : 6.47,
-    "over25" : 1.64,
-    "under25" : 1.59,
-    "bttsYes" : 1.91,
-    "bttsNo" : 1.4,
-    "mbs" : 2
-  }
-}, {
-  "homeTeam" : "Kuzey Kore",
-  "awayTeam" : "Tayland",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.1666666666666667,
-    "avgGA" : 0.6666666666666666,
-    "rating100" : 62.0,
-    "last5Points" : 11.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 2,
-    "h2hWinRate" : 0.5,
-    "avgPointsPerMatch" : 1.8333333333333333,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.5,
-    "avgGA" : 0.8333333333333334,
-    "rating100" : 56.0,
-    "last5Points" : 9.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 2,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.5,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.9,
-    "msX" : 2.87,
-    "ms2" : 2.73,
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
     "bttsNo" : 0.0,
-    "mbs" : 2
+    "mbs" : -1
   }
 }, {
-  "homeTeam" : "South Melb.",
-  "awayTeam" : "Dandenong C.",
+  "homeTeam" : "-",
+  "awayTeam" : "-",
   "homeStats" : {
     "teamName" : "",
-    "avgGF" : 1.1666666666666667,
-    "avgGA" : 1.0,
-    "rating100" : 62.0,
-    "last5Points" : 12.0,
-    "last5Count" : 6,
-    "h2hWins" : 3,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.5,
-    "avgPointsPerMatch" : 2.0,
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
     "empty" : false
   },
   "awayStats" : {
     "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.6666666666666667,
-    "rating100" : 35.0,
-    "last5Points" : 6.0,
-    "last5Count" : 6,
-    "h2hWins" : 2,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.3333333333333333,
-    "avgPointsPerMatch" : 1.0,
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.43,
-    "msX" : 3.46,
-    "ms2" : 3.99,
-    "over25" : 1.47,
-    "under25" : 1.78,
-    "bttsYes" : 1.5,
-    "bttsNo" : 1.74,
-    "mbs" : 2
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
   }
 }, {
-  "homeTeam" : "Ekv. Ginesi",
-  "awayTeam" : "Madagaskar",
+  "homeTeam" : "-",
+  "awayTeam" : "-",
   "homeStats" : {
     "teamName" : "",
-    "avgGF" : 0.6666666666666666,
-    "avgGA" : 1.3333333333333333,
-    "rating100" : 33.0,
-    "last5Points" : 6.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 5,
-    "h2hWinRate" : 0.2,
-    "avgPointsPerMatch" : 1.0,
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
     "empty" : false
   },
   "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 0.0,
+    "rating100" : 20.0,
+    "last5Points" : 0.0,
+    "last5Count" : 0,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 0.0,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : -1
+  }
+}, {
+  "homeTeam" : "Tacikistan",
+  "awayTeam" : "Filipinler",
+  "homeStats" : {
     "teamName" : "",
     "avgGF" : 2.5,
-    "avgGA" : 1.3333333333333333,
-    "rating100" : 76.0,
-    "last5Points" : 15.0,
-    "last5Count" : 6,
-    "h2hWins" : 4,
-    "h2hCount" : 5,
-    "h2hWinRate" : 0.8,
-    "avgPointsPerMatch" : 2.5,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 2.44,
-    "msX" : 2.8,
-    "ms2" : 2.12,
-    "over25" : 1.85,
-    "under25" : 1.44,
-    "bttsYes" : 1.62,
-    "bttsNo" : 1.6,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "Letonya",
-  "awayTeam" : "K. İrlanda",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 0.5,
-    "avgGA" : 1.5,
-    "rating100" : 27.0,
-    "last5Points" : 5.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 1,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 0.8333333333333334,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 0.8333333333333334,
-    "avgGA" : 1.6666666666666667,
-    "rating100" : 37.0,
-    "last5Points" : 7.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 1,
-    "h2hWinRate" : 1.0,
-    "avgPointsPerMatch" : 1.1666666666666667,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 2.78,
-    "msX" : 2.78,
-    "ms2" : 1.92,
-    "over25" : 1.79,
-    "under25" : 1.47,
-    "bttsYes" : 1.59,
-    "bttsNo" : 1.63,
-    "mbs" : 1
-  }
-}, {
-  "homeTeam" : "Çin",
-  "awayTeam" : "Avustralya",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.5,
-    "avgGA" : 1.3333333333333333,
-    "rating100" : 51.0,
-    "last5Points" : 9.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 2,
-    "h2hWinRate" : 0.5,
-    "avgPointsPerMatch" : 1.5,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 0.8333333333333334,
-    "avgGA" : 1.8333333333333333,
-    "rating100" : 23.0,
-    "last5Points" : 3.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 2,
-    "h2hWinRate" : 0.5,
-    "avgPointsPerMatch" : 0.5,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 3.69,
-    "msX" : 3.37,
-    "ms2" : 1.49,
-    "over25" : 1.48,
-    "under25" : 1.77,
-    "bttsYes" : 1.48,
-    "bttsNo" : 1.77,
-    "mbs" : 1
-  }
-}, {
-  "homeTeam" : "Çin",
-  "awayTeam" : "Vietnam",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.1666666666666667,
-    "rating100" : 42.0,
-    "last5Points" : 7.0,
-    "last5Count" : 6,
-    "h2hWins" : 1,
-    "h2hCount" : 1,
-    "h2hWinRate" : 1.0,
-    "avgPointsPerMatch" : 1.1666666666666667,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.5,
-    "rating100" : 36.0,
-    "last5Points" : 6.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 1,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.0,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.56,
-    "msX" : 3.04,
-    "ms2" : 3.73,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 0.0,
-    "bttsNo" : 0.0,
-    "mbs" : 2
-  }
-}, {
-  "homeTeam" : "Singapur",
-  "awayTeam" : "Bangladeş",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 2.0,
-    "avgGA" : 1.1666666666666667,
-    "rating100" : 69.0,
-    "last5Points" : 13.0,
-    "last5Count" : 6,
-    "h2hWins" : 2,
-    "h2hCount" : 2,
-    "h2hWinRate" : 1.0,
-    "avgPointsPerMatch" : 2.1666666666666665,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.1666666666666667,
-    "avgGA" : 1.6666666666666667,
-    "rating100" : 36.0,
-    "last5Points" : 6.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 2,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.0,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.46,
-    "msX" : 3.05,
-    "ms2" : 4.34,
-    "over25" : 1.8,
-    "under25" : 1.46,
-    "bttsYes" : 1.74,
-    "bttsNo" : 1.5,
-    "mbs" : 2
-  }
-}, {
-  "homeTeam" : "Vietnam",
-  "awayTeam" : "Malezya",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 2.8333333333333335,
-    "avgGA" : 0.16666666666666666,
-    "rating100" : 98.0,
-    "last5Points" : 18.0,
-    "last5Count" : 6,
-    "h2hWins" : 6,
-    "h2hCount" : 6,
-    "h2hWinRate" : 1.0,
-    "avgPointsPerMatch" : 3.0,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.5,
-    "avgGA" : 1.6666666666666667,
-    "rating100" : 49.0,
-    "last5Points" : 9.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 6,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.5,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.5,
-    "msX" : 3.22,
-    "ms2" : 3.76,
-    "over25" : 1.66,
-    "under25" : 1.57,
-    "bttsYes" : 1.62,
-    "bttsNo" : 1.61,
-    "mbs" : 2
-  }
-}, {
-  "homeTeam" : "Kazakistan",
-  "awayTeam" : "Komorlar",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.3333333333333333,
-    "avgGA" : 1.5,
-    "rating100" : 45.0,
-    "last5Points" : 8.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.3333333333333333,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 0.3333333333333333,
-    "avgGA" : 1.1666666666666667,
-    "rating100" : 19.0,
-    "last5Points" : 3.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 0.5,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.52,
-    "msX" : 2.93,
-    "ms2" : 4.16,
-    "over25" : 2.09,
-    "under25" : 1.32,
-    "bttsYes" : 1.96,
-    "bttsNo" : 1.37,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "AL Shorta",
-  "awayTeam" : "AL Jawiya",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 1.6666666666666667,
-    "avgGA" : 1.0,
-    "rating100" : 62.0,
-    "last5Points" : 11.0,
-    "last5Count" : 6,
-    "h2hWins" : 2,
-    "h2hCount" : 3,
-    "h2hWinRate" : 0.6666666666666666,
-    "avgPointsPerMatch" : 1.8333333333333333,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.8333333333333333,
     "avgGA" : 0.5,
-    "rating100" : 91.0,
-    "last5Points" : 18.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 3,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 3.0,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 1.76,
-    "msX" : 2.8,
-    "ms2" : 3.17,
-    "over25" : 1.83,
-    "under25" : 1.44,
-    "bttsYes" : 1.65,
-    "bttsNo" : 1.58,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "Arbil SC",
-  "awayTeam" : "Al Zawraa",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 2.0,
-    "avgGA" : 0.6666666666666666,
-    "rating100" : 83.0,
+    "rating100" : 87.0,
     "last5Points" : 16.0,
     "last5Count" : 6,
     "h2hWins" : 0,
-    "h2hCount" : 3,
+    "h2hCount" : 5,
     "h2hWinRate" : 0.0,
     "avgPointsPerMatch" : 2.6666666666666665,
     "empty" : false
   },
   "awayStats" : {
     "teamName" : "",
-    "avgGF" : 1.5,
-    "avgGA" : 0.8333333333333334,
-    "rating100" : 72.0,
-    "last5Points" : 14.0,
+    "avgGF" : 2.6666666666666665,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 71.0,
+    "last5Points" : 13.0,
     "last5Count" : 6,
-    "h2hWins" : 2,
-    "h2hCount" : 3,
-    "h2hWinRate" : 0.6666666666666666,
-    "avgPointsPerMatch" : 2.3333333333333335,
+    "h2hWins" : 3,
+    "h2hCount" : 5,
+    "h2hWinRate" : 0.6,
+    "avgPointsPerMatch" : 2.1666666666666665,
     "empty" : false
   },
   "odds" : {
-    "ms1" : 2.2,
-    "msX" : 2.69,
-    "ms2" : 2.42,
-    "over25" : 1.94,
-    "under25" : 1.38,
+    "ms1" : 1.58,
+    "msX" : 2.93,
+    "ms2" : 3.74,
+    "over25" : 1.79,
+    "under25" : 1.47,
     "bttsYes" : 1.68,
     "bttsNo" : 1.56,
-    "mbs" : 3
+    "mbs" : 2
   }
 }, {
-  "homeTeam" : "Newroz SC",
-  "awayTeam" : "AL Nafit May",
+  "homeTeam" : "Esvatini",
+  "awayTeam" : "Eritre",
   "homeStats" : {
     "teamName" : "",
-    "avgGF" : 1.8333333333333333,
-    "avgGA" : 0.8333333333333334,
-    "rating100" : 78.0,
-    "last5Points" : 15.0,
+    "avgGF" : 0.5,
+    "avgGA" : 2.3333333333333335,
+    "rating100" : 10.0,
+    "last5Points" : 1.0,
     "last5Count" : 6,
     "h2hWins" : 0,
-    "h2hCount" : 3,
+    "h2hCount" : 1,
     "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 2.5,
+    "avgPointsPerMatch" : 0.16666666666666666,
     "empty" : false
   },
   "awayStats" : {
     "teamName" : "",
     "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.5,
+    "rating100" : 26.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 1,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.51,
+    "msX" : 3.03,
+    "ms2" : 4.05,
+    "over25" : 1.84,
+    "under25" : 1.44,
+    "bttsYes" : 1.75,
+    "bttsNo" : 1.5,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Torreense",
+  "awayTeam" : "Famalicao",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 63.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.6666666666666665,
+    "avgGA" : 1.0,
+    "rating100" : 82.0,
+    "last5Points" : 16.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 2.6666666666666665,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.79,
+    "msX" : 2.99,
+    "ms2" : 2.89,
+    "over25" : 1.62,
+    "under25" : 1.6,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.74,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Progreso",
+  "awayTeam" : "L.Montevideo",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
     "avgGA" : 1.1666666666666667,
-    "rating100" : 35.0,
+    "rating100" : 38.0,
     "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 54.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.15,
+    "msX" : 2.79,
+    "ms2" : 1.78,
+    "over25" : 1.87,
+    "under25" : 1.42,
+    "bttsYes" : 1.67,
+    "bttsNo" : 1.56,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "K. İrlanda",
+  "awayTeam" : "Kazakistan",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.0,
+    "rating100" : 49.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 2,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 38.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 2,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.15,
+    "msX" : 2.86,
+    "ms2" : 2.36,
+    "over25" : 1.92,
+    "under25" : 1.39,
+    "bttsYes" : 1.68,
+    "bttsNo" : 1.55,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Romanya",
+  "awayTeam" : "Ukrayna",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 3.1666666666666665,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 68.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.1666666666666665,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 69.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.06,
+    "msX" : 3.04,
+    "ms2" : 2.36,
+    "over25" : 1.49,
+    "under25" : 1.76,
+    "bttsYes" : 1.39,
+    "bttsNo" : 1.92,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Slovenya",
+  "awayTeam" : "Norveç",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.16666666666666666,
+    "avgGA" : 2.0,
+    "rating100" : 10.0,
+    "last5Points" : 2.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 2,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.3333333333333335,
+    "avgGA" : 1.0,
+    "rating100" : 78.0,
+    "last5Points" : 15.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 2,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.42,
+    "msX" : 3.31,
+    "ms2" : 1.55,
+    "over25" : 1.43,
+    "under25" : 1.86,
+    "bttsYes" : 1.41,
+    "bttsNo" : 1.89,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Ermenistan",
+  "awayTeam" : "K. Makedonya",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 3.0,
+    "rating100" : 7.0,
+    "last5Points" : 0.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 2.3333333333333335,
+    "rating100" : 21.0,
+    "last5Points" : 3.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 0.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.27,
+    "msX" : 2.92,
+    "ms2" : 2.2,
+    "over25" : 1.59,
+    "under25" : 1.63,
+    "bttsYes" : 1.45,
+    "bttsNo" : 1.81,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Al Qasim SC",
+  "awayTeam" : "Diyala",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.16666666666666666,
+    "avgGA" : 2.0,
+    "rating100" : 3.0,
+    "last5Points" : 0.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 13.0,
+    "last5Points" : 1.0,
     "last5Count" : 6,
     "h2hWins" : 2,
     "h2hCount" : 3,
     "h2hWinRate" : 0.6666666666666666,
-    "avgPointsPerMatch" : 1.0,
+    "avgPointsPerMatch" : 0.16666666666666666,
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.59,
-    "msX" : 2.98,
-    "ms2" : 3.64,
-    "over25" : 1.83,
-    "under25" : 1.44,
-    "bttsYes" : 1.72,
-    "bttsNo" : 1.52,
+    "ms1" : 9.7,
+    "msX" : 3.98,
+    "ms2" : 1.13,
+    "over25" : 1.77,
+    "under25" : 1.49,
+    "bttsYes" : 2.31,
+    "bttsNo" : 1.24,
     "mbs" : 3
   }
 }, {
-  "homeTeam" : "Charlton Ath",
-  "awayTeam" : "Peterborough",
+  "homeTeam" : "Macaristan",
+  "awayTeam" : "Ukrayna",
   "homeStats" : {
     "teamName" : "",
-    "avgGF" : 2.1666666666666665,
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 40.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 37.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.8,
+    "msX" : 2.96,
+    "ms2" : 1.83,
+    "over25" : 1.52,
+    "under25" : 1.72,
+    "bttsYes" : 1.42,
+    "bttsNo" : 1.87,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Polonya",
+  "awayTeam" : "Almanya",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 1.0,
+    "rating100" : 67.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 3.0,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 73.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.93,
+    "msX" : 3.43,
+    "ms2" : 1.44,
+    "over25" : 1.48,
+    "under25" : 1.77,
+    "bttsYes" : 1.5,
+    "bttsNo" : 1.74,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Mauritius",
+  "awayTeam" : "Somali",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.16666666666666666,
     "avgGA" : 1.1666666666666667,
+    "rating100" : 15.0,
+    "last5Points" : 3.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.3333333333333333,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 26.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.79,
+    "msX" : 2.49,
+    "ms2" : 3.59,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.13,
+    "bttsNo" : 1.3,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Portekiz",
+  "awayTeam" : "İngiltere",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 1.0,
+    "rating100" : 58.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.8333333333333335,
+    "avgGA" : 1.0,
+    "rating100" : 70.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 5,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.8333333333333334,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.21,
+    "msX" : 3.01,
+    "ms2" : 2.2,
+    "over25" : 1.54,
+    "under25" : 1.7,
+    "bttsYes" : 1.42,
+    "bttsNo" : 1.86,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Hollanda",
+  "awayTeam" : "İspanya",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.6666666666666665,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 92.0,
+    "last5Points" : 18.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 3.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 3.1666666666666665,
+    "avgGA" : 0.3333333333333333,
+    "rating100" : 96.0,
+    "last5Points" : 18.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 3.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.16,
+    "msX" : 3.63,
+    "ms2" : 1.38,
+    "over25" : 1.38,
+    "under25" : 1.95,
+    "bttsYes" : 1.44,
+    "bttsNo" : 1.85,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Slovenya",
+  "awayTeam" : "Finlandiya",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 2.3333333333333335,
+    "rating100" : 39.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 1,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 36.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.18,
+    "msX" : 2.96,
+    "ms2" : 2.26,
+    "over25" : 1.54,
+    "under25" : 1.69,
+    "bttsYes" : 1.42,
+    "bttsNo" : 1.87,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Avusturya",
+  "awayTeam" : "Almanya",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.8333333333333335,
+    "avgGA" : 0.5,
+    "rating100" : 87.0,
+    "last5Points" : 16.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 2.6666666666666665,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 1.3333333333333333,
     "rating100" : 56.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.23,
+    "msX" : 3.39,
+    "ms2" : 1.57,
+    "over25" : 1.37,
+    "under25" : 1.97,
+    "bttsYes" : 1.36,
+    "bttsNo" : 1.98,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Romanya",
+  "awayTeam" : "San Marino",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 50.0,
     "last5Points" : 9.0,
     "last5Count" : 6,
     "h2hWins" : 1,
-    "h2hCount" : 5,
-    "h2hWinRate" : 0.2,
+    "h2hCount" : 1,
+    "h2hWinRate" : 1.0,
     "avgPointsPerMatch" : 1.5,
     "empty" : false
   },
   "awayStats" : {
     "teamName" : "",
-    "avgGF" : 2.0,
-    "avgGA" : 2.1666666666666665,
-    "rating100" : 39.0,
-    "last5Points" : 6.0,
+    "avgGF" : 0.0,
+    "avgGA" : 6.0,
+    "rating100" : 0.0,
+    "last5Points" : 0.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 17.1,
+    "ms2" : 17.1,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Danimarka",
+  "awayTeam" : "Galler",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 49.0,
+    "last5Points" : 8.0,
     "last5Count" : 6,
     "h2hWins" : 3,
     "h2hCount" : 5,
     "h2hWinRate" : 0.6,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 3.3333333333333335,
+    "rating100" : 29.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 5,
+    "h2hWinRate" : 0.0,
     "avgPointsPerMatch" : 1.0,
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.75,
-    "msX" : 3.66,
-    "ms2" : 2.53,
+    "ms1" : 1.21,
+    "msX" : 4.14,
+    "ms2" : 5.83,
+    "over25" : 1.39,
+    "under25" : 1.91,
+    "bttsYes" : 1.6,
+    "bttsNo" : 1.62,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Yunanistan",
+  "awayTeam" : "Almanya",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 3.5,
+    "avgGA" : 0.3333333333333333,
+    "rating100" : 97.0,
+    "last5Points" : 18.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.25,
+    "avgPointsPerMatch" : 3.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 3.3333333333333335,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 83.0,
+    "last5Points" : 15.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.75,
+    "avgPointsPerMatch" : 2.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.36,
+    "msX" : 3.76,
+    "ms2" : 1.34,
+    "over25" : 1.33,
+    "under25" : 2.07,
+    "bttsYes" : 1.4,
+    "bttsNo" : 1.9,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Bulgaristan",
+  "awayTeam" : "Azerbaycan",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 1.0,
+    "rating100" : 55.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 3.0,
+    "rating100" : 25.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.12,
+    "msX" : 4.43,
+    "ms2" : 8.42,
+    "over25" : 1.53,
+    "under25" : 1.71,
+    "bttsYes" : 1.97,
+    "bttsNo" : 1.37,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Avusturya",
+  "awayTeam" : "Belarus",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 55.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 1,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 45.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.27,
+    "msX" : 3.86,
+    "ms2" : 5.19,
+    "over25" : 1.43,
+    "under25" : 1.86,
+    "bttsYes" : 1.57,
+    "bttsNo" : 1.66,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Suriye",
+  "awayTeam" : "Afganistan",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 0.3333333333333333,
+    "rating100" : 69.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 3,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 18.0,
+    "last5Points" : 2.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 8.46,
+    "ms2" : 17.1,
+    "over25" : 1.44,
+    "under25" : 1.82,
+    "bttsYes" : 3.72,
+    "bttsNo" : 0.0,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Al Garaf",
+  "awayTeam" : "AL Najaf",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 2.1666666666666665,
+    "rating100" : 23.0,
+    "last5Points" : 3.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 1,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 0.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.5,
+    "rating100" : 26.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.9,
+    "msX" : 2.45,
+    "ms2" : 3.28,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.08,
-    "bttsNo" : 3.17,
+    "bttsYes" : 1.94,
+    "bttsNo" : 1.38,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Galler",
+  "awayTeam" : "Macaristan",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 1.0,
+    "rating100" : 55.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 30.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.89,
+    "msX" : 2.98,
+    "ms2" : 2.67,
+    "over25" : 1.65,
+    "under25" : 1.58,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.73,
     "mbs" : 3
   }
 } ]
