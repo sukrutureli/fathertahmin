@@ -1,0 +1,6681 @@
+[ {
+  "teamName" : "Boston - Orlando",
+  "teamEv" : "Boston",
+  "teamDep" : "Orlando",
+  "detailUrl" : "https://istatistik.nesine.com/2799996",
+  "odds" : {
+    "ms1" : 5.19,
+    "ms2" : 0.0,
+    "h1Value" : 12.5,
+    "h2Value" : -12.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 222.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Boston",
+    "awayTeam" : "Orlando",
+    "homeScore" : 138,
+    "awayScore" : 129,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Boston",
+    "homeScore" : 107,
+    "awayScore" : 111,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Boston",
+    "homeScore" : 123,
+    "awayScore" : 110,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Boston",
+    "awayTeam" : "Orlando",
+    "homeScore" : 120,
+    "awayScore" : 89,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Boston",
+    "homeScore" : 98,
+    "awayScore" : 107,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Boston",
+    "homeScore" : 95,
+    "awayScore" : 93,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Boston",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 144,
+    "awayScore" : 118,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Boston",
+    "homeScore" : 112,
+    "awayScore" : 106,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Boston",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 113,
+    "awayScore" : 102,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Boston",
+    "awayTeam" : "Toronto",
+    "homeScore" : 115,
+    "awayScore" : 101,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Boston",
+    "homeScore" : 101,
+    "awayScore" : 133,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miami",
+    "awayTeam" : "Boston",
+    "homeScore" : 129,
+    "awayScore" : 147,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Orlando",
+    "homeScore" : 103,
+    "awayScore" : 127,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 132,
+    "awayScore" : 120,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Detroit",
+    "homeScore" : 123,
+    "awayScore" : 107,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New Orleans",
+    "awayTeam" : "Orlando",
+    "homeScore" : 108,
+    "awayScore" : 112,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas",
+    "awayTeam" : "Orlando",
+    "homeScore" : 127,
+    "awayScore" : 138,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 101,
+    "awayScore" : 130,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.6333333333333333,
+  "alt" : 0.3666666666666667,
+  "ms2" : 0.48333333333333334,
+  "ms1" : 0.5166666666666666,
+  "max" : "Üst"
+}, {
+  "teamName" : "Cleveland - Washington",
+  "teamEv" : "Cleveland",
+  "teamDep" : "Washington",
+  "detailUrl" : "https://istatistik.nesine.com/2799563",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.21,
+    "h1Value" : -10.5,
+    "h2Value" : 10.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 235.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Washington",
+    "homeScore" : 138,
+    "awayScore" : 113,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 126,
+    "awayScore" : 130,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 115,
+    "awayScore" : 148,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 124,
+    "awayScore" : 134,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Washington",
+    "homeScore" : 115,
+    "awayScore" : 105,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Washington",
+    "homeScore" : 118,
+    "awayScore" : 87,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 124,
+    "awayScore" : 102,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 122,
+    "awayScore" : 116,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 126,
+    "awayScore" : 142,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Indiana",
+    "homeScore" : 117,
+    "awayScore" : 108,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 111,
+    "awayScore" : 118,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 127,
+    "awayScore" : 113,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Miami",
+    "homeScore" : 117,
+    "awayScore" : 140,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Chicago",
+    "homeScore" : 108,
+    "awayScore" : 119,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Chicago",
+    "homeScore" : 98,
+    "awayScore" : 129,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Washington",
+    "homeScore" : 121,
+    "awayScore" : 115,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miami",
+    "awayTeam" : "Washington",
+    "homeScore" : 152,
+    "awayScore" : 136,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 131,
+    "awayScore" : 153,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5916666666666667,
+  "alt" : 0.4083333333333333,
+  "ms2" : 0.15,
+  "ms1" : 0.8500000000000001,
+  "max" : "MS1"
+}, {
+  "teamName" : "Indiana - Detroit",
+  "teamEv" : "Indiana",
+  "teamDep" : "Detroit",
+  "detailUrl" : "https://istatistik.nesine.com/2797945",
+  "odds" : {
+    "ms1" : 6.6,
+    "ms2" : 0.0,
+    "h1Value" : 15.5,
+    "h2Value" : -15.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 229.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Indiana",
+    "homeScore" : 121,
+    "awayScore" : 78,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Detroit",
+    "homeScore" : 117,
+    "awayScore" : 122,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Indiana",
+    "homeScore" : 127,
+    "awayScore" : 112,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Detroit",
+    "homeScore" : 133,
+    "awayScore" : 119,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Indiana",
+    "homeScore" : 100,
+    "awayScore" : 111,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Detroit",
+    "homeScore" : 106,
+    "awayScore" : 130,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 94,
+    "awayScore" : 105,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Indiana",
+    "homeScore" : 94,
+    "awayScore" : 123,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 104,
+    "awayScore" : 124,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Indiana",
+    "homeScore" : 117,
+    "awayScore" : 108,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Indiana",
+    "homeScore" : 129,
+    "awayScore" : 108,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Indiana",
+    "homeScore" : 126,
+    "awayScore" : 145,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Detroit",
+    "homeScore" : 100,
+    "awayScore" : 118,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 137,
+    "awayScore" : 111,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Detroit",
+    "homeScore" : 123,
+    "awayScore" : 107,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Philadelphia",
+    "awayTeam" : "Detroit",
+    "homeScore" : 93,
+    "awayScore" : 116,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 113,
+    "awayScore" : 108,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Toronto",
+    "homeScore" : 127,
+    "awayScore" : 116,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44166666666666665,
+  "alt" : 0.5583333333333333,
+  "ms2" : 0.7416666666666667,
+  "ms1" : 0.2583333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "Miami - Atlanta",
+  "teamEv" : "Miami",
+  "teamDep" : "Atlanta",
+  "detailUrl" : "https://istatistik.nesine.com/2800824",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.64,
+    "h1Value" : -9.5,
+    "h2Value" : 9.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 240.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Miami",
+    "homeScore" : 97,
+    "awayScore" : 128,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Miami",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 115,
+    "awayScore" : 127,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Miami",
+    "homeScore" : 111,
+    "awayScore" : 126,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Miami",
+    "homeScore" : 102,
+    "awayScore" : 102,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Miami",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 98,
+    "awayScore" : 105,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Miami",
+    "homeScore" : 106,
+    "awayScore" : 106,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Miami",
+    "homeScore" : 117,
+    "awayScore" : 140,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Miami",
+    "homeScore" : 128,
+    "awayScore" : 114,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Miami",
+    "homeScore" : 121,
+    "awayScore" : 95,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miami",
+    "awayTeam" : "Washington",
+    "homeScore" : 152,
+    "awayScore" : 136,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miami",
+    "awayTeam" : "Boston",
+    "homeScore" : 129,
+    "awayScore" : 147,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miami",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 119,
+    "awayScore" : 109,
+    "matchDate" : "31 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 124,
+    "awayScore" : 102,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cleveland",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 122,
+    "awayScore" : 116,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "New York",
+    "homeScore" : 105,
+    "awayScore" : 108,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 107,
+    "awayScore" : 141,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 101,
+    "awayScore" : 130,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Boston",
+    "homeScore" : 112,
+    "awayScore" : 102,
+    "matchDate" : "31 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.39166666666666666,
+  "alt" : 0.6083333333333334,
+  "ms2" : 0.5583333333333333,
+  "ms1" : 0.4083333333333333,
+  "max" : "Alt"
+}, {
+  "teamName" : "New York - Charlotte",
+  "teamEv" : "New York",
+  "teamDep" : "Charlotte",
+  "detailUrl" : "https://istatistik.nesine.com/2799013",
+  "odds" : {
+    "ms1" : 5.53,
+    "ms2" : 0.0,
+    "h1Value" : 14.5,
+    "h2Value" : -14.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 217.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "New York",
+    "homeScore" : 114,
+    "awayScore" : 103,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 119,
+    "awayScore" : 104,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "New York",
+    "homeScore" : 101,
+    "awayScore" : 129,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 113,
+    "awayScore" : 108,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "New York",
+    "homeScore" : 115,
+    "awayScore" : 98,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 125,
+    "awayScore" : 101,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "New York",
+    "awayTeam" : "Toronto",
+    "homeScore" : 112,
+    "awayScore" : 95,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Boston",
+    "homeScore" : 112,
+    "awayScore" : 106,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "New York",
+    "homeScore" : 105,
+    "awayScore" : 108,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Chicago",
+    "homeScore" : 136,
+    "awayScore" : 96,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "New York",
+    "homeScore" : 119,
+    "awayScore" : 130,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "New York",
+    "homeScore" : 111,
+    "awayScore" : 94,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Detroit",
+    "homeScore" : 100,
+    "awayScore" : 118,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Boston",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 113,
+    "awayScore" : 102,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 108,
+    "awayScore" : 122,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Indiana",
+    "homeScore" : 129,
+    "awayScore" : 108,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 127,
+    "awayScore" : 107,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 86,
+    "awayScore" : 117,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5916666666666667,
+  "alt" : 0.4083333333333333,
+  "ms2" : 0.4083333333333333,
+  "ms1" : 0.5916666666666667,
+  "max" : "MS1"
+}, {
+  "teamName" : "Osos - Leones de Po",
+  "teamEv" : "Osos",
+  "teamDep" : "Leones de Po",
+  "detailUrl" : "https://istatistik.nesine.com/2830473",
+  "odds" : {
+    "ms1" : 1.49,
+    "ms2" : 1.75,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 183.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Osos",
+    "homeScore" : 99,
+    "awayScore" : 79,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Osos",
+    "awayTeam" : "Leones de Po",
+    "homeScore" : 87,
+    "awayScore" : 96,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Osos",
+    "awayTeam" : "Leones de Po",
+    "homeScore" : 93,
+    "awayScore" : 84,
+    "matchDate" : "2024",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Osos",
+    "homeScore" : 86,
+    "awayScore" : 67,
+    "matchDate" : "2024",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Osos",
+    "homeScore" : 77,
+    "awayScore" : 85,
+    "matchDate" : "10 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Osos",
+    "homeScore" : 100,
+    "awayScore" : 92,
+    "matchDate" : "8 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Osos",
+    "awayTeam" : "Gigantes de",
+    "homeScore" : 90,
+    "awayScore" : 88,
+    "matchDate" : "2 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Osos",
+    "awayTeam" : "Mets",
+    "homeScore" : 83,
+    "awayScore" : 78,
+    "matchDate" : "30 Mar",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Capitanes de",
+    "awayTeam" : "Osos",
+    "homeScore" : 99,
+    "awayScore" : 97,
+    "matchDate" : "28 Mar",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Osos",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 71,
+    "awayScore" : 73,
+    "matchDate" : "26 Mar",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 102,
+    "awayScore" : 65,
+    "matchDate" : "11 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Capitanes de",
+    "awayTeam" : "Leones de Po",
+    "homeScore" : 101,
+    "awayScore" : 82,
+    "matchDate" : "9 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Piratas",
+    "homeScore" : 102,
+    "awayScore" : 90,
+    "matchDate" : "5 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Indios de Ma",
+    "homeScore" : 85,
+    "awayScore" : 90,
+    "matchDate" : "3 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Capitanes de",
+    "awayTeam" : "Leones de Po",
+    "homeScore" : 110,
+    "awayScore" : 102,
+    "matchDate" : "1 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Criollas",
+    "homeScore" : 89,
+    "awayScore" : 89,
+    "matchDate" : "29 Mar",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 16,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.3,
+  "alt" : 0.7,
+  "ms2" : 0.45000000000000007,
+  "ms1" : 0.475,
+  "max" : "Alt"
+}, {
+  "teamName" : "Philadelphia - Milwaukee",
+  "teamEv" : "Philadelphia",
+  "teamDep" : "Milwaukee",
+  "detailUrl" : "https://istatistik.nesine.com/2798866",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.45,
+    "h1Value" : -15.5,
+    "h2Value" : 15.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 225.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Philadelphia",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 139,
+    "awayScore" : 122,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 101,
+    "awayScore" : 116,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 106,
+    "awayScore" : 106,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Philadelphia",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 113,
+    "awayScore" : 126,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 135,
+    "awayScore" : 127,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 123,
+    "awayScore" : 109,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 94,
+    "awayScore" : 105,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 113,
+    "awayScore" : 102,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 115,
+    "awayScore" : 102,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Philadelphia",
+    "awayTeam" : "Detroit",
+    "homeScore" : 93,
+    "awayScore" : 116,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Philadelphia",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 115,
+    "awayScore" : 103,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 131,
+    "awayScore" : 153,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Brooklyn",
+    "homeScore" : 125,
+    "awayScore" : 108,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 137,
+    "awayScore" : 111,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 96,
+    "awayScore" : 90,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Memphis",
+    "homeScore" : 131,
+    "awayScore" : 115,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Boston",
+    "homeScore" : 101,
+    "awayScore" : 133,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 119,
+    "awayScore" : 113,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5166666666666666,
+  "alt" : 0.4833333333333334,
+  "ms2" : 0.42500000000000004,
+  "ms1" : 0.5583333333333333,
+  "max" : "MS1"
+}, {
+  "teamName" : "Toronto - Brooklyn",
+  "teamEv" : "Toronto",
+  "teamDep" : "Brooklyn",
+  "detailUrl" : "https://istatistik.nesine.com/2801150",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 14.1,
+    "h1Value" : -23.5,
+    "h2Value" : 23.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 219.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Toronto",
+    "homeScore" : 96,
+    "awayScore" : 81,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Brooklyn",
+    "homeScore" : 119,
+    "awayScore" : 109,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Toronto",
+    "homeScore" : 109,
+    "awayScore" : 119,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Brooklyn",
+    "homeScore" : 119,
+    "awayScore" : 114,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Toronto",
+    "homeScore" : 109,
+    "awayScore" : 120,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Toronto",
+    "homeScore" : 86,
+    "awayScore" : 116,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "New York",
+    "awayTeam" : "Toronto",
+    "homeScore" : 112,
+    "awayScore" : 95,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Miami",
+    "homeScore" : 128,
+    "awayScore" : 114,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Miami",
+    "homeScore" : 121,
+    "awayScore" : 95,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Boston",
+    "awayTeam" : "Toronto",
+    "homeScore" : 115,
+    "awayScore" : 101,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Toronto",
+    "homeScore" : 96,
+    "awayScore" : 128,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 115,
+    "awayScore" : 123,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Brooklyn",
+    "homeScore" : 125,
+    "awayScore" : 108,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Indiana",
+    "homeScore" : 94,
+    "awayScore" : 123,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 96,
+    "awayScore" : 90,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Washington",
+    "homeScore" : 121,
+    "awayScore" : 115,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 107,
+    "awayScore" : 141,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 86,
+    "awayScore" : 117,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5166666666666667,
+  "alt" : 0.4833333333333333,
+  "ms2" : 0.39166666666666666,
+  "ms1" : 0.6083333333333334,
+  "max" : "MS1"
+}, {
+  "teamName" : "Racing de C. - San Lorenzo",
+  "teamEv" : "Racing de C.",
+  "teamDep" : "San Lorenzo",
+  "detailUrl" : "https://istatistik.nesine.com/2797113",
+  "odds" : {
+    "ms1" : 1.2,
+    "ms2" : 2.47,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "San Lorenzo",
+    "awayTeam" : "Racing de C.",
+    "homeScore" : 85,
+    "awayScore" : 83,
+    "matchDate" : "25/26",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Racing de C.",
+    "awayTeam" : "Obera T. C.",
+    "homeScore" : 91,
+    "awayScore" : 84,
+    "matchDate" : "11 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "CA Platense",
+    "awayTeam" : "Racing de C.",
+    "homeScore" : 80,
+    "awayScore" : 80,
+    "matchDate" : "1 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Racing de C.",
+    "awayTeam" : "San Martin",
+    "homeScore" : 91,
+    "awayScore" : 74,
+    "matchDate" : "27 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Racing de C.",
+    "awayTeam" : "Quimsa S.",
+    "homeScore" : 82,
+    "awayScore" : 73,
+    "matchDate" : "24 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Racing de C.",
+    "awayTeam" : "Union de S.",
+    "homeScore" : 84,
+    "awayScore" : 80,
+    "matchDate" : "17 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penarol Mar",
+    "awayTeam" : "Racing de C.",
+    "homeScore" : 92,
+    "awayScore" : 64,
+    "matchDate" : "13 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "San Lorenzo",
+    "awayTeam" : "Boca Juniors",
+    "homeScore" : 77,
+    "awayScore" : 83,
+    "matchDate" : "4 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Lorenzo",
+    "awayTeam" : "G. Comodoro",
+    "homeScore" : 73,
+    "awayScore" : 81,
+    "matchDate" : "31 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Lorenzo",
+    "awayTeam" : "Ciclista Oli",
+    "homeScore" : 80,
+    "awayScore" : 69,
+    "matchDate" : "26 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Lorenzo",
+    "awayTeam" : "CA Platense",
+    "homeScore" : 107,
+    "awayScore" : 103,
+    "matchDate" : "19 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Penarol Mar",
+    "awayTeam" : "San Lorenzo",
+    "homeScore" : 71,
+    "awayScore" : 79,
+    "matchDate" : "15 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "San Lorenzo",
+    "homeScore" : 77,
+    "awayScore" : 72,
+    "matchDate" : "9 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.3333333333333333,
+  "alt" : 0.6666666666666667,
+  "ms2" : 0.3333333333333333,
+  "ms1" : 0.5833333333333333,
+  "max" : "Alt"
+}, {
+  "teamName" : "Argentino J. - Obera T. C.",
+  "teamEv" : "Argentino J.",
+  "teamDep" : "Obera T. C.",
+  "detailUrl" : "https://istatistik.nesine.com/2798582",
+  "odds" : {
+    "ms1" : 5.36,
+    "ms2" : 0.0,
+    "h1Value" : 12.5,
+    "h2Value" : -12.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Obera T. C.",
+    "awayTeam" : "Argentino J.",
+    "homeScore" : 87,
+    "awayScore" : 89,
+    "matchDate" : "25/26",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Obera T. C.",
+    "awayTeam" : "Argentino J.",
+    "homeScore" : 94,
+    "awayScore" : 48,
+    "matchDate" : "24/25",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "Obera T. C.",
+    "homeScore" : 67,
+    "awayScore" : 76,
+    "matchDate" : "24/25",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "Obera T. C.",
+    "homeScore" : 73,
+    "awayScore" : 78,
+    "matchDate" : "23/24",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Obera T. C.",
+    "awayTeam" : "Argentino J.",
+    "homeScore" : 103,
+    "awayScore" : 77,
+    "matchDate" : "23/24",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "Obera T. C.",
+    "homeScore" : 88,
+    "awayScore" : 89,
+    "matchDate" : "22/23",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Ferro Carril",
+    "awayTeam" : "Argentino J.",
+    "homeScore" : 100,
+    "awayScore" : 74,
+    "matchDate" : "6 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "San Martin",
+    "homeScore" : 79,
+    "awayScore" : 82,
+    "matchDate" : "29 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Obras S.",
+    "awayTeam" : "Argentino J.",
+    "homeScore" : 94,
+    "awayScore" : 75,
+    "matchDate" : "26 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "Quimsa S.",
+    "homeScore" : 75,
+    "awayScore" : 95,
+    "matchDate" : "22 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "Union de S.",
+    "homeScore" : 71,
+    "awayScore" : 91,
+    "matchDate" : "19 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "Independient",
+    "homeScore" : 83,
+    "awayScore" : 95,
+    "matchDate" : "9 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Racing de C.",
+    "awayTeam" : "Obera T. C.",
+    "homeScore" : 91,
+    "awayScore" : 84,
+    "matchDate" : "11 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ferro Carril",
+    "awayTeam" : "Obera T. C.",
+    "homeScore" : 75,
+    "awayScore" : 76,
+    "matchDate" : "9 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Obera T. C.",
+    "awayTeam" : "G. Comodoro",
+    "homeScore" : 77,
+    "awayScore" : 77,
+    "matchDate" : "28 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Obera T. C.",
+    "awayTeam" : "Boca Juniors",
+    "homeScore" : 78,
+    "awayScore" : 62,
+    "matchDate" : "26 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Obera T. C.",
+    "awayTeam" : "Independient",
+    "homeScore" : 87,
+    "awayScore" : 87,
+    "matchDate" : "21 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Obera T. C.",
+    "awayTeam" : "Ferro Carril",
+    "homeScore" : 84,
+    "awayScore" : 80,
+    "matchDate" : "18 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5,
+  "alt" : 0.5,
+  "ms2" : 0.7583333333333333,
+  "ms1" : 0.09166666666666666,
+  "max" : "MS2"
+}, {
+  "teamName" : "Piratas - Aguada Sante",
+  "teamEv" : "Piratas",
+  "teamDep" : "Aguada Sante",
+  "detailUrl" : "https://istatistik.nesine.com/2830471",
+  "odds" : {
+    "ms1" : 1.31,
+    "ms2" : 2.11,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.68,
+    "h2" : 1.55,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Piratas",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 99,
+    "awayScore" : 93,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Piratas",
+    "homeScore" : 90,
+    "awayScore" : 96,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Piratas",
+    "homeScore" : 92,
+    "awayScore" : 89,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Piratas",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 79,
+    "awayScore" : 77,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Piratas",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 117,
+    "awayScore" : 107,
+    "matchDate" : "2024",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Piratas",
+    "homeScore" : 105,
+    "awayScore" : 82,
+    "matchDate" : "2024",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Piratas",
+    "awayTeam" : "Capitanes de",
+    "homeScore" : 91,
+    "awayScore" : 91,
+    "matchDate" : "11 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Indios de Ma",
+    "awayTeam" : "Piratas",
+    "homeScore" : 103,
+    "awayScore" : 80,
+    "matchDate" : "9 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Piratas",
+    "awayTeam" : "Mets",
+    "homeScore" : 86,
+    "awayScore" : 89,
+    "matchDate" : "7 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Piratas",
+    "homeScore" : 102,
+    "awayScore" : 90,
+    "matchDate" : "5 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Capitanes de",
+    "awayTeam" : "Piratas",
+    "homeScore" : 79,
+    "awayScore" : 77,
+    "matchDate" : "3 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San German",
+    "awayTeam" : "Piratas",
+    "homeScore" : 76,
+    "awayScore" : 73,
+    "matchDate" : "31 Mar",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 102,
+    "awayScore" : 65,
+    "matchDate" : "11 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 88,
+    "awayScore" : 70,
+    "matchDate" : "8 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Criollas",
+    "homeScore" : 107,
+    "awayScore" : 103,
+    "matchDate" : "6 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 96,
+    "awayScore" : 79,
+    "matchDate" : "3 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Indios de Ma",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 72,
+    "awayScore" : 75,
+    "matchDate" : "1 Nis",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Capitanes de",
+    "homeScore" : 85,
+    "awayScore" : 83,
+    "matchDate" : "30 Mar",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.38333333333333336,
+  "alt" : 0.6166666666666667,
+  "ms2" : 0.7083333333333333,
+  "ms1" : 0.21666666666666667,
+  "max" : "MS2"
+}, {
+  "teamName" : "Dallas - Chicago",
+  "teamEv" : "Dallas",
+  "teamDep" : "Chicago",
+  "detailUrl" : "https://istatistik.nesine.com/2799242",
+  "odds" : {
+    "ms1" : 1.16,
+    "ms2" : 2.67,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 248.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Dallas",
+    "homeScore" : 125,
+    "awayScore" : 107,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Dallas",
+    "homeScore" : 119,
+    "awayScore" : 120,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dallas",
+    "awayTeam" : "Chicago",
+    "homeScore" : 119,
+    "awayScore" : 99,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Dallas",
+    "homeScore" : 92,
+    "awayScore" : 127,
+    "matchDate" : "23/24",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dallas",
+    "awayTeam" : "Chicago",
+    "homeScore" : 114,
+    "awayScore" : 105,
+    "matchDate" : "23/24",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dallas",
+    "awayTeam" : "Chicago",
+    "homeScore" : 112,
+    "awayScore" : 115,
+    "matchDate" : "22/23",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Dallas",
+    "homeScore" : 139,
+    "awayScore" : 120,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Dallas",
+    "homeScore" : 112,
+    "awayScore" : 107,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Dallas",
+    "homeScore" : 116,
+    "awayScore" : 103,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 134,
+    "awayScore" : 128,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas",
+    "awayTeam" : "Orlando",
+    "homeScore" : 127,
+    "awayScore" : 138,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Dallas",
+    "homeScore" : 123,
+    "awayScore" : 99,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Orlando",
+    "homeScore" : 103,
+    "awayScore" : 127,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Chicago",
+    "homeScore" : 108,
+    "awayScore" : 119,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Washington",
+    "awayTeam" : "Chicago",
+    "homeScore" : 98,
+    "awayScore" : 129,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 110,
+    "awayScore" : 120,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Chicago",
+    "homeScore" : 136,
+    "awayScore" : 96,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Indiana",
+    "homeScore" : 126,
+    "awayScore" : 145,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.3,
+  "alt" : 0.7,
+  "ms2" : 0.5583333333333333,
+  "ms1" : 0.44166666666666665,
+  "max" : "Alt"
+}, {
+  "teamName" : "Houston - Memphis",
+  "teamEv" : "Houston",
+  "teamDep" : "Memphis",
+  "detailUrl" : "https://istatistik.nesine.com/2800835",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.03,
+    "h1Value" : -13.5,
+    "h2Value" : 13.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 227.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Houston",
+    "homeScore" : 109,
+    "awayScore" : 119,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Memphis",
+    "homeScore" : 108,
+    "awayScore" : 99,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Houston",
+    "homeScore" : 109,
+    "awayScore" : 124,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Houston",
+    "homeScore" : 120,
+    "awayScore" : 119,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Memphis",
+    "homeScore" : 120,
+    "awayScore" : 118,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Houston",
+    "homeScore" : 115,
+    "awayScore" : 119,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 132,
+    "awayScore" : 136,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 113,
+    "awayScore" : 102,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Houston",
+    "homeScore" : 105,
+    "awayScore" : 119,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Houston",
+    "homeScore" : 116,
+    "awayScore" : 117,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Utah",
+    "homeScore" : 140,
+    "awayScore" : 106,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Milwaukee",
+    "homeScore" : 119,
+    "awayScore" : 113,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Utah",
+    "awayTeam" : "Memphis",
+    "homeScore" : 147,
+    "awayScore" : 101,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "Memphis",
+    "homeScore" : 136,
+    "awayScore" : 119,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 126,
+    "awayScore" : 142,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Milwaukee",
+    "awayTeam" : "Memphis",
+    "homeScore" : 131,
+    "awayScore" : 115,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "Toronto",
+    "homeScore" : 96,
+    "awayScore" : 128,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Memphis",
+    "awayTeam" : "New York",
+    "homeScore" : 119,
+    "awayScore" : 130,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.7583333333333333,
+  "alt" : 0.2416666666666667,
+  "ms2" : 0.09166666666666666,
+  "ms1" : 0.9083333333333334,
+  "max" : "MS1"
+}, {
+  "teamName" : "LA Clippers - Golden State",
+  "teamEv" : "LA Clippers",
+  "teamDep" : "Golden State",
+  "detailUrl" : "https://istatistik.nesine.com/2801942",
+  "odds" : {
+    "ms1" : 1.32,
+    "ms2" : 2.08,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 226.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 101,
+    "awayScore" : 114,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Golden State",
+    "homeScore" : 103,
+    "awayScore" : 102,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 98,
+    "awayScore" : 79,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 103,
+    "awayScore" : 106,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 111,
+    "awayScore" : 111,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Golden State",
+    "homeScore" : 102,
+    "awayScore" : 92,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Portland",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 116,
+    "awayScore" : 97,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 110,
+    "awayScore" : 128,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Dallas",
+    "homeScore" : 116,
+    "awayScore" : 103,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 109,
+    "awayScore" : 138,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 99,
+    "awayScore" : 118,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Portland",
+    "homeScore" : 104,
+    "awayScore" : 114,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "Golden State",
+    "homeScore" : 124,
+    "awayScore" : 118,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 103,
+    "awayScore" : 119,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 110,
+    "awayScore" : 105,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Houston",
+    "homeScore" : 116,
+    "awayScore" : 117,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 111,
+    "awayScore" : 118,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 113,
+    "awayScore" : 127,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44999999999999996,
+  "alt" : 0.55,
+  "ms2" : 0.39166666666666666,
+  "ms1" : 0.5916666666666667,
+  "max" : "MS1"
+}, {
+  "teamName" : "LA Lakers - Utah",
+  "teamEv" : "LA Lakers",
+  "teamDep" : "Utah",
+  "detailUrl" : "https://istatistik.nesine.com/2798312",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.65,
+    "h1Value" : -13.5,
+    "h2Value" : 13.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 235.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Utah",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 135,
+    "awayScore" : 143,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Utah",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 106,
+    "awayScore" : 108,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Utah",
+    "homeScore" : 140,
+    "awayScore" : 126,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Utah",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 131,
+    "awayScore" : 119,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Utah",
+    "homeScore" : 132,
+    "awayScore" : 113,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Utah",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 104,
+    "awayScore" : 105,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 101,
+    "awayScore" : 73,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 103,
+    "awayScore" : 119,
+    "matchDate" : "10 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 87,
+    "awayScore" : 123,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 134,
+    "awayScore" : 128,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 139,
+    "awayScore" : 96,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 127,
+    "awayScore" : 113,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Utah",
+    "awayTeam" : "Memphis",
+    "homeScore" : 147,
+    "awayScore" : 101,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New Orleans",
+    "awayTeam" : "Utah",
+    "homeScore" : 156,
+    "awayScore" : 137,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "Utah",
+    "homeScore" : 146,
+    "awayScore" : 111,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Utah",
+    "homeScore" : 140,
+    "awayScore" : 106,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Utah",
+    "awayTeam" : "Denver",
+    "homeScore" : 117,
+    "awayScore" : 130,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Utah",
+    "awayTeam" : "Cleveland",
+    "homeScore" : 113,
+    "awayScore" : 122,
+    "matchDate" : "31 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5916666666666667,
+  "alt" : 0.4083333333333333,
+  "ms2" : 0.31666666666666665,
+  "ms1" : 0.6833333333333333,
+  "max" : "MS1"
+}, {
+  "teamName" : "Minnesota - New Orleans",
+  "teamEv" : "Minnesota",
+  "teamDep" : "New Orleans",
+  "detailUrl" : "https://istatistik.nesine.com/2797167",
+  "odds" : {
+    "ms1" : 1.23,
+    "ms2" : 2.35,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 236.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 115,
+    "awayScore" : 119,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New Orleans",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 116,
+    "awayScore" : 125,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New Orleans",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 129,
+    "awayScore" : 129,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 98,
+    "awayScore" : 91,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 134,
+    "awayScore" : 93,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 115,
+    "awayScore" : 119,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Houston",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 132,
+    "awayScore" : 136,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 132,
+    "awayScore" : 120,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 104,
+    "awayScore" : 124,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "Charlotte",
+    "homeScore" : 108,
+    "awayScore" : 122,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Philadelphia",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 115,
+    "awayScore" : 103,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Detroit",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 113,
+    "awayScore" : 108,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Boston",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 144,
+    "awayScore" : 118,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New Orleans",
+    "awayTeam" : "Utah",
+    "homeScore" : 156,
+    "awayScore" : 137,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New Orleans",
+    "awayTeam" : "Orlando",
+    "homeScore" : 108,
+    "awayScore" : 112,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 117,
+    "awayScore" : 113,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portland",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 118,
+    "awayScore" : 106,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New Orleans",
+    "awayTeam" : "Houston",
+    "homeScore" : 102,
+    "awayScore" : 134,
+    "matchDate" : "30 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.3333333333333333,
+  "alt" : 0.6666666666666667,
+  "ms2" : 0.4083333333333333,
+  "ms1" : 0.575,
+  "max" : "Alt"
+}, {
+  "teamName" : "Oklahoma - Phoenix",
+  "teamEv" : "Oklahoma",
+  "teamDep" : "Phoenix",
+  "detailUrl" : "https://istatistik.nesine.com/2800109",
+  "odds" : {
+    "ms1" : 1.1,
+    "ms2" : 3.0,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 212.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 109,
+    "awayScore" : 136,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 108,
+    "awayScore" : 105,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 138,
+    "awayScore" : 89,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 123,
+    "awayScore" : 119,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 112,
+    "awayScore" : 125,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 140,
+    "awayScore" : 109,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Denver",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 127,
+    "awayScore" : 107,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 110,
+    "awayScore" : 128,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 87,
+    "awayScore" : 123,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "Utah",
+    "homeScore" : 146,
+    "awayScore" : 111,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "LA Lakers",
+    "homeScore" : 139,
+    "awayScore" : 96,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oklahoma",
+    "awayTeam" : "Detroit",
+    "homeScore" : 101,
+    "awayScore" : 101,
+    "matchDate" : "31 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "LA Lakers",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 101,
+    "awayScore" : 73,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Dallas",
+    "homeScore" : 112,
+    "awayScore" : 107,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Houston",
+    "homeScore" : 105,
+    "awayScore" : 119,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 110,
+    "awayScore" : 120,
+    "matchDate" : "5 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Charlotte",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 127,
+    "awayScore" : 107,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Orlando",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 115,
+    "awayScore" : 111,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.775,
+  "alt" : 0.22499999999999998,
+  "ms2" : 0.24166666666666664,
+  "ms1" : 0.6833333333333333,
+  "max" : "Üst"
+}, {
+  "teamName" : "Portland - Sacramento",
+  "teamEv" : "Portland",
+  "teamDep" : "Sacramento",
+  "detailUrl" : "https://istatistik.nesine.com/2800798",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 8.94,
+    "h1Value" : -17.5,
+    "h2Value" : 17.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 226.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "Portland",
+    "homeScore" : 110,
+    "awayScore" : 117,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "Portland",
+    "homeScore" : 93,
+    "awayScore" : 98,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Portland",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 115,
+    "awayScore" : 115,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Portland",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 124,
+    "awayScore" : 123,
+    "matchDate" : "2025",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "Portland",
+    "homeScore" : 128,
+    "awayScore" : 107,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Portland",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 108,
+    "awayScore" : 102,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Portland",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 116,
+    "awayScore" : 97,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Portland",
+    "homeScore" : 112,
+    "awayScore" : 101,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "Portland",
+    "homeScore" : 125,
+    "awayScore" : 125,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portland",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 118,
+    "awayScore" : 106,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "Portland",
+    "homeScore" : 104,
+    "awayScore" : 114,
+    "matchDate" : "1 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portland",
+    "awayTeam" : "Washington",
+    "homeScore" : 123,
+    "awayScore" : 88,
+    "matchDate" : "30 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "Golden State",
+    "homeScore" : 124,
+    "awayScore" : 118,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 110,
+    "awayScore" : 105,
+    "matchDate" : "8 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "LA Clippers",
+    "homeScore" : 109,
+    "awayScore" : 138,
+    "matchDate" : "6 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sacramento",
+    "awayTeam" : "New Orleans",
+    "homeScore" : 117,
+    "awayScore" : 113,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 115,
+    "awayScore" : 123,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brooklyn",
+    "awayTeam" : "Sacramento",
+    "homeScore" : 116,
+    "awayScore" : 99,
+    "matchDate" : "30 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44166666666666665,
+  "alt" : 0.5583333333333333,
+  "ms2" : 0.31666666666666665,
+  "ms1" : 0.5916666666666667,
+  "max" : "MS1"
+}, {
+  "teamName" : "San Antonio - Denver",
+  "teamEv" : "San Antonio",
+  "teamDep" : "Denver",
+  "detailUrl" : "https://istatistik.nesine.com/2798613",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.3,
+    "h1Value" : -11.5,
+    "h2Value" : 11.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 233.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Denver",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 124,
+    "awayScore" : 124,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Denver",
+    "homeScore" : 131,
+    "awayScore" : 136,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 136,
+    "awayScore" : 139,
+    "matchDate" : "25/26",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 106,
+    "awayScore" : 113,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Denver",
+    "homeScore" : 108,
+    "awayScore" : 108,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 110,
+    "awayScore" : 113,
+    "matchDate" : "24/25",
+    "tournament" : "NBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Dallas",
+    "homeScore" : 139,
+    "awayScore" : 120,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Portland",
+    "homeScore" : 112,
+    "awayScore" : 101,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Antonio",
+    "awayTeam" : "Philadelphia",
+    "homeScore" : 115,
+    "awayScore" : 102,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 124,
+    "awayScore" : 124,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LA Clippers",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 99,
+    "awayScore" : 118,
+    "matchDate" : "3 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 113,
+    "awayScore" : 127,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Denver",
+    "awayTeam" : "Oklahoma",
+    "homeScore" : 127,
+    "awayScore" : 107,
+    "matchDate" : "11 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "Memphis",
+    "homeScore" : 136,
+    "awayScore" : 119,
+    "matchDate" : "9 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "Portland",
+    "homeScore" : 125,
+    "awayScore" : 125,
+    "matchDate" : "7 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "San Antonio",
+    "homeScore" : 124,
+    "awayScore" : 124,
+    "matchDate" : "4 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Utah",
+    "awayTeam" : "Denver",
+    "homeScore" : 117,
+    "awayScore" : 130,
+    "matchDate" : "2 Nis",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Denver",
+    "awayTeam" : "Golden State",
+    "homeScore" : 116,
+    "awayScore" : 93,
+    "matchDate" : "30 Mar",
+    "tournament" : "NBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.65,
+  "alt" : 0.35,
+  "ms2" : 0.31666666666666665,
+  "ms1" : 0.425,
+  "max" : "Üst"
+}, {
+  "teamName" : "San Martin - Ciclista Oli",
+  "teamEv" : "San Martin",
+  "teamDep" : "Ciclista Oli",
+  "detailUrl" : "https://istatistik.nesine.com/2798917",
+  "odds" : {
+    "ms1" : 1.09,
+    "ms2" : 3.11,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 157.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Ciclista Oli",
+    "awayTeam" : "San Martin",
+    "homeScore" : 77,
+    "awayScore" : 64,
+    "matchDate" : "25/26",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "Ciclista Oli",
+    "homeScore" : 79,
+    "awayScore" : 78,
+    "matchDate" : "24/25",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Ciclista Oli",
+    "awayTeam" : "San Martin",
+    "homeScore" : 83,
+    "awayScore" : 71,
+    "matchDate" : "24/25",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Ciclista Oli",
+    "awayTeam" : "San Martin",
+    "homeScore" : 65,
+    "awayScore" : 69,
+    "matchDate" : "23/24",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "Ciclista Oli",
+    "homeScore" : 94,
+    "awayScore" : 75,
+    "matchDate" : "23/24",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "Ciclista Oli",
+    "homeScore" : 81,
+    "awayScore" : 66,
+    "matchDate" : "22/23",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "Obras S.",
+    "homeScore" : 63,
+    "awayScore" : 63,
+    "matchDate" : "8 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Argentino J.",
+    "awayTeam" : "San Martin",
+    "homeScore" : 79,
+    "awayScore" : 82,
+    "matchDate" : "29 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Racing de C.",
+    "awayTeam" : "San Martin",
+    "homeScore" : 91,
+    "awayScore" : 74,
+    "matchDate" : "27 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "Ferro Carril",
+    "homeScore" : 71,
+    "awayScore" : 65,
+    "matchDate" : "21 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "G. Comodoro",
+    "homeScore" : 66,
+    "awayScore" : 102,
+    "matchDate" : "12 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Martin",
+    "awayTeam" : "San Lorenzo",
+    "homeScore" : 77,
+    "awayScore" : 72,
+    "matchDate" : "9 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Regatas Cor.",
+    "awayTeam" : "Ciclista Oli",
+    "homeScore" : 99,
+    "awayScore" : 75,
+    "matchDate" : "11 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ciclista Oli",
+    "awayTeam" : "La Union",
+    "homeScore" : 87,
+    "awayScore" : 78,
+    "matchDate" : "6 Nis",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ciclista Oli",
+    "awayTeam" : "Quimsa S.",
+    "homeScore" : 86,
+    "awayScore" : 81,
+    "matchDate" : "29 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "San Lorenzo",
+    "awayTeam" : "Ciclista Oli",
+    "homeScore" : 80,
+    "awayScore" : 69,
+    "matchDate" : "26 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Union de S.",
+    "awayTeam" : "Ciclista Oli",
+    "homeScore" : 83,
+    "awayScore" : 101,
+    "matchDate" : "24 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ciclista Oli",
+    "awayTeam" : "Obras S.",
+    "homeScore" : 93,
+    "awayScore" : 85,
+    "matchDate" : "20 Mar",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.6166666666666667,
+  "alt" : 0.3833333333333333,
+  "ms2" : 0.4833333333333333,
+  "ms1" : 0.44166666666666665,
+  "max" : "Üst"
+}, {
+  "teamName" : "Dongbu Promy - KCC Egis",
+  "teamEv" : "Dongbu Promy",
+  "teamDep" : "KCC Egis",
+  "detailUrl" : "https://istatistik.nesine.com/2873825",
+  "odds" : {
+    "ms1" : 1.47,
+    "ms2" : 1.79,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "Dongbu Promy",
+    "homeScore" : 101,
+    "awayScore" : 109,
+    "matchDate" : "25/26",
+    "tournament" : "KBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dongbu Promy",
+    "awayTeam" : "KCC Egis",
+    "homeScore" : 84,
+    "awayScore" : 104,
+    "matchDate" : "25/26",
+    "tournament" : "KBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dongbu Promy",
+    "awayTeam" : "KCC Egis",
+    "homeScore" : 99,
+    "awayScore" : 74,
+    "matchDate" : "25/26",
+    "tournament" : "KBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "Dongbu Promy",
+    "homeScore" : 82,
+    "awayScore" : 99,
+    "matchDate" : "25/26",
+    "tournament" : "KBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "Dongbu Promy",
+    "homeScore" : 80,
+    "awayScore" : 77,
+    "matchDate" : "25/26",
+    "tournament" : "KBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dongbu Promy",
+    "awayTeam" : "KCC Egis",
+    "homeScore" : 84,
+    "awayScore" : 86,
+    "matchDate" : "25/26",
+    "tournament" : "KBL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "Dongbu Promy",
+    "homeScore" : 101,
+    "awayScore" : 109,
+    "matchDate" : "8 Nis",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dongbu Promy",
+    "awayTeam" : "S. Thunders",
+    "homeScore" : 80,
+    "awayScore" : 75,
+    "matchDate" : "4 Nis",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoebus",
+    "awayTeam" : "Dongbu Promy",
+    "homeScore" : 81,
+    "awayScore" : 90,
+    "matchDate" : "30 Mar",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Goyang",
+    "awayTeam" : "Dongbu Promy",
+    "homeScore" : 81,
+    "awayScore" : 92,
+    "matchDate" : "28 Mar",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dongbu Promy",
+    "awayTeam" : "Anyang KGC",
+    "homeScore" : 84,
+    "awayScore" : 87,
+    "matchDate" : "24 Mar",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dongbu Promy",
+    "awayTeam" : "Daegu PEG.",
+    "homeScore" : 78,
+    "awayScore" : 74,
+    "matchDate" : "22 Mar",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "Dongbu Promy",
+    "homeScore" : 101,
+    "awayScore" : 109,
+    "matchDate" : "8 Nis",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "LG Sakers",
+    "awayTeam" : "KCC Egis",
+    "homeScore" : 65,
+    "awayScore" : 74,
+    "matchDate" : "5 Nis",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "SK Knights",
+    "homeScore" : 81,
+    "awayScore" : 79,
+    "matchDate" : "1 Nis",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Daegu PEG.",
+    "awayTeam" : "KCC Egis",
+    "homeScore" : 80,
+    "awayScore" : 87,
+    "matchDate" : "29 Mar",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "KT Sonicboom",
+    "homeScore" : 79,
+    "awayScore" : 84,
+    "matchDate" : "27 Mar",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KCC Egis",
+    "awayTeam" : "S. Thunders",
+    "homeScore" : 100,
+    "awayScore" : 81,
+    "matchDate" : "21 Mar",
+    "tournament" : "KBL",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.275,
+  "alt" : 0.725,
+  "ms2" : 0.425,
+  "ms1" : 0.575,
+  "max" : "Alt"
+}, {
+  "teamName" : "Yongin - Bucheon",
+  "teamEv" : "Yongin",
+  "teamDep" : "Bucheon",
+  "detailUrl" : "https://istatistik.nesine.com/2868444",
+  "odds" : {
+    "ms1" : 1.58,
+    "ms2" : 1.66,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 129.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 74,
+    "awayScore" : 83,
+    "matchDate" : "25/26",
+    "tournament" : "WKB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 61,
+    "awayScore" : 56,
+    "matchDate" : "25/26",
+    "tournament" : "WKB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 75,
+    "awayScore" : 58,
+    "matchDate" : "25/26",
+    "tournament" : "WKB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Yongin",
+    "awayTeam" : "Bucheon",
+    "homeScore" : 74,
+    "awayScore" : 54,
+    "matchDate" : "25/26",
+    "tournament" : "WKB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 60,
+    "awayScore" : 62,
+    "matchDate" : "25/26",
+    "tournament" : "WKB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Yongin",
+    "awayTeam" : "Bucheon",
+    "homeScore" : 57,
+    "awayScore" : 75,
+    "matchDate" : "25/26",
+    "tournament" : "WKB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 74,
+    "awayScore" : 83,
+    "matchDate" : "11 Nis",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 61,
+    "awayScore" : 56,
+    "matchDate" : "9 Nis",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yongin",
+    "awayTeam" : "Woori Bank H",
+    "homeScore" : 50,
+    "awayScore" : 61,
+    "matchDate" : "3 Nis",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 75,
+    "awayScore" : 58,
+    "matchDate" : "29 Mar",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cheongju KB",
+    "awayTeam" : "Yongin",
+    "homeScore" : 69,
+    "awayScore" : 52,
+    "matchDate" : "27 Mar",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yongin",
+    "awayTeam" : "Incheon S.B.",
+    "homeScore" : 59,
+    "awayScore" : 50,
+    "matchDate" : "27 Şub",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 74,
+    "awayScore" : 83,
+    "matchDate" : "11 Nis",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 61,
+    "awayScore" : 56,
+    "matchDate" : "9 Nis",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Incheon S.B.",
+    "awayTeam" : "Bucheon",
+    "homeScore" : 77,
+    "awayScore" : 53,
+    "matchDate" : "1 Nis",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Yongin",
+    "homeScore" : 75,
+    "awayScore" : 58,
+    "matchDate" : "29 Mar",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Busan BNK S.",
+    "homeScore" : 67,
+    "awayScore" : 63,
+    "matchDate" : "28 Mar",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bucheon",
+    "awayTeam" : "Woori Bank H",
+    "homeScore" : 53,
+    "awayScore" : 51,
+    "matchDate" : "25 Mar",
+    "tournament" : "WKB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5,
+  "alt" : 0.5,
+  "ms2" : 0.6499999999999999,
+  "ms1" : 0.35,
+  "max" : "MS2"
+}, {
+  "teamName" : "Beijing R.F. - Shanxi L.",
+  "teamEv" : "Beijing R.F.",
+  "teamDep" : "Shanxi L.",
+  "detailUrl" : "https://istatistik.nesine.com/2799043",
+  "odds" : {
+    "ms1" : 1.82,
+    "ms2" : 1.45,
+    "h1Value" : 2.5,
+    "h2Value" : -2.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 192.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 107,
+    "awayScore" : 102,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 99,
+    "awayScore" : 86,
+    "matchDate" : "25/26",
+    "tournament" : "CBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Beijing R.F.",
+    "awayTeam" : "Shanxi L.",
+    "homeScore" : 116,
+    "awayScore" : 107,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Beijing R.F.",
+    "awayTeam" : "Shanxi L.",
+    "homeScore" : 88,
+    "awayScore" : 88,
+    "matchDate" : "24/25",
+    "tournament" : "CBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 125,
+    "awayScore" : 105,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 104,
+    "awayScore" : 72,
+    "matchDate" : "2024",
+    "tournament" : "CBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Beijing R.F.",
+    "awayTeam" : "Beijing D.",
+    "homeScore" : 65,
+    "awayScore" : 84,
+    "matchDate" : "10 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 101,
+    "awayScore" : 92,
+    "matchDate" : "8 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 89,
+    "awayScore" : 88,
+    "matchDate" : "6 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Beijing R.F.",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 103,
+    "awayScore" : 104,
+    "matchDate" : "4 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Beijing R.F.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 89,
+    "awayScore" : 88,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Qingdao E.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 105,
+    "awayScore" : 80,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Xinjiang F.T",
+    "homeScore" : 93,
+    "awayScore" : 86,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 98,
+    "awayScore" : 103,
+    "matchDate" : "9 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Qingdao E.",
+    "homeScore" : 97,
+    "awayScore" : 100,
+    "matchDate" : "6 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Shanxi L.",
+    "homeScore" : 86,
+    "awayScore" : 102,
+    "matchDate" : "4 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Shanxi L.",
+    "homeScore" : 81,
+    "awayScore" : 103,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Shanghai S.",
+    "homeScore" : 96,
+    "awayScore" : 100,
+    "matchDate" : "29 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.42500000000000004,
+  "alt" : 0.575,
+  "ms2" : 0.6666666666666666,
+  "ms1" : 0.31666666666666665,
+  "max" : "MS2"
+}, {
+  "teamName" : "Fujian Stur. - Zhejiang G.B",
+  "teamEv" : "Fujian Stur.",
+  "teamDep" : "Zhejiang G.B",
+  "detailUrl" : "https://istatistik.nesine.com/2797672",
+  "odds" : {
+    "ms1" : 2.29,
+    "ms2" : 1.25,
+    "h1Value" : 5.5,
+    "h2Value" : -5.5,
+    "h1" : 1.56,
+    "h2" : 1.67,
+    "hOverUnderValue" : 186.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 96,
+    "awayScore" : 87,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 88,
+    "awayScore" : 79,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 134,
+    "awayScore" : 112,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Fujian Stur.",
+    "awayTeam" : "Zhejiang G.B",
+    "homeScore" : 103,
+    "awayScore" : 126,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Fujian Stur.",
+    "awayTeam" : "Zhejiang G.B",
+    "homeScore" : 81,
+    "awayScore" : 105,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 128,
+    "awayScore" : 104,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Shanghai S.",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 119,
+    "awayScore" : 116,
+    "matchDate" : "10 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 112,
+    "awayScore" : 103,
+    "matchDate" : "7 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 96,
+    "awayScore" : 87,
+    "matchDate" : "5 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fujian Stur.",
+    "awayTeam" : "Qingdao E.",
+    "homeScore" : 102,
+    "awayScore" : 92,
+    "matchDate" : "3 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shandong H.",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 102,
+    "awayScore" : 93,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fujian Stur.",
+    "awayTeam" : "Lioning F.L.",
+    "homeScore" : 94,
+    "awayScore" : 102,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 95,
+    "awayScore" : 72,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Zhejiang G.B",
+    "homeScore" : 77,
+    "awayScore" : 89,
+    "matchDate" : "9 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 96,
+    "awayScore" : 87,
+    "matchDate" : "5 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Lioning F.L.",
+    "homeScore" : 81,
+    "awayScore" : 76,
+    "matchDate" : "3 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Beijing D.",
+    "homeScore" : 81,
+    "awayScore" : 66,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 87,
+    "awayScore" : 70,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.425,
+  "alt" : 0.575,
+  "ms2" : 0.925,
+  "ms1" : 0.075,
+  "max" : "MS2"
+}, {
+  "teamName" : "Guangzhou L. - Jiangsu D.",
+  "teamEv" : "Guangzhou L.",
+  "teamDep" : "Jiangsu D.",
+  "detailUrl" : "https://istatistik.nesine.com/2798394",
+  "odds" : {
+    "ms1" : 1.06,
+    "ms2" : 3.36,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 86,
+    "awayScore" : 93,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 91,
+    "awayScore" : 100,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Guangzhou L.",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 84,
+    "awayScore" : 84,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 102,
+    "awayScore" : 91,
+    "matchDate" : "24/25",
+    "tournament" : "CBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Guangzhou L.",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 101,
+    "awayScore" : 79,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 102,
+    "awayScore" : 100,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Philippine A",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 101,
+    "awayScore" : 97,
+    "matchDate" : "12 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 81,
+    "awayScore" : 95,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Guangzhou L.",
+    "awayTeam" : "Billion Star",
+    "homeScore" : 84,
+    "awayScore" : 68,
+    "matchDate" : "11 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 67,
+    "awayScore" : 84,
+    "matchDate" : "10 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Guangzhou L.",
+    "awayTeam" : "Beijing D.",
+    "homeScore" : 94,
+    "awayScore" : 103,
+    "matchDate" : "8 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Thailand Tit",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 102,
+    "awayScore" : 100,
+    "matchDate" : "8 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 93,
+    "awayScore" : 88,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Zhejiang G.B",
+    "homeScore" : 77,
+    "awayScore" : 89,
+    "matchDate" : "9 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jiangsu D.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 89,
+    "awayScore" : 88,
+    "matchDate" : "6 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 99,
+    "awayScore" : 96,
+    "matchDate" : "4 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Guandong S.T",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 101,
+    "awayScore" : 92,
+    "matchDate" : "31 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.L",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 91,
+    "awayScore" : 53,
+    "matchDate" : "29 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.6833333333333333,
+  "alt" : 0.31666666666666665,
+  "ms2" : 0.33333333333333337,
+  "ms1" : 0.65,
+  "max" : "Üst"
+}, {
+  "teamName" : "Jilin N.T. - Nanjing M.K.",
+  "teamEv" : "Jilin N.T.",
+  "teamDep" : "Nanjing M.K.",
+  "detailUrl" : "https://istatistik.nesine.com/2797564",
+  "odds" : {
+    "ms1" : 1.49,
+    "ms2" : 1.75,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 185.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Jilin N.T.",
+    "homeScore" : 104,
+    "awayScore" : 82,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Nanjing M.K.",
+    "homeScore" : 93,
+    "awayScore" : 115,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Jilin N.T.",
+    "homeScore" : 106,
+    "awayScore" : 85,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Nanjing M.K.",
+    "homeScore" : 113,
+    "awayScore" : 110,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Nanjing M.K.",
+    "homeScore" : 125,
+    "awayScore" : 118,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Jilin N.T.",
+    "homeScore" : 102,
+    "awayScore" : 98,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Guandong S.T",
+    "awayTeam" : "Jilin N.T.",
+    "homeScore" : 117,
+    "awayScore" : 84,
+    "matchDate" : "10 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 103,
+    "awayScore" : 84,
+    "matchDate" : "7 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shanghai S.",
+    "awayTeam" : "Jilin N.T.",
+    "homeScore" : 111,
+    "awayScore" : 72,
+    "matchDate" : "5 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 104,
+    "awayScore" : 84,
+    "matchDate" : "3 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Shanghai S.",
+    "homeScore" : 89,
+    "awayScore" : 110,
+    "matchDate" : "31 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 86,
+    "awayScore" : 111,
+    "matchDate" : "29 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 81,
+    "awayScore" : 95,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Beijing R.F.",
+    "homeScore" : 101,
+    "awayScore" : 92,
+    "matchDate" : "8 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Beijing D.",
+    "awayTeam" : "Nanjing M.K.",
+    "homeScore" : 106,
+    "awayScore" : 92,
+    "matchDate" : "6 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 99,
+    "awayScore" : 96,
+    "matchDate" : "4 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Ningbo R.",
+    "homeScore" : 86,
+    "awayScore" : 89,
+    "matchDate" : "2 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nanjing M.K.",
+    "awayTeam" : "Beijing D.",
+    "homeScore" : 88,
+    "awayScore" : 90,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.7,
+  "alt" : 0.30000000000000004,
+  "ms2" : 0.5166666666666666,
+  "ms1" : 0.4833333333333333,
+  "max" : "Üst"
+}, {
+  "teamName" : "Shandong H. - Lioning F.L.",
+  "teamEv" : "Shandong H.",
+  "teamDep" : "Lioning F.L.",
+  "detailUrl" : "https://istatistik.nesine.com/2798505",
+  "odds" : {
+    "ms1" : 1.37,
+    "ms2" : 1.95,
+    "h1Value" : -3.5,
+    "h2Value" : 3.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 79,
+    "awayScore" : 84,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 116,
+    "awayScore" : 90,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shandong H.",
+    "awayTeam" : "Lioning F.L.",
+    "homeScore" : 102,
+    "awayScore" : 116,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 91,
+    "awayScore" : 83,
+    "matchDate" : "2024",
+    "tournament" : "CBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 103,
+    "awayScore" : 86,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shandong H.",
+    "awayTeam" : "Lioning F.L.",
+    "homeScore" : 108,
+    "awayScore" : 111,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 95,
+    "awayScore" : 72,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.L",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 103,
+    "awayScore" : 97,
+    "matchDate" : "8 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shandong H.",
+    "awayTeam" : "Guandong S.T",
+    "homeScore" : 99,
+    "awayScore" : 86,
+    "matchDate" : "6 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ningbo R.",
+    "awayTeam" : "Shandong H.",
+    "homeScore" : 96,
+    "awayScore" : 66,
+    "matchDate" : "4 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shandong H.",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 102,
+    "awayScore" : 93,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shandong H.",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 111,
+    "awayScore" : 103,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Qingdao E.",
+    "awayTeam" : "Lioning F.L.",
+    "homeScore" : 77,
+    "awayScore" : 77,
+    "matchDate" : "10 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Fujian Stur.",
+    "homeScore" : 112,
+    "awayScore" : 103,
+    "matchDate" : "7 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 106,
+    "awayScore" : 64,
+    "matchDate" : "5 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zhejiang G.B",
+    "awayTeam" : "Lioning F.L.",
+    "homeScore" : 81,
+    "awayScore" : 76,
+    "matchDate" : "3 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Xinjiang F.T",
+    "homeScore" : 87,
+    "awayScore" : 75,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fujian Stur.",
+    "awayTeam" : "Lioning F.L.",
+    "homeScore" : 94,
+    "awayScore" : 102,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5166666666666666,
+  "alt" : 0.4833333333333334,
+  "ms2" : 0.6083333333333334,
+  "ms1" : 0.31666666666666665,
+  "max" : "MS2"
+}, {
+  "teamName" : "Sichuan B.W. - Shenzhen A.",
+  "teamEv" : "Sichuan B.W.",
+  "teamDep" : "Shenzhen A.",
+  "detailUrl" : "https://istatistik.nesine.com/2800534",
+  "odds" : {
+    "ms1" : 16.95,
+    "ms2" : 0.0,
+    "h1Value" : 31.5,
+    "h2Value" : -31.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 185.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 96,
+    "awayScore" : 87,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 97,
+    "awayScore" : 105,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 93,
+    "awayScore" : 111,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 120,
+    "awayScore" : 108,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 69,
+    "awayScore" : 88,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 117,
+    "awayScore" : 98,
+    "matchDate" : "22/23",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 86,
+    "awayScore" : 111,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Thailand Tit",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 78,
+    "awayScore" : 70,
+    "matchDate" : "11 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Guangzhou L.",
+    "homeScore" : 67,
+    "awayScore" : 84,
+    "matchDate" : "10 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Macau Black",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 76,
+    "awayScore" : 70,
+    "matchDate" : "8 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jilin N.T.",
+    "awayTeam" : "Sichuan B.W.",
+    "homeScore" : 103,
+    "awayScore" : 84,
+    "matchDate" : "7 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Vanta Black",
+    "homeScore" : 86,
+    "awayScore" : 87,
+    "matchDate" : "7 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Thailand Tit",
+    "homeScore" : 95,
+    "awayScore" : 81,
+    "matchDate" : "12 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Jiangsu D.",
+    "homeScore" : 93,
+    "awayScore" : 88,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shenzhen A.",
+    "awayTeam" : "Philippine A",
+    "homeScore" : 88,
+    "awayScore" : 102,
+    "matchDate" : "11 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Macau Black",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 87,
+    "awayScore" : 109,
+    "matchDate" : "10 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 98,
+    "awayScore" : 103,
+    "matchDate" : "9 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Vanta Black",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 79,
+    "awayScore" : 91,
+    "matchDate" : "8 Nis",
+    "tournament" : "THE",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44166666666666665,
+  "alt" : 0.5583333333333333,
+  "ms2" : 0.9083333333333333,
+  "ms1" : 0.09166666666666666,
+  "max" : "MS2"
+}, {
+  "teamName" : "Tianjin P. - Xinjiang F.T",
+  "teamEv" : "Tianjin P.",
+  "teamDep" : "Xinjiang F.T",
+  "detailUrl" : "https://istatistik.nesine.com/2801327",
+  "odds" : {
+    "ms1" : 1.3,
+    "ms2" : 2.14,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 189.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 92,
+    "awayScore" : 92,
+    "matchDate" : "25/26",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 104,
+    "awayScore" : 83,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Tianjin P.",
+    "awayTeam" : "Xinjiang F.T",
+    "homeScore" : 97,
+    "awayScore" : 117,
+    "matchDate" : "24/25",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 121,
+    "awayScore" : 103,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Tianjin P.",
+    "awayTeam" : "Xinjiang F.T",
+    "homeScore" : 96,
+    "awayScore" : 118,
+    "matchDate" : "23/24",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 98,
+    "awayScore" : 91,
+    "matchDate" : "22/23",
+    "tournament" : "ÇİN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Sichuan B.W.",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 86,
+    "awayScore" : 111,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 92,
+    "awayScore" : 92,
+    "matchDate" : "8 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Tianjin P.",
+    "awayTeam" : "Ningbo R.",
+    "homeScore" : 102,
+    "awayScore" : 89,
+    "matchDate" : "6 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shanghai S.",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 102,
+    "awayScore" : 92,
+    "matchDate" : "3 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Qingdao E.",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 94,
+    "awayScore" : 90,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Shandong H.",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 111,
+    "awayScore" : 103,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Shanxi L.",
+    "awayTeam" : "Xinjiang F.T",
+    "homeScore" : 93,
+    "awayScore" : 86,
+    "matchDate" : "11 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Tianjin P.",
+    "homeScore" : 92,
+    "awayScore" : 92,
+    "matchDate" : "8 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Shenzhen A.",
+    "homeScore" : 97,
+    "awayScore" : 102,
+    "matchDate" : "6 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Shanxi L.",
+    "homeScore" : 86,
+    "awayScore" : 102,
+    "matchDate" : "4 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lioning F.L.",
+    "awayTeam" : "Xinjiang F.T",
+    "homeScore" : 87,
+    "awayScore" : 75,
+    "matchDate" : "1 Nis",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Xinjiang F.T",
+    "awayTeam" : "Ningbo R.",
+    "homeScore" : 70,
+    "awayScore" : 73,
+    "matchDate" : "30 Mar",
+    "tournament" : "ÇİN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.425,
+  "alt" : 0.575,
+  "ms2" : 0.30833333333333335,
+  "ms1" : 0.525,
+  "max" : "Alt"
+}, {
+  "teamName" : "Kk Rogaska - KK Podcetrte",
+  "teamEv" : "Kk Rogaska",
+  "teamDep" : "KK Podcetrte",
+  "detailUrl" : "https://istatistik.nesine.com/2799967",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.91,
+    "h1Value" : -9.5,
+    "h2Value" : 9.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Kk Rogaska",
+    "awayTeam" : "KK Podcetrte",
+    "homeScore" : 86,
+    "awayScore" : 75,
+    "matchDate" : "25/26",
+    "tournament" : "1.",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "KK Podcetrte",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 98,
+    "awayScore" : 91,
+    "matchDate" : "25/26",
+    "tournament" : "1.",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "KK Podcetrte",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 86,
+    "awayScore" : 76,
+    "matchDate" : "24/25",
+    "tournament" : "1.",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kk Rogaska",
+    "awayTeam" : "KK Podcetrte",
+    "homeScore" : 75,
+    "awayScore" : 83,
+    "matchDate" : "24/25",
+    "tournament" : "1.",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "KK Podcetrte",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 75,
+    "awayScore" : 70,
+    "matchDate" : "24/25",
+    "tournament" : "1.",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kk Rogaska",
+    "awayTeam" : "KK Podcetrte",
+    "homeScore" : 80,
+    "awayScore" : 70,
+    "matchDate" : "23/24",
+    "tournament" : "1.",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Polzela",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 84,
+    "awayScore" : 84,
+    "matchDate" : "6 Nis",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Sentjur",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 82,
+    "awayScore" : 87,
+    "matchDate" : "28 Mar",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Rogaska",
+    "awayTeam" : "KD Ilirija",
+    "homeScore" : 83,
+    "awayScore" : 84,
+    "matchDate" : "16 Mar",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Sencur",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 79,
+    "awayScore" : 78,
+    "matchDate" : "9 Mar",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Sencur",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 82,
+    "awayScore" : 61,
+    "matchDate" : "14 Şub",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KD Ilirija",
+    "awayTeam" : "Kk Rogaska",
+    "homeScore" : 87,
+    "awayScore" : 89,
+    "matchDate" : "4 Şub",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "KK Podcetrte",
+    "awayTeam" : "KK Sentjur",
+    "homeScore" : 63,
+    "awayScore" : 82,
+    "matchDate" : "4 Nis",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KD Ilirija",
+    "awayTeam" : "KK Podcetrte",
+    "homeScore" : 103,
+    "awayScore" : 81,
+    "matchDate" : "25 Mar",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Podcetrte",
+    "awayTeam" : "KK Sencur",
+    "homeScore" : 51,
+    "awayScore" : 96,
+    "matchDate" : "16 Mar",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Helios Suns",
+    "awayTeam" : "KK Podcetrte",
+    "homeScore" : 87,
+    "awayScore" : 79,
+    "matchDate" : "9 Mar",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Helios Suns",
+    "awayTeam" : "KK Podcetrte",
+    "homeScore" : 84,
+    "awayScore" : 80,
+    "matchDate" : "16 Şub",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Podcetrte",
+    "awayTeam" : "Krka",
+    "homeScore" : 49,
+    "awayScore" : 90,
+    "matchDate" : "4 Şub",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.31666666666666665,
+  "alt" : 0.6833333333333333,
+  "ms2" : 0.2916666666666667,
+  "ms1" : 0.6333333333333333,
+  "max" : "Alt"
+}, {
+  "teamName" : "Kk Viimsi - Kk Parnu",
+  "teamEv" : "Kk Viimsi",
+  "teamDep" : "Kk Parnu",
+  "detailUrl" : "https://istatistik.nesine.com/2879341",
+  "odds" : {
+    "ms1" : 3.58,
+    "ms2" : 0.0,
+    "h1Value" : 8.5,
+    "h2Value" : -8.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 160.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 87,
+    "awayScore" : 81,
+    "matchDate" : "2026",
+    "tournament" : "KML",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 88,
+    "awayScore" : 75,
+    "matchDate" : "25/26",
+    "tournament" : "EST",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kk Viimsi",
+    "awayTeam" : "Kk Parnu",
+    "homeScore" : 76,
+    "awayScore" : 88,
+    "matchDate" : "25/26",
+    "tournament" : "EST",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kk Viimsi",
+    "awayTeam" : "Kk Parnu",
+    "homeScore" : 70,
+    "awayScore" : 80,
+    "matchDate" : "24/25",
+    "tournament" : "EST",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 74,
+    "awayScore" : 80,
+    "matchDate" : "24/25",
+    "tournament" : "EST",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kk Viimsi",
+    "awayTeam" : "Kk Parnu",
+    "homeScore" : 76,
+    "awayScore" : 87,
+    "matchDate" : "23/24",
+    "tournament" : "EST",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 87,
+    "awayScore" : 81,
+    "matchDate" : "10 Nis",
+    "tournament" : "KML",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rigas Zelli",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 90,
+    "awayScore" : 74,
+    "matchDate" : "14 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 88,
+    "awayScore" : 75,
+    "matchDate" : "11 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Viimsi",
+    "awayTeam" : "Riga ASK",
+    "homeScore" : 62,
+    "awayScore" : 107,
+    "matchDate" : "8 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Viimsi",
+    "awayTeam" : "Liepaja",
+    "homeScore" : 76,
+    "awayScore" : 71,
+    "matchDate" : "4 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Viimsi",
+    "awayTeam" : "Keila Korvpa",
+    "homeScore" : 95,
+    "awayScore" : 73,
+    "matchDate" : "22 Şub",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 87,
+    "awayScore" : 81,
+    "matchDate" : "10 Nis",
+    "tournament" : "KML",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Tartu",
+    "homeScore" : 74,
+    "awayScore" : 74,
+    "matchDate" : "23 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Tartu",
+    "awayTeam" : "Kk Parnu",
+    "homeScore" : 80,
+    "awayScore" : 71,
+    "matchDate" : "20 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Kk Viimsi",
+    "homeScore" : 88,
+    "awayScore" : 75,
+    "matchDate" : "11 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rigas Zelli",
+    "awayTeam" : "Kk Parnu",
+    "homeScore" : 83,
+    "awayScore" : 75,
+    "matchDate" : "7 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Parnu",
+    "awayTeam" : "Tartu",
+    "homeScore" : 70,
+    "awayScore" : 91,
+    "matchDate" : "4 Mar",
+    "tournament" : "EST",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.6666666666666666,
+  "alt" : 0.33333333333333337,
+  "ms2" : 0.5333333333333333,
+  "ms1" : 0.39166666666666666,
+  "max" : "Üst"
+}, {
+  "teamName" : "Kızılyıldız - Cluj Napoca",
+  "teamEv" : "Kızılyıldız",
+  "teamDep" : "Cluj Napoca",
+  "detailUrl" : "https://istatistik.nesine.com/2797986",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.09,
+    "h1Value" : -10.5,
+    "h2Value" : 10.5,
+    "h1" : 1.57,
+    "h2" : 1.67,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Cluj Napoca",
+    "awayTeam" : "Kızılyıldız",
+    "homeScore" : 85,
+    "awayScore" : 97,
+    "matchDate" : "25/26",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Villeurbanne",
+    "awayTeam" : "Kızılyıldız",
+    "homeScore" : 93,
+    "awayScore" : 106,
+    "matchDate" : "10 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kızılyıldız",
+    "awayTeam" : "Paris",
+    "homeScore" : 94,
+    "awayScore" : 81,
+    "matchDate" : "7 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Igokea",
+    "awayTeam" : "Kızılyıldız",
+    "homeScore" : 73,
+    "awayScore" : 86,
+    "matchDate" : "4 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kızılyıldız",
+    "awayTeam" : "Partizan",
+    "homeScore" : 82,
+    "awayScore" : 89,
+    "matchDate" : "2 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kızılyıldız",
+    "awayTeam" : "BC Dubai",
+    "homeScore" : 84,
+    "awayScore" : 82,
+    "matchDate" : "30 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Barcelona",
+    "awayTeam" : "Kızılyıldız",
+    "homeScore" : 75,
+    "awayScore" : 75,
+    "matchDate" : "27 Mar",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Cluj Napoca",
+    "awayTeam" : "KK Bosna",
+    "homeScore" : 90,
+    "awayScore" : 98,
+    "matchDate" : "5 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Cedevita",
+    "awayTeam" : "Cluj Napoca",
+    "homeScore" : 72,
+    "awayScore" : 84,
+    "matchDate" : "28 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cluj Napoca",
+    "awayTeam" : "KK Cedevita",
+    "homeScore" : 98,
+    "awayScore" : 95,
+    "matchDate" : "25 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Bosna",
+    "awayTeam" : "Cluj Napoca",
+    "homeScore" : 90,
+    "awayScore" : 93,
+    "matchDate" : "22 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bahçeşehir",
+    "awayTeam" : "Cluj Napoca",
+    "homeScore" : 75,
+    "awayScore" : 72,
+    "matchDate" : "17 Mar",
+    "tournament" : "AVK",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "Cluj Napoca",
+    "homeScore" : 94,
+    "awayScore" : 89,
+    "matchDate" : "14 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.41666666666666663,
+  "alt" : 0.5833333333333334,
+  "ms2" : 0.3333333333333333,
+  "ms1" : 0.5833333333333333,
+  "max" : "Alt"
+}, {
+  "teamName" : "Studentsk C. - Mega Basket",
+  "teamEv" : "Studentsk C.",
+  "teamDep" : "Mega Basket",
+  "detailUrl" : "https://istatistik.nesine.com/2797435",
+  "odds" : {
+    "ms1" : 1.28,
+    "ms2" : 2.17,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Mega Basket",
+    "awayTeam" : "Studentsk C.",
+    "homeScore" : 90,
+    "awayScore" : 76,
+    "matchDate" : "25/26",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Mega Basket",
+    "awayTeam" : "Studentsk C.",
+    "homeScore" : 83,
+    "awayScore" : 81,
+    "matchDate" : "24/25",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Studentsk C.",
+    "awayTeam" : "Mega Basket",
+    "homeScore" : 77,
+    "awayScore" : 82,
+    "matchDate" : "24/25",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Mega Basket",
+    "awayTeam" : "Studentsk C.",
+    "homeScore" : 88,
+    "awayScore" : 79,
+    "matchDate" : "23/24",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Studentsk C.",
+    "awayTeam" : "Mega Basket",
+    "homeScore" : 89,
+    "awayScore" : 82,
+    "matchDate" : "23/24",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Studentsk C.",
+    "awayTeam" : "Mega Basket",
+    "homeScore" : 83,
+    "awayScore" : 103,
+    "matchDate" : "22/23",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Studentsk C.",
+    "awayTeam" : "BC Vienna",
+    "homeScore" : 83,
+    "awayScore" : 72,
+    "matchDate" : "4 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Studentsk C.",
+    "awayTeam" : "KK Teodo",
+    "homeScore" : 83,
+    "awayScore" : 83,
+    "matchDate" : "2 Nis",
+    "tournament" : "I A",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kk Vukovi Ze",
+    "awayTeam" : "Studentsk C.",
+    "homeScore" : 79,
+    "awayScore" : 68,
+    "matchDate" : "30 Mar",
+    "tournament" : "I A",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Spartak Subo",
+    "awayTeam" : "Studentsk C.",
+    "homeScore" : 77,
+    "awayScore" : 71,
+    "matchDate" : "30 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Studentsk C.",
+    "awayTeam" : "KK Ibar Roza",
+    "homeScore" : 102,
+    "awayScore" : 67,
+    "matchDate" : "25 Mar",
+    "tournament" : "I A",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zadar",
+    "awayTeam" : "Studentsk C.",
+    "homeScore" : 69,
+    "awayScore" : 62,
+    "matchDate" : "23 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Mega Basket",
+    "awayTeam" : "Krka",
+    "homeScore" : 82,
+    "awayScore" : 82,
+    "matchDate" : "6 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Parma Permsk",
+    "awayTeam" : "Mega Basket",
+    "homeScore" : 92,
+    "awayScore" : 70,
+    "matchDate" : "31 Mar",
+    "tournament" : "UNI",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mega Basket",
+    "awayTeam" : "FMP",
+    "homeScore" : 79,
+    "awayScore" : 84,
+    "matchDate" : "28 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KK Split",
+    "awayTeam" : "Mega Basket",
+    "homeScore" : 96,
+    "awayScore" : 74,
+    "matchDate" : "22 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Krka",
+    "awayTeam" : "Mega Basket",
+    "homeScore" : 78,
+    "awayScore" : 82,
+    "matchDate" : "19 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mega Basket",
+    "awayTeam" : "Borac Cacak",
+    "homeScore" : 95,
+    "awayScore" : 77,
+    "matchDate" : "15 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.2583333333333333,
+  "alt" : 0.7416666666666667,
+  "ms2" : 0.45833333333333337,
+  "ms1" : 0.39166666666666666,
+  "max" : "Alt"
+}, {
+  "teamName" : "Sodertalje - Norrkoping D",
+  "teamEv" : "Sodertalje",
+  "teamDep" : "Norrkoping D",
+  "detailUrl" : "https://istatistik.nesine.com/2853084",
+  "odds" : {
+    "ms1" : 1.16,
+    "ms2" : 2.64,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Norrkoping D",
+    "awayTeam" : "Sodertalje",
+    "homeScore" : 59,
+    "awayScore" : 66,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sodertalje",
+    "awayTeam" : "Norrkoping D",
+    "homeScore" : 82,
+    "awayScore" : 86,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Norrkoping D",
+    "awayTeam" : "Sodertalje",
+    "homeScore" : 72,
+    "awayScore" : 89,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sodertalje",
+    "awayTeam" : "Norrkoping D",
+    "homeScore" : 68,
+    "awayScore" : 71,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sodertalje",
+    "awayTeam" : "Norrkoping D",
+    "homeScore" : 67,
+    "awayScore" : 80,
+    "matchDate" : "24/25",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Norrkoping D",
+    "awayTeam" : "Sodertalje",
+    "homeScore" : 86,
+    "awayScore" : 79,
+    "matchDate" : "24/25",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Norrkoping D",
+    "awayTeam" : "Sodertalje",
+    "homeScore" : 59,
+    "awayScore" : 66,
+    "matchDate" : "11 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sodertalje",
+    "awayTeam" : "Norrkoping D",
+    "homeScore" : 82,
+    "awayScore" : 86,
+    "matchDate" : "8 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sodertalje",
+    "awayTeam" : "Hogsbo B.",
+    "homeScore" : 91,
+    "awayScore" : 57,
+    "matchDate" : "30 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hogsbo B.",
+    "awayTeam" : "Sodertalje",
+    "homeScore" : 79,
+    "awayScore" : 79,
+    "matchDate" : "28 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "AIK Basket",
+    "awayTeam" : "Sodertalje",
+    "homeScore" : 68,
+    "awayScore" : 66,
+    "matchDate" : "21 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sodertalje",
+    "awayTeam" : "Visby Ladies",
+    "homeScore" : 96,
+    "awayScore" : 52,
+    "matchDate" : "8 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Norrkoping D",
+    "awayTeam" : "Sodertalje",
+    "homeScore" : 59,
+    "awayScore" : 66,
+    "matchDate" : "11 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sodertalje",
+    "awayTeam" : "Norrkoping D",
+    "homeScore" : 82,
+    "awayScore" : 86,
+    "matchDate" : "8 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norrkoping D",
+    "awayTeam" : "Uppsala B.",
+    "homeScore" : 85,
+    "awayScore" : 75,
+    "matchDate" : "30 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uppsala B.",
+    "awayTeam" : "Norrkoping D",
+    "homeScore" : 81,
+    "awayScore" : 85,
+    "matchDate" : "28 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ostersund B.",
+    "awayTeam" : "Norrkoping D",
+    "homeScore" : 85,
+    "awayScore" : 80,
+    "matchDate" : "21 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norrkoping D",
+    "awayTeam" : "Lulea Bbk",
+    "homeScore" : 74,
+    "awayScore" : 80,
+    "matchDate" : "7 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.575,
+  "alt" : 0.42500000000000004,
+  "ms2" : 0.44166666666666665,
+  "ms1" : 0.4833333333333334,
+  "max" : "Üst"
+}, {
+  "teamName" : "BC Lulea - Norrkoping",
+  "teamEv" : "BC Lulea",
+  "teamDep" : "Norrkoping",
+  "detailUrl" : "https://istatistik.nesine.com/2853145",
+  "odds" : {
+    "ms1" : 2.68,
+    "ms2" : 1.15,
+    "h1Value" : 6.5,
+    "h2Value" : -6.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 87,
+    "awayScore" : 79,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 105,
+    "awayScore" : 83,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "BC Lulea",
+    "awayTeam" : "Norrkoping",
+    "homeScore" : 91,
+    "awayScore" : 85,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 89,
+    "awayScore" : 78,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 113,
+    "awayScore" : 82,
+    "matchDate" : "25/26",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 68,
+    "awayScore" : 83,
+    "matchDate" : "24/25",
+    "tournament" : "SBL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 87,
+    "awayScore" : 79,
+    "matchDate" : "10 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 105,
+    "awayScore" : 83,
+    "matchDate" : "8 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uppsala",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 65,
+    "awayScore" : 85,
+    "matchDate" : "29 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uppsala",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 75,
+    "awayScore" : 86,
+    "matchDate" : "27 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "BC Lulea",
+    "awayTeam" : "Uppsala",
+    "homeScore" : 80,
+    "awayScore" : 88,
+    "matchDate" : "24 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "BC Lulea",
+    "awayTeam" : "Uppsala",
+    "homeScore" : 79,
+    "awayScore" : 70,
+    "matchDate" : "22 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 87,
+    "awayScore" : 79,
+    "matchDate" : "10 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "BC Lulea",
+    "homeScore" : 105,
+    "awayScore" : 83,
+    "matchDate" : "8 Nis",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nassjo",
+    "awayTeam" : "Norrkoping",
+    "homeScore" : 82,
+    "awayScore" : 113,
+    "matchDate" : "30 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nassjo",
+    "awayTeam" : "Norrkoping",
+    "homeScore" : 86,
+    "awayScore" : 80,
+    "matchDate" : "28 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "Nassjo",
+    "homeScore" : 118,
+    "awayScore" : 88,
+    "matchDate" : "23 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norrkoping",
+    "awayTeam" : "Nassjo",
+    "homeScore" : 119,
+    "awayScore" : 68,
+    "matchDate" : "21 Mar",
+    "tournament" : "SBL",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.425,
+  "alt" : 0.575,
+  "ms2" : 0.6666666666666667,
+  "ms1" : 0.33333333333333337,
+  "max" : "MS2"
+}, {
+  "teamName" : "BC Dubai - Buducnost",
+  "teamEv" : "BC Dubai",
+  "teamDep" : "Buducnost",
+  "detailUrl" : "https://istatistik.nesine.com/2798219",
+  "odds" : {
+    "ms1" : 1.11,
+    "ms2" : 2.95,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "BC Dubai",
+    "homeScore" : 78,
+    "awayScore" : 95,
+    "matchDate" : "25/26",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "BC Dubai",
+    "awayTeam" : "Buducnost",
+    "homeScore" : 79,
+    "awayScore" : 75,
+    "matchDate" : "24/25",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "BC Dubai",
+    "homeScore" : 89,
+    "awayScore" : 78,
+    "matchDate" : "24/25",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "BC Dubai",
+    "awayTeam" : "Anadolu Efes",
+    "homeScore" : 69,
+    "awayScore" : 85,
+    "matchDate" : "10 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zalgiris",
+    "awayTeam" : "BC Dubai",
+    "homeScore" : 65,
+    "awayScore" : 77,
+    "matchDate" : "7 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "BC Dubai",
+    "awayTeam" : "KK Cedevita",
+    "homeScore" : 89,
+    "awayScore" : 84,
+    "matchDate" : "4 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "BC Dubai",
+    "awayTeam" : "Monaco",
+    "homeScore" : 101,
+    "awayScore" : 91,
+    "matchDate" : "2 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kızılyıldız",
+    "awayTeam" : "BC Dubai",
+    "homeScore" : 84,
+    "awayScore" : 82,
+    "matchDate" : "30 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Maccabi T.A.",
+    "awayTeam" : "BC Dubai",
+    "homeScore" : 88,
+    "awayScore" : 88,
+    "matchDate" : "26 Mar",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "Partizan",
+    "homeScore" : 95,
+    "awayScore" : 89,
+    "matchDate" : "5 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Igokea",
+    "awayTeam" : "Buducnost",
+    "homeScore" : 75,
+    "awayScore" : 100,
+    "matchDate" : "28 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "BC Dubai",
+    "homeScore" : 78,
+    "awayScore" : 95,
+    "matchDate" : "21 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "Cluj Napoca",
+    "homeScore" : 94,
+    "awayScore" : 89,
+    "matchDate" : "14 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "Cluj Napoca",
+    "homeScore" : 82,
+    "awayScore" : 100,
+    "matchDate" : "11 Mar",
+    "tournament" : "AVK",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Buducnost",
+    "awayTeam" : "Igokea",
+    "homeScore" : 99,
+    "awayScore" : 67,
+    "matchDate" : "8 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44999999999999996,
+  "alt" : 0.55,
+  "ms2" : 0.4833333333333333,
+  "ms1" : 0.44166666666666665,
+  "max" : "Alt"
+}, {
+  "teamName" : "Oldenburg - Rostock Seaw",
+  "teamEv" : "Oldenburg",
+  "teamDep" : "Rostock Seaw",
+  "detailUrl" : "https://istatistik.nesine.com/2800450",
+  "odds" : {
+    "ms1" : 1.55,
+    "ms2" : 1.68,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Rostock Seaw",
+    "awayTeam" : "Oldenburg",
+    "homeScore" : 94,
+    "awayScore" : 77,
+    "matchDate" : "25/26",
+    "tournament" : "ALM",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Oldenburg",
+    "awayTeam" : "Rostock Seaw",
+    "homeScore" : 95,
+    "awayScore" : 83,
+    "matchDate" : "24/25",
+    "tournament" : "ALM",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Oldenburg",
+    "awayTeam" : "Rostock Seaw",
+    "homeScore" : 92,
+    "awayScore" : 79,
+    "matchDate" : "24/25",
+    "tournament" : "ALM",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Rostock Seaw",
+    "awayTeam" : "Oldenburg",
+    "homeScore" : 88,
+    "awayScore" : 88,
+    "matchDate" : "24/25",
+    "tournament" : "ALM",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Rostock Seaw",
+    "awayTeam" : "Oldenburg",
+    "homeScore" : 64,
+    "awayScore" : 99,
+    "matchDate" : "23/24",
+    "tournament" : "ALM",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Oldenburg",
+    "awayTeam" : "Rostock Seaw",
+    "homeScore" : 94,
+    "awayScore" : 89,
+    "matchDate" : "23/24",
+    "tournament" : "ALM",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Alba Berlin",
+    "awayTeam" : "Oldenburg",
+    "homeScore" : 79,
+    "awayScore" : 81,
+    "matchDate" : "5 Nis",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oldenburg",
+    "awayTeam" : "Hamburg",
+    "homeScore" : 77,
+    "awayScore" : 96,
+    "matchDate" : "1 Nis",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Niners Chem.",
+    "awayTeam" : "Oldenburg",
+    "homeScore" : 95,
+    "awayScore" : 85,
+    "matchDate" : "28 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Oldenburg",
+    "awayTeam" : "Wurzburg",
+    "homeScore" : 79,
+    "awayScore" : 85,
+    "matchDate" : "22 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "SC Jena",
+    "awayTeam" : "Oldenburg",
+    "homeScore" : 97,
+    "awayScore" : 75,
+    "matchDate" : "18 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Frankfurt",
+    "awayTeam" : "Oldenburg",
+    "homeScore" : 73,
+    "awayScore" : 79,
+    "matchDate" : "15 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "A.Heidelberg",
+    "awayTeam" : "Rostock Seaw",
+    "homeScore" : 70,
+    "awayScore" : 101,
+    "matchDate" : "5 Nis",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rostock Seaw",
+    "awayTeam" : "Braunschweig",
+    "homeScore" : 98,
+    "awayScore" : 78,
+    "matchDate" : "1 Nis",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Frankfurt",
+    "awayTeam" : "Rostock Seaw",
+    "homeScore" : 97,
+    "awayScore" : 74,
+    "matchDate" : "29 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Alba Berlin",
+    "awayTeam" : "Rostock Seaw",
+    "homeScore" : 89,
+    "awayScore" : 85,
+    "matchDate" : "20 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rostock Seaw",
+    "awayTeam" : "Niners Chem.",
+    "homeScore" : 73,
+    "awayScore" : 78,
+    "matchDate" : "15 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rostock Seaw",
+    "awayTeam" : "Trier",
+    "homeScore" : 118,
+    "awayScore" : 103,
+    "matchDate" : "6 Mar",
+    "tournament" : "ALM",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.6833333333333333,
+  "alt" : 0.31666666666666665,
+  "ms2" : 0.5416666666666666,
+  "ms1" : 0.44166666666666665,
+  "max" : "Üst"
+}, {
+  "teamName" : "KD Ilirija - Borac Cacak",
+  "teamEv" : "KD Ilirija",
+  "teamDep" : "Borac Cacak",
+  "detailUrl" : "https://istatistik.nesine.com/2799719",
+  "odds" : {
+    "ms1" : 1.21,
+    "ms2" : 2.42,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Borac Cacak",
+    "awayTeam" : "KD Ilirija",
+    "homeScore" : 87,
+    "awayScore" : 91,
+    "matchDate" : "25/26",
+    "tournament" : "ADR",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "KD Ilirija",
+    "awayTeam" : "KK Triglav K",
+    "homeScore" : 98,
+    "awayScore" : 91,
+    "matchDate" : "9 Nis",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KD Ilirija",
+    "awayTeam" : "KK Sentjur",
+    "homeScore" : 96,
+    "awayScore" : 64,
+    "matchDate" : "6 Nis",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zlatorog L.",
+    "awayTeam" : "KD Ilirija",
+    "homeScore" : 71,
+    "awayScore" : 80,
+    "matchDate" : "3 Nis",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KD Ilirija",
+    "awayTeam" : "KK Split",
+    "homeScore" : 98,
+    "awayScore" : 84,
+    "matchDate" : "1 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KD Ilirija",
+    "awayTeam" : "Krka",
+    "homeScore" : 77,
+    "awayScore" : 83,
+    "matchDate" : "29 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "KD Ilirija",
+    "awayTeam" : "KK Podcetrte",
+    "homeScore" : 103,
+    "awayScore" : 81,
+    "matchDate" : "25 Mar",
+    "tournament" : "1.",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Borac Cacak",
+    "awayTeam" : "Zadar",
+    "homeScore" : 65,
+    "awayScore" : 67,
+    "matchDate" : "3 Nis",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "BC Vienna",
+    "awayTeam" : "Borac Cacak",
+    "homeScore" : 84,
+    "awayScore" : 81,
+    "matchDate" : "26 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Borac Cacak",
+    "awayTeam" : "KD Ilirija",
+    "homeScore" : 87,
+    "awayScore" : 91,
+    "matchDate" : "21 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Borac Cacak",
+    "awayTeam" : "Spartak Subo",
+    "homeScore" : 90,
+    "awayScore" : 99,
+    "matchDate" : "18 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mega Basket",
+    "awayTeam" : "Borac Cacak",
+    "homeScore" : 95,
+    "awayScore" : 77,
+    "matchDate" : "15 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Borac Cacak",
+    "awayTeam" : "BC Vienna",
+    "homeScore" : 85,
+    "awayScore" : 76,
+    "matchDate" : "6 Mar",
+    "tournament" : "ADR",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.5,
+  "alt" : 0.5,
+  "ms2" : 0.16666666666666666,
+  "ms1" : 0.8333333333333334,
+  "max" : "MS1"
+}, {
+  "teamName" : "V. Bologna - Cantu",
+  "teamEv" : "V. Bologna",
+  "teamDep" : "Cantu",
+  "detailUrl" : "https://istatistik.nesine.com/2799223",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.72,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Cantu",
+    "awayTeam" : "V. Bologna",
+    "homeScore" : 77,
+    "awayScore" : 89,
+    "matchDate" : "25/26",
+    "tournament" : "İTA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cantu",
+    "awayTeam" : "V. Bologna",
+    "homeScore" : 82,
+    "awayScore" : 91,
+    "matchDate" : "20/21",
+    "tournament" : "İTA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "Cantu",
+    "homeScore" : 84,
+    "awayScore" : 65,
+    "matchDate" : "20/21",
+    "tournament" : "İTA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "Cantu",
+    "homeScore" : 89,
+    "awayScore" : 70,
+    "matchDate" : "19/20",
+    "tournament" : "İTA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Cantu",
+    "awayTeam" : "V. Bologna",
+    "homeScore" : 96,
+    "awayScore" : 94,
+    "matchDate" : "18/19",
+    "tournament" : "İTA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "Cantu",
+    "homeScore" : 90,
+    "awayScore" : 81,
+    "matchDate" : "18/19",
+    "tournament" : "İTA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "Baskonia",
+    "homeScore" : 72,
+    "awayScore" : 82,
+    "matchDate" : "10 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "Bayern Münih",
+    "homeScore" : 80,
+    "awayScore" : 85,
+    "matchDate" : "7 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "R.Venezia",
+    "homeScore" : 82,
+    "awayScore" : 86,
+    "matchDate" : "5 Nis",
+    "tournament" : "İTA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "Valencia",
+    "homeScore" : 81,
+    "awayScore" : 94,
+    "matchDate" : "3 Nis",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "V. Bologna",
+    "awayTeam" : "Paris",
+    "homeScore" : 82,
+    "awayScore" : 103,
+    "matchDate" : "31 Mar",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "O.Milano",
+    "awayTeam" : "V. Bologna",
+    "homeScore" : 103,
+    "awayScore" : 87,
+    "matchDate" : "26 Mar",
+    "tournament" : "AVL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Cantu",
+    "awayTeam" : "Sassari",
+    "homeScore" : 80,
+    "awayScore" : 78,
+    "matchDate" : "4 Nis",
+    "tournament" : "İTA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cantu",
+    "awayTeam" : "Trieste",
+    "homeScore" : 97,
+    "awayScore" : 76,
+    "matchDate" : "29 Mar",
+    "tournament" : "İTA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Derthona",
+    "awayTeam" : "Cantu",
+    "homeScore" : 100,
+    "awayScore" : 73,
+    "matchDate" : "22 Mar",
+    "tournament" : "İTA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cantu",
+    "awayTeam" : "Napoli B.",
+    "homeScore" : 94,
+    "awayScore" : 77,
+    "matchDate" : "15 Mar",
+    "tournament" : "İTA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "O.Milano",
+    "awayTeam" : "Cantu",
+    "homeScore" : 88,
+    "awayScore" : 86,
+    "matchDate" : "9 Mar",
+    "tournament" : "İTA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cantu",
+    "awayTeam" : "Trento",
+    "homeScore" : 108,
+    "awayScore" : 91,
+    "matchDate" : "15 Şub",
+    "tournament" : "İTA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.65,
+  "alt" : 0.35,
+  "ms2" : 0.7666666666666666,
+  "ms1" : 0.23333333333333334,
+  "max" : "MS2"
+}, {
+  "teamName" : "Slam Stal - Zielona Gora",
+  "teamEv" : "Slam Stal",
+  "teamDep" : "Zielona Gora",
+  "detailUrl" : "https://istatistik.nesine.com/2801614",
+  "odds" : {
+    "ms1" : 1.51,
+    "ms2" : 1.73,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "Slam Stal",
+    "homeScore" : 98,
+    "awayScore" : 84,
+    "matchDate" : "25/26",
+    "tournament" : "POL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "Slam Stal",
+    "homeScore" : 92,
+    "awayScore" : 87,
+    "matchDate" : "24/25",
+    "tournament" : "POL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Slam Stal",
+    "awayTeam" : "Zielona Gora",
+    "homeScore" : 84,
+    "awayScore" : 70,
+    "matchDate" : "24/25",
+    "tournament" : "POL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Slam Stal",
+    "awayTeam" : "Zielona Gora",
+    "homeScore" : 126,
+    "awayScore" : 60,
+    "matchDate" : "23/24",
+    "tournament" : "POL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "Slam Stal",
+    "homeScore" : 87,
+    "awayScore" : 92,
+    "matchDate" : "23/24",
+    "tournament" : "POL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "Slam Stal",
+    "homeScore" : 87,
+    "awayScore" : 97,
+    "matchDate" : "22/23",
+    "tournament" : "POL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Anwil Wloc.",
+    "awayTeam" : "Slam Stal",
+    "homeScore" : 90,
+    "awayScore" : 81,
+    "matchDate" : "6 Nis",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Miasto Szkla",
+    "awayTeam" : "Slam Stal",
+    "homeScore" : 80,
+    "awayScore" : 87,
+    "matchDate" : "29 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Slam Stal",
+    "awayTeam" : "Czarni S.",
+    "homeScore" : 75,
+    "awayScore" : 68,
+    "matchDate" : "19 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Slam Stal",
+    "awayTeam" : "Torun",
+    "homeScore" : 77,
+    "awayScore" : 75,
+    "matchDate" : "15 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Slam Stal",
+    "awayTeam" : "Start Lublin",
+    "homeScore" : 93,
+    "awayScore" : 78,
+    "matchDate" : "8 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Slam Stal",
+    "awayTeam" : "Legia Wars.",
+    "homeScore" : 75,
+    "awayScore" : 83,
+    "matchDate" : "14 Şub",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "Czarni S.",
+    "homeScore" : 96,
+    "awayScore" : 80,
+    "matchDate" : "2 Nis",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "Torun",
+    "homeScore" : 88,
+    "awayScore" : 90,
+    "matchDate" : "29 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "Start Lublin",
+    "homeScore" : 76,
+    "awayScore" : 73,
+    "matchDate" : "19 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Legia Wars.",
+    "awayTeam" : "Zielona Gora",
+    "homeScore" : 84,
+    "awayScore" : 66,
+    "matchDate" : "14 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Zielona Gora",
+    "awayTeam" : "W.M.Szczecin",
+    "homeScore" : 74,
+    "awayScore" : 75,
+    "matchDate" : "5 Mar",
+    "tournament" : "POL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Trefl Sopot",
+    "awayTeam" : "Zielona Gora",
+    "homeScore" : 91,
+    "awayScore" : 67,
+    "matchDate" : "22 Şub",
+    "tournament" : "KUP",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.45833333333333337,
+  "alt" : 0.5416666666666666,
+  "ms2" : 0.3333333333333333,
+  "ms1" : 0.6666666666666666,
+  "max" : "MS1"
+} ]
