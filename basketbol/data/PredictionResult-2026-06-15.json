@@ -1,0 +1,73 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Vaqueros",
+  "awayTeam" : "San German",
+  "pHome" : 0.7731141663946582,
+  "pDraw" : 0.0,
+  "pAway" : 0.22688583360534176,
+  "pOver25" : 0.747826355356072,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.7951969735432289,
+  "scoreline" : "95-89"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "-",
+  "awayTeam" : "-",
+  "pHome" : 0.5,
+  "pDraw" : 0.0,
+  "pAway" : 0.5,
+  "pOver25" : 0.5,
+  "pBttsYes" : 0.0,
+  "pick" : "Yakın | Sınırda",
+  "confidence" : 0.5,
+  "scoreline" : "0-0"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Zielona Gora",
+  "awayTeam" : "Legia Wars.",
+  "pHome" : 0.4067766173911088,
+  "pDraw" : 0.0,
+  "pAway" : 0.5932233826088912,
+  "pOver25" : 0.5385326213947838,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Sınırda",
+  "confidence" : 0.6254854089950379,
+  "scoreline" : "82-84"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Caserta",
+  "awayTeam" : "Elachem Vige",
+  "pHome" : 0.5801151100382231,
+  "pDraw" : 0.0,
+  "pAway" : 0.41988488996177686,
+  "pOver25" : 0.6682120288475553,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.6147682022090625,
+  "scoreline" : "84-83"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Monteca.",
+  "awayTeam" : "Virtus Roma",
+  "pHome" : 0.7129643532876059,
+  "pDraw" : 0.0,
+  "pAway" : 0.2870356467123941,
+  "pOver25" : 0.4033532131972117,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.7320396586525327,
+  "scoreline" : "73-68"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Poitiers",
+  "awayTeam" : "Pau Orthez",
+  "pHome" : 0.826291815703851,
+  "pDraw" : 0.0,
+  "pAway" : 0.17370818429614904,
+  "pOver25" : 0.48817060580137217,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.8622452712556655,
+  "scoreline" : "87-79"
+} ]
