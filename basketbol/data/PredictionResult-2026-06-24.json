@@ -1,0 +1,61 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Osos",
+  "awayTeam" : "Capitanes de",
+  "pHome" : 0.6299077504380176,
+  "pDraw" : 0.0,
+  "pAway" : 0.3700922495619824,
+  "pOver25" : 0.7443838052655473,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.6564139220522707,
+  "scoreline" : "100-97"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Las Vegas A.",
+  "awayTeam" : "New York",
+  "pHome" : 0.6224109821596684,
+  "pDraw" : 0.0,
+  "pAway" : 0.3775890178403316,
+  "pOver25" : 0.5827750563912893,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.6499764182842371,
+  "scoreline" : "92-89"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Whai",
+  "awayTeam" : "Southland S.",
+  "pHome" : 0.25469045776035193,
+  "pDraw" : 0.0,
+  "pAway" : 0.7453095422396481,
+  "pOver25" : 0.42099479369823656,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.7747165896319371,
+  "scoreline" : "86-91"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Bumi Borneo",
+  "awayTeam" : "Pelita Jaya",
+  "pHome" : 0.7653751987904425,
+  "pDraw" : 0.0,
+  "pAway" : 0.23462480120955748,
+  "pOver25" : 0.6288540856354956,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.7866878922887305,
+  "scoreline" : "86-80"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Valencia",
+  "pHome" : 0.47565263609221015,
+  "pDraw" : 0.0,
+  "pAway" : 0.5243473639077898,
+  "pOver25" : 0.6487260504261362,
+  "pBttsYes" : 0.0,
+  "pick" : "Yakın | Üst",
+  "confidence" : 0.5694961568085379,
+  "scoreline" : "91-91"
+} ]
