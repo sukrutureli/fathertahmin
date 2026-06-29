@@ -1,0 +1,125 @@
+[ {
+  "homeTeam" : "Aguada Sante",
+  "awayTeam" : "Piratas",
+  "homeStats" : {
+    "avgPointsFor" : 93.83333333333333,
+    "avgPointsAgainst" : 91.83333333333333,
+    "avgTotalPoints" : 185.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 94.66666666666667,
+    "avgPointsAgainst" : 100.0,
+    "avgTotalPoints" : 194.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.14,
+    "ms2" : 2.72,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 185.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 93.5,
+  "avgPointsForAway" : 92.5,
+  "h2hAvgTotalPoints" : 186.0
+}, {
+  "homeTeam" : "Capitanes de",
+  "awayTeam" : "Cangrejeros",
+  "homeStats" : {
+    "avgPointsFor" : 99.16666666666667,
+    "avgPointsAgainst" : 96.66666666666667,
+    "avgTotalPoints" : 195.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 97.16666666666667,
+    "avgPointsAgainst" : 86.83333333333333,
+    "avgTotalPoints" : 184.0,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.77,
+    "ms2" : 1.48,
+    "h1Value" : 1.5,
+    "h2Value" : -1.5,
+    "h1" : 1.67,
+    "h2" : 1.56,
+    "hOverUnderValue" : 189.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 82.4,
+  "avgPointsForAway" : 89.0,
+  "h2hAvgTotalPoints" : 171.4
+}, {
+  "homeTeam" : "Criollas",
+  "awayTeam" : "Leones de Po",
+  "homeStats" : {
+    "avgPointsFor" : 107.83333333333333,
+    "avgPointsAgainst" : 97.33333333333333,
+    "avgTotalPoints" : 205.16666666666666,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 96.16666666666667,
+    "avgPointsAgainst" : 91.16666666666667,
+    "avgTotalPoints" : 187.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.22,
+    "ms2" : 2.38,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 199.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 79.83333333333333,
+  "avgPointsForAway" : 82.0,
+  "h2hAvgTotalPoints" : 161.83333333333334
+}, {
+  "homeTeam" : "Gigantes de",
+  "awayTeam" : "Osos",
+  "homeStats" : {
+    "avgPointsFor" : 91.0,
+    "avgPointsAgainst" : 89.66666666666667,
+    "avgTotalPoints" : 180.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 95.83333333333333,
+    "avgPointsAgainst" : 95.0,
+    "avgTotalPoints" : 190.83333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.22,
+    "ms2" : 2.38,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 188.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 96.5,
+  "avgPointsForAway" : 88.66666666666667,
+  "h2hAvgTotalPoints" : 185.16666666666666
+} ]
