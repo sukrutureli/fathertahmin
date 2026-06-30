@@ -1,0 +1,25 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "New York",
+  "awayTeam" : "Las Vegas A.",
+  "pHome" : 0.5719557755282483,
+  "pDraw" : 0.0,
+  "pAway" : 0.4280442244717517,
+  "pOver25" : 0.530304781792015,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.6079800700366661,
+  "scoreline" : "89-87"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Southland S.",
+  "awayTeam" : "Canterbury R",
+  "pHome" : 0.38532718610234484,
+  "pDraw" : 0.0,
+  "pAway" : 0.6146728138976552,
+  "pOver25" : 0.3730001449327599,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.6434016013529742,
+  "scoreline" : "90-92"
+} ]

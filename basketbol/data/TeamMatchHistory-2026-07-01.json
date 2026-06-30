@@ -1,0 +1,343 @@
+[ {
+  "teamName" : "New York - Las Vegas A.",
+  "teamEv" : "New York",
+  "teamDep" : "Las Vegas A.",
+  "detailUrl" : "https://istatistik.nesine.com/3021016",
+  "odds" : {
+    "ms1" : 1.19,
+    "ms2" : 2.54,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "New York",
+    "homeScore" : 76,
+    "awayScore" : 87,
+    "matchDate" : "2026",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "New York",
+    "homeScore" : 83,
+    "awayScore" : 77,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Las Vegas A.",
+    "homeScore" : 87,
+    "awayScore" : 78,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Las Vegas A.",
+    "homeScore" : 92,
+    "awayScore" : 78,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "New York",
+    "homeScore" : 62,
+    "awayScore" : 76,
+    "matchDate" : "2024",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "New York",
+    "homeScore" : 95,
+    "awayScore" : 81,
+    "matchDate" : "2024",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "New York",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "29 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Seattle",
+    "awayTeam" : "New York",
+    "homeScore" : 99,
+    "awayScore" : 88,
+    "matchDate" : "26 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "New York",
+    "homeScore" : 76,
+    "awayScore" : 87,
+    "matchDate" : "24 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "L.Angeles",
+    "awayTeam" : "New York",
+    "homeScore" : 98,
+    "awayScore" : 97,
+    "matchDate" : "22 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Washngton",
+    "homeScore" : 83,
+    "awayScore" : 86,
+    "matchDate" : "20 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "New York",
+    "homeScore" : 95,
+    "awayScore" : 96,
+    "matchDate" : "18 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Las Vegas A.",
+    "homeScore" : 99,
+    "awayScore" : 107,
+    "matchDate" : "28 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "Dallas Wings",
+    "homeScore" : 99,
+    "awayScore" : 84,
+    "matchDate" : "26 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "New York",
+    "homeScore" : 76,
+    "awayScore" : 87,
+    "matchDate" : "24 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "Golden State",
+    "homeScore" : 92,
+    "awayScore" : 73,
+    "matchDate" : "21 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Las Vegas A.",
+    "homeScore" : 76,
+    "awayScore" : 86,
+    "matchDate" : "18 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas Wings",
+    "awayTeam" : "Las Vegas A.",
+    "homeScore" : 96,
+    "awayScore" : 66,
+    "matchDate" : "16 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.6333333333333333,
+  "ms1" : 0.3666666666666667,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.39166666666666666,
+  "alt" : 0.6083333333333334,
+  "max" : "MS2"
+}, {
+  "teamName" : "Southland S. - Canterbury R",
+  "teamEv" : "Southland S.",
+  "teamDep" : "Canterbury R",
+  "detailUrl" : "https://istatistik.nesine.com/2970286",
+  "odds" : {
+    "ms1" : 1.13,
+    "ms2" : 2.85,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 185.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Canterbury R",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 95,
+    "awayScore" : 104,
+    "matchDate" : "2026",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Canterbury R",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 82,
+    "awayScore" : 101,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Canterbury R",
+    "homeScore" : 79,
+    "awayScore" : 128,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Canterbury R",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 120,
+    "awayScore" : 84,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Canterbury R",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 104,
+    "awayScore" : 70,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Canterbury R",
+    "homeScore" : 65,
+    "awayScore" : 87,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 81,
+    "awayScore" : 81,
+    "matchDate" : "24 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hawke's Bay",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 93,
+    "awayScore" : 117,
+    "matchDate" : "22 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Taranaki M.",
+    "homeScore" : 84,
+    "awayScore" : 93,
+    "matchDate" : "18 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 85,
+    "awayScore" : 95,
+    "matchDate" : "13 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Franklin B.",
+    "homeScore" : 86,
+    "awayScore" : 75,
+    "matchDate" : "7 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Otago Nugget",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 89,
+    "awayScore" : 99,
+    "matchDate" : "31 May",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Canterbury R",
+    "awayTeam" : "Hawke's Bay",
+    "homeScore" : 93,
+    "awayScore" : 77,
+    "matchDate" : "28 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Canterbury R",
+    "awayTeam" : "Whai",
+    "homeScore" : 101,
+    "awayScore" : 69,
+    "matchDate" : "19 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Otago Nugget",
+    "awayTeam" : "Canterbury R",
+    "homeScore" : 58,
+    "awayScore" : 93,
+    "matchDate" : "13 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Auckland T.",
+    "awayTeam" : "Canterbury R",
+    "homeScore" : 100,
+    "awayScore" : 97,
+    "matchDate" : "3 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Canterbury R",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 93,
+    "awayScore" : 74,
+    "matchDate" : "30 May",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Taranaki M.",
+    "awayTeam" : "Canterbury R",
+    "homeScore" : 86,
+    "awayScore" : 113,
+    "matchDate" : "24 May",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.5166666666666666,
+  "ms1" : 0.4083333333333333,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.35,
+  "alt" : 0.65,
+  "max" : "Alt"
+} ]
