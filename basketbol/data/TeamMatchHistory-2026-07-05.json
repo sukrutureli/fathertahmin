@@ -1,0 +1,3339 @@
+[ {
+  "teamName" : "Venezuela - Brezilya",
+  "teamEv" : "Venezuela",
+  "teamDep" : "Brezilya",
+  "detailUrl" : "https://istatistik.nesine.com/2972362",
+  "odds" : {
+    "ms1" : 6.44,
+    "ms2" : 0.0,
+    "h1Value" : 13.5,
+    "h2Value" : -13.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 155.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 94,
+    "awayScore" : 84,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 77,
+    "awayScore" : 84,
+    "matchDate" : "2023",
+    "tournament" : "PAN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 83,
+    "awayScore" : 71,
+    "matchDate" : "2023",
+    "tournament" : "HAZ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 72,
+    "awayScore" : 56,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 72,
+    "awayScore" : 60,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 64,
+    "awayScore" : 58,
+    "matchDate" : "2016",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 68,
+    "awayScore" : 72,
+    "matchDate" : "3 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 94,
+    "awayScore" : 84,
+    "matchDate" : "28 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 80,
+    "awayScore" : 78,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panama",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 73,
+    "awayScore" : 77,
+    "matchDate" : "25 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Porto Riko",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 97,
+    "awayScore" : 70,
+    "matchDate" : "24 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Kanada",
+    "homeScore" : 54,
+    "awayScore" : 88,
+    "matchDate" : "23 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 101,
+    "awayScore" : 72,
+    "matchDate" : "3 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 94,
+    "awayScore" : 84,
+    "matchDate" : "28 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Şili",
+    "homeScore" : 78,
+    "awayScore" : 62,
+    "matchDate" : "1 Ara",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 66,
+    "awayScore" : 82,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 47,
+    "awayScore" : 55,
+    "matchDate" : "1 Eyl",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "ABD",
+    "homeScore" : 92,
+    "awayScore" : 77,
+    "matchDate" : "30 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.8,
+  "ms1" : 0.2,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.4833333333333334,
+  "alt" : 0.5166666666666666,
+  "max" : "MS2"
+}, {
+  "teamName" : "Seattle - Portland F.",
+  "teamEv" : "Seattle",
+  "teamDep" : "Portland F.",
+  "detailUrl" : "https://istatistik.nesine.com/2978106",
+  "odds" : {
+    "ms1" : 1.31,
+    "ms2" : 2.09,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 172.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Portland F.",
+    "awayTeam" : "Seattle",
+    "homeScore" : 94,
+    "awayScore" : 89,
+    "matchDate" : "2026",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Seattle",
+    "awayTeam" : "Portland F.",
+    "homeScore" : 91,
+    "awayScore" : 81,
+    "matchDate" : "2026",
+    "tournament" : "WNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Seattle",
+    "homeScore" : 90,
+    "awayScore" : 67,
+    "matchDate" : "3 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Seattle",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 105,
+    "awayScore" : 90,
+    "matchDate" : "28 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Seattle",
+    "awayTeam" : "New York",
+    "homeScore" : 99,
+    "awayScore" : 88,
+    "matchDate" : "26 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Seattle",
+    "awayTeam" : "Dallas Wings",
+    "homeScore" : 96,
+    "awayScore" : 96,
+    "matchDate" : "23 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Seattle",
+    "homeScore" : 93,
+    "awayScore" : 73,
+    "matchDate" : "20 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portland F.",
+    "awayTeam" : "Seattle",
+    "homeScore" : 94,
+    "awayScore" : 89,
+    "matchDate" : "18 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Washngton",
+    "awayTeam" : "Portland F.",
+    "homeScore" : 87,
+    "awayScore" : 87,
+    "matchDate" : "28 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Portland F.",
+    "homeScore" : 124,
+    "awayScore" : 94,
+    "matchDate" : "27 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Portland F.",
+    "homeScore" : 101,
+    "awayScore" : 78,
+    "matchDate" : "25 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portland F.",
+    "awayTeam" : "Seattle",
+    "homeScore" : 94,
+    "awayScore" : 89,
+    "matchDate" : "18 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "Portland F.",
+    "homeScore" : 107,
+    "awayScore" : 74,
+    "matchDate" : "16 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portland F.",
+    "awayTeam" : "Dallas Wings",
+    "homeScore" : 84,
+    "awayScore" : 83,
+    "matchDate" : "14 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 14,
+  "ms2" : 0.42500000000000004,
+  "ms1" : 0.42500000000000004,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.725,
+  "alt" : 0.275,
+  "max" : "Üst"
+}, {
+  "teamName" : "Nelson Giant - Franklin B.",
+  "teamEv" : "Nelson Giant",
+  "teamDep" : "Franklin B.",
+  "detailUrl" : "https://istatistik.nesine.com/2978285",
+  "odds" : {
+    "ms1" : 1.11,
+    "ms2" : 2.97,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.56,
+    "h2" : 1.67,
+    "hOverUnderValue" : 187.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 97,
+    "awayScore" : 73,
+    "matchDate" : "2026",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 80,
+    "awayScore" : 91,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Franklin B.",
+    "homeScore" : 83,
+    "awayScore" : 94,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 95,
+    "awayScore" : 105,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Franklin B.",
+    "homeScore" : 85,
+    "awayScore" : 86,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 81,
+    "awayScore" : 70,
+    "matchDate" : "2023",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Auckland T.",
+    "homeScore" : 82,
+    "awayScore" : 88,
+    "matchDate" : "28 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 94,
+    "awayScore" : 94,
+    "matchDate" : "27 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Manawatu Jet",
+    "homeScore" : 92,
+    "awayScore" : 79,
+    "matchDate" : "17 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 85,
+    "awayScore" : 95,
+    "matchDate" : "13 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 69,
+    "awayScore" : 58,
+    "matchDate" : "6 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hawke's Bay",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 85,
+    "awayScore" : 94,
+    "matchDate" : "4 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Whai",
+    "homeScore" : 79,
+    "awayScore" : 93,
+    "matchDate" : "27 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 67,
+    "awayScore" : 81,
+    "matchDate" : "21 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hawke's Bay",
+    "awayTeam" : "Franklin B.",
+    "homeScore" : 88,
+    "awayScore" : 88,
+    "matchDate" : "13 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Franklin B.",
+    "homeScore" : 86,
+    "awayScore" : 75,
+    "matchDate" : "7 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Otago Nugget",
+    "awayTeam" : "Franklin B.",
+    "homeScore" : 93,
+    "awayScore" : 94,
+    "matchDate" : "5 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Auckland T.",
+    "homeScore" : 72,
+    "awayScore" : 107,
+    "matchDate" : "31 May",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.3666666666666667,
+  "ms1" : 0.4833333333333333,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.09166666666666666,
+  "alt" : 0.9083333333333333,
+  "max" : "Alt"
+}, {
+  "teamName" : "Sunbury Jets - Gippsland U.",
+  "teamEv" : "Sunbury Jets",
+  "teamDep" : "Gippsland U.",
+  "detailUrl" : "https://istatistik.nesine.com/2978253",
+  "odds" : {
+    "ms1" : 1.27,
+    "ms2" : 2.21,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 77,
+    "awayScore" : 91,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 103,
+    "awayScore" : 89,
+    "matchDate" : "21 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 97,
+    "awayScore" : 78,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 94,
+    "awayScore" : 87,
+    "matchDate" : "13 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sunbury Jets",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 62,
+    "awayScore" : 80,
+    "matchDate" : "31 May",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 68,
+    "awayScore" : 88,
+    "matchDate" : "30 May",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 92,
+    "awayScore" : 100,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 93,
+    "awayScore" : 108,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 70,
+    "awayScore" : 111,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 88,
+    "awayScore" : 72,
+    "matchDate" : "13 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 85,
+    "awayScore" : 90,
+    "matchDate" : "30 May",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 90,
+    "awayScore" : 90,
+    "matchDate" : "23 May",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 12,
+  "ms2" : 0.3333333333333333,
+  "ms1" : 0.5833333333333334,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.6666666666666667,
+  "alt" : 0.33333333333333326,
+  "max" : "Üst"
+}, {
+  "teamName" : "Ruanda - Nijerya",
+  "teamEv" : "Ruanda",
+  "teamDep" : "Nijerya",
+  "detailUrl" : "https://istatistik.nesine.com/2978140",
+  "odds" : {
+    "ms1" : 16.05,
+    "ms2" : 0.0,
+    "h1Value" : 24.5,
+    "h2Value" : -24.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 158.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 61,
+    "awayScore" : 61,
+    "matchDate" : "25-27",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Ruanda",
+    "awayTeam" : "Nijerya",
+    "homeScore" : 70,
+    "awayScore" : 111,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 108,
+    "awayScore" : 53,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Ruanda",
+    "awayTeam" : "Tunus",
+    "homeScore" : 67,
+    "awayScore" : 83,
+    "matchDate" : "3 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 89,
+    "awayScore" : 63,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 61,
+    "awayScore" : 61,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Tunus",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 79,
+    "awayScore" : 66,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ruanda",
+    "awayTeam" : "Gine",
+    "homeScore" : 70,
+    "awayScore" : 82,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Y.B. Adaları",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 75,
+    "awayScore" : 62,
+    "matchDate" : "17 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Gine",
+    "homeScore" : 80,
+    "awayScore" : 79,
+    "matchDate" : "3 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Tunus",
+    "awayTeam" : "Nijerya",
+    "homeScore" : 81,
+    "awayScore" : 84,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 61,
+    "awayScore" : 61,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Nijerya",
+    "homeScore" : 69,
+    "awayScore" : 55,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Tunus",
+    "homeScore" : 73,
+    "awayScore" : 73,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Senegal",
+    "homeScore" : 75,
+    "awayScore" : 91,
+    "matchDate" : "20 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "ms2" : 0.5916666666666667,
+  "ms1" : 0.15,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.2916666666666667,
+  "alt" : 0.7083333333333333,
+  "max" : "Alt"
+}, {
+  "teamName" : "Tunus - Gine",
+  "teamEv" : "Tunus",
+  "teamDep" : "Gine",
+  "detailUrl" : "https://istatistik.nesine.com/2978272",
+  "odds" : {
+    "ms1" : 3.3,
+    "ms2" : 1.07,
+    "h1Value" : 8.5,
+    "h2Value" : -8.5,
+    "h1" : 1.56,
+    "h2" : 1.67,
+    "hOverUnderValue" : 147.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Tunus",
+    "homeScore" : 66,
+    "awayScore" : 57,
+    "matchDate" : "25-27",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Tunus",
+    "awayTeam" : "Gine",
+    "homeScore" : 64,
+    "awayScore" : 63,
+    "matchDate" : "2025",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Tunus",
+    "homeScore" : 95,
+    "awayScore" : 86,
+    "matchDate" : "23/24",
+    "tournament" : "OLI",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Tunus",
+    "awayTeam" : "Gine",
+    "homeScore" : 82,
+    "awayScore" : 46,
+    "matchDate" : "2021",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Tunus",
+    "awayTeam" : "Gine",
+    "homeScore" : 94,
+    "awayScore" : 54,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Tunus",
+    "homeScore" : 56,
+    "awayScore" : 96,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Ruanda",
+    "awayTeam" : "Tunus",
+    "homeScore" : 67,
+    "awayScore" : 83,
+    "matchDate" : "3 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Tunus",
+    "awayTeam" : "Nijerya",
+    "homeScore" : 81,
+    "awayScore" : 84,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Tunus",
+    "homeScore" : 66,
+    "awayScore" : 57,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Tunus",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 79,
+    "awayScore" : 66,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Tunus",
+    "homeScore" : 73,
+    "awayScore" : 73,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Y.B. Adaları",
+    "awayTeam" : "Tunus",
+    "homeScore" : 87,
+    "awayScore" : 54,
+    "matchDate" : "19 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Nijerya",
+    "awayTeam" : "Gine",
+    "homeScore" : 80,
+    "awayScore" : 79,
+    "matchDate" : "3 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Ruanda",
+    "homeScore" : 89,
+    "awayScore" : 63,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Tunus",
+    "homeScore" : 66,
+    "awayScore" : 57,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Nijerya",
+    "homeScore" : 69,
+    "awayScore" : 55,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ruanda",
+    "awayTeam" : "Gine",
+    "homeScore" : 70,
+    "awayScore" : 82,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gine",
+    "awayTeam" : "Mali",
+    "homeScore" : 67,
+    "awayScore" : 70,
+    "matchDate" : "18 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.5583333333333333,
+  "ms1" : 0.3666666666666667,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.42500000000000004,
+  "alt" : 0.575,
+  "max" : "Alt"
+}, {
+  "teamName" : "Saigon Heat - Nha Trang D.",
+  "teamEv" : "Saigon Heat",
+  "teamDep" : "Nha Trang D.",
+  "detailUrl" : "https://istatistik.nesine.com/2978228",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.54,
+    "h1Value" : -9.5,
+    "h2Value" : 9.5,
+    "h1" : 1.61,
+    "h2" : 1.61,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 86,
+    "awayScore" : 71,
+    "matchDate" : "2026",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 85,
+    "awayScore" : 82,
+    "matchDate" : "2026",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 78,
+    "awayScore" : 87,
+    "matchDate" : "2026",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 96,
+    "awayScore" : 68,
+    "matchDate" : "2025",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 88,
+    "awayScore" : 91,
+    "matchDate" : "2025",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 80,
+    "awayScore" : 70,
+    "matchDate" : "2025",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 86,
+    "awayScore" : 71,
+    "matchDate" : "3 Tem",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Hanoi Buffal",
+    "homeScore" : 86,
+    "awayScore" : 92,
+    "matchDate" : "21 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Hanoi Buffal",
+    "homeScore" : 81,
+    "awayScore" : 84,
+    "matchDate" : "19 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Da Nang Dra.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 64,
+    "awayScore" : 112,
+    "matchDate" : "7 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Da Nang Dra.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 78,
+    "awayScore" : 129,
+    "matchDate" : "5 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 85,
+    "awayScore" : 82,
+    "matchDate" : "31 May",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 86,
+    "awayScore" : 71,
+    "matchDate" : "3 Tem",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Can Tho C.",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 69,
+    "awayScore" : 84,
+    "matchDate" : "28 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Can Tho C.",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 79,
+    "awayScore" : 101,
+    "matchDate" : "26 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 80,
+    "awayScore" : 91,
+    "matchDate" : "20 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Nha Trang D.",
+    "homeScore" : 100,
+    "awayScore" : 84,
+    "matchDate" : "18 Haz",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 85,
+    "awayScore" : 82,
+    "matchDate" : "31 May",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.5583333333333333,
+  "ms1" : 0.44166666666666665,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.4666666666666667,
+  "alt" : 0.5333333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "Azerbaycan - İrlanda",
+  "teamEv" : "Azerbaycan",
+  "teamDep" : "İrlanda",
+  "detailUrl" : "https://istatistik.nesine.com/2978107",
+  "odds" : {
+    "ms1" : 1.12,
+    "ms2" : 2.9,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.58,
+    "h2" : 1.66,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 75,
+    "awayScore" : 76,
+    "matchDate" : "2029",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Azerbaycan",
+    "awayTeam" : "İrlanda",
+    "homeScore" : 64,
+    "awayScore" : 79,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 91,
+    "awayScore" : 67,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Lüksemburg",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 74,
+    "awayScore" : 76,
+    "matchDate" : "2 Tem",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Azerbaycan",
+    "awayTeam" : "Makedonya",
+    "homeScore" : 70,
+    "awayScore" : 78,
+    "matchDate" : "2 Mar",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 75,
+    "awayScore" : 76,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Azerbaycan",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 90,
+    "awayScore" : 95,
+    "matchDate" : "30 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 87,
+    "awayScore" : 49,
+    "matchDate" : "27 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Azerbaycan",
+    "awayTeam" : "İrlanda",
+    "homeScore" : 64,
+    "awayScore" : 79,
+    "matchDate" : "23 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "İrlanda",
+    "homeScore" : 77,
+    "awayScore" : 56,
+    "matchDate" : "2 Tem",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 91,
+    "awayScore" : 85,
+    "matchDate" : "2 Mar",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 75,
+    "awayScore" : 76,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Makedonya",
+    "homeScore" : 76,
+    "awayScore" : 88,
+    "matchDate" : "30 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lüksemburg",
+    "awayTeam" : "İrlanda",
+    "homeScore" : 89,
+    "awayScore" : 77,
+    "matchDate" : "27 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Azerbaycan",
+    "awayTeam" : "İrlanda",
+    "homeScore" : 64,
+    "awayScore" : 79,
+    "matchDate" : "23 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "ms2" : 0.5166666666666666,
+  "ms1" : 0.4833333333333333,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.33333333333333337,
+  "alt" : 0.6666666666666666,
+  "max" : "Alt"
+}, {
+  "teamName" : "Danimarka - Ukrayna",
+  "teamEv" : "Danimarka",
+  "teamDep" : "Ukrayna",
+  "detailUrl" : "https://istatistik.nesine.com/2978074",
+  "odds" : {
+    "ms1" : 9.45,
+    "ms2" : 0.0,
+    "h1Value" : 17.5,
+    "h2Value" : -17.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 159.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 88,
+    "awayScore" : 71,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 109,
+    "awayScore" : 81,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gürcistan",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 89,
+    "awayScore" : 60,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Danimarka",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 71,
+    "awayScore" : 89,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 88,
+    "awayScore" : 71,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Danimarka",
+    "awayTeam" : "İspanya",
+    "homeScore" : 64,
+    "awayScore" : 74,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Danimarka",
+    "awayTeam" : "Hırvatistan",
+    "homeScore" : 76,
+    "awayScore" : 79,
+    "matchDate" : "20 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 95,
+    "awayScore" : 76,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "Ukrayna",
+    "homeScore" : 92,
+    "awayScore" : 96,
+    "matchDate" : "28 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Ukrayna",
+    "homeScore" : 78,
+    "awayScore" : 64,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "İspanya",
+    "homeScore" : 66,
+    "awayScore" : 86,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 88,
+    "awayScore" : 71,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gürcistan",
+    "awayTeam" : "Ukrayna",
+    "homeScore" : 79,
+    "awayScore" : 92,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms2" : 0.8333333333333333,
+  "ms1" : 0.16666666666666666,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.41666666666666663,
+  "alt" : 0.5833333333333334,
+  "max" : "MS2"
+}, {
+  "teamName" : "Suriye - İran",
+  "teamEv" : "Suriye",
+  "teamDep" : "İran",
+  "detailUrl" : "https://istatistik.nesine.com/2978136",
+  "odds" : {
+    "ms1" : 4.98,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : -11.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 142.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "İran",
+    "awayTeam" : "Suriye",
+    "homeScore" : 72,
+    "awayScore" : 68,
+    "matchDate" : "25-27",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "İran",
+    "homeScore" : 43,
+    "awayScore" : 82,
+    "matchDate" : "2025",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Suriye",
+    "homeScore" : 80,
+    "awayScore" : 67,
+    "matchDate" : "2022",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "İran",
+    "homeScore" : 56,
+    "awayScore" : 91,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Suriye",
+    "homeScore" : 80,
+    "awayScore" : 68,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "İran",
+    "homeScore" : 77,
+    "awayScore" : 70,
+    "matchDate" : "20/21",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "Irak",
+    "homeScore" : 91,
+    "awayScore" : 81,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Suriye",
+    "homeScore" : 72,
+    "awayScore" : 68,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "Suriye",
+    "homeScore" : 70,
+    "awayScore" : 78,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 48,
+    "awayScore" : 100,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ürdün",
+    "awayTeam" : "Suriye",
+    "homeScore" : 74,
+    "awayScore" : 59,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "İran",
+    "homeScore" : 43,
+    "awayScore" : 82,
+    "matchDate" : "10 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Ürdün",
+    "awayTeam" : "İran",
+    "homeScore" : 49,
+    "awayScore" : 67,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Suriye",
+    "homeScore" : 72,
+    "awayScore" : 68,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 60,
+    "awayScore" : 73,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "İran",
+    "homeScore" : 71,
+    "awayScore" : 86,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Irak",
+    "homeScore" : 94,
+    "awayScore" : 68,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Yeni Zelanda",
+    "homeScore" : 79,
+    "awayScore" : 73,
+    "matchDate" : "17 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.7583333333333333,
+  "ms1" : 0.24166666666666664,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5166666666666667,
+  "alt" : 0.4833333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "B. Britanya - İzlanda",
+  "teamEv" : "B. Britanya",
+  "teamDep" : "İzlanda",
+  "detailUrl" : "https://istatistik.nesine.com/2978099",
+  "odds" : {
+    "ms1" : 1.5,
+    "ms2" : 1.75,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "İzlanda",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 84,
+    "awayScore" : 90,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 105,
+    "awayScore" : 85,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Catalunya",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 74,
+    "awayScore" : 76,
+    "matchDate" : "28 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İtalya",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 84,
+    "awayScore" : 75,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "B. Britanya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 57,
+    "awayScore" : 93,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İzlanda",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 84,
+    "awayScore" : 90,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "B. Britanya",
+    "awayTeam" : "Litvanya",
+    "homeScore" : 88,
+    "awayScore" : 89,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "İzlanda",
+    "awayTeam" : "İtalya",
+    "homeScore" : 83,
+    "awayScore" : 102,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "İzlanda",
+    "homeScore" : 99,
+    "awayScore" : 82,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İzlanda",
+    "awayTeam" : "Litvanya",
+    "homeScore" : 86,
+    "awayScore" : 85,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İzlanda",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 84,
+    "awayScore" : 90,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İtalya",
+    "awayTeam" : "İzlanda",
+    "homeScore" : 76,
+    "awayScore" : 81,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fransa",
+    "awayTeam" : "İzlanda",
+    "homeScore" : 114,
+    "awayScore" : 74,
+    "matchDate" : "4 Eyl",
+    "tournament" : "AŞ",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms2" : 0.5,
+  "ms1" : 0.5,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.6666666666666667,
+  "alt" : 0.33333333333333326,
+  "max" : "Üst"
+}, {
+  "teamName" : "Lüksemburg - Makedonya",
+  "teamEv" : "Lüksemburg",
+  "teamDep" : "Makedonya",
+  "detailUrl" : "https://istatistik.nesine.com/2978139",
+  "odds" : {
+    "ms1" : 2.97,
+    "ms2" : 1.11,
+    "h1Value" : 7.5,
+    "h2Value" : -7.5,
+    "h1" : 1.56,
+    "h2" : 1.67,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 79,
+    "awayScore" : 70,
+    "matchDate" : "2029",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Lüksemburg",
+    "awayTeam" : "Makedonya",
+    "homeScore" : 74,
+    "awayScore" : 82,
+    "matchDate" : "2016",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 89,
+    "awayScore" : 75,
+    "matchDate" : "2016",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Lüksemburg",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 74,
+    "awayScore" : 76,
+    "matchDate" : "2 Tem",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 91,
+    "awayScore" : 85,
+    "matchDate" : "2 Mar",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 79,
+    "awayScore" : 70,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Azerbaycan",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 90,
+    "awayScore" : 95,
+    "matchDate" : "30 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lüksemburg",
+    "awayTeam" : "İrlanda",
+    "homeScore" : 89,
+    "awayScore" : 77,
+    "matchDate" : "27 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 68,
+    "awayScore" : 59,
+    "matchDate" : "20 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "İrlanda",
+    "homeScore" : 77,
+    "awayScore" : 56,
+    "matchDate" : "2 Tem",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 91,
+    "awayScore" : 87,
+    "matchDate" : "25 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Azerbaycan",
+    "awayTeam" : "Makedonya",
+    "homeScore" : 70,
+    "awayScore" : 78,
+    "matchDate" : "2 Mar",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Lüksemburg",
+    "homeScore" : 79,
+    "awayScore" : 70,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Makedonya",
+    "homeScore" : 76,
+    "awayScore" : 88,
+    "matchDate" : "30 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 87,
+    "awayScore" : 49,
+    "matchDate" : "27 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "ms2" : 0.8500000000000001,
+  "ms1" : 0.15,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44166666666666665,
+  "alt" : 0.5583333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "Hindistan - Lübnan",
+  "teamEv" : "Hindistan",
+  "teamDep" : "Lübnan",
+  "detailUrl" : "https://istatistik.nesine.com/2978249",
+  "odds" : {
+    "ms1" : 16.95,
+    "ms2" : 0.0,
+    "h1Value" : 29.5,
+    "h2Value" : -29.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 159.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 99,
+    "awayScore" : 56,
+    "matchDate" : "25-27",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 103,
+    "awayScore" : 74,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 63,
+    "awayScore" : 95,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 63,
+    "awayScore" : 104,
+    "matchDate" : "2022",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 99,
+    "awayScore" : 71,
+    "matchDate" : "20/21",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 60,
+    "awayScore" : 115,
+    "matchDate" : "20/21",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "Katar",
+    "homeScore" : 56,
+    "awayScore" : 65,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 99,
+    "awayScore" : 56,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 99,
+    "awayScore" : 73,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 57,
+    "awayScore" : 81,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S. Arabistan",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 75,
+    "awayScore" : 51,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 59,
+    "awayScore" : 84,
+    "matchDate" : "9 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "S. Arabistan",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 82,
+    "awayScore" : 88,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 99,
+    "awayScore" : 56,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 94,
+    "awayScore" : 64,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "Katar",
+    "homeScore" : 83,
+    "awayScore" : 86,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 74,
+    "awayScore" : 75,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yeni Zelanda",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 90,
+    "awayScore" : 86,
+    "matchDate" : "14 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.8500000000000001,
+  "ms1" : 0.15,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.3666666666666667,
+  "alt" : 0.6333333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "S. Arabistan - Katar",
+  "teamEv" : "S. Arabistan",
+  "teamDep" : "Katar",
+  "detailUrl" : "https://istatistik.nesine.com/2978264",
+  "odds" : {
+    "ms1" : 1.11,
+    "ms2" : 2.93,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 157.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Katar",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 80,
+    "awayScore" : 86,
+    "matchDate" : "25-27",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 82,
+    "awayScore" : 78,
+    "matchDate" : "2025",
+    "tournament" : "HAZ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 71,
+    "awayScore" : 69,
+    "matchDate" : "2024",
+    "tournament" : "HAZ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 60,
+    "awayScore" : 60,
+    "matchDate" : "20/21",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "S. Arabistan",
+    "awayTeam" : "Katar",
+    "homeScore" : 68,
+    "awayScore" : 57,
+    "matchDate" : "20/21",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "S. Arabistan",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 82,
+    "awayScore" : 88,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 80,
+    "awayScore" : 86,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 94,
+    "awayScore" : 64,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 57,
+    "awayScore" : 81,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S. Arabistan",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 75,
+    "awayScore" : 51,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "S. Arabistan",
+    "awayTeam" : "Filipinler",
+    "homeScore" : 79,
+    "awayScore" : 79,
+    "matchDate" : "11 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Hindistan",
+    "awayTeam" : "Katar",
+    "homeScore" : 56,
+    "awayScore" : 65,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "S. Arabistan",
+    "homeScore" : 80,
+    "awayScore" : 86,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "Hindistan",
+    "homeScore" : 99,
+    "awayScore" : 73,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Lübnan",
+    "awayTeam" : "Katar",
+    "homeScore" : 83,
+    "awayScore" : 86,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "Lübnan",
+    "homeScore" : 74,
+    "awayScore" : 75,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Katar",
+    "awayTeam" : "Avustralya",
+    "homeScore" : 82,
+    "awayScore" : 110,
+    "matchDate" : "10 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms2" : 0.41500000000000004,
+  "ms1" : 0.49,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.6399999999999999,
+  "alt" : 0.3600000000000001,
+  "max" : "Üst"
+}, {
+  "teamName" : "Gürcistan - İspanya",
+  "teamEv" : "Gürcistan",
+  "teamDep" : "İspanya",
+  "detailUrl" : "https://istatistik.nesine.com/2978068",
+  "odds" : {
+    "ms1" : 3.99,
+    "ms2" : 0.0,
+    "h1Value" : 9.5,
+    "h2Value" : -9.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 158.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 90,
+    "awayScore" : 61,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Gürcistan",
+    "awayTeam" : "İspanya",
+    "homeScore" : 83,
+    "awayScore" : 69,
+    "matchDate" : "2025",
+    "tournament" : "AŞ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Gürcistan",
+    "awayTeam" : "İspanya",
+    "homeScore" : 64,
+    "awayScore" : 90,
+    "matchDate" : "2022",
+    "tournament" : "AŞ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Gürcistan",
+    "awayTeam" : "İspanya",
+    "homeScore" : 67,
+    "awayScore" : 67,
+    "matchDate" : "20-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 89,
+    "awayScore" : 61,
+    "matchDate" : "20-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 95,
+    "awayScore" : 76,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Letonya",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 77,
+    "awayScore" : 87,
+    "matchDate" : "28 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gürcistan",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 89,
+    "awayScore" : 60,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Danimarka",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 71,
+    "awayScore" : 89,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 90,
+    "awayScore" : 61,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gürcistan",
+    "awayTeam" : "Ukrayna",
+    "homeScore" : 79,
+    "awayScore" : 92,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 109,
+    "awayScore" : 81,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Ukrayna",
+    "homeScore" : 78,
+    "awayScore" : 64,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "İspanya",
+    "homeScore" : 66,
+    "awayScore" : 86,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Gürcistan",
+    "homeScore" : 90,
+    "awayScore" : 61,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Danimarka",
+    "awayTeam" : "İspanya",
+    "homeScore" : 64,
+    "awayScore" : 74,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İspanya",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 86,
+    "awayScore" : 90,
+    "matchDate" : "4 Eyl",
+    "tournament" : "AŞ",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms2" : 0.66,
+  "ms1" : 0.32,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44999999999999996,
+  "alt" : 0.55,
+  "max" : "MS2"
+}, {
+  "teamName" : "Slovakya - Kosova",
+  "teamEv" : "Slovakya",
+  "teamDep" : "Kosova",
+  "detailUrl" : "https://istatistik.nesine.com/2978308",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.23,
+    "h1Value" : -13.5,
+    "h2Value" : 13.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Kosova",
+    "awayTeam" : "Slovakya",
+    "homeScore" : 78,
+    "awayScore" : 89,
+    "matchDate" : "2029",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kosova",
+    "awayTeam" : "Slovakya",
+    "homeScore" : 73,
+    "awayScore" : 77,
+    "matchDate" : "20-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Slovakya",
+    "awayTeam" : "Kosova",
+    "homeScore" : 91,
+    "awayScore" : 67,
+    "matchDate" : "20-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Slovakya",
+    "awayTeam" : "Kosova",
+    "homeScore" : 82,
+    "awayScore" : 65,
+    "matchDate" : "2019",
+    "tournament" : "HAZ",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Arnavutluk",
+    "awayTeam" : "Slovakya",
+    "homeScore" : 68,
+    "awayScore" : 94,
+    "matchDate" : "2 Mar",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kosova",
+    "awayTeam" : "Slovakya",
+    "homeScore" : 78,
+    "awayScore" : 89,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Slovakya",
+    "awayTeam" : "Arnavutluk",
+    "homeScore" : 73,
+    "awayScore" : 63,
+    "matchDate" : "27 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Slovakya",
+    "awayTeam" : "Ukrayna",
+    "homeScore" : 86,
+    "awayScore" : 98,
+    "matchDate" : "20 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İsviçre",
+    "awayTeam" : "Slovakya",
+    "homeScore" : 85,
+    "awayScore" : 72,
+    "matchDate" : "13 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ukrayna",
+    "awayTeam" : "Slovakya",
+    "homeScore" : 80,
+    "awayScore" : 71,
+    "matchDate" : "9 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Kosova",
+    "awayTeam" : "Arnavutluk",
+    "homeScore" : 82,
+    "awayScore" : 89,
+    "matchDate" : "2 Tem",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kosova",
+    "awayTeam" : "Slovakya",
+    "homeScore" : 78,
+    "awayScore" : 89,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arnavutluk",
+    "awayTeam" : "Kosova",
+    "homeScore" : 84,
+    "awayScore" : 99,
+    "matchDate" : "30 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kosova",
+    "awayTeam" : "İsviçre",
+    "homeScore" : 73,
+    "awayScore" : 81,
+    "matchDate" : "23 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kosova",
+    "awayTeam" : "Azerbaycan",
+    "homeScore" : 81,
+    "awayScore" : 79,
+    "matchDate" : "20 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İrlanda",
+    "awayTeam" : "Kosova",
+    "homeScore" : 91,
+    "awayScore" : 85,
+    "matchDate" : "24 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 16,
+  "ms2" : 0.375,
+  "ms1" : 0.625,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.55,
+  "alt" : 0.44999999999999996,
+  "max" : "MS1"
+}, {
+  "teamName" : "Bulgaristan - Norveç",
+  "teamEv" : "Bulgaristan",
+  "teamDep" : "Norveç",
+  "detailUrl" : "https://istatistik.nesine.com/2978301",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.66,
+    "h1Value" : -12.5,
+    "h2Value" : 12.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "2029",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Bulgaristan",
+    "awayTeam" : "Norveç",
+    "homeScore" : 91,
+    "awayScore" : 69,
+    "matchDate" : "21-25",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 86,
+    "awayScore" : 80,
+    "matchDate" : "21-25",
+    "tournament" : "AŞE",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Makedonya",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 91,
+    "awayScore" : 87,
+    "matchDate" : "25 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ermenistan",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 80,
+    "awayScore" : 100,
+    "matchDate" : "2 Mar",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bulgaristan",
+    "awayTeam" : "Ermenistan",
+    "homeScore" : 98,
+    "awayScore" : 88,
+    "matchDate" : "27 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hollanda",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 97,
+    "awayScore" : 70,
+    "matchDate" : "20 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bulgaristan",
+    "awayTeam" : "Avusturya",
+    "homeScore" : 87,
+    "awayScore" : 78,
+    "matchDate" : "16 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Ermenistan",
+    "homeScore" : 116,
+    "awayScore" : 103,
+    "matchDate" : "2 Tem",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Bulgaristan",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "27 Şub",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ermenistan",
+    "awayTeam" : "Norveç",
+    "homeScore" : 62,
+    "awayScore" : 74,
+    "matchDate" : "30 Kas",
+    "tournament" : "AŞE",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hırvatistan",
+    "awayTeam" : "Norveç",
+    "homeScore" : 102,
+    "awayScore" : 53,
+    "matchDate" : "16 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Danimarka",
+    "homeScore" : 70,
+    "awayScore" : 79,
+    "matchDate" : "13 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Norveç",
+    "awayTeam" : "Hırvatistan",
+    "homeScore" : 68,
+    "awayScore" : 101,
+    "matchDate" : "6 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "ms2" : 0.5166666666666667,
+  "ms1" : 0.4833333333333334,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5583333333333333,
+  "alt" : 0.44166666666666665,
+  "max" : "Üst"
+}, {
+  "teamName" : "Yunanistan - Portekiz",
+  "teamEv" : "Yunanistan",
+  "teamDep" : "Portekiz",
+  "detailUrl" : "https://istatistik.nesine.com/2978146",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.06,
+    "h1Value" : -13.5,
+    "h2Value" : 13.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 147.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 68,
+    "awayScore" : 76,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Romanya",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 73,
+    "awayScore" : 66,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Karadağ",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 65,
+    "awayScore" : 79,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yunanistan",
+    "awayTeam" : "Karadağ",
+    "homeScore" : 65,
+    "awayScore" : 67,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 68,
+    "awayScore" : 76,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yunanistan",
+    "awayTeam" : "Romanya",
+    "homeScore" : 91,
+    "awayScore" : 64,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yunanistan",
+    "awayTeam" : "Finlandiya",
+    "homeScore" : 92,
+    "awayScore" : 89,
+    "matchDate" : "14 Eyl",
+    "tournament" : "AŞ",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "Karadağ",
+    "homeScore" : 68,
+    "awayScore" : 72,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "İsviçre",
+    "homeScore" : 81,
+    "awayScore" : 70,
+    "matchDate" : "27 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "İsviçre",
+    "homeScore" : 79,
+    "awayScore" : 84,
+    "matchDate" : "26 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Romanya",
+    "awayTeam" : "Portekiz",
+    "homeScore" : 101,
+    "awayScore" : 96,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "Romanya",
+    "homeScore" : 99,
+    "awayScore" : 82,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 68,
+    "awayScore" : 76,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms2" : 0.3333333333333333,
+  "ms1" : 0.6666666666666666,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.5,
+  "alt" : 0.5,
+  "max" : "MS1"
+}, {
+  "teamName" : "Ürdün - Irak",
+  "teamEv" : "Ürdün",
+  "teamDep" : "Irak",
+  "detailUrl" : "https://istatistik.nesine.com/2978223",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 16.95,
+    "h1Value" : -32.5,
+    "h2Value" : 32.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Irak",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 59,
+    "awayScore" : 108,
+    "matchDate" : "25-27",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 67,
+    "awayScore" : 73,
+    "matchDate" : "24/25",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Ürdün",
+    "awayTeam" : "Irak",
+    "homeScore" : 73,
+    "awayScore" : 64,
+    "matchDate" : "24/25",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Ürdün",
+    "awayTeam" : "Irak",
+    "homeScore" : 84,
+    "awayScore" : 70,
+    "matchDate" : "2017",
+    "tournament" : "ASY",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Ürdün",
+    "awayTeam" : "İran",
+    "homeScore" : 49,
+    "awayScore" : 67,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 59,
+    "awayScore" : 108,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 60,
+    "awayScore" : 73,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 48,
+    "awayScore" : 100,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ürdün",
+    "awayTeam" : "Suriye",
+    "homeScore" : 74,
+    "awayScore" : 59,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Tayvan",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 78,
+    "awayScore" : 64,
+    "matchDate" : "11 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Suriye",
+    "awayTeam" : "Irak",
+    "homeScore" : 91,
+    "awayScore" : 81,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "Ürdün",
+    "homeScore" : 59,
+    "awayScore" : 108,
+    "matchDate" : "29 Haz",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "Suriye",
+    "homeScore" : 70,
+    "awayScore" : 78,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "İran",
+    "homeScore" : 71,
+    "awayScore" : 86,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İran",
+    "awayTeam" : "Irak",
+    "homeScore" : 94,
+    "awayScore" : 68,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Irak",
+    "awayTeam" : "Filipinler",
+    "homeScore" : 57,
+    "awayScore" : 66,
+    "matchDate" : "9 Ağu",
+    "tournament" : "ASY",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 16,
+  "ms2" : 0.15,
+  "ms1" : 0.8500000000000001,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.425,
+  "alt" : 0.575,
+  "max" : "MS1"
+}, {
+  "teamName" : "İtalya - Litvanya",
+  "teamEv" : "İtalya",
+  "teamDep" : "Litvanya",
+  "detailUrl" : "https://istatistik.nesine.com/2978073",
+  "odds" : {
+    "ms1" : 2.06,
+    "ms2" : 1.32,
+    "h1Value" : 3.5,
+    "h2Value" : -3.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.58,
+    "under" : 1.65
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 81,
+    "awayScore" : 82,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "İtalya",
+    "awayTeam" : "Litvanya",
+    "homeScore" : 64,
+    "awayScore" : 88,
+    "matchDate" : "23/24",
+    "tournament" : "OLI",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 86,
+    "awayScore" : 73,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "İtalya",
+    "awayTeam" : "Litvanya",
+    "homeScore" : 70,
+    "awayScore" : 65,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 78,
+    "awayScore" : 73,
+    "matchDate" : "2017",
+    "tournament" : "AŞ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "İtalya",
+    "awayTeam" : "Litvanya",
+    "homeScore" : 79,
+    "awayScore" : 79,
+    "matchDate" : "2015",
+    "tournament" : "AŞ",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "İzlanda",
+    "awayTeam" : "İtalya",
+    "homeScore" : 83,
+    "awayScore" : 102,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Slovenya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 83,
+    "awayScore" : 86,
+    "matchDate" : "27 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İtalya",
+    "awayTeam" : "Hırvatistan",
+    "homeScore" : 103,
+    "awayScore" : 91,
+    "matchDate" : "24 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İtalya",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 84,
+    "awayScore" : 75,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "B. Britanya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 57,
+    "awayScore" : 93,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 81,
+    "awayScore" : 82,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 105,
+    "awayScore" : 85,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "Ukrayna",
+    "homeScore" : 92,
+    "awayScore" : 96,
+    "matchDate" : "28 Haz",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "İzlanda",
+    "homeScore" : 99,
+    "awayScore" : 82,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "İzlanda",
+    "awayTeam" : "Litvanya",
+    "homeScore" : 86,
+    "awayScore" : 85,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Litvanya",
+    "awayTeam" : "İtalya",
+    "homeScore" : 81,
+    "awayScore" : 82,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "B. Britanya",
+    "awayTeam" : "Litvanya",
+    "homeScore" : 88,
+    "awayScore" : 89,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.275,
+  "ms1" : 0.7083333333333334,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.525,
+  "alt" : 0.475,
+  "max" : "MS1"
+}, {
+  "teamName" : "Karadağ - Romanya",
+  "teamEv" : "Karadağ",
+  "teamDep" : "Romanya",
+  "detailUrl" : "https://istatistik.nesine.com/2978286",
+  "odds" : {
+    "ms1" : 1.13,
+    "ms2" : 2.82,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Romanya",
+    "awayTeam" : "Karadağ",
+    "homeScore" : 75,
+    "awayScore" : 80,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Karadağ",
+    "awayTeam" : "Romanya",
+    "homeScore" : 86,
+    "awayScore" : 69,
+    "matchDate" : "2017",
+    "tournament" : "AŞ",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "Karadağ",
+    "homeScore" : 68,
+    "awayScore" : 72,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Karadağ",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 65,
+    "awayScore" : 79,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yunanistan",
+    "awayTeam" : "Karadağ",
+    "homeScore" : 65,
+    "awayScore" : 67,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Romanya",
+    "awayTeam" : "Karadağ",
+    "homeScore" : 75,
+    "awayScore" : 80,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Karadağ",
+    "awayTeam" : "Portekiz",
+    "homeScore" : 62,
+    "awayScore" : 83,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Karadağ",
+    "awayTeam" : "B. Britanya",
+    "homeScore" : 83,
+    "awayScore" : 89,
+    "matchDate" : "3 Eyl",
+    "tournament" : "AŞ",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Romanya",
+    "awayTeam" : "Yunanistan",
+    "homeScore" : 73,
+    "awayScore" : 66,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Romanya",
+    "awayTeam" : "Portekiz",
+    "homeScore" : 101,
+    "awayScore" : 96,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portekiz",
+    "awayTeam" : "Romanya",
+    "homeScore" : 99,
+    "awayScore" : 82,
+    "matchDate" : "27 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Romanya",
+    "awayTeam" : "Karadağ",
+    "homeScore" : 75,
+    "awayScore" : 80,
+    "matchDate" : "30 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Yunanistan",
+    "awayTeam" : "Romanya",
+    "homeScore" : 91,
+    "awayScore" : 64,
+    "matchDate" : "27 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Macaristan",
+    "awayTeam" : "Romanya",
+    "homeScore" : 86,
+    "awayScore" : 66,
+    "matchDate" : "16 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 14,
+  "ms2" : 0.375,
+  "ms1" : 0.625,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.625,
+  "alt" : 0.375,
+  "max" : "MS1"
+}, {
+  "teamName" : "Toronto T. - Dallas Wings",
+  "teamEv" : "Toronto T.",
+  "teamDep" : "Dallas Wings",
+  "detailUrl" : "https://istatistik.nesine.com/2978217",
+  "odds" : {
+    "ms1" : 2.15,
+    "ms2" : 1.29,
+    "h1Value" : 4.5,
+    "h2Value" : -4.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Toronto T.",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 80,
+    "awayScore" : 89,
+    "matchDate" : "27 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto T.",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 125,
+    "awayScore" : 97,
+    "matchDate" : "26 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Atlanta",
+    "awayTeam" : "Toronto T.",
+    "homeScore" : 94,
+    "awayScore" : 87,
+    "matchDate" : "23 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Connectic",
+    "awayTeam" : "Toronto T.",
+    "homeScore" : 97,
+    "awayScore" : 101,
+    "matchDate" : "20 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "Toronto T.",
+    "homeScore" : 113,
+    "awayScore" : 91,
+    "matchDate" : "17 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Toronto T.",
+    "awayTeam" : "Atlanta",
+    "homeScore" : 77,
+    "awayScore" : 102,
+    "matchDate" : "14 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Connectic",
+    "awayTeam" : "Dallas Wings",
+    "homeScore" : 83,
+    "awayScore" : 86,
+    "matchDate" : "3 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas Wings",
+    "awayTeam" : "Minnesota",
+    "homeScore" : 77,
+    "awayScore" : 85,
+    "matchDate" : "28 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Las Vegas A.",
+    "awayTeam" : "Dallas Wings",
+    "homeScore" : 99,
+    "awayScore" : 84,
+    "matchDate" : "26 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Seattle",
+    "awayTeam" : "Dallas Wings",
+    "homeScore" : 96,
+    "awayScore" : 96,
+    "matchDate" : "23 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas Wings",
+    "awayTeam" : "Chicago",
+    "homeScore" : 93,
+    "awayScore" : 92,
+    "matchDate" : "21 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Dallas Wings",
+    "homeScore" : 91,
+    "awayScore" : 80,
+    "matchDate" : "18 Haz",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 12,
+  "ms2" : 0.5,
+  "ms1" : 0.41666666666666663,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.5,
+  "alt" : 0.5,
+  "max" : "MS2"
+} ]
