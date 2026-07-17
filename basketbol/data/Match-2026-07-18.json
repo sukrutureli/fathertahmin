@@ -1,0 +1,838 @@
+[ {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Sacramento",
+  "homeStats" : {
+    "avgPointsFor" : 91.16666666666667,
+    "avgPointsAgainst" : 100.16666666666667,
+    "avgTotalPoints" : 191.33333333333334,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 86.83333333333333,
+    "avgPointsAgainst" : 93.33333333333333,
+    "avgTotalPoints" : 180.16666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.47,
+    "ms2" : 1.8,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 0.0,
+    "over" : 0.0,
+    "under" : 0.0
+  },
+  "avgPointsForHome" : 101.66666666666667,
+  "avgPointsForAway" : 102.33333333333333,
+  "h2hAvgTotalPoints" : 204.0
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Chicago",
+  "homeStats" : {
+    "avgPointsFor" : 93.33333333333333,
+    "avgPointsAgainst" : 100.5,
+    "avgTotalPoints" : 193.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 95.16666666666667,
+    "avgPointsAgainst" : 107.5,
+    "avgTotalPoints" : 202.66666666666666,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.27,
+    "ms2" : 2.22,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.56,
+    "h2" : 1.68,
+    "hOverUnderValue" : 184.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 118.0,
+  "avgPointsForAway" : 122.0,
+  "h2hAvgTotalPoints" : 240.0
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "L.Angeles",
+  "homeStats" : {
+    "avgPointsFor" : 89.16666666666667,
+    "avgPointsAgainst" : 91.16666666666667,
+    "avgTotalPoints" : 180.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 89.66666666666667,
+    "avgPointsAgainst" : 94.83333333333333,
+    "avgTotalPoints" : 184.5,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.52,
+    "ms2" : 1.73,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 89.33333333333333,
+  "avgPointsForAway" : 88.0,
+  "h2hAvgTotalPoints" : 177.33333333333334
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Seattle",
+  "homeStats" : {
+    "avgPointsFor" : 93.83333333333333,
+    "avgPointsAgainst" : 85.5,
+    "avgTotalPoints" : 179.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 78.0,
+    "avgPointsAgainst" : 83.16666666666667,
+    "avgTotalPoints" : 161.16666666666666,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.06,
+    "ms2" : 3.36,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 176.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 87.5,
+  "avgPointsForAway" : 79.5,
+  "h2hAvgTotalPoints" : 167.0
+}, {
+  "homeTeam" : "Toronto T.",
+  "awayTeam" : "Atlanta",
+  "homeStats" : {
+    "avgPointsFor" : 80.16666666666667,
+    "avgPointsAgainst" : 89.83333333333333,
+    "avgTotalPoints" : 170.0,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 88.5,
+    "avgPointsAgainst" : 91.0,
+    "avgTotalPoints" : 179.5,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.48,
+    "ms2" : 1.05,
+    "h1Value" : 9.5,
+    "h2Value" : -9.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 181.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 82.0,
+  "avgPointsForAway" : 98.0,
+  "h2hAvgTotalPoints" : 180.0
+}, {
+  "homeTeam" : "Capitanes de",
+  "awayTeam" : "Aguada Sante",
+  "homeStats" : {
+    "avgPointsFor" : 92.33333333333333,
+    "avgPointsAgainst" : 97.33333333333333,
+    "avgTotalPoints" : 189.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 95.83333333333333,
+    "avgPointsAgainst" : 91.0,
+    "avgTotalPoints" : 186.83333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.53,
+    "ms2" : 1.7,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 91.33333333333333,
+  "avgPointsForAway" : 92.0,
+  "h2hAvgTotalPoints" : 183.33333333333334
+}, {
+  "homeTeam" : "Vaqueros",
+  "awayTeam" : "Gigantes de",
+  "homeStats" : {
+    "avgPointsFor" : 82.66666666666667,
+    "avgPointsAgainst" : 76.5,
+    "avgTotalPoints" : 159.16666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 81.83333333333333,
+    "avgPointsAgainst" : 89.0,
+    "avgTotalPoints" : 170.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.29,
+    "ms2" : 2.16,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 79.33333333333333,
+  "avgPointsForAway" : 75.83333333333333,
+  "h2hAvgTotalPoints" : 155.16666666666666
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Dallas",
+  "homeStats" : {
+    "avgPointsFor" : 79.66666666666667,
+    "avgPointsAgainst" : 86.5,
+    "avgTotalPoints" : 166.16666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 103.66666666666667,
+    "avgPointsAgainst" : 105.66666666666667,
+    "avgTotalPoints" : 209.33333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.86,
+    "ms2" : 1.43,
+    "h1Value" : 2.5,
+    "h2Value" : -2.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 114.0,
+  "avgPointsForAway" : 119.5,
+  "h2hAvgTotalPoints" : 233.5
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Detroit",
+  "homeStats" : {
+    "avgPointsFor" : 92.0,
+    "avgPointsAgainst" : 90.0,
+    "avgTotalPoints" : 182.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 94.66666666666667,
+    "avgPointsAgainst" : 100.0,
+    "avgTotalPoints" : 194.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.95,
+    "ms2" : 1.38,
+    "h1Value" : 3.5,
+    "h2Value" : -3.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 184.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 114.83333333333333,
+  "avgPointsForAway" : 116.33333333333333,
+  "h2hAvgTotalPoints" : 231.16666666666666
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "Connectic",
+  "homeStats" : {
+    "avgPointsFor" : 82.0,
+    "avgPointsAgainst" : 87.66666666666667,
+    "avgTotalPoints" : 169.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 79.16666666666667,
+    "avgPointsAgainst" : 80.66666666666667,
+    "avgTotalPoints" : 159.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.31,
+    "ms2" : 2.1,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 76.5,
+  "avgPointsForAway" : 82.5,
+  "h2hAvgTotalPoints" : 159.0
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Portland",
+  "homeStats" : {
+    "avgPointsFor" : 90.66666666666667,
+    "avgPointsAgainst" : 87.0,
+    "avgTotalPoints" : 177.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 97.83333333333333,
+    "avgPointsAgainst" : 99.16666666666667,
+    "avgTotalPoints" : 197.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.32,
+    "ms2" : 2.08,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 189.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 121.66666666666667,
+  "avgPointsForAway" : 129.16666666666666,
+  "h2hAvgTotalPoints" : 250.83333333333334
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Minnesota",
+  "homeStats" : {
+    "avgPointsFor" : 103.0,
+    "avgPointsAgainst" : 100.33333333333333,
+    "avgTotalPoints" : 203.33333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 98.5,
+    "avgPointsAgainst" : 111.16666666666667,
+    "avgTotalPoints" : 209.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.43,
+    "ms2" : 1.85,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.61,
+    "h2" : 1.61,
+    "hOverUnderValue" : 187.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 108.0,
+  "avgPointsForAway" : 107.16666666666667,
+  "h2hAvgTotalPoints" : 215.16666666666666
+}, {
+  "homeTeam" : "Southland S.",
+  "awayTeam" : "Hawke's Bay",
+  "homeStats" : {
+    "avgPointsFor" : 93.83333333333333,
+    "avgPointsAgainst" : 86.83333333333333,
+    "avgTotalPoints" : 180.66666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 80.83333333333333,
+    "avgPointsAgainst" : 96.66666666666667,
+    "avgTotalPoints" : 177.5,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.34,
+    "h1Value" : -17.5,
+    "h2Value" : 17.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 187.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 94.16666666666667,
+  "avgPointsForAway" : 96.5,
+  "h2hAvgTotalPoints" : 190.66666666666666
+}, {
+  "homeTeam" : "Wellington S",
+  "awayTeam" : "Whai",
+  "homeStats" : {
+    "avgPointsFor" : 91.83333333333333,
+    "avgPointsAgainst" : 90.0,
+    "avgTotalPoints" : 181.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 82.16666666666667,
+    "avgPointsAgainst" : 95.16666666666667,
+    "avgTotalPoints" : 177.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.76,
+    "h1Value" : -13.5,
+    "h2Value" : 13.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 179.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 97.5,
+  "avgPointsForAway" : 84.33333333333333,
+  "h2hAvgTotalPoints" : 181.83333333333334
+}, {
+  "homeTeam" : "Dyip",
+  "awayTeam" : "San Miguel",
+  "homeStats" : {
+    "avgPointsFor" : 99.5,
+    "avgPointsAgainst" : 104.83333333333333,
+    "avgTotalPoints" : 204.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 115.33333333333333,
+    "avgPointsAgainst" : 109.0,
+    "avgTotalPoints" : 224.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 5.03,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : -11.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 216.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 99.83333333333333,
+  "avgPointsForAway" : 116.66666666666667,
+  "h2hAvgTotalPoints" : 216.5
+}, {
+  "homeTeam" : "Bellarine",
+  "awayTeam" : "Pakenham",
+  "homeStats" : {
+    "avgPointsFor" : 92.66666666666667,
+    "avgPointsAgainst" : 96.0,
+    "avgTotalPoints" : 188.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 89.5,
+    "avgPointsAgainst" : 87.0,
+    "avgTotalPoints" : 176.5,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.25,
+    "ms2" : 1.26,
+    "h1Value" : 4.5,
+    "h2Value" : -4.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 87.2,
+  "avgPointsForAway" : 82.4,
+  "h2hAvgTotalPoints" : 169.6
+}, {
+  "homeTeam" : "Hume City B.",
+  "awayTeam" : "Rmit B.",
+  "homeStats" : {
+    "avgPointsFor" : 91.16666666666667,
+    "avgPointsAgainst" : 83.66666666666667,
+    "avgTotalPoints" : 174.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 91.33333333333333,
+    "avgPointsAgainst" : 85.16666666666667,
+    "avgTotalPoints" : 176.5,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.93,
+    "h1Value" : -9.5,
+    "h2Value" : 9.5,
+    "h1" : 1.68,
+    "h2" : 1.56,
+    "hOverUnderValue" : 184.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 107.66666666666667,
+  "avgPointsForAway" : 92.33333333333333,
+  "h2hAvgTotalPoints" : 200.0
+}, {
+  "homeTeam" : "Melbourne Un",
+  "awayTeam" : "Wyndham B.",
+  "homeStats" : {
+    "avgPointsFor" : 91.5,
+    "avgPointsAgainst" : 85.66666666666667,
+    "avgTotalPoints" : 177.16666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 90.0,
+    "avgPointsAgainst" : 91.0,
+    "avgTotalPoints" : 181.0,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.08,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.55,
+    "h2" : 1.68,
+    "hOverUnderValue" : 185.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 93.0,
+  "avgPointsForAway" : 91.33333333333333,
+  "h2hAvgTotalPoints" : 184.33333333333334
+}, {
+  "homeTeam" : "Warrandyte",
+  "awayTeam" : "Gippsland U.",
+  "homeStats" : {
+    "avgPointsFor" : 104.33333333333333,
+    "avgPointsAgainst" : 91.66666666666667,
+    "avgTotalPoints" : 196.0,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 86.16666666666667,
+    "avgPointsAgainst" : 101.0,
+    "avgTotalPoints" : 187.16666666666666,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.09,
+    "ms2" : 3.11,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 185.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 93.0,
+  "avgPointsForAway" : 96.0,
+  "h2hAvgTotalPoints" : 189.0
+}, {
+  "homeTeam" : "Çekya",
+  "awayTeam" : "Belçika",
+  "homeStats" : {
+    "avgPointsFor" : 77.66666666666667,
+    "avgPointsAgainst" : 82.33333333333333,
+    "avgTotalPoints" : 160.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 63.333333333333336,
+    "avgPointsAgainst" : 80.16666666666667,
+    "avgTotalPoints" : 143.5,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.7,
+    "ms2" : 1.54,
+    "h1Value" : 1.5,
+    "h2Value" : -1.5,
+    "h1" : 1.6,
+    "h2" : 1.62,
+    "hOverUnderValue" : 148.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 70.33333333333333,
+  "avgPointsForAway" : 71.66666666666667,
+  "h2hAvgTotalPoints" : 142.0
+}, {
+  "homeTeam" : "Rain or S.E.",
+  "awayTeam" : "Meralco Bol.",
+  "homeStats" : {
+    "avgPointsFor" : 102.5,
+    "avgPointsAgainst" : 109.5,
+    "avgTotalPoints" : 212.0,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 91.5,
+    "avgPointsAgainst" : 90.16666666666667,
+    "avgTotalPoints" : 181.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.87,
+    "ms2" : 1.42,
+    "h1Value" : 2.5,
+    "h2Value" : -2.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 213.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 101.0,
+  "avgPointsForAway" : 103.83333333333333,
+  "h2hAvgTotalPoints" : 204.83333333333334
+}, {
+  "homeTeam" : "Romanya",
+  "awayTeam" : "İtalya",
+  "homeStats" : {
+    "avgPointsFor" : 60.5,
+    "avgPointsAgainst" : 85.33333333333333,
+    "avgTotalPoints" : 145.83333333333334,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 66.0,
+    "avgPointsAgainst" : 75.83333333333333,
+    "avgTotalPoints" : 141.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 12.15,
+    "ms2" : 0.0,
+    "h1Value" : 21.5,
+    "h2Value" : -21.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 147.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 0.0,
+  "avgPointsForAway" : 0.0,
+  "h2hAvgTotalPoints" : 0.0
+}, {
+  "homeTeam" : "Almanya",
+  "awayTeam" : "Yunanistan",
+  "homeStats" : {
+    "avgPointsFor" : 74.5,
+    "avgPointsAgainst" : 76.83333333333333,
+    "avgTotalPoints" : 151.33333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 75.33333333333333,
+    "avgPointsAgainst" : 76.5,
+    "avgTotalPoints" : 151.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.27,
+    "ms2" : 2.2,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 78.0,
+  "avgPointsForAway" : 73.2,
+  "h2hAvgTotalPoints" : 151.2
+}, {
+  "homeTeam" : "Polonya",
+  "awayTeam" : "Litvanya",
+  "homeStats" : {
+    "avgPointsFor" : 75.33333333333333,
+    "avgPointsAgainst" : 90.0,
+    "avgTotalPoints" : 165.33333333333334,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 82.5,
+    "avgPointsAgainst" : 75.66666666666667,
+    "avgTotalPoints" : 158.16666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 9.58,
+    "ms2" : 0.0,
+    "h1Value" : 17.5,
+    "h2Value" : -17.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 69.75,
+  "avgPointsForAway" : 92.5,
+  "h2hAvgTotalPoints" : 162.25
+}, {
+  "homeTeam" : "Fransa",
+  "awayTeam" : "Slovenya",
+  "homeStats" : {
+    "avgPointsFor" : 77.5,
+    "avgPointsAgainst" : 63.0,
+    "avgTotalPoints" : 140.5,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 86.16666666666667,
+    "avgPointsAgainst" : 65.0,
+    "avgTotalPoints" : 151.16666666666666,
+    "ppg" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.73,
+    "ms2" : 1.52,
+    "h1Value" : 1.5,
+    "h2Value" : -1.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 141.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 76.25,
+  "avgPointsForAway" : 69.25,
+  "h2hAvgTotalPoints" : 145.5
+}, {
+  "homeTeam" : "İspanya",
+  "awayTeam" : "Sırbistan",
+  "homeStats" : {
+    "avgPointsFor" : 81.0,
+    "avgPointsAgainst" : 65.0,
+    "avgTotalPoints" : 146.0,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 82.0,
+    "avgPointsAgainst" : 65.33333333333333,
+    "avgTotalPoints" : 147.33333333333334,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.36,
+    "ms2" : 1.23,
+    "h1Value" : 5.5,
+    "h2Value" : -5.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 146.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 75.0,
+  "avgPointsForAway" : 76.5,
+  "h2hAvgTotalPoints" : 151.5
+}, {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Boston",
+  "homeStats" : {
+    "avgPointsFor" : 90.0,
+    "avgPointsAgainst" : 96.0,
+    "avgTotalPoints" : 186.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 88.16666666666667,
+    "avgPointsAgainst" : 90.83333333333333,
+    "avgTotalPoints" : 179.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.53,
+    "ms2" : 1.7,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 188.5,
+    "over" : 1.61,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 109.0,
+  "avgPointsForAway" : 116.5,
+  "h2hAvgTotalPoints" : 225.5
+} ]
