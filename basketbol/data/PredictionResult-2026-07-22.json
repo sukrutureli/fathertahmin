@@ -1,0 +1,49 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Whai",
+  "awayTeam" : "Otago Nugget",
+  "pHome" : 0.2583045588883094,
+  "pDraw" : 0.0,
+  "pAway" : 0.7416954411116906,
+  "pOver25" : 0.6551203801266059,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Üst",
+  "confidence" : 0.766204870873773,
+  "scoreline" : "87-93"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "San Miguel",
+  "awayTeam" : "Converge F.",
+  "pHome" : 0.5462846039933938,
+  "pDraw" : 0.0,
+  "pAway" : 0.45371539600660615,
+  "pOver25" : 0.6752875181860163,
+  "pBttsYes" : 0.0,
+  "pick" : "Yakın | Üst",
+  "confidence" : 0.5871363597901043,
+  "scoreline" : "113-112"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "L.Angeles",
+  "awayTeam" : "Phoenix",
+  "pHome" : 0.8603372818157637,
+  "pDraw" : 0.0,
+  "pAway" : 0.13966271818423626,
+  "pOver25" : 0.47196532083565734,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.9140635030194664,
+  "scoreline" : "93-84"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Seattle",
+  "awayTeam" : "Minnesota",
+  "pHome" : 0.4600843420557291,
+  "pDraw" : 0.0,
+  "pAway" : 0.5399156579442708,
+  "pOver25" : 0.7266906636133335,
+  "pBttsYes" : 0.0,
+  "pick" : "Yakın | Üst",
+  "confidence" : 0.5820103740243623,
+  "scoreline" : "93-94"
+} ]

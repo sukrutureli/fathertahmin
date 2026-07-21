@@ -1,0 +1,125 @@
+[ {
+  "homeTeam" : "Whai",
+  "awayTeam" : "Otago Nugget",
+  "homeStats" : {
+    "avgPointsFor" : 82.0,
+    "avgPointsAgainst" : 97.66666666666667,
+    "avgTotalPoints" : 179.66666666666666,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 90.83333333333333,
+    "avgPointsAgainst" : 86.5,
+    "avgTotalPoints" : 177.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.11,
+    "ms2" : 2.97,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 80.4,
+  "avgPointsForAway" : 76.8,
+  "h2hAvgTotalPoints" : 157.2
+}, {
+  "homeTeam" : "San Miguel",
+  "awayTeam" : "Converge F.",
+  "homeStats" : {
+    "avgPointsFor" : 113.5,
+    "avgPointsAgainst" : 105.33333333333333,
+    "avgTotalPoints" : 218.83333333333334,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 117.66666666666667,
+    "avgPointsAgainst" : 104.33333333333333,
+    "avgTotalPoints" : 222.0,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.43,
+    "ms2" : 1.84,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 216.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 103.5,
+  "avgPointsForAway" : 103.5,
+  "h2hAvgTotalPoints" : 207.0
+}, {
+  "homeTeam" : "L.Angeles",
+  "awayTeam" : "Phoenix",
+  "homeStats" : {
+    "avgPointsFor" : 91.83333333333333,
+    "avgPointsAgainst" : 93.66666666666667,
+    "avgTotalPoints" : 185.5,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 78.0,
+    "avgPointsAgainst" : 89.66666666666667,
+    "avgTotalPoints" : 167.66666666666666,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.49,
+    "ms2" : 1.76,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 178.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 88.83333333333333,
+  "avgPointsForAway" : 89.16666666666667,
+  "h2hAvgTotalPoints" : 178.0
+}, {
+  "homeTeam" : "Seattle",
+  "awayTeam" : "Minnesota",
+  "homeStats" : {
+    "avgPointsFor" : 89.66666666666667,
+    "avgPointsAgainst" : 91.16666666666667,
+    "avgTotalPoints" : 180.83333333333334,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 97.0,
+    "avgPointsAgainst" : 91.16666666666667,
+    "avgTotalPoints" : 188.16666666666666,
+    "ppg" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.36,
+    "ms2" : 1.06,
+    "h1Value" : 8.5,
+    "h2Value" : -8.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 177.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 86.83333333333333,
+  "avgPointsForAway" : 88.16666666666667,
+  "h2hAvgTotalPoints" : 175.0
+} ]
