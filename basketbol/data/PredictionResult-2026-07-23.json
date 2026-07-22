@@ -1,0 +1,73 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "New York",
+  "awayTeam" : "Chicago",
+  "pHome" : 0.5278821241047443,
+  "pDraw" : 0.0,
+  "pAway" : 0.47211787589525567,
+  "pOver25" : 0.5535298933807484,
+  "pBttsYes" : 0.0,
+  "pick" : "Yakın | Üst",
+  "confidence" : 0.5723298574667166,
+  "scoreline" : "90-90"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Washngton",
+  "awayTeam" : "Las Vegas A.",
+  "pHome" : 0.4409423895265364,
+  "pDraw" : 0.0,
+  "pAway" : 0.5590576104734636,
+  "pOver25" : 0.36447673601809466,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.607870145829175,
+  "scoreline" : "79-81"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Connectic",
+  "pHome" : 0.8500047725470486,
+  "pDraw" : 0.0,
+  "pAway" : 0.14999522745295135,
+  "pOver25" : 0.5229396409643462,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.8973294901418716,
+  "scoreline" : "94-85"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Portland F.",
+  "awayTeam" : "Dallas Wings",
+  "pHome" : 0.5073766157918249,
+  "pDraw" : 0.0,
+  "pAway" : 0.4926233842081751,
+  "pOver25" : 0.44988653246705285,
+  "pBttsYes" : 0.0,
+  "pick" : "Yakın | Alt",
+  "confidence" : 0.5575705016237738,
+  "scoreline" : "88-88"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Hawke's Bay",
+  "awayTeam" : "Wellington S",
+  "pHome" : 0.1946039051238012,
+  "pDraw" : 0.0,
+  "pAway" : 0.8053960948761987,
+  "pOver25" : 0.2801173535796025,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.8382999477444474,
+  "scoreline" : "88-95"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Nha Trang D.",
+  "awayTeam" : "Can Tho C.",
+  "pHome" : 0.7633782708599847,
+  "pDraw" : 0.0,
+  "pAway" : 0.23662172914001534,
+  "pOver25" : 0.4033912479803402,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.7843355389626754,
+  "scoreline" : "88-82"
+} ]
