@@ -1,0 +1,1761 @@
+[ {
+  "teamName" : "Vaqueros - Criollas",
+  "teamEv" : "Vaqueros",
+  "teamDep" : "Criollas",
+  "detailUrl" : "https://istatistik.nesine.com/3089160",
+  "odds" : {
+    "ms1" : 1.58,
+    "ms2" : 1.65,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 176.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 107,
+    "awayScore" : 99,
+    "matchDate" : "2026",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 107,
+    "awayScore" : 80,
+    "matchDate" : "2026",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 86,
+    "awayScore" : 86,
+    "matchDate" : "2026",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 96,
+    "awayScore" : 90,
+    "matchDate" : "2026",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 102,
+    "awayScore" : 93,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 85,
+    "awayScore" : 84,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Gigantes de",
+    "homeScore" : 90,
+    "awayScore" : 81,
+    "matchDate" : "18 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gigantes de",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 68,
+    "awayScore" : 72,
+    "matchDate" : "16 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Gigantes de",
+    "homeScore" : 101,
+    "awayScore" : 78,
+    "matchDate" : "14 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gigantes de",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 71,
+    "awayScore" : 73,
+    "matchDate" : "12 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Gigantes de",
+    "homeScore" : 69,
+    "awayScore" : 78,
+    "matchDate" : "10 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 81,
+    "awayScore" : 77,
+    "matchDate" : "28 Haz",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Cangrejeros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 95,
+    "awayScore" : 107,
+    "matchDate" : "21 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Cangrejeros",
+    "homeScore" : 104,
+    "awayScore" : 80,
+    "matchDate" : "19 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cangrejeros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 78,
+    "awayScore" : 95,
+    "matchDate" : "17 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Cangrejeros",
+    "homeScore" : 86,
+    "awayScore" : 86,
+    "matchDate" : "15 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Cangrejeros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 98,
+    "awayScore" : 77,
+    "matchDate" : "13 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Cangrejeros",
+    "homeScore" : 98,
+    "awayScore" : 92,
+    "matchDate" : "11 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.425,
+  "ms2" : 0.4833333333333333,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.3666666666666667,
+  "alt" : 0.6333333333333333,
+  "max" : "Alt"
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/3017704",
+  "odds" : {
+    "ms1" : 1.14,
+    "ms2" : 2.75,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 178.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "ms2" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/3017706",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.23,
+    "h1Value" : -12.5,
+    "h2Value" : 12.5,
+    "h1" : 1.61,
+    "h2" : 1.61,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "ms2" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/3017700",
+  "odds" : {
+    "ms1" : 1.36,
+    "ms2" : 2.0,
+    "h1Value" : -3.5,
+    "h2Value" : 3.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "ms2" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "Plateros - Astros",
+  "teamEv" : "Plateros",
+  "teamDep" : "Astros",
+  "detailUrl" : "https://istatistik.nesine.com/3017695",
+  "odds" : {
+    "ms1" : 2.42,
+    "ms2" : 1.21,
+    "h1Value" : 5.5,
+    "h2Value" : -5.5,
+    "h1" : 1.66,
+    "h2" : 1.58,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Plateros",
+    "homeScore" : 84,
+    "awayScore" : 74,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Plateros",
+    "homeScore" : 100,
+    "awayScore" : 76,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Plateros",
+    "homeScore" : 80,
+    "awayScore" : 88,
+    "matchDate" : "2024",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Plateros",
+    "homeScore" : 88,
+    "awayScore" : 79,
+    "matchDate" : "2024",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Plateros",
+    "awayTeam" : "Astros",
+    "homeScore" : 89,
+    "awayScore" : 95,
+    "matchDate" : "2023",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Plateros",
+    "awayTeam" : "Astros",
+    "homeScore" : 77,
+    "awayScore" : 85,
+    "matchDate" : "2023",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Dorados",
+    "awayTeam" : "Plateros",
+    "homeScore" : 94,
+    "awayScore" : 91,
+    "matchDate" : "4 Eki",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dorados",
+    "awayTeam" : "Plateros",
+    "homeScore" : 131,
+    "awayScore" : 75,
+    "matchDate" : "3 Eki",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Plateros",
+    "awayTeam" : "Freseros de",
+    "homeScore" : 104,
+    "awayScore" : 85,
+    "matchDate" : "28 Eyl",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Plateros",
+    "awayTeam" : "Freseros de",
+    "homeScore" : 84,
+    "awayScore" : 78,
+    "matchDate" : "27 Eyl",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Plateros",
+    "awayTeam" : "Calor",
+    "homeScore" : 88,
+    "awayScore" : 93,
+    "matchDate" : "21 Eyl",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Plateros",
+    "awayTeam" : "Calor",
+    "homeScore" : 81,
+    "awayScore" : 68,
+    "matchDate" : "20 Eyl",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Flamengo RJ",
+    "homeScore" : 75,
+    "awayScore" : 77,
+    "matchDate" : "14 Mar",
+    "tournament" : "ŞAM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Flamengo RJ",
+    "awayTeam" : "Astros",
+    "homeScore" : 101,
+    "awayScore" : 99,
+    "matchDate" : "7 Mar",
+    "tournament" : "ŞAM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Caimanes del",
+    "homeScore" : 140,
+    "awayScore" : 69,
+    "matchDate" : "13 Şub",
+    "tournament" : "ŞAM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Paisas B.",
+    "homeScore" : 125,
+    "awayScore" : 72,
+    "matchDate" : "11 Şub",
+    "tournament" : "ŞAM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Astros",
+    "awayTeam" : "Paisas B.",
+    "homeScore" : 100,
+    "awayScore" : 92,
+    "matchDate" : "3 Şub",
+    "tournament" : "ŞAM",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Caimanes del",
+    "awayTeam" : "Astros",
+    "homeScore" : 69,
+    "awayScore" : 131,
+    "matchDate" : "2 Şub",
+    "tournament" : "ŞAM",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.6083333333333334,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.7416666666666667,
+  "alt" : 0.2583333333333333,
+  "max" : "Üst"
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/3017697",
+  "odds" : {
+    "ms1" : 2.2,
+    "ms2" : 1.27,
+    "h1Value" : 4.5,
+    "h2Value" : -4.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 172.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "ms2" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "Diablos Rojo - Panteras de",
+  "teamEv" : "Diablos Rojo",
+  "teamDep" : "Panteras de",
+  "detailUrl" : "https://istatistik.nesine.com/3017705",
+  "odds" : {
+    "ms1" : 1.25,
+    "ms2" : 2.31,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 80,
+    "awayScore" : 91,
+    "matchDate" : "2026",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 91,
+    "awayScore" : 97,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 87,
+    "awayScore" : 90,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 95,
+    "awayScore" : 69,
+    "matchDate" : "2024",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 92,
+    "awayScore" : 71,
+    "matchDate" : "2024",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 80,
+    "awayScore" : 91,
+    "matchDate" : "24 Tem",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 83,
+    "awayScore" : 74,
+    "matchDate" : "11 Kas",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 75,
+    "awayScore" : 90,
+    "matchDate" : "9 Kas",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 100,
+    "awayScore" : 83,
+    "matchDate" : "8 Kas",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 78,
+    "awayScore" : 87,
+    "matchDate" : "5 Kas",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 75,
+    "awayScore" : 96,
+    "matchDate" : "4 Kas",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 80,
+    "awayScore" : 91,
+    "matchDate" : "24 Tem",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Freseros de",
+    "homeScore" : 86,
+    "awayScore" : 77,
+    "matchDate" : "17 Tem",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 104,
+    "awayScore" : 94,
+    "matchDate" : "31 Eki",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 98,
+    "awayScore" : 88,
+    "matchDate" : "28 Eki",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 72,
+    "awayScore" : 94,
+    "matchDate" : "26 Eki",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 96,
+    "awayScore" : 82,
+    "matchDate" : "25 Eki",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms1" : 0.30500000000000005,
+  "ms2" : 0.6950000000000001,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.585,
+  "alt" : 0.41500000000000004,
+  "max" : "MS2"
+}, {
+  "teamName" : "Wellington S - Southland S.",
+  "teamEv" : "Wellington S",
+  "teamDep" : "Southland S.",
+  "detailUrl" : "https://istatistik.nesine.com/3014798",
+  "odds" : {
+    "ms1" : 1.75,
+    "ms2" : 1.5,
+    "h1Value" : 1.5,
+    "h2Value" : -1.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 190.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 104,
+    "awayScore" : 90,
+    "matchDate" : "2026",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 88,
+    "awayScore" : 83,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 72,
+    "awayScore" : 93,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 122,
+    "awayScore" : 83,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 88,
+    "awayScore" : 78,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 75,
+    "awayScore" : 100,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Hawke's Bay",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 82,
+    "awayScore" : 107,
+    "matchDate" : "23 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Whai",
+    "homeScore" : 107,
+    "awayScore" : 95,
+    "matchDate" : "18 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Canterbury R",
+    "homeScore" : 88,
+    "awayScore" : 98,
+    "matchDate" : "12 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 95,
+    "awayScore" : 109,
+    "matchDate" : "10 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Otago Nugget",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 90,
+    "awayScore" : 91,
+    "matchDate" : "4 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 94,
+    "awayScore" : 94,
+    "matchDate" : "27 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Hawke's Bay",
+    "homeScore" : 103,
+    "awayScore" : 62,
+    "matchDate" : "18 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 83,
+    "awayScore" : 71,
+    "matchDate" : "11 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Canterbury R",
+    "homeScore" : 103,
+    "awayScore" : 98,
+    "matchDate" : "1 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 81,
+    "awayScore" : 81,
+    "matchDate" : "24 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hawke's Bay",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 93,
+    "awayScore" : 117,
+    "matchDate" : "22 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Taranaki M.",
+    "homeScore" : 84,
+    "awayScore" : 93,
+    "matchDate" : "18 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.4583333333333333,
+  "ms2" : 0.39166666666666666,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.3333333333333333,
+  "alt" : 0.6666666666666667,
+  "max" : "Alt"
+}, {
+  "teamName" : "Nelson Giant - Whai",
+  "teamEv" : "Nelson Giant",
+  "teamDep" : "Whai",
+  "detailUrl" : "https://istatistik.nesine.com/3014799",
+  "odds" : {
+    "ms1" : 1.98,
+    "ms2" : 1.36,
+    "h1Value" : 3.5,
+    "h2Value" : -3.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 69,
+    "awayScore" : 58,
+    "matchDate" : "2026",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 102,
+    "awayScore" : 84,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Whai",
+    "homeScore" : 81,
+    "awayScore" : 85,
+    "matchDate" : "2025",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 73,
+    "awayScore" : 84,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Whai",
+    "homeScore" : 69,
+    "awayScore" : 83,
+    "matchDate" : "2024",
+    "tournament" : "NBL",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Taranaki M.",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 73,
+    "awayScore" : 98,
+    "matchDate" : "15 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Manawatu Jet",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 95,
+    "awayScore" : 95,
+    "matchDate" : "13 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Southland S.",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 83,
+    "awayScore" : 71,
+    "matchDate" : "11 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Franklin B.",
+    "homeScore" : 88,
+    "awayScore" : 85,
+    "matchDate" : "5 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nelson Giant",
+    "awayTeam" : "Auckland T.",
+    "homeScore" : 82,
+    "awayScore" : 88,
+    "matchDate" : "28 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Nelson Giant",
+    "homeScore" : 94,
+    "awayScore" : 94,
+    "matchDate" : "27 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Otago Nugget",
+    "homeScore" : 107,
+    "awayScore" : 66,
+    "matchDate" : "22 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wellington S",
+    "awayTeam" : "Whai",
+    "homeScore" : 107,
+    "awayScore" : 95,
+    "matchDate" : "18 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Wellington S",
+    "homeScore" : 95,
+    "awayScore" : 109,
+    "matchDate" : "10 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Auckland T.",
+    "homeScore" : 59,
+    "awayScore" : 109,
+    "matchDate" : "4 Tem",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Franklin B.",
+    "awayTeam" : "Whai",
+    "homeScore" : 79,
+    "awayScore" : 93,
+    "matchDate" : "27 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Whai",
+    "awayTeam" : "Southland S.",
+    "homeScore" : 81,
+    "awayScore" : 81,
+    "matchDate" : "24 Haz",
+    "tournament" : "NBL",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms1" : 0.395,
+  "ms2" : 0.38,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.31999999999999995,
+  "alt" : 0.68,
+  "max" : "Alt"
+}, {
+  "teamName" : "Camberwell D - Wyndham B.",
+  "teamEv" : "Camberwell D",
+  "teamDep" : "Wyndham B.",
+  "detailUrl" : "https://istatistik.nesine.com/3014792",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.53,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 65,
+    "awayScore" : 97,
+    "matchDate" : "2026",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Camberwell D",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 89,
+    "awayScore" : 78,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 90,
+    "awayScore" : 94,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 108,
+    "awayScore" : 86,
+    "matchDate" : "2024",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Camberwell D",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 75,
+    "awayScore" : 111,
+    "matchDate" : "2024",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 108,
+    "awayScore" : 79,
+    "matchDate" : "2023",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 87,
+    "awayScore" : 101,
+    "matchDate" : "19 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Camberwell D",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 79,
+    "awayScore" : 91,
+    "matchDate" : "11 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Camberwell D",
+    "awayTeam" : "Bellarine",
+    "homeScore" : 86,
+    "awayScore" : 92,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Warrandyte",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 100,
+    "awayScore" : 104,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 91,
+    "awayScore" : 85,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 91,
+    "awayScore" : 75,
+    "matchDate" : "14 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 118,
+    "awayScore" : 113,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 111,
+    "awayScore" : 99,
+    "matchDate" : "12 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 95,
+    "awayScore" : 91,
+    "matchDate" : "11 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 77,
+    "awayScore" : 91,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 77,
+    "awayScore" : 91,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 91,
+    "awayScore" : 89,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.42500000000000004,
+  "ms2" : 0.575,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.44166666666666665,
+  "alt" : 0.5583333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "Gippsland U. - Bellarine",
+  "teamEv" : "Gippsland U.",
+  "teamDep" : "Bellarine",
+  "detailUrl" : "https://istatistik.nesine.com/3014790",
+  "odds" : {
+    "ms1" : 1.54,
+    "ms2" : 1.7,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 183.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 102,
+    "awayScore" : 112,
+    "matchDate" : "2026",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Warrandyte",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 110,
+    "awayScore" : 93,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 111,
+    "awayScore" : 99,
+    "matchDate" : "12 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sunbury Jets",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 88,
+    "awayScore" : 91,
+    "matchDate" : "5 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 92,
+    "awayScore" : 100,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 93,
+    "awayScore" : 108,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 70,
+    "awayScore" : 111,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 90,
+    "awayScore" : 79,
+    "matchDate" : "19 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 83,
+    "awayScore" : 65,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Camberwell D",
+    "awayTeam" : "Bellarine",
+    "homeScore" : 86,
+    "awayScore" : 92,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Warrandyte",
+    "homeScore" : 95,
+    "awayScore" : 118,
+    "matchDate" : "28 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 83,
+    "awayScore" : 92,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Bellarine",
+    "homeScore" : 77,
+    "awayScore" : 97,
+    "matchDate" : "13 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms1" : 0.25,
+  "ms2" : 0.75,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.41666666666666663,
+  "alt" : 0.5833333333333334,
+  "max" : "MS2"
+}, {
+  "teamName" : "Rmit B. - Melbourne Un",
+  "teamEv" : "Rmit B.",
+  "teamDep" : "Melbourne Un",
+  "detailUrl" : "https://istatistik.nesine.com/3014789",
+  "odds" : {
+    "ms1" : 1.42,
+    "ms2" : 1.87,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 187.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 114,
+    "awayScore" : 111,
+    "matchDate" : "2026",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 78,
+    "awayScore" : 92,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 85,
+    "awayScore" : 105,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 95,
+    "awayScore" : 74,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 100,
+    "awayScore" : 76,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 87,
+    "awayScore" : 98,
+    "matchDate" : "11 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 92,
+    "awayScore" : 100,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 75,
+    "awayScore" : 74,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 103,
+    "awayScore" : 89,
+    "matchDate" : "21 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 83,
+    "awayScore" : 92,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 118,
+    "awayScore" : 113,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Camberwell D",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 79,
+    "awayScore" : 91,
+    "matchDate" : "11 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 88,
+    "awayScore" : 80,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 95,
+    "awayScore" : 85,
+    "matchDate" : "28 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gippsland U.",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 93,
+    "awayScore" : 108,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 97,
+    "awayScore" : 78,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 16,
+  "ms1" : 0.425,
+  "ms2" : 0.575,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.35,
+  "alt" : 0.65,
+  "max" : "Alt"
+}, {
+  "teamName" : "Pakenham - Warrandyte",
+  "teamEv" : "Pakenham",
+  "teamDep" : "Warrandyte",
+  "detailUrl" : "https://istatistik.nesine.com/3014788",
+  "odds" : {
+    "ms1" : 1.92,
+    "ms2" : 1.39,
+    "h1Value" : 3.5,
+    "h2Value" : -3.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 181.5,
+    "over" : 1.58,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Warrandyte",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 101,
+    "awayScore" : 112,
+    "matchDate" : "2026",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 83,
+    "awayScore" : 65,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 87,
+    "awayScore" : 98,
+    "matchDate" : "11 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 77,
+    "awayScore" : 91,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 95,
+    "awayScore" : 85,
+    "matchDate" : "28 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 98,
+    "awayScore" : 92,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 91,
+    "awayScore" : 85,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Warrandyte",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 110,
+    "awayScore" : 93,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Warrandyte",
+    "homeScore" : 87,
+    "awayScore" : 95,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Warrandyte",
+    "homeScore" : 95,
+    "awayScore" : 118,
+    "matchDate" : "28 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Warrandyte",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 100,
+    "awayScore" : 104,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Warrandyte",
+    "homeScore" : 92,
+    "awayScore" : 106,
+    "matchDate" : "13 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Warrandyte",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 104,
+    "awayScore" : 86,
+    "matchDate" : "30 May",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.6666666666666667,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.6666666666666666,
+  "alt" : 0.33333333333333337,
+  "max" : "MS2"
+}, {
+  "teamName" : "Sunbury Jets - Mckinnon C.",
+  "teamEv" : "Sunbury Jets",
+  "teamDep" : "Mckinnon C.",
+  "detailUrl" : "https://istatistik.nesine.com/3014791",
+  "odds" : {
+    "ms1" : 1.92,
+    "ms2" : 1.39,
+    "h1Value" : 3.5,
+    "h2Value" : -3.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.65,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 80,
+    "awayScore" : 64,
+    "matchDate" : "2026",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 107,
+    "awayScore" : 83,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sunbury Jets",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 85,
+    "awayScore" : 103,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sunbury Jets",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 101,
+    "awayScore" : 89,
+    "matchDate" : "2024",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 86,
+    "awayScore" : 70,
+    "matchDate" : "2024",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Sunbury Jets",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 84,
+    "awayScore" : 96,
+    "matchDate" : "2023",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Bellarine",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 90,
+    "awayScore" : 79,
+    "matchDate" : "19 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sunbury Jets",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 88,
+    "awayScore" : 91,
+    "matchDate" : "5 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 77,
+    "awayScore" : 91,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 103,
+    "awayScore" : 89,
+    "matchDate" : "21 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Melbourne Un",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 97,
+    "awayScore" : 78,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Sunbury Jets",
+    "homeScore" : 94,
+    "awayScore" : 87,
+    "matchDate" : "13 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 87,
+    "awayScore" : 101,
+    "matchDate" : "19 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Warrandyte",
+    "homeScore" : 87,
+    "awayScore" : 95,
+    "matchDate" : "4 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Rmit B.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 75,
+    "awayScore" : 74,
+    "matchDate" : "27 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Wyndham B.",
+    "homeScore" : 91,
+    "awayScore" : 89,
+    "matchDate" : "20 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Melbourne Un",
+    "homeScore" : 91,
+    "awayScore" : 78,
+    "matchDate" : "13 Haz",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 71,
+    "awayScore" : 72,
+    "matchDate" : "30 May",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.6833333333333333,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.5916666666666667,
+  "alt" : 0.4083333333333333,
+  "max" : "MS2"
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/3041809",
+  "odds" : {
+    "ms1" : 2.08,
+    "ms2" : 1.31,
+    "h1Value" : 4.5,
+    "h2Value" : -4.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 211.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "ms2" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/3014781",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.82,
+    "h1Value" : -10.5,
+    "h2Value" : 10.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "ms2" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "max" : ""
+} ]
