@@ -1,0 +1,125 @@
+[ {
+  "homeTeam" : "Leones de Po",
+  "awayTeam" : "Aguada Sante",
+  "homeStats" : {
+    "avgPointsFor" : 92.16666666666667,
+    "avgPointsAgainst" : 91.0,
+    "avgTotalPoints" : 183.16666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 93.83333333333333,
+    "avgPointsAgainst" : 86.83333333333333,
+    "avgTotalPoints" : 180.66666666666666,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.31,
+    "ms2" : 2.09,
+    "h1Value" : -3.5,
+    "h2Value" : 3.5,
+    "h1" : 1.56,
+    "h2" : 1.67,
+    "hOverUnderValue" : 186.5,
+    "over" : 1.6,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 90.66666666666667,
+  "avgPointsForAway" : 91.5,
+  "h2hAvgTotalPoints" : 182.16666666666666
+}, {
+  "homeTeam" : "Astros",
+  "awayTeam" : "Correcaminos",
+  "homeStats" : {
+    "avgPointsFor" : 99.66666666666667,
+    "avgPointsAgainst" : 80.83333333333333,
+    "avgTotalPoints" : 180.5,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 85.0,
+    "avgPointsAgainst" : 101.5,
+    "avgTotalPoints" : 186.5,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.73,
+    "h1Value" : -12.5,
+    "h2Value" : 12.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 91.83333333333333,
+  "avgPointsForAway" : 78.33333333333333,
+  "h2hAvgTotalPoints" : 170.16666666666666
+}, {
+  "homeTeam" : "Phoenix Fuel",
+  "awayTeam" : "Blackwater",
+  "homeStats" : {
+    "avgPointsFor" : 93.33333333333333,
+    "avgPointsAgainst" : 99.0,
+    "avgTotalPoints" : 192.33333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 105.66666666666667,
+    "avgPointsAgainst" : 110.66666666666667,
+    "avgTotalPoints" : 216.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.25,
+    "ms2" : 2.27,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.55,
+    "h2" : 1.69,
+    "hOverUnderValue" : 209.5,
+    "over" : 1.58,
+    "under" : 1.65
+  },
+  "avgPointsForHome" : 112.83333333333333,
+  "avgPointsForAway" : 108.66666666666667,
+  "h2hAvgTotalPoints" : 221.5
+}, {
+  "homeTeam" : "Tropang Giga",
+  "awayTeam" : "Converge F.",
+  "homeStats" : {
+    "avgPointsFor" : 91.66666666666667,
+    "avgPointsAgainst" : 94.5,
+    "avgTotalPoints" : 186.16666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 116.33333333333333,
+    "avgPointsAgainst" : 108.5,
+    "avgTotalPoints" : 224.83333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.1,
+    "ms2" : 1.31,
+    "h1Value" : 4.5,
+    "h2Value" : -4.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 214.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 97.83333333333333,
+  "avgPointsForAway" : 97.16666666666667,
+  "h2hAvgTotalPoints" : 195.0
+} ]
