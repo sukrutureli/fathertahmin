@@ -1,0 +1,49 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Panama U20",
+  "awayTeam" : "Dominican Re",
+  "pHome" : 0.9225579229838416,
+  "pDraw" : 0.0,
+  "pAway" : 0.0774420770161584,
+  "pOver25" : 0.5,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.95,
+  "scoreline" : "63-49"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Dallas Wings",
+  "awayTeam" : "Connectic",
+  "pHome" : 0.8232363864623469,
+  "pDraw" : 0.0,
+  "pAway" : 0.17676361353765313,
+  "pOver25" : 0.5838369626850666,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.8577008916498241,
+  "scoreline" : "92-85"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Aguada Sante",
+  "awayTeam" : "Leones de Po",
+  "pHome" : 0.8459593689616067,
+  "pDraw" : 0.0,
+  "pAway" : 0.15404063103839322,
+  "pOver25" : 0.443353154298348,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.8908654192465859,
+  "scoreline" : "96-87"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Toronto T.",
+  "pHome" : 0.9112741861802227,
+  "pDraw" : 0.0,
+  "pAway" : 0.08872581381977729,
+  "pOver25" : 0.695175318545289,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.95,
+  "scoreline" : "92-80"
+} ]
