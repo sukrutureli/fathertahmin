@@ -1,0 +1,61 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Arjantin",
+  "awayTeam" : "Paraguay",
+  "pHome" : 0.39460489536274856,
+  "pDraw" : 0.0,
+  "pAway" : 0.6053951046372514,
+  "pOver25" : 0.6069964981050066,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Üst",
+  "confidence" : 0.636031992507468,
+  "scoreline" : "65-67"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Leones de Po",
+  "awayTeam" : "Aguada Sante",
+  "pHome" : 0.41778768719412496,
+  "pDraw" : 0.0,
+  "pAway" : 0.582212312805875,
+  "pOver25" : 0.37942108046864853,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.61641017021061,
+  "scoreline" : "89-91"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Toronto T.",
+  "pHome" : 0.9289010455331431,
+  "pDraw" : 0.0,
+  "pAway" : 0.07109895446685688,
+  "pOver25" : 0.5822533603575764,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.95,
+  "scoreline" : "93-80"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Blackwater",
+  "awayTeam" : "Phoenix Fuel",
+  "pHome" : 0.6746367357195062,
+  "pDraw" : 0.0,
+  "pAway" : 0.3253632642804937,
+  "pOver25" : 0.48442297242171145,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.6985427223167504,
+  "scoreline" : "104-100"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "San Miguel",
+  "awayTeam" : "Converge F.",
+  "pHome" : 0.7024848332438973,
+  "pDraw" : 0.0,
+  "pAway" : 0.2975151667561027,
+  "pOver25" : 0.38066843107235515,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.7220409543112629,
+  "scoreline" : "114-110"
+} ]
