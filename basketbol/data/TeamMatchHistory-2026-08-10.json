@@ -1,0 +1,669 @@
+[ {
+  "teamName" : "L.Angeles - Golden State",
+  "teamEv" : "L.Angeles",
+  "teamDep" : "Golden State",
+  "detailUrl" : "https://istatistik.nesine.com/3045271",
+  "odds" : {
+    "ms1" : 2.53,
+    "ms2" : 1.19,
+    "h1Value" : 6.5,
+    "h2Value" : -6.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 78,
+    "awayScore" : 58,
+    "matchDate" : "2026",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 72,
+    "awayScore" : 59,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "L.Angeles",
+    "awayTeam" : "Golden State",
+    "homeScore" : 78,
+    "awayScore" : 78,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "L.Angeles",
+    "awayTeam" : "Golden State",
+    "homeScore" : 73,
+    "awayScore" : 82,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 67,
+    "awayScore" : 84,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 82,
+    "awayScore" : 83,
+    "matchDate" : "2025",
+    "tournament" : "WNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Minnesota",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 82,
+    "awayScore" : 89,
+    "matchDate" : "7 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 95,
+    "awayScore" : 88,
+    "matchDate" : "6 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Portland F.",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 101,
+    "awayScore" : 106,
+    "matchDate" : "2 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "L.Angeles",
+    "awayTeam" : "New York",
+    "homeScore" : 109,
+    "awayScore" : 113,
+    "matchDate" : "29 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "L.Angeles",
+    "awayTeam" : "Phoenix",
+    "homeScore" : 82,
+    "awayScore" : 86,
+    "matchDate" : "22 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dallas Wings",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 90,
+    "awayScore" : 82,
+    "matchDate" : "19 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Dallas Wings",
+    "awayTeam" : "Golden State",
+    "homeScore" : 76,
+    "awayScore" : 94,
+    "matchDate" : "8 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Toronto T.",
+    "homeScore" : 92,
+    "awayScore" : 81,
+    "matchDate" : "5 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Toronto T.",
+    "homeScore" : 96,
+    "awayScore" : 79,
+    "matchDate" : "3 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Phoenix",
+    "awayTeam" : "Golden State",
+    "homeScore" : 91,
+    "awayScore" : 89,
+    "matchDate" : "30 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Washngton",
+    "homeScore" : 82,
+    "awayScore" : 90,
+    "matchDate" : "21 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Washngton",
+    "homeScore" : 74,
+    "awayScore" : 69,
+    "matchDate" : "19 Tem",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "ust" : 0.75,
+  "alt" : 0.25,
+  "ms2" : 0.6499999999999999,
+  "ms1" : 0.3333333333333333,
+  "max" : "Üst",
+  "infoEnoughWithoutRekabet" : false
+}, {
+  "teamName" : "Diablos Rojo - Fuerza Regia",
+  "teamEv" : "Diablos Rojo",
+  "teamDep" : "Fuerza Regia",
+  "detailUrl" : "https://istatistik.nesine.com/3045265",
+  "odds" : {
+    "ms1" : 1.42,
+    "ms2" : 1.86,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 83,
+    "awayScore" : 74,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 75,
+    "awayScore" : 90,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 100,
+    "awayScore" : 83,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 78,
+    "awayScore" : 87,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 75,
+    "awayScore" : 96,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 97,
+    "awayScore" : 91,
+    "matchDate" : "2025",
+    "tournament" : "LNB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Freseros de",
+    "homeScore" : 82,
+    "awayScore" : 86,
+    "matchDate" : "7 Ağu",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Freseros de",
+    "homeScore" : 99,
+    "awayScore" : 73,
+    "matchDate" : "6 Ağu",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dorados",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 67,
+    "awayScore" : 87,
+    "matchDate" : "2 Ağu",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dorados",
+    "awayTeam" : "Diablos Rojo",
+    "homeScore" : 86,
+    "awayScore" : 70,
+    "matchDate" : "1 Ağu",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 92,
+    "awayScore" : 88,
+    "matchDate" : "25 Tem",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Diablos Rojo",
+    "awayTeam" : "Panteras de",
+    "homeScore" : 80,
+    "awayScore" : 91,
+    "matchDate" : "24 Tem",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Dorados",
+    "homeScore" : 86,
+    "awayScore" : 92,
+    "matchDate" : "7 Ağu",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Dorados",
+    "homeScore" : 67,
+    "awayScore" : 96,
+    "matchDate" : "6 Ağu",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 75,
+    "awayScore" : 82,
+    "matchDate" : "1 Ağu",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panteras de",
+    "awayTeam" : "Fuerza Regia",
+    "homeScore" : 90,
+    "awayScore" : 85,
+    "matchDate" : "31 Tem",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Soles De Mex",
+    "homeScore" : 89,
+    "awayScore" : 89,
+    "matchDate" : "27 Tem",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fuerza Regia",
+    "awayTeam" : "Soles De Mex",
+    "homeScore" : 78,
+    "awayScore" : 78,
+    "matchDate" : "26 Tem",
+    "tournament" : "LNB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "ust" : 0.5,
+  "alt" : 0.5,
+  "ms2" : 0.3666666666666667,
+  "ms1" : 0.4833333333333334,
+  "max" : "Alt",
+  "infoEnoughWithoutRekabet" : false
+}, {
+  "teamName" : "Arjantin - Venezuela",
+  "teamEv" : "Arjantin",
+  "teamDep" : "Venezuela",
+  "detailUrl" : "https://istatistik.nesine.com/3134365",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.2,
+    "h1Value" : -9.5,
+    "h2Value" : 9.5,
+    "h1" : 1.56,
+    "h2" : 1.67,
+    "hOverUnderValue" : 126.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 69,
+    "awayScore" : 66,
+    "matchDate" : "2024",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 56,
+    "awayScore" : 58,
+    "matchDate" : "2023",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 44,
+    "awayScore" : 79,
+    "matchDate" : "2022",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 60,
+    "awayScore" : 60,
+    "matchDate" : "2016",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 72,
+    "awayScore" : 66,
+    "matchDate" : "9 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uruguay",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 45,
+    "awayScore" : 64,
+    "matchDate" : "7 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Paraguay",
+    "homeScore" : 81,
+    "awayScore" : 48,
+    "matchDate" : "5 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 42,
+    "awayScore" : 66,
+    "matchDate" : "4 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Japonya",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 83,
+    "awayScore" : 39,
+    "matchDate" : "17 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Macaristan",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 77,
+    "awayScore" : 77,
+    "matchDate" : "15 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 68,
+    "awayScore" : 64,
+    "matchDate" : "8 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 57,
+    "awayScore" : 71,
+    "matchDate" : "6 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Şili",
+    "homeScore" : 62,
+    "awayScore" : 51,
+    "matchDate" : "4 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 62,
+    "awayScore" : 68,
+    "matchDate" : "8 Eyl",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 69,
+    "awayScore" : 66,
+    "matchDate" : "7 Eyl",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Venezuela",
+    "awayTeam" : "Paraguay",
+    "homeScore" : 75,
+    "awayScore" : 57,
+    "matchDate" : "4 Eyl",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 16,
+  "infoEnough" : true,
+  "ust" : 0.625,
+  "alt" : 0.375,
+  "ms2" : 0.375,
+  "ms1" : 0.525,
+  "max" : "Üst",
+  "infoEnoughWithoutRekabet" : false
+}, {
+  "teamName" : "Vaqueros - Aguada Sante",
+  "teamEv" : "Vaqueros",
+  "teamDep" : "Aguada Sante",
+  "detailUrl" : "https://istatistik.nesine.com/3128109",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.05,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.56,
+    "h2" : 1.68,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 88,
+    "awayScore" : 70,
+    "matchDate" : "2026",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 96,
+    "awayScore" : 79,
+    "matchDate" : "2026",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 94,
+    "awayScore" : 86,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 58,
+    "awayScore" : 62,
+    "matchDate" : "2025",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 76,
+    "awayScore" : 82,
+    "matchDate" : "2024",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 63,
+    "awayScore" : 68,
+    "matchDate" : "2024",
+    "tournament" : "SUP",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 88,
+    "awayScore" : 96,
+    "matchDate" : "4 Ağu",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 122,
+    "awayScore" : 79,
+    "matchDate" : "2 Ağu",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 111,
+    "awayScore" : 97,
+    "matchDate" : "31 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 106,
+    "awayScore" : 83,
+    "matchDate" : "29 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Criollas",
+    "awayTeam" : "Vaqueros",
+    "homeScore" : 88,
+    "awayScore" : 69,
+    "matchDate" : "27 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Vaqueros",
+    "awayTeam" : "Criollas",
+    "homeScore" : 78,
+    "awayScore" : 74,
+    "matchDate" : "25 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 89,
+    "awayScore" : 95,
+    "matchDate" : "5 Ağu",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Leones de Po",
+    "homeScore" : 85,
+    "awayScore" : 85,
+    "matchDate" : "3 Ağu",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 89,
+    "awayScore" : 96,
+    "matchDate" : "1 Ağu",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Leones de Po",
+    "homeScore" : 100,
+    "awayScore" : 89,
+    "matchDate" : "30 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Leones de Po",
+    "awayTeam" : "Aguada Sante",
+    "homeScore" : 87,
+    "awayScore" : 80,
+    "matchDate" : "28 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Aguada Sante",
+    "awayTeam" : "Leones de Po",
+    "homeScore" : 93,
+    "awayScore" : 70,
+    "matchDate" : "26 Tem",
+    "tournament" : "SUP",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "infoEnough" : true,
+  "ust" : 0.5583333333333333,
+  "alt" : 0.44166666666666665,
+  "ms2" : 0.4833333333333333,
+  "ms1" : 0.44166666666666665,
+  "max" : "Üst",
+  "infoEnoughWithoutRekabet" : false
+} ]

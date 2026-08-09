@@ -1,0 +1,125 @@
+[ {
+  "homeTeam" : "L.Angeles",
+  "awayTeam" : "Golden State",
+  "homeStats" : {
+    "avgPointsFor" : 92.66666666666667,
+    "avgPointsAgainst" : 94.5,
+    "avgTotalPoints" : 187.16666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 87.83333333333333,
+    "avgPointsAgainst" : 81.0,
+    "avgTotalPoints" : 168.83333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.53,
+    "ms2" : 1.19,
+    "h1Value" : 6.5,
+    "h2Value" : -6.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 72.5,
+  "avgPointsForAway" : 76.5,
+  "h2hAvgTotalPoints" : 149.0
+}, {
+  "homeTeam" : "Diablos Rojo",
+  "awayTeam" : "Fuerza Regia",
+  "homeStats" : {
+    "avgPointsFor" : 85.0,
+    "avgPointsAgainst" : 81.83333333333333,
+    "avgTotalPoints" : 166.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 81.16666666666667,
+    "avgPointsAgainst" : 86.66666666666667,
+    "avgTotalPoints" : 167.83333333333334,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.42,
+    "ms2" : 1.86,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 82.83333333333333,
+  "avgPointsForAway" : 88.66666666666667,
+  "h2hAvgTotalPoints" : 171.5
+}, {
+  "homeTeam" : "Arjantin",
+  "awayTeam" : "Venezuela",
+  "homeStats" : {
+    "avgPointsFor" : 66.5,
+    "avgPointsAgainst" : 60.166666666666664,
+    "avgTotalPoints" : 126.66666666666667,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 67.33333333333333,
+    "avgPointsAgainst" : 61.0,
+    "avgTotalPoints" : 128.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.2,
+    "h1Value" : -9.5,
+    "h2Value" : 9.5,
+    "h1" : 1.56,
+    "h2" : 1.67,
+    "hOverUnderValue" : 126.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 66.5,
+  "avgPointsForAway" : 56.5,
+  "h2hAvgTotalPoints" : 123.0
+}, {
+  "homeTeam" : "Vaqueros",
+  "awayTeam" : "Aguada Sante",
+  "homeStats" : {
+    "avgPointsFor" : 94.66666666666667,
+    "avgPointsAgainst" : 87.16666666666667,
+    "avgTotalPoints" : 181.83333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 91.5,
+    "avgPointsAgainst" : 84.83333333333333,
+    "avgTotalPoints" : 176.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.05,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.56,
+    "h2" : 1.68,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 77.66666666666667,
+  "avgPointsForAway" : 76.0,
+  "h2hAvgTotalPoints" : 153.66666666666666
+} ]
