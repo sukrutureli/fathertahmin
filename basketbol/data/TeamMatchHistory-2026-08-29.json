@@ -1,0 +1,931 @@
+[ {
+  "teamName" : "Hume City B. - Mckinnon C.",
+  "teamEv" : "Hume City B.",
+  "teamDep" : "Mckinnon C.",
+  "detailUrl" : "https://istatistik.nesine.com/3172459",
+  "odds" : {
+    "ms1" : 1.13,
+    "ms2" : 2.86,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 179.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 98,
+    "awayScore" : 95,
+    "matchDate" : "2026",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 71,
+    "awayScore" : 72,
+    "matchDate" : "2026",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 81,
+    "awayScore" : 87,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 111,
+    "awayScore" : 72,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 85,
+    "awayScore" : 86,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 88,
+    "awayScore" : 100,
+    "matchDate" : "2025",
+    "tournament" : "BIG",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Pakenham",
+    "homeScore" : 86,
+    "awayScore" : 68,
+    "matchDate" : "22 Ağu",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 98,
+    "awayScore" : 95,
+    "matchDate" : "8 Ağu",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Bellarine",
+    "homeScore" : 82,
+    "awayScore" : 87,
+    "matchDate" : "1 Ağu",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Warrandyte",
+    "homeScore" : 105,
+    "awayScore" : 97,
+    "matchDate" : "26 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hume City B.",
+    "awayTeam" : "Rmit B.",
+    "homeScore" : 100,
+    "awayScore" : 76,
+    "matchDate" : "18 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Wyndham B.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 95,
+    "awayScore" : 91,
+    "matchDate" : "11 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Camberwell D",
+    "homeScore" : 100,
+    "awayScore" : 86,
+    "matchDate" : "22 Ağu",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Hume City B.",
+    "homeScore" : 98,
+    "awayScore" : 95,
+    "matchDate" : "8 Ağu",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Bellarine",
+    "homeScore" : 90,
+    "awayScore" : 87,
+    "matchDate" : "2 Ağu",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Pakenham",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 85,
+    "awayScore" : 84,
+    "matchDate" : "1 Ağu",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mckinnon C.",
+    "awayTeam" : "Gippsland U.",
+    "homeScore" : 89,
+    "awayScore" : 84,
+    "matchDate" : "26 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Sunbury Jets",
+    "awayTeam" : "Mckinnon C.",
+    "homeScore" : 70,
+    "awayScore" : 95,
+    "matchDate" : "25 Tem",
+    "tournament" : "BIG",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.6666666666666667,
+  "ms1" : 0.33333333333333337,
+  "infoEnoughWithoutRekabet" : false,
+  "infoEnough" : true,
+  "ust" : 0.42500000000000004,
+  "alt" : 0.575,
+  "max" : "MS2"
+}, {
+  "teamName" : "Fildişi - Mısır",
+  "teamEv" : "Fildişi",
+  "teamDep" : "Mısır",
+  "detailUrl" : "https://istatistik.nesine.com/3084302",
+  "odds" : {
+    "ms1" : 1.17,
+    "ms2" : 2.6,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 156.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Fildişi",
+    "homeScore" : 76,
+    "awayScore" : 82,
+    "matchDate" : "2025",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Mali",
+    "awayTeam" : "Fildişi",
+    "homeScore" : 77,
+    "awayScore" : 83,
+    "matchDate" : "27 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fildişi",
+    "awayTeam" : "Madagaskar",
+    "homeScore" : 118,
+    "awayScore" : 102,
+    "matchDate" : "5 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kongo Cum.",
+    "awayTeam" : "Fildişi",
+    "homeScore" : 51,
+    "awayScore" : 94,
+    "matchDate" : "4 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fildişi",
+    "awayTeam" : "Senegal",
+    "homeScore" : 72,
+    "awayScore" : 85,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Madagaskar",
+    "awayTeam" : "Fildişi",
+    "homeScore" : 74,
+    "awayScore" : 99,
+    "matchDate" : "1 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fildişi",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 96,
+    "awayScore" : 59,
+    "matchDate" : "28 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Senegal",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "27 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Uganda",
+    "homeScore" : 67,
+    "awayScore" : 67,
+    "matchDate" : "5 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Angola",
+    "awayTeam" : "Mısır",
+    "homeScore" : 73,
+    "awayScore" : 79,
+    "matchDate" : "4 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Mali",
+    "homeScore" : 70,
+    "awayScore" : 78,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uganda",
+    "awayTeam" : "Mısır",
+    "homeScore" : 52,
+    "awayScore" : 91,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Angola",
+    "homeScore" : 72,
+    "awayScore" : 83,
+    "matchDate" : "1 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms2" : 0.3333333333333333,
+  "ms1" : 0.5833333333333334,
+  "infoEnoughWithoutRekabet" : true,
+  "infoEnough" : false,
+  "ust" : 0.3333333333333333,
+  "alt" : 0.6666666666666667,
+  "max" : "Alt"
+}, {
+  "teamName" : "Ho Chi Minh - Can Tho C.",
+  "teamEv" : "Ho Chi Minh",
+  "teamDep" : "Can Tho C.",
+  "detailUrl" : "https://istatistik.nesine.com/3087873",
+  "odds" : {
+    "ms1" : 1.14,
+    "ms2" : 2.8,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 172.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 101,
+    "awayScore" : 77,
+    "matchDate" : "2026",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Can Tho C.",
+    "awayTeam" : "Ho Chi Minh",
+    "homeScore" : 81,
+    "awayScore" : 81,
+    "matchDate" : "2026",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Can Tho C.",
+    "awayTeam" : "Ho Chi Minh",
+    "homeScore" : 80,
+    "awayScore" : 81,
+    "matchDate" : "2026",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 64,
+    "awayScore" : 71,
+    "matchDate" : "2025",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 65,
+    "awayScore" : 76,
+    "matchDate" : "2025",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Can Tho C.",
+    "awayTeam" : "Ho Chi Minh",
+    "homeScore" : 123,
+    "awayScore" : 105,
+    "matchDate" : "2025",
+    "tournament" : "VBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 101,
+    "awayScore" : 77,
+    "matchDate" : "27 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Ho Chi Minh",
+    "homeScore" : 74,
+    "awayScore" : 66,
+    "matchDate" : "23 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Saigon Heat",
+    "awayTeam" : "Ho Chi Minh",
+    "homeScore" : 71,
+    "awayScore" : 76,
+    "matchDate" : "21 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 96,
+    "awayScore" : 77,
+    "matchDate" : "8 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 80,
+    "awayScore" : 83,
+    "matchDate" : "6 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Ho Chi Minh",
+    "homeScore" : 88,
+    "awayScore" : 79,
+    "matchDate" : "1 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Ho Chi Minh",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 101,
+    "awayScore" : 77,
+    "matchDate" : "27 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hanoi Buffal",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 109,
+    "awayScore" : 94,
+    "matchDate" : "16 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Hanoi Buffal",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 91,
+    "awayScore" : 73,
+    "matchDate" : "14 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Can Tho C.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 75,
+    "awayScore" : 77,
+    "matchDate" : "2 Ağu",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Can Tho C.",
+    "awayTeam" : "Saigon Heat",
+    "homeScore" : 83,
+    "awayScore" : 72,
+    "matchDate" : "31 Tem",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nha Trang D.",
+    "awayTeam" : "Can Tho C.",
+    "homeScore" : 73,
+    "awayScore" : 84,
+    "matchDate" : "25 Tem",
+    "tournament" : "VBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.42500000000000004,
+  "ms1" : 0.5583333333333333,
+  "infoEnoughWithoutRekabet" : false,
+  "infoEnough" : true,
+  "ust" : 0.3333333333333333,
+  "alt" : 0.6666666666666667,
+  "max" : "Alt"
+}, {
+  "teamName" : "Kongo Cum. - Mali",
+  "teamEv" : "Kongo Cum.",
+  "teamDep" : "Mali",
+  "detailUrl" : "https://istatistik.nesine.com/3084053",
+  "odds" : {
+    "ms1" : 6.86,
+    "ms2" : 0.0,
+    "h1Value" : 15.5,
+    "h2Value" : -15.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Mali",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 59,
+    "awayScore" : 65,
+    "matchDate" : "2025",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kongo Cum.",
+    "awayTeam" : "Mali",
+    "homeScore" : 71,
+    "awayScore" : 71,
+    "matchDate" : "2017",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Angola",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 100,
+    "awayScore" : 68,
+    "matchDate" : "27 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kongo Cum.",
+    "awayTeam" : "Senegal",
+    "homeScore" : 63,
+    "awayScore" : 89,
+    "matchDate" : "5 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kongo Cum.",
+    "awayTeam" : "Fildişi",
+    "homeScore" : 51,
+    "awayScore" : 94,
+    "matchDate" : "4 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Madagaskar",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 62,
+    "awayScore" : 82,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Senegal",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 75,
+    "awayScore" : 56,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fildişi",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 96,
+    "awayScore" : 59,
+    "matchDate" : "28 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Mali",
+    "awayTeam" : "Fildişi",
+    "homeScore" : 77,
+    "awayScore" : 83,
+    "matchDate" : "27 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Angola",
+    "awayTeam" : "Mali",
+    "homeScore" : 88,
+    "awayScore" : 74,
+    "matchDate" : "5 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mali",
+    "awayTeam" : "Uganda",
+    "homeScore" : 82,
+    "awayScore" : 59,
+    "matchDate" : "4 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Mali",
+    "homeScore" : 70,
+    "awayScore" : 78,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mali",
+    "awayTeam" : "Angola",
+    "homeScore" : 80,
+    "awayScore" : 79,
+    "matchDate" : "1 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uganda",
+    "awayTeam" : "Mali",
+    "homeScore" : 73,
+    "awayScore" : 84,
+    "matchDate" : "28 Şub",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 14,
+  "ms2" : 0.675,
+  "ms1" : 0.275,
+  "infoEnoughWithoutRekabet" : false,
+  "infoEnough" : true,
+  "ust" : 0.44999999999999996,
+  "alt" : 0.55,
+  "max" : "MS2"
+}, {
+  "teamName" : "New York - Chicago",
+  "teamEv" : "New York",
+  "teamDep" : "Chicago",
+  "detailUrl" : "https://istatistik.nesine.com/3086601",
+  "odds" : {
+    "ms1" : 1.05,
+    "ms2" : 3.47,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 179.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "New York",
+    "homeScore" : 93,
+    "awayScore" : 86,
+    "matchDate" : "2026",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Chicago",
+    "homeScore" : 95,
+    "awayScore" : 94,
+    "matchDate" : "2026",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "New York",
+    "homeScore" : 95,
+    "awayScore" : 96,
+    "matchDate" : "2026",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "New York",
+    "homeScore" : 86,
+    "awayScore" : 91,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Chicago",
+    "homeScore" : 85,
+    "awayScore" : 91,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Chicago",
+    "homeScore" : 85,
+    "awayScore" : 66,
+    "matchDate" : "2025",
+    "tournament" : "WNBA",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "New York",
+    "awayTeam" : "Golden State",
+    "homeScore" : 60,
+    "awayScore" : 79,
+    "matchDate" : "28 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "Indiana",
+    "homeScore" : 109,
+    "awayScore" : 102,
+    "matchDate" : "23 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "New York",
+    "homeScore" : 93,
+    "awayScore" : 86,
+    "matchDate" : "19 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Connectic",
+    "awayTeam" : "New York",
+    "homeScore" : 75,
+    "awayScore" : 82,
+    "matchDate" : "15 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "New York",
+    "awayTeam" : "L.Angeles",
+    "homeScore" : 85,
+    "awayScore" : 81,
+    "matchDate" : "14 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Indiana",
+    "awayTeam" : "New York",
+    "homeScore" : 106,
+    "awayScore" : 92,
+    "matchDate" : "12 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Connectic",
+    "awayTeam" : "Chicago",
+    "homeScore" : 87,
+    "awayScore" : 81,
+    "matchDate" : "26 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Indiana",
+    "homeScore" : 90,
+    "awayScore" : 113,
+    "matchDate" : "24 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "Golden State",
+    "homeScore" : 73,
+    "awayScore" : 70,
+    "matchDate" : "22 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Chicago",
+    "awayTeam" : "New York",
+    "homeScore" : 93,
+    "awayScore" : 86,
+    "matchDate" : "19 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Seattle",
+    "awayTeam" : "Chicago",
+    "homeScore" : 80,
+    "awayScore" : 82,
+    "matchDate" : "17 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Golden State",
+    "awayTeam" : "Chicago",
+    "homeScore" : 91,
+    "awayScore" : 71,
+    "matchDate" : "13 Ağu",
+    "tournament" : "WNBA",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.4833333333333334,
+  "ms1" : 0.5166666666666667,
+  "infoEnoughWithoutRekabet" : false,
+  "infoEnough" : true,
+  "ust" : 0.2583333333333333,
+  "alt" : 0.7416666666666667,
+  "max" : "Alt"
+}, {
+  "teamName" : "Senegal - Angola",
+  "teamEv" : "Senegal",
+  "teamDep" : "Angola",
+  "detailUrl" : "https://istatistik.nesine.com/3120798",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.68,
+    "h1Value" : -9.5,
+    "h2Value" : 9.5,
+    "h1" : 1.58,
+    "h2" : 1.65,
+    "hOverUnderValue" : 155.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Senegal",
+    "awayTeam" : "Angola",
+    "homeScore" : 79,
+    "awayScore" : 74,
+    "matchDate" : "2021",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Senegal",
+    "awayTeam" : "Angola",
+    "homeScore" : 66,
+    "awayScore" : 57,
+    "matchDate" : "2017",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Senegal",
+    "awayTeam" : "Angola",
+    "homeScore" : 74,
+    "awayScore" : 73,
+    "matchDate" : "2015",
+    "tournament" : "FIB",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Senegal",
+    "homeScore" : 76,
+    "awayScore" : 67,
+    "matchDate" : "27 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kongo Cum.",
+    "awayTeam" : "Senegal",
+    "homeScore" : 63,
+    "awayScore" : 89,
+    "matchDate" : "5 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Senegal",
+    "awayTeam" : "Madagaskar",
+    "homeScore" : 101,
+    "awayScore" : 59,
+    "matchDate" : "4 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Fildişi",
+    "awayTeam" : "Senegal",
+    "homeScore" : 72,
+    "awayScore" : 85,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Senegal",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 75,
+    "awayScore" : 56,
+    "matchDate" : "2 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Madagaskar",
+    "awayTeam" : "Senegal",
+    "homeScore" : 66,
+    "awayScore" : 99,
+    "matchDate" : "1 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Angola",
+    "awayTeam" : "Kongo Cum.",
+    "homeScore" : 100,
+    "awayScore" : 68,
+    "matchDate" : "27 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Angola",
+    "awayTeam" : "Mali",
+    "homeScore" : 88,
+    "awayScore" : 74,
+    "matchDate" : "5 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Angola",
+    "awayTeam" : "Mısır",
+    "homeScore" : 73,
+    "awayScore" : 79,
+    "matchDate" : "4 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uganda",
+    "awayTeam" : "Angola",
+    "homeScore" : 62,
+    "awayScore" : 95,
+    "matchDate" : "2 Tem",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mali",
+    "awayTeam" : "Angola",
+    "homeScore" : 80,
+    "awayScore" : 79,
+    "matchDate" : "1 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Mısır",
+    "awayTeam" : "Angola",
+    "homeScore" : 72,
+    "awayScore" : 83,
+    "matchDate" : "1 Mar",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "ms2" : 0.375,
+  "ms1" : 0.625,
+  "infoEnoughWithoutRekabet" : false,
+  "infoEnough" : true,
+  "ust" : 0.525,
+  "alt" : 0.475,
+  "max" : "MS1"
+} ]
