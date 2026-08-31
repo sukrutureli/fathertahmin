@@ -205,6 +205,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -216,8 +218,6 @@
   "yok" : 0.21666666666666667,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Millonarios - Inter Bogota",
@@ -371,6 +371,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -382,8 +384,6 @@
   "yok" : 0.5,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.3333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Real Espana - CD Choloma",
@@ -592,6 +592,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6083333333333334,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -603,8 +605,6 @@
   "yok" : 0.4833333333333334,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.6083333333333334,
-  "ms2" : 0.16666666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "CD Fas - Luis Angel",
@@ -813,6 +813,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.35000000000000003,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -824,8 +826,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.35000000000000003,
-  "ms2" : 0.4083333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "D. La Guaira - Estudiantes",
@@ -1034,6 +1034,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5333333333333333,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -1045,8 +1047,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.5333333333333333,
-  "ms2" : 0.3,
   "max" : "Var"
 }, {
   "teamName" : "Cienciano - R. Garcilaso",
@@ -1255,6 +1255,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4083333333333333,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -1266,8 +1268,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.4083333333333333,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Coquimbo Uni - Huachipato",
@@ -1476,6 +1476,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.425,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -1487,8 +1489,6 @@
   "yok" : 0.3500000000000001,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.425,
-  "ms2" : 0.16666666666666666,
   "max" : "Var"
 }, {
   "teamName" : "D. Saprissa - Escorpion B.",
@@ -1631,6 +1631,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5833333333333333,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -1642,8 +1644,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333333,
-  "ms2" : 0.25,
   "max" : "Yok"
 }, {
   "teamName" : "Toluca - Juarez",
@@ -1852,6 +1852,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6833333333333333,
+  "ms2" : 0.22499999999999998,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -1863,8 +1865,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.6833333333333333,
-  "ms2" : 0.22499999999999998,
   "max" : "Üst"
 }, {
   "teamName" : "Independient - Racing Club",
@@ -2051,6 +2051,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.4,
+  "ms2" : 0.175,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -2062,8 +2064,6 @@
   "yok" : 0.55,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.4,
-  "ms2" : 0.175,
   "max" : "Alt"
 }, {
   "teamName" : "Unan Managua - Managua",
@@ -2272,6 +2272,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.45833333333333337,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -2283,8 +2285,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.45833333333333337,
   "max" : "Üst"
 }, {
   "teamName" : "Xelaju - Deportivo M.",
@@ -2493,6 +2493,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -2504,8 +2506,6 @@
   "yok" : 0.3916666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.5,
   "max" : "Var"
 }, {
   "teamName" : "D. Cali - Bucaramanga",
@@ -2714,6 +2714,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.18333333333333332,
+  "ms2" : 0.31666666666666665,
   "winCount" : 0,
   "drawCount" : 9,
   "infoEnough" : true,
@@ -2725,8 +2727,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.18333333333333332,
-  "ms2" : 0.31666666666666665,
   "max" : "Alt"
 }, {
   "teamName" : "Monterrey - R.S. Luis",
@@ -2935,6 +2935,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.575,
+  "ms2" : 0.2,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -2946,8 +2948,6 @@
   "yok" : 0.2583333333333333,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.575,
-  "ms2" : 0.2,
   "max" : "Üst"
 }, {
   "teamName" : "Bolton Wand. - Coventry C.",
@@ -3090,6 +3090,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -3101,8 +3103,6 @@
   "yok" : 0.33333333333333326,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Bournemouth - Middlesbroug",
@@ -3245,6 +3245,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5833333333333333,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -3256,8 +3258,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333333,
-  "ms2" : 0.41666666666666663,
   "max" : "Yok"
 }, {
   "teamName" : "Brentford - Sunderland",
@@ -3400,6 +3400,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -3411,8 +3413,6 @@
   "yok" : 0.16666666666666674,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.25,
   "max" : "Var"
 }, {
   "teamName" : "Chelsea - West Ham",
@@ -3621,6 +3621,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -3632,8 +3634,6 @@
   "yok" : 0.3500000000000001,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.42500000000000004,
   "max" : "Üst"
 }, {
   "teamName" : "Derby County - West Bromwic",
@@ -3842,6 +3842,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6333333333333333,
+  "ms2" : 0.2916666666666667,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -3853,8 +3855,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 17,
   "winRate" : 0.0,
-  "ms1" : 0.6333333333333333,
-  "ms2" : 0.2916666666666667,
   "max" : "MS1"
 }, {
   "teamName" : "Mathare Utd - Aps Bomet",
@@ -4019,6 +4019,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.15,
+  "ms2" : 0.65,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -4030,8 +4032,6 @@
   "yok" : 0.575,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.65,
   "max" : "Alt"
 }, {
   "teamName" : "Persib B. - Manila Digge",
@@ -4185,6 +4185,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -4196,8 +4198,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.16666666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "Man. Utd - Leicester",
@@ -4406,6 +4406,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4833333333333333,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -4417,8 +4419,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.4833333333333333,
-  "ms2" : 0.4083333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Tottenham - Birmingham",
@@ -4572,6 +4572,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.6666666666666666,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -4583,8 +4585,6 @@
   "yok" : 0.5,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.6666666666666666,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "Aberystwyth - Llanelli",
@@ -4793,6 +4793,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6083333333333334,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -4804,8 +4806,6 @@
   "yok" : 0.31666666666666665,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.6083333333333334,
-  "ms2" : 0.16666666666666666,
   "max" : "Üst"
 }, {
   "teamName" : "Afan Lido - Ynyshir",
@@ -4992,6 +4992,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.35,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -5003,8 +5005,6 @@
   "yok" : 0.5,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.5,
   "max" : "MS2"
 }, {
   "teamName" : "Ammanford - Cardiff Met.",
@@ -5191,6 +5191,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.25,
+  "ms2" : 0.525,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -5202,8 +5204,6 @@
   "yok" : 0.525,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.525,
   "max" : "MS2"
 }, {
   "teamName" : "Baglan Dr. - Caerphilly",
@@ -5335,6 +5335,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 11,
+  "ms1" : 0.3666666666666667,
+  "ms2" : 0.26666666666666666,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -5346,8 +5348,6 @@
   "yok" : 0.6166666666666667,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.3666666666666667,
-  "ms2" : 0.26666666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "Briton Ferry - Barry Town",
@@ -5556,6 +5556,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.2583333333333333,
+  "ms2" : 0.65,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -5567,8 +5569,6 @@
   "yok" : 0.5,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.2583333333333333,
-  "ms2" : 0.65,
   "max" : "MS2"
 }, {
   "teamName" : "A.Broughton - Holywell T.",
@@ -5777,6 +5777,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.65,
+  "ms2" : 0.24166666666666667,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -5788,8 +5790,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.65,
-  "ms2" : 0.24166666666666667,
   "max" : "MS1"
 }, {
   "teamName" : "Caerau Ely - Treowen Star",
@@ -5954,6 +5954,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.4,
+  "ms2" : 0.45,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -5965,8 +5967,6 @@
   "yok" : 0.32499999999999996,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.4,
-  "ms2" : 0.45,
   "max" : "Üst"
 }, {
   "teamName" : "Cambrian - Penybont",
@@ -6175,6 +6175,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666664,
+  "ms2" : 0.6083333333333334,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -6186,8 +6188,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666664,
-  "ms2" : 0.6083333333333334,
   "max" : "Üst"
 }, {
   "teamName" : "Cardiff Dra. - Pontardawe",
@@ -6330,6 +6330,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -6341,8 +6343,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "Carmarthen - Trethomas",
@@ -6551,6 +6551,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5916666666666667,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -6562,8 +6564,6 @@
   "yok" : 0.18333333333333335,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.5916666666666667,
-  "ms2" : 0.16666666666666666,
   "max" : "Üst"
 }, {
   "teamName" : "Flint Town - G Connahs Q",
@@ -6772,6 +6772,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.7583333333333333,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -6783,8 +6785,6 @@
   "yok" : 0.5,
   "lossCount" : 17,
   "winRate" : 0.0,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.7583333333333333,
   "max" : "MS2"
 }, {
   "teamName" : "Haverford. - Trefelin BGC",
@@ -6938,6 +6938,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.5,
+  "ms2" : 0.4166666666666667,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -6949,8 +6951,6 @@
   "yok" : 0.9166666666666666,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.4166666666666667,
   "max" : "Yok"
 }, {
   "teamName" : "Newport City - Swansea Uni.",
@@ -7093,6 +7093,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.6666666666666666,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -7104,8 +7106,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.6666666666666666,
   "max" : "Üst"
 }, {
   "teamName" : "Pontypridd - Llantwit M.",
@@ -7314,6 +7314,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6916666666666667,
+  "ms2" : 0.05,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -7325,8 +7327,6 @@
   "yok" : 0.35,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.6916666666666667,
-  "ms2" : 0.05,
   "max" : "Üst"
 }, {
   "teamName" : "Oman Club - Dhofar SCSC",
@@ -7535,6 +7535,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5166666666666666,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -7546,8 +7548,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.5166666666666666,
-  "ms2" : 0.3,
   "max" : "Alt"
 }, {
   "teamName" : "Samail SC - Saham SC",
@@ -7734,6 +7734,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.325,
+  "ms2" : 0.4,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -7745,8 +7747,6 @@
   "yok" : 0.575,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.325,
-  "ms2" : 0.4,
   "max" : "Alt"
 }, {
   "teamName" : "AFC Emley - Guiseley",
@@ -7889,6 +7889,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -7900,8 +7902,6 @@
   "yok" : 0.25,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Anstey Nomad - Banbury Utd",
@@ -8044,6 +8044,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -8055,8 +8057,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.25,
   "max" : "Var"
 }, {
   "teamName" : "Araz - Sabah",
@@ -8265,6 +8265,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3,
+  "ms2" : 0.575,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -8276,8 +8278,6 @@
   "yok" : 0.5416666666666666,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.575,
   "max" : "Üst"
 }, {
   "teamName" : "Asyut Pet. - N. Bank E.",
@@ -8431,6 +8431,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -8442,8 +8444,6 @@
   "yok" : 0.5,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.16666666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "Basingstoke - Bracknell T.",
@@ -8652,6 +8652,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -8663,8 +8665,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Berkhamsted - Hanwell Town",
@@ -8840,6 +8840,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.375,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -8851,8 +8853,6 @@
   "yok" : 0.375,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.4083333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Bishop´s St. - Hitchin Town",
@@ -9039,6 +9039,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.35,
+  "ms2" : 0.425,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -9050,8 +9052,6 @@
   "yok" : 0.5,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.425,
   "max" : "Üst"
 }, {
   "teamName" : "Boston Utd. - Hornchurch",
@@ -9194,6 +9194,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.6666666666666666,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -9205,8 +9207,6 @@
   "yok" : 0.5,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.6666666666666666,
   "max" : "MS2"
 }, {
   "teamName" : "Braintree - Farnborough",
@@ -9415,6 +9415,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.18333333333333335,
+  "ms2" : 0.4666666666666667,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -9426,8 +9428,6 @@
   "yok" : 0.3666666666666667,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.18333333333333335,
-  "ms2" : 0.4666666666666667,
   "max" : "Var"
 }, {
   "teamName" : "Bury Town - Leiston",
@@ -9636,6 +9636,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.24166666666666664,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -9647,8 +9649,6 @@
   "yok" : 0.29166666666666663,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.24166666666666664,
   "max" : "Var"
 }, {
   "teamName" : "Buxton - Merthyr",
@@ -9824,6 +9824,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.44166666666666665,
+  "ms2" : 0.2583333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -9835,8 +9837,6 @@
   "yok" : 0.2583333333333333,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.44166666666666665,
-  "ms2" : 0.2583333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Caernarfon - TNS",
@@ -10045,6 +10045,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3,
+  "ms2" : 0.625,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -10056,8 +10058,6 @@
   "yok" : 0.6666666666666666,
   "lossCount" : 17,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.625,
   "max" : "Yok"
 }, {
   "teamName" : "Carlisle - Scunthorpe",
@@ -10266,6 +10266,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3666666666666667,
+  "ms2" : 0.39166666666666666,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -10277,8 +10279,6 @@
   "yok" : 0.29166666666666674,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3666666666666667,
-  "ms2" : 0.39166666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Chesham - Dover",
@@ -10443,6 +10443,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -10454,8 +10456,6 @@
   "yok" : 0.575,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.42500000000000004,
   "max" : "Yok"
 }, {
   "teamName" : "Chester - Morecambe",
@@ -10664,6 +10664,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6166666666666667,
+  "ms2" : 0.10833333333333334,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -10675,8 +10677,6 @@
   "yok" : 0.5416666666666666,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.6166666666666667,
-  "ms2" : 0.10833333333333334,
   "max" : "Alt"
 }, {
   "teamName" : "Chichester - Havant",
@@ -10830,6 +10830,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.6666666666666666,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -10841,8 +10843,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.6666666666666666,
-  "ms2" : 0.25,
   "max" : "Yok"
 }, {
   "teamName" : "Chorley - Brackley",
@@ -11051,6 +11051,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4083333333333333,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -11062,8 +11064,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.4083333333333333,
-  "ms2" : 0.4083333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Curzon Ash. - Ashton Utd",
@@ -11272,6 +11272,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -11283,8 +11285,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.4083333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Dagenham Red - Slough Town",
@@ -11449,6 +11449,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.675,
+  "ms2" : 0.275,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -11460,8 +11462,6 @@
   "yok" : 0.65,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.675,
-  "ms2" : 0.275,
   "max" : "MS1"
 }, {
   "teamName" : "Dorking W. - Truro",
@@ -11626,6 +11626,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.275,
+  "ms2" : 0.525,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -11637,8 +11639,6 @@
   "yok" : 0.8,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.275,
-  "ms2" : 0.525,
   "max" : "Yok"
 }, {
   "teamName" : "Eastleigh - Aldershot",
@@ -11847,6 +11847,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3666666666666667,
+  "ms2" : 0.4833333333333334,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -11858,8 +11860,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.3666666666666667,
-  "ms2" : 0.4833333333333334,
   "max" : "Alt"
 }, {
   "teamName" : "Elimai - K. Almaty",
@@ -12057,6 +12057,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.415,
+  "ms2" : 0.245,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -12068,8 +12070,6 @@
   "yok" : 0.47,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.415,
-  "ms2" : 0.245,
   "max" : "Var"
 }, {
   "teamName" : "Farnham Town - Torquay",
@@ -12212,6 +12212,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -12223,8 +12225,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "Folk Invicta - Hemel Hemps.",
@@ -12367,6 +12367,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -12378,8 +12380,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.25,
   "max" : "Alt"
 }, {
   "teamName" : "Forest Green - Altrincham",
@@ -12588,6 +12588,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5916666666666667,
+  "ms2" : 0.375,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -12599,8 +12601,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.5916666666666667,
-  "ms2" : 0.375,
   "max" : "Üst"
 }, {
   "teamName" : "Frome Town - Bath City",
@@ -12776,6 +12776,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.45,
+  "ms2" : 0.4,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -12787,8 +12789,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.45,
-  "ms2" : 0.4,
   "max" : "Yok"
 }, {
   "teamName" : "G´borough T. - Cleethorpes",
@@ -12953,6 +12953,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.4,
+  "ms2" : 0.44999999999999996,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -12964,8 +12966,6 @@
   "yok" : 0.475,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.4,
-  "ms2" : 0.44999999999999996,
   "max" : "Üst"
 }, {
   "teamName" : "Gloucester - Evesham Utd",
@@ -13152,6 +13152,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.42500000000000004,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -13163,8 +13165,6 @@
   "yok" : 0.375,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.42500000000000004,
-  "ms2" : 0.3,
   "max" : "Var"
 }, {
   "teamName" : "Hampton - Maidstone U.",
@@ -13373,6 +13373,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.5916666666666667,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -13384,8 +13386,6 @@
   "yok" : 0.5166666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.5916666666666667,
   "max" : "Üst"
 }, {
   "teamName" : "Hanworth - Chertsey",
@@ -13528,6 +13528,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -13539,8 +13541,6 @@
   "yok" : 0.41666666666666663,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.41666666666666663,
   "max" : "Var"
 }, {
   "teamName" : "Harborough - Marine",
@@ -13683,6 +13683,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -13694,8 +13696,6 @@
   "yok" : 0.41666666666666663,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.3333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Harrogate - Gateshead",
@@ -13893,6 +13893,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.585,
+  "ms2" : 0.19,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -13904,8 +13906,6 @@
   "yok" : 0.28500000000000003,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.585,
-  "ms2" : 0.19,
   "max" : "Üst"
 }, {
   "teamName" : "Hyde - Bury",
@@ -14048,6 +14048,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.5833333333333333,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -14059,8 +14061,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.5833333333333333,
   "max" : "Yok"
 }, {
   "teamName" : "Ilkeston T. - Quorn",
@@ -14203,6 +14203,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -14214,8 +14216,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Kettering - Stamford",
@@ -14424,6 +14424,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6916666666666667,
+  "ms2" : 0.125,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -14435,8 +14437,6 @@
   "yok" : 0.6916666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.6916666666666667,
-  "ms2" : 0.125,
   "max" : "Alt"
 }, {
   "teamName" : "Kidderminst. - Barrow",
@@ -14645,6 +14645,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4666666666666667,
+  "ms2" : 0.2583333333333333,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -14656,8 +14658,6 @@
   "yok" : 0.575,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.4666666666666667,
-  "ms2" : 0.2583333333333333,
   "max" : "Yok"
 }, {
   "teamName" : "Kings Lynn - Scarborough",
@@ -14866,6 +14866,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.575,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -14877,8 +14879,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.575,
   "max" : "MS2"
 }, {
   "teamName" : "Lancaster C. - Workington",
@@ -15087,6 +15087,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.39166666666666666,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -15098,8 +15100,6 @@
   "yok" : 0.2416666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.39166666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Macclesfield - Hebburn Town",
@@ -15264,6 +15264,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.5,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -15275,8 +15277,6 @@
   "yok" : 0.375,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.3,
   "max" : "Var"
 }, {
   "teamName" : "Maidenhead - Totton",
@@ -15441,6 +15441,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.35,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -15452,8 +15454,6 @@
   "yok" : 0.8,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.5,
   "max" : "Yok"
 }, {
   "teamName" : "Malvern Town - Chippenham",
@@ -15596,6 +15596,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -15607,8 +15609,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Needham - Peterborough",
@@ -15817,6 +15817,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.35000000000000003,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -15828,8 +15830,6 @@
   "yok" : 0.44166666666666665,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.35000000000000003,
   "max" : "Alt"
 }, {
   "teamName" : "Plymouth P. - Poole",
@@ -16038,6 +16038,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -16049,8 +16051,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "RC Warwick - Stratford",
@@ -16193,6 +16193,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -16204,8 +16206,6 @@
   "yok" : 0.33333333333333326,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.25,
   "max" : "Var"
 }, {
   "teamName" : "Radcliffe - Darlington",
@@ -16392,6 +16392,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.475,
+  "ms2" : 0.45,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -16403,8 +16405,6 @@
   "yok" : 0.3999999999999999,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.475,
-  "ms2" : 0.45,
   "max" : "Üst"
 }, {
   "teamName" : "Real Bedford - Leighton",
@@ -16558,6 +16558,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -16569,8 +16571,6 @@
   "yok" : 0.25,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.16666666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Redditch Utd - Halesowen T.",
@@ -16779,6 +16779,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.275,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -16790,8 +16792,6 @@
   "yok" : 0.3916666666666666,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.275,
-  "ms2" : 0.3333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Rushall - Alvechurch",
@@ -17000,6 +17000,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.425,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -17011,8 +17013,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 17,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.425,
   "max" : "Üst"
 }, {
   "teamName" : "Salisbury - Billericay",
@@ -17177,6 +17177,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.325,
+  "ms2" : 0.525,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -17188,8 +17190,6 @@
   "yok" : 0.725,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.325,
-  "ms2" : 0.525,
   "max" : "Yok"
 }, {
   "teamName" : "Sholing - Gosport",
@@ -17398,6 +17398,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666664,
+  "ms2" : 0.575,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -17409,8 +17411,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666664,
-  "ms2" : 0.575,
   "max" : "Var"
 }, {
   "teamName" : "Solihull M. - AFC Fylde",
@@ -17619,6 +17619,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.2,
+  "ms2" : 0.5416666666666666,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -17630,8 +17632,6 @@
   "yok" : 0.2416666666666667,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.2,
-  "ms2" : 0.5416666666666666,
   "max" : "Var"
 }, {
   "teamName" : "South Shield - Spalding Utd",
@@ -17785,6 +17785,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -17796,8 +17798,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.25,
   "max" : "Alt"
 }, {
   "teamName" : "Southport - Hereford",
@@ -18006,6 +18006,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.2,
+  "ms2" : 0.4833333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -18017,8 +18019,6 @@
   "yok" : 0.3916666666666666,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.2,
-  "ms2" : 0.4833333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Spennymoor - Hednesford",
@@ -18183,6 +18183,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.35,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -18194,8 +18196,6 @@
   "yok" : 0.2250000000000001,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.42500000000000004,
   "max" : "Var"
 }, {
   "teamName" : "Stockton T. - Redcar Ath.",
@@ -18338,6 +18338,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.08333333333333333,
+  "ms2" : 0.6666666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -18349,8 +18351,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.08333333333333333,
-  "ms2" : 0.6666666666666666,
   "max" : "MS2"
 }, {
   "teamName" : "Sutton Utd - Wealdstone",
@@ -18559,6 +18559,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.575,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -18570,8 +18572,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.575,
-  "ms2" : 0.16666666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "Telford - Bedford Town",
@@ -18769,6 +18769,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.435,
+  "ms2" : 0.395,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -18780,8 +18782,6 @@
   "yok" : 0.2250000000000001,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.435,
-  "ms2" : 0.395,
   "max" : "Var"
 }, {
   "teamName" : "Tonbridge A. - Walton & H.",
@@ -18935,6 +18935,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.8333333333333333,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -18946,8 +18948,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.8333333333333333,
-  "ms2" : 0.16666666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "Torreense - Braga",
@@ -19156,6 +19156,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.29166666666666663,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -19167,8 +19169,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.29166666666666663,
-  "ms2" : 0.3,
   "max" : "Alt"
 }, {
   "teamName" : "Utd Of Manc. - Avro",
@@ -19311,6 +19311,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.08333333333333333,
+  "ms2" : 0.6666666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -19322,8 +19324,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.08333333333333333,
-  "ms2" : 0.6666666666666666,
   "max" : "Üst"
 }, {
   "teamName" : "Uxbridge - Wimborne",
@@ -19488,6 +19488,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.44999999999999996,
+  "ms2" : 0.075,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -19499,8 +19501,6 @@
   "yok" : 0.525,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.44999999999999996,
-  "ms2" : 0.075,
   "max" : "Alt"
 }, {
   "teamName" : "Warrington R - Bamber Bridg",
@@ -19709,6 +19709,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.35,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -19720,8 +19722,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.4083333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Weston Super - Chelmsford",
@@ -19930,6 +19930,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.42500000000000004,
+  "ms2" : 0.24166666666666664,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -19941,8 +19943,6 @@
   "yok" : 0.6083333333333334,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.42500000000000004,
-  "ms2" : 0.24166666666666664,
   "max" : "Alt"
 }, {
   "teamName" : "Whitby Town - Alfreton",
@@ -20085,6 +20085,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.5833333333333333,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -20096,8 +20098,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.5833333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Woking - Southend",
@@ -20306,6 +20306,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3,
+  "ms2" : 0.4666666666666667,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -20317,8 +20319,6 @@
   "yok" : 0.5,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.4666666666666667,
   "max" : "Üst"
 }, {
   "teamName" : "Worcester - Bromsgrove",
@@ -20483,6 +20483,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.4,
+  "ms2" : 0.44999999999999996,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -20494,8 +20496,6 @@
   "yok" : 0.4,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.4,
-  "ms2" : 0.44999999999999996,
   "max" : "Var"
 }, {
   "teamName" : "Worksop Town - Oxford City",
@@ -20660,6 +20660,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.55,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -20671,8 +20673,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.55,
   "max" : "Üst"
 }, {
   "teamName" : "Worthing - Boreham",
@@ -20837,6 +20837,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.325,
+  "ms2" : 0.6,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -20848,8 +20850,6 @@
   "yok" : 0.22499999999999998,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.325,
-  "ms2" : 0.6,
   "max" : "Üst"
 }, {
   "teamName" : "Yate Town - Taunton",
@@ -21058,6 +21058,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4083333333333333,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -21069,8 +21071,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.4083333333333333,
-  "ms2" : 0.35,
   "max" : "Var"
 }, {
   "teamName" : "Yeovil - Tamworth",
@@ -21257,6 +21257,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.35,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -21268,8 +21270,6 @@
   "yok" : 0.1499999999999999,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.25,
   "max" : "Var"
 }, {
   "teamName" : "Liepaja M. - Riga",
@@ -21478,6 +21478,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666667,
+  "ms2" : 0.5333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -21489,8 +21491,6 @@
   "yok" : 0.29166666666666674,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666667,
-  "ms2" : 0.5333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Bukovyna C. - Dinamo Kiev",
@@ -21655,6 +21655,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.475,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -21666,8 +21668,6 @@
   "yok" : 0.65,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.475,
   "max" : "Yok"
 }, {
   "teamName" : "Gagra - Iberia 1999",
@@ -21876,6 +21876,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.375,
+  "ms2" : 0.175,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -21887,8 +21889,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.175,
   "max" : "Var"
 }, {
   "teamName" : "Malzenice - MFK Bytca",
@@ -22031,6 +22031,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -22042,8 +22044,6 @@
   "yok" : 0.5,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Torpedo - Meshakhte T.",
@@ -22208,6 +22208,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.625,
+  "ms2" : 0.15,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -22219,8 +22221,6 @@
   "yok" : 0.275,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.625,
-  "ms2" : 0.15,
   "max" : "Üst"
 }, {
   "teamName" : "Simba - Geita Gold",
@@ -22429,6 +22429,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5333333333333333,
+  "ms2" : 0.375,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -22440,8 +22442,6 @@
   "yok" : 0.575,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.5333333333333333,
-  "ms2" : 0.375,
   "max" : "Yok"
 }, {
   "teamName" : "Al-Salibikha - Al Shabab",
@@ -22650,6 +22650,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.225,
+  "ms2" : 0.5166666666666667,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -22661,8 +22663,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.225,
-  "ms2" : 0.5166666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Al Talaba - AL Naft",
@@ -22849,6 +22849,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.1,
+  "ms2" : 0.325,
   "winCount" : 0,
   "drawCount" : 9,
   "infoEnough" : true,
@@ -22860,8 +22862,6 @@
   "yok" : 0.4,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.1,
-  "ms2" : 0.325,
   "max" : "Alt"
 }, {
   "teamName" : "Dziugas - Hegelmann",
@@ -23070,6 +23070,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4666666666666667,
+  "ms2" : 0.33333333333333337,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -23081,8 +23083,6 @@
   "yok" : 0.4833333333333334,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.4666666666666667,
-  "ms2" : 0.33333333333333337,
   "max" : "Alt"
 }, {
   "teamName" : "Aasane - Sogndal 2",
@@ -23236,6 +23236,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.25,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -23247,8 +23249,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "B. Münih - Mainz 05",
@@ -23391,6 +23391,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -23402,8 +23404,6 @@
   "yok" : 0.5,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "Dunav - L. Sofya",
@@ -23546,6 +23546,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.4166666666666667,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -23557,8 +23559,6 @@
   "yok" : 0.25,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.4166666666666667,
   "max" : "Var"
 }, {
   "teamName" : "Fana - Brann 2",
@@ -23767,6 +23767,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.575,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -23778,8 +23780,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.575,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "IF Gnistan - Turku",
@@ -23988,6 +23988,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.2583333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -23999,8 +24001,6 @@
   "yok" : 0.45833333333333337,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.2583333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Inter Turku - K. Kuopion",
@@ -24209,6 +24209,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.275,
   "winCount" : 0,
   "drawCount" : 9,
   "infoEnough" : true,
@@ -24220,8 +24222,6 @@
   "yok" : 0.31666666666666665,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.275,
   "max" : "Var"
 }, {
   "teamName" : "Lyn 1896 FK - Sandefjord F",
@@ -24397,6 +24397,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.6333333333333333,
+  "ms2" : 0.21666666666666667,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -24408,8 +24410,6 @@
   "yok" : 0.10833333333333328,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.6333333333333333,
-  "ms2" : 0.21666666666666667,
   "max" : "Üst"
 }, {
   "teamName" : "Mariehamn - Jaro",
@@ -24618,6 +24618,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4833333333333333,
+  "ms2" : 0.33333333333333337,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -24629,8 +24631,6 @@
   "yok" : 0.65,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.4833333333333333,
-  "ms2" : 0.33333333333333337,
   "max" : "Yok"
 }, {
   "teamName" : "Oulu - SJK",
@@ -24839,6 +24839,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.31666666666666665,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -24850,8 +24852,6 @@
   "yok" : 0.575,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.31666666666666665,
   "max" : "Alt"
 }, {
   "teamName" : "Spjelkavik - Molde 2",
@@ -25060,6 +25060,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.44166666666666665,
+  "ms2" : 0.4666666666666667,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -25071,8 +25073,6 @@
   "yok" : 0.2583333333333333,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.44166666666666665,
-  "ms2" : 0.4666666666666667,
   "max" : "Üst"
 }, {
   "teamName" : "Ilves - HJK Helsinki",
@@ -25281,6 +25281,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.33333333333333337,
+  "ms2" : 0.4833333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -25292,8 +25294,6 @@
   "yok" : 0.6,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.33333333333333337,
-  "ms2" : 0.4833333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Vaasan PS - Lahti",
@@ -25502,6 +25502,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.35,
+  "ms2" : 0.525,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -25513,8 +25515,6 @@
   "yok" : 0.5333333333333333,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.525,
   "max" : "Alt"
 }, {
   "teamName" : "AL Bukayriya - AL Adalh",
@@ -25723,6 +25723,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.18333333333333332,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -25734,8 +25736,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.18333333333333332,
-  "ms2" : 0.5,
   "max" : "Alt"
 }, {
   "teamName" : "AL Saqer - AL Akhdood",
@@ -25878,6 +25878,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -25889,8 +25891,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.3333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Colwyn Bay - Llandudno",
@@ -26033,6 +26033,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.6666666666666667,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -26044,8 +26046,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.6666666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "St.Sumgayit - Karabağ",
@@ -26254,6 +26254,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.6083333333333333,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -26265,8 +26267,6 @@
   "yok" : 0.44166666666666665,
   "lossCount" : 17,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.6083333333333333,
   "max" : "MS2"
 }, {
   "teamName" : "SUR SC - Al Shabab",
@@ -26475,6 +26475,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.31666666666666665,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -26486,8 +26488,6 @@
   "yok" : 0.4833333333333334,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.31666666666666665,
   "max" : "Üst"
 }, {
   "teamName" : "Sohar - Ibri",
@@ -26696,6 +26696,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4083333333333333,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -26707,8 +26709,6 @@
   "yok" : 0.30833333333333335,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.4083333333333333,
-  "ms2" : 0.35,
   "max" : "Var"
 }, {
   "teamName" : "Levadiakos - P'Naikos",
@@ -26917,6 +26917,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3,
+  "ms2" : 0.30833333333333335,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -26928,8 +26930,6 @@
   "yok" : 0.44166666666666665,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.30833333333333335,
   "max" : "Var"
 }, {
   "teamName" : "Hajduk Split - L. Zagreb",
@@ -27138,6 +27138,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.42500000000000004,
+  "ms2" : 0.24166666666666667,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -27149,8 +27151,6 @@
   "yok" : 0.3916666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.42500000000000004,
-  "ms2" : 0.24166666666666667,
   "max" : "Üst"
 }, {
   "teamName" : "Lecce - AS Roma",
@@ -27359,6 +27359,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.375,
+  "ms2" : 0.3833333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -27370,8 +27372,6 @@
   "yok" : 0.5166666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.3833333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Ranheim 2 - Orkla",
@@ -27558,6 +27558,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.625,
+  "ms2" : 0.325,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -27569,8 +27571,6 @@
   "yok" : 0.25,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.625,
-  "ms2" : 0.325,
   "max" : "Üst"
 }, {
   "teamName" : "Sp. Kostroma - Ro.Volgograd",
@@ -27757,6 +27757,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.4,
+  "ms2" : 0.275,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -27768,8 +27770,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.4,
-  "ms2" : 0.275,
   "max" : "Var"
 }, {
   "teamName" : "Al Masry - Pyramids",
@@ -27978,6 +27978,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.5416666666666666,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -27989,8 +27991,6 @@
   "yok" : 0.575,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.5416666666666666,
   "max" : "Yok"
 }, {
   "teamName" : "Burgos - R. Sociedad",
@@ -28199,6 +28199,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.24166666666666664,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -28210,8 +28212,6 @@
   "yok" : 0.55,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.24166666666666664,
   "max" : "Alt"
 }, {
   "teamName" : "D.Tiflis - Dila Gori",
@@ -28420,6 +28420,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666664,
+  "ms2" : 0.5583333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -28431,8 +28433,6 @@
   "yok" : 0.575,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666664,
-  "ms2" : 0.5583333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Djurgarden - Mjallby",
@@ -28641,6 +28641,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6333333333333333,
+  "ms2" : 0.2583333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -28652,8 +28654,6 @@
   "yok" : 0.7083333333333334,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.6333333333333333,
-  "ms2" : 0.2583333333333333,
   "max" : "Yok"
 }, {
   "teamName" : "Gais - B'Pojkarna",
@@ -28862,6 +28862,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -28873,8 +28875,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.4083333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Sirius - Malmö",
@@ -29083,6 +29083,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -29094,8 +29096,6 @@
   "yok" : 0.31666666666666665,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.4083333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Kopenhag - Sonderjyske",
@@ -29304,6 +29304,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6666666666666666,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -29315,8 +29317,6 @@
   "yok" : 0.6333333333333333,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.6666666666666666,
-  "ms2" : 0.16666666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "UD Logrones - Extremadura",
@@ -29459,6 +29459,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.4166666666666667,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -29470,8 +29472,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.4166666666666667,
-  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Partizan - OFK Belgrad",
@@ -29680,6 +29680,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4083333333333333,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -29691,8 +29693,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.4083333333333333,
-  "ms2" : 0.4083333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Rosenborg 2 - Byasen",
@@ -29901,6 +29901,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.21666666666666667,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -29912,8 +29914,6 @@
   "yok" : 0.2583333333333333,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.21666666666666667,
   "max" : "Var"
 }, {
   "teamName" : "Sundsvall - Norrby",
@@ -30122,6 +30122,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.125,
+  "ms2" : 0.5416666666666666,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -30133,8 +30135,6 @@
   "yok" : 0.5,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.125,
-  "ms2" : 0.5416666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "Zamalek - Petrojet",
@@ -30343,6 +30343,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5166666666666666,
+  "ms2" : 0.22499999999999998,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -30354,8 +30356,6 @@
   "yok" : 0.575,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.5166666666666666,
-  "ms2" : 0.22499999999999998,
   "max" : "Alt"
 }, {
   "teamName" : "Klaksvik - Streymur",
@@ -30564,6 +30564,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3833333333333333,
+  "ms2" : 0.375,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -30575,8 +30577,6 @@
   "yok" : 0.33333333333333326,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3833333333333333,
-  "ms2" : 0.375,
   "max" : "Üst"
 }, {
   "teamName" : "Osasuna - Getafe",
@@ -30785,6 +30785,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4833333333333334,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -30796,8 +30798,6 @@
   "yok" : 0.3916666666666667,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.4833333333333334,
-  "ms2" : 0.35,
   "max" : "Var"
 }, {
   "teamName" : "Rapid Bükreş - CSU Craiova",
@@ -31006,6 +31006,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.2583333333333333,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -31017,8 +31019,6 @@
   "yok" : 0.4833333333333334,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.2583333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Szeged Cs. - Kazincbarcik",
@@ -31227,6 +31227,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.23333333333333334,
+  "ms2" : 0.5416666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -31238,8 +31240,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.23333333333333334,
-  "ms2" : 0.5416666666666666,
   "max" : "Yok"
 }, {
   "teamName" : "AL Tai - AL Jandal",
@@ -31426,6 +31426,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.525,
+  "ms2" : 0.375,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -31437,8 +31439,6 @@
   "yok" : 0.17500000000000004,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.525,
-  "ms2" : 0.375,
   "max" : "Var"
 }, {
   "teamName" : "AL Qadsia - Al Kuwait SC",
@@ -31647,6 +31647,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.225,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 8,
   "infoEnough" : true,
@@ -31658,8 +31660,6 @@
   "yok" : 0.4833333333333333,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.225,
-  "ms2" : 0.35,
   "max" : "Üst"
 }, {
   "teamName" : "Brighton - Arsenal",
@@ -31868,6 +31868,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.675,
+  "ms2" : 0.18333333333333335,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -31879,8 +31881,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.675,
-  "ms2" : 0.18333333333333335,
   "max" : "MS1"
 }, {
   "teamName" : "Jong Alkmaar - Jong Utrecht",
@@ -32089,6 +32089,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5166666666666666,
+  "ms2" : 0.39166666666666666,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -32100,8 +32102,6 @@
   "yok" : 0.35,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.5166666666666666,
-  "ms2" : 0.39166666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Jong Psv - Jong Ajax",
@@ -32310,6 +32310,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.44999999999999996,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -32321,8 +32323,6 @@
   "yok" : 0.3500000000000001,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.44999999999999996,
-  "ms2" : 0.42500000000000004,
   "max" : "Üst"
 }, {
   "teamName" : "Newcastle - Fulham",
@@ -32531,6 +32531,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.2583333333333333,
+  "ms2" : 0.5166666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -32542,8 +32544,6 @@
   "yok" : 0.19999999999999996,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.2583333333333333,
-  "ms2" : 0.5166666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Arda Kardzha - Botev Vratsa",
@@ -32752,6 +32752,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6333333333333333,
+  "ms2" : 0.21666666666666667,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -32763,8 +32765,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.6333333333333333,
-  "ms2" : 0.21666666666666667,
   "max" : "MS1"
 }, {
   "teamName" : "Wil 1900 - Aarau",
@@ -32973,6 +32973,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666664,
+  "ms2" : 0.5583333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -32984,8 +32986,6 @@
   "yok" : 0.31666666666666665,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666664,
-  "ms2" : 0.5583333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Amed Sportif - Trabzonspor",
@@ -33128,6 +33128,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -33139,8 +33141,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.3333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Beşiktaş - Çorum F. K.",
@@ -33283,6 +33283,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -33294,8 +33296,6 @@
   "yok" : 0.9166666666666666,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.41666666666666663,
   "max" : "Yok"
 }, {
   "teamName" : "Novara - Folgore Cara",
@@ -33449,6 +33449,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.5,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -33460,8 +33462,6 @@
   "yok" : 0.5,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.25,
   "max" : "Alt"
 }, {
   "teamName" : "R.Montevideo - Albion",
@@ -33659,6 +33659,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.49,
+  "ms2" : 0.075,
   "winCount" : 0,
   "drawCount" : 8,
   "infoEnough" : true,
@@ -33670,8 +33672,6 @@
   "yok" : 0.5449999999999999,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.49,
-  "ms2" : 0.075,
   "max" : "Alt"
 }, {
   "teamName" : "- - -",
@@ -33682,6 +33682,8 @@
   "sonMaclarHome" : [ ],
   "sonMaclarAway" : [ ],
   "totalMatches" : 0,
+  "ms1" : "NaN",
+  "ms2" : "NaN",
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -33693,8 +33695,6 @@
   "yok" : "NaN",
   "lossCount" : 0,
   "winRate" : 0.0,
-  "ms1" : "NaN",
-  "ms2" : "NaN",
   "max" : ""
 }, {
   "teamName" : "Atalanta - Bologna",
@@ -33903,6 +33903,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5583333333333333,
+  "ms2" : 0.275,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -33914,8 +33916,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.5583333333333333,
-  "ms2" : 0.275,
   "max" : "Yok"
 }, {
   "teamName" : "Dijon - St. Etienne",
@@ -34124,6 +34124,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.33333333333333337,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -34135,8 +34137,6 @@
   "yok" : 0.44166666666666665,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.33333333333333337,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Renate - Cittadella",
@@ -34323,6 +34323,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.15,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -34334,8 +34336,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.42500000000000004,
   "max" : "Var"
 }, {
   "teamName" : "Aston Villa - Arsenal",
@@ -34544,6 +34544,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.35,
+  "ms2" : 0.5583333333333333,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -34555,8 +34557,6 @@
   "yok" : 0.275,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.5583333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Desenzano C. - AC Trento",
@@ -34699,6 +34699,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -34710,8 +34712,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.3333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Gorica - Rijeka",
@@ -34920,6 +34920,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666667,
+  "ms2" : 0.6666666666666667,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -34931,8 +34933,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666667,
-  "ms2" : 0.6666666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Treviso - C. Lecco",
@@ -35097,6 +35097,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.35,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -35108,8 +35110,6 @@
   "yok" : 0.625,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.3,
   "max" : "Yok"
 }, {
   "teamName" : "Albinoleffe - Ospitaletto",
@@ -35274,6 +35274,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.45,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -35285,8 +35287,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.45,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Benfica - Estoril P.",
@@ -35495,6 +35495,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6083333333333333,
+  "ms2" : 0.0,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -35506,8 +35508,6 @@
   "yok" : 0.31666666666666665,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.6083333333333333,
-  "ms2" : 0.0,
   "max" : "Var"
 }, {
   "teamName" : "Braga - V. Guimaraes",
@@ -35716,6 +35716,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4833333333333334,
+  "ms2" : 0.10833333333333334,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -35727,8 +35729,6 @@
   "yok" : 0.6333333333333333,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.4833333333333334,
-  "ms2" : 0.10833333333333334,
   "max" : "Alt"
 }, {
   "teamName" : "Breidablik - Stjarnan",
@@ -35937,6 +35937,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3666666666666667,
+  "ms2" : 0.45,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -35948,8 +35950,6 @@
   "yok" : 0.375,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3666666666666667,
-  "ms2" : 0.45,
   "max" : "Üst"
 }, {
   "teamName" : "Teruel - R. Madrid B",
@@ -36092,6 +36092,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -36103,8 +36105,6 @@
   "yok" : 0.5,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Barcelona - Vallecano",
@@ -36313,6 +36313,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.7416666666666667,
+  "ms2" : 0.15,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -36324,8 +36326,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.7416666666666667,
-  "ms2" : 0.15,
   "max" : "MS1"
 }, {
   "teamName" : "Celta Vigo B - Castellon",
@@ -36468,6 +36468,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.08333333333333333,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : false,
@@ -36479,8 +36481,6 @@
   "yok" : 0.5,
   "lossCount" : 5,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.08333333333333333,
   "max" : "MSX"
 }, {
   "teamName" : "Atl. Grau - Melgar",
@@ -36689,6 +36689,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 8,
   "infoEnough" : true,
@@ -36700,7 +36702,5 @@
   "yok" : 0.5166666666666667,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.4083333333333333,
   "max" : "Alt"
 } ]

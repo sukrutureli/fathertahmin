@@ -1,10 +1,26 @@
 [ {
+  "homeTeam" : "CD Fas",
+  "awayTeam" : "Angel Firpo",
+  "picks" : [ "Alt (1.49 - 56.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.49 - 56.3%)" : "pending"
+  }
+}, {
   "homeTeam" : "Ind. Mendoza",
   "awayTeam" : "Racing Club",
   "picks" : [ "Alt (1.39 - 71.7%)" ],
   "score" : "-",
   "statuses" : {
     "Alt (1.39 - 71.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Unan Managua",
+  "awayTeam" : "Managua FC",
+  "picks" : [ "Üst (1.5 - 61.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.5 - 61.6%)" : "pending"
   }
 }, {
   "homeTeam" : "CF Monterrey",
@@ -29,6 +45,14 @@
   "score" : "-",
   "statuses" : {
     "MS2 (1.79 - 62.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Broughton",
+  "awayTeam" : "Holywell Town",
+  "picks" : [ "MS1 (1.42 - 67.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.42 - 67.5%)" : "pending"
   }
 }, {
   "homeTeam" : "Flint Town United",
@@ -87,6 +111,14 @@
     "Var (1.38 - 64.9%)" : "pending"
   }
 }, {
+  "homeTeam" : "Forest Green",
+  "awayTeam" : "Altrincham",
+  "picks" : [ "Üst (1.3 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.3 - 64.4%)" : "pending"
+  }
+}, {
   "homeTeam" : "Hanworth Villa",
   "awayTeam" : "Chertsey Town",
   "picks" : [ "Var (1.41 - 71.1%)" ],
@@ -111,6 +143,22 @@
     "Var (1.51 - 73.8%)" : "pending"
   }
 }, {
+  "homeTeam" : "RC Warwick",
+  "awayTeam" : "Stratford",
+  "picks" : [ "Var (1.37 - 54.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.37 - 54.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Redditch utd",
+  "awayTeam" : "Halesowen",
+  "picks" : [ "Var (1.44 - 52.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.44 - 52.4%)" : "pending"
+  }
+}, {
   "homeTeam" : "Spennymoor",
   "awayTeam" : "Hednesford",
   "picks" : [ "Var (1.36 - 67.3%)" ],
@@ -119,12 +167,28 @@
     "Var (1.36 - 67.3%)" : "pending"
   }
 }, {
+  "homeTeam" : "Stockton Town",
+  "awayTeam" : "Redcar Athletic FC",
+  "picks" : [ "MS2 (1.75 - 67.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.75 - 67.4%)" : "pending"
+  }
+}, {
   "homeTeam" : "Sutton United",
   "awayTeam" : "Wealdstone",
   "picks" : [ "MS1 (1.7 - 63.4%)" ],
   "score" : "-",
   "statuses" : {
     "MS1 (1.7 - 63.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tonbridge Angels",
+  "awayTeam" : "Walton & Hersham FC",
+  "picks" : [ "MS1 (1.45 - 75.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.45 - 75.6%)" : "pending"
   }
 }, {
   "homeTeam" : "Weston Super Mare",
@@ -167,6 +231,30 @@
     "Alt (1.4 - 71.4%)" : "pending"
   }
 }, {
+  "homeTeam" : "Dunav 2010",
+  "awayTeam" : "Loko Sofya",
+  "picks" : [ "Var (1.58 - 54.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.58 - 54.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gnistan",
+  "awayTeam" : "TPS Turku",
+  "picks" : [ "Üst (1.39 - 61.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.39 - 61.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Inter Turku",
+  "awayTeam" : "Kuopion",
+  "picks" : [ "Var (1.58 - 54.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.58 - 54.7%)" : "pending"
+  }
+}, {
   "homeTeam" : "AL Bukayriyah FC",
   "awayTeam" : "AL Adalh FC",
   "picks" : [ "Alt (1.58 - 66.4%)" ],
@@ -183,6 +271,30 @@
     "Alt (1.51 - 71.9%)" : "pending"
   }
 }, {
+  "homeTeam" : "Hajduk Split",
+  "awayTeam" : "L. Zagreb",
+  "picks" : [ "Üst (1.41 - 70.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.41 - 70.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "IK Sirius",
+  "awayTeam" : "Malmö",
+  "picks" : [ "Üst (1.37 - 69.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.37 - 69.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zamalek",
+  "awayTeam" : "Petrojet Fc",
+  "picks" : [ "Alt (1.52 - 51.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 51.5%)" : "pending"
+  }
+}, {
   "homeTeam" : "Rapid 1923",
   "awayTeam" : "Un. Craiova",
   "picks" : [ "Alt (1.52 - 64.3%)" ],
@@ -191,12 +303,52 @@
     "Alt (1.52 - 64.3%)" : "pending"
   }
 }, {
+  "homeTeam" : "Brighton U21",
+  "awayTeam" : "Arsenal FC U21",
+  "picks" : [ "MS1 (1.84 - 73.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.84 - 73.3%)" : "pending"
+  }
+}, {
   "homeTeam" : "Arda Kardzha",
   "awayTeam" : "Botev Vratsa",
   "picks" : [ "MS1 (1.31 - 70.8%)" ],
   "score" : "-",
   "statuses" : {
     "MS1 (1.31 - 70.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Beşiktaş",
+  "awayTeam" : "Çorum FK",
+  "picks" : [ "Yok (1.58 - 60.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Yok (1.58 - 60.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Novara Calcio",
+  "awayTeam" : "US Folgore Caratese",
+  "picks" : [ "Alt (1.37 - 54.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 54.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "R Montevideo",
+  "awayTeam" : "Albion FC",
+  "picks" : [ "Alt (1.44 - 56.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 56.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "HNK Gorica",
+  "awayTeam" : "Rijeka",
+  "picks" : [ "MS2 (1.43 - 56.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.43 - 56.8%)" : "pending"
   }
 }, {
   "homeTeam" : "Atletico Grau",
