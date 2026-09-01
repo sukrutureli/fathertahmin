@@ -1,0 +1,32 @@
+[ {
+  "homeTeam" : "Breogan",
+  "awayTeam" : "Mega Basket",
+  "homeStats" : {
+    "avgPointsFor" : 95.16666666666667,
+    "avgPointsAgainst" : 94.66666666666667,
+    "avgTotalPoints" : 189.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 82.16666666666667,
+    "avgPointsAgainst" : 89.33333333333333,
+    "avgTotalPoints" : 171.5,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.09,
+    "ms2" : 3.09,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.55,
+    "h2" : 1.69,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 0.0,
+  "avgPointsForAway" : 0.0,
+  "h2hAvgTotalPoints" : 0.0
+} ]
