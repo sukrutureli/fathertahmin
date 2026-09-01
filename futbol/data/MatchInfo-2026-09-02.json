@@ -1,52 +1,4 @@
 [ {
-  "name" : "Londrina PR - Juventude",
-  "time" : "01:30",
-  "detailUrl" : "https://istatistik.nesine.com/3087552",
-  "odds" : {
-    "ms1" : 3.13,
-    "msX" : 2.66,
-    "ms2" : 1.93,
-    "over25" : 2.2,
-    "under25" : 1.32,
-    "bttsYes" : 1.86,
-    "bttsNo" : 1.48,
-    "mbs" : 3
-  },
-  "index" : 0,
-  "mbs" : 0
-}, {
-  "name" : "Torque - Danubio FC",
-  "time" : "02:15",
-  "detailUrl" : "https://istatistik.nesine.com/3181133",
-  "odds" : {
-    "ms1" : 1.83,
-    "msX" : 2.91,
-    "ms2" : 3.13,
-    "over25" : 1.85,
-    "under25" : 1.5,
-    "bttsYes" : 1.66,
-    "bttsNo" : 1.64,
-    "mbs" : 3
-  },
-  "index" : 1,
-  "mbs" : 0
-}, {
-  "name" : "Atletico Mineiro - Cruzeiro MG",
-  "time" : "03:00",
-  "detailUrl" : "https://istatistik.nesine.com/3143741",
-  "odds" : {
-    "ms1" : 2.35,
-    "msX" : 2.73,
-    "ms2" : 2.61,
-    "over25" : 2.19,
-    "under25" : 1.39,
-    "bttsYes" : 1.83,
-    "bttsNo" : 1.58,
-    "mbs" : 1
-  },
-  "index" : 2,
-  "mbs" : 0
-}, {
   "name" : "LDU Quito - Mushuc Runa",
   "time" : "03:00",
   "detailUrl" : "https://istatistik.nesine.com/3098326",
@@ -60,23 +12,7 @@
     "bttsNo" : 1.63,
     "mbs" : 3
   },
-  "index" : 3,
-  "mbs" : 0
-}, {
-  "name" : "Fortaleza FC - Once Caldas",
-  "time" : "04:00",
-  "detailUrl" : "https://istatistik.nesine.com/3096728",
-  "odds" : {
-    "ms1" : 3.06,
-    "msX" : 2.84,
-    "ms2" : 1.88,
-    "over25" : 1.85,
-    "under25" : 1.5,
-    "bttsYes" : 1.65,
-    "bttsNo" : 1.65,
-    "mbs" : 3
-  },
-  "index" : 4,
+  "index" : 0,
   "mbs" : 0
 }, {
   "name" : "Hachnohe - Tochigi City FC",
@@ -92,23 +28,23 @@
     "bttsNo" : 1.77,
     "mbs" : 3
   },
-  "index" : 5,
+  "index" : 1,
   "mbs" : 0
 }, {
   "name" : "Marconi Stal - NWS Spirit U23",
   "time" : "12:30",
   "detailUrl" : "https://istatistik.nesine.com/3190536",
   "odds" : {
-    "ms1" : 1.56,
-    "msX" : 3.26,
-    "ms2" : 3.81,
+    "ms1" : 1.64,
+    "msX" : 3.27,
+    "ms2" : 3.4,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
     "bttsNo" : 0.0,
     "mbs" : 2
   },
-  "index" : 6,
+  "index" : 2,
   "mbs" : 0
 }, {
   "name" : "SC Sagamihara - Iwata Jubilo",
@@ -124,7 +60,7 @@
     "bttsNo" : 1.65,
     "mbs" : 3
   },
-  "index" : 7,
+  "index" : 3,
   "mbs" : 0
 }, {
   "name" : "Sutherland Sharks - Manly United Gençler",
@@ -140,7 +76,7 @@
     "bttsNo" : 0.0,
     "mbs" : 2
   },
-  "index" : 8,
+  "index" : 4,
   "mbs" : 0
 }, {
   "name" : "Cerezo Osaka - Kashiwa",
@@ -156,7 +92,7 @@
     "bttsNo" : 1.93,
     "mbs" : 2
   },
-  "index" : 9,
+  "index" : 5,
   "mbs" : 0
 }, {
   "name" : "Ehime - Blaublitz Akita",
@@ -172,7 +108,7 @@
     "bttsNo" : 1.58,
     "mbs" : 3
   },
-  "index" : 10,
+  "index" : 6,
   "mbs" : 0
 }, {
   "name" : "FC Machida Zelvia - Kawasaki Frontale",
@@ -188,7 +124,7 @@
     "bttsNo" : 1.9,
     "mbs" : 2
   },
-  "index" : 11,
+  "index" : 7,
   "mbs" : 0
 }, {
   "name" : "FC Osaka - Ventforet",
@@ -204,7 +140,7 @@
     "bttsNo" : 1.65,
     "mbs" : 3
   },
-  "index" : 12,
+  "index" : 8,
   "mbs" : 0
 }, {
   "name" : "FC Ryukyu - Yokohama",
@@ -220,7 +156,7 @@
     "bttsNo" : 1.72,
     "mbs" : 3
   },
-  "index" : 13,
+  "index" : 9,
   "mbs" : 0
 }, {
   "name" : "Fukuoka - Urawa Red",
@@ -230,13 +166,13 @@
     "ms1" : 2.19,
     "msX" : 2.8,
     "ms2" : 2.75,
-    "over25" : 2.1,
-    "under25" : 1.43,
-    "bttsYes" : 1.79,
-    "bttsNo" : 1.62,
+    "over25" : 2.07,
+    "under25" : 1.44,
+    "bttsYes" : 1.77,
+    "bttsNo" : 1.64,
     "mbs" : 2
   },
-  "index" : 14,
+  "index" : 10,
   "mbs" : 0
 }, {
   "name" : "Gainare Tottori - Omiya Ardija",
@@ -252,7 +188,7 @@
     "bttsNo" : 1.73,
     "mbs" : 3
   },
-  "index" : 15,
+  "index" : 11,
   "mbs" : 0
 }, {
   "name" : "Gifu - T Vortis",
@@ -268,7 +204,7 @@
     "bttsNo" : 1.69,
     "mbs" : 3
   },
-  "index" : 16,
+  "index" : 12,
   "mbs" : 0
 }, {
   "name" : "Giravanz Kitakyushu - Iwaki FC",
@@ -284,7 +220,7 @@
     "bttsNo" : 1.65,
     "mbs" : 3
   },
-  "index" : 17,
+  "index" : 13,
   "mbs" : 0
 }, {
   "name" : "INAC Kobe Leonessa (K) - Nagano Parceiro (K)",
@@ -292,15 +228,15 @@
   "detailUrl" : "https://istatistik.nesine.com/3096895",
   "odds" : {
     "ms1" : 0.0,
-    "msX" : 6.45,
-    "ms2" : 14.0,
+    "msX" : 6.4,
+    "ms2" : 13.3,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 2.15,
-    "bttsNo" : 1.34,
+    "bttsYes" : 2.11,
+    "bttsNo" : 1.36,
     "mbs" : 3
   },
-  "index" : 18,
+  "index" : 14,
   "mbs" : 0
 }, {
   "name" : "JEF United - Fagiano",
@@ -316,7 +252,7 @@
     "bttsNo" : 1.83,
     "mbs" : 2
   },
-  "index" : 19,
+  "index" : 15,
   "mbs" : 0
 }, {
   "name" : "Kagoshima United - Sapporo",
@@ -332,7 +268,7 @@
     "bttsNo" : 1.66,
     "mbs" : 3
   },
-  "index" : 20,
+  "index" : 16,
   "mbs" : 0
 }, {
   "name" : "M Hollyhock - Kashima",
@@ -348,23 +284,23 @@
     "bttsNo" : 1.72,
     "mbs" : 2
   },
-  "index" : 21,
+  "index" : 17,
   "mbs" : 0
 }, {
   "name" : "Nara Club - Sagan Tosu",
   "time" : "13:00",
   "detailUrl" : "https://istatistik.nesine.com/3096881",
   "odds" : {
-    "ms1" : 5.21,
-    "msX" : 3.77,
-    "ms2" : 1.32,
+    "ms1" : 5.13,
+    "msX" : 3.67,
+    "ms2" : 1.35,
     "over25" : 1.61,
     "under25" : 1.69,
-    "bttsYes" : 1.74,
-    "bttsNo" : 1.58,
+    "bttsYes" : 1.72,
+    "bttsNo" : 1.59,
     "mbs" : 3
   },
-  "index" : 22,
+  "index" : 18,
   "mbs" : 0
 }, {
   "name" : "R Yamaguchi - Fujieda Myfc",
@@ -380,7 +316,7 @@
     "bttsNo" : 1.83,
     "mbs" : 3
   },
-  "index" : 23,
+  "index" : 19,
   "mbs" : 0
 }, {
   "name" : "Roasso Kumamoto - Oita Trinata",
@@ -396,7 +332,7 @@
     "bttsNo" : 1.54,
     "mbs" : 3
   },
-  "index" : 24,
+  "index" : 20,
   "mbs" : 0
 }, {
   "name" : "Sanfrecce Hiroshima - Nagoya",
@@ -412,7 +348,7 @@
     "bttsNo" : 1.91,
     "mbs" : 2
   },
-  "index" : 25,
+  "index" : 21,
   "mbs" : 0
 }, {
   "name" : "Shimizu - Tokyo",
@@ -428,7 +364,7 @@
     "bttsNo" : 1.73,
     "mbs" : 2
   },
-  "index" : 26,
+  "index" : 22,
   "mbs" : 0
 }, {
   "name" : "Tegevajaro Miyazaki - Kat. Toyama",
@@ -444,23 +380,23 @@
     "bttsNo" : 1.72,
     "mbs" : 3
   },
-  "index" : 27,
+  "index" : 23,
   "mbs" : 0
 }, {
   "name" : "Thespakusatsu Gunma - Niigata",
   "time" : "13:00",
   "detailUrl" : "https://istatistik.nesine.com/3096864",
   "odds" : {
-    "ms1" : 6.47,
-    "msX" : 4.19,
-    "ms2" : 1.23,
+    "ms1" : 5.94,
+    "msX" : 4.08,
+    "ms2" : 1.25,
     "over25" : 1.49,
     "under25" : 1.86,
-    "bttsYes" : 1.73,
-    "bttsNo" : 1.58,
+    "bttsYes" : 1.69,
+    "bttsNo" : 1.62,
     "mbs" : 3
   },
-  "index" : 28,
+  "index" : 24,
   "mbs" : 0
 }, {
   "name" : "Tokyo Verdy - Vissel Kobe",
@@ -476,7 +412,7 @@
     "bttsNo" : 1.49,
     "mbs" : 2
   },
-  "index" : 29,
+  "index" : 25,
   "mbs" : 0
 }, {
   "name" : "V-Varen - Gamba Osaka",
@@ -492,7 +428,7 @@
     "bttsNo" : 1.93,
     "mbs" : 2
   },
-  "index" : 30,
+  "index" : 26,
   "mbs" : 0
 }, {
   "name" : "Yokohama Marinos - Kyoto Sanga",
@@ -508,7 +444,7 @@
     "bttsNo" : 1.89,
     "mbs" : 2
   },
-  "index" : 31,
+  "index" : 27,
   "mbs" : 0
 }, {
   "name" : "Zweigen Kanazawa - FC Imabari",
@@ -524,7 +460,7 @@
     "bttsNo" : 1.79,
     "mbs" : 3
   },
-  "index" : 32,
+  "index" : 28,
   "mbs" : 0
 }, {
   "name" : "Sabah - Selangor FA",
@@ -540,23 +476,23 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 33,
+  "index" : 29,
   "mbs" : 0
 }, {
   "name" : "Melaka FC - Penang FA",
   "time" : "15:00",
   "detailUrl" : "https://istatistik.nesine.com/3178977",
   "odds" : {
-    "ms1" : 2.05,
-    "msX" : 3.24,
-    "ms2" : 2.63,
+    "ms1" : 2.1,
+    "msX" : 3.26,
+    "ms2" : 2.53,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 0.0,
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 34,
+  "index" : 30,
   "mbs" : 0
 }, {
   "name" : "Nairobi United FC - KCB Nairobi",
@@ -572,7 +508,7 @@
     "bttsNo" : 1.4,
     "mbs" : 3
   },
-  "index" : 35,
+  "index" : 31,
   "mbs" : 0
 }, {
   "name" : "Yunnan Yukun - Chongqing Tonglianglong FC",
@@ -588,23 +524,23 @@
     "bttsNo" : 2.04,
     "mbs" : 2
   },
-  "index" : 36,
+  "index" : 32,
   "mbs" : 0
 }, {
   "name" : "KTS-K Luzino - Wisla Plock",
   "time" : "15:30",
   "detailUrl" : "https://istatistik.nesine.com/3129870",
   "odds" : {
-    "ms1" : 6.09,
-    "msX" : 4.52,
-    "ms2" : 1.21,
+    "ms1" : 6.26,
+    "msX" : 4.64,
+    "ms2" : 1.2,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.5,
-    "bttsNo" : 1.85,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.82,
     "mbs" : 3
   },
-  "index" : 37,
+  "index" : 33,
   "mbs" : 0
 }, {
   "name" : "Blacks Power FC - Uganda Police FC",
@@ -620,7 +556,7 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 38,
+  "index" : 34,
   "mbs" : 0
 }, {
   "name" : "CS Minerul Lupeni - Uta Arad",
@@ -636,7 +572,7 @@
     "bttsNo" : 1.66,
     "mbs" : 3
   },
-  "index" : 39,
+  "index" : 35,
   "mbs" : 0
 }, {
   "name" : "Cape Town Ct - Leicesterford City",
@@ -652,7 +588,7 @@
     "bttsNo" : 1.38,
     "mbs" : 3
   },
-  "index" : 40,
+  "index" : 36,
   "mbs" : 0
 }, {
   "name" : "Kedah FA - Imigresen FC",
@@ -668,7 +604,7 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 41,
+  "index" : 37,
   "mbs" : 0
 }, {
   "name" : "Ntungasaze FC - Maroons FC",
@@ -684,23 +620,23 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 42,
+  "index" : 38,
   "mbs" : 0
 }, {
   "name" : "Sassuolo - Frosinone",
   "time" : "16:00",
   "detailUrl" : "https://istatistik.nesine.com/3161316",
   "odds" : {
-    "ms1" : 1.71,
-    "msX" : 3.28,
-    "ms2" : 3.5,
+    "ms1" : 1.67,
+    "msX" : 3.33,
+    "ms2" : 3.61,
     "over25" : 1.62,
     "under25" : 1.79,
-    "bttsYes" : 1.54,
-    "bttsNo" : 1.89,
+    "bttsYes" : 1.56,
+    "bttsNo" : 1.87,
     "mbs" : 1
   },
-  "index" : 43,
+  "index" : 39,
   "mbs" : 0
 }, {
   "name" : "FC Orenburg - Rubin Kazan",
@@ -716,7 +652,7 @@
     "bttsNo" : 1.7,
     "mbs" : 2
   },
-  "index" : 44,
+  "index" : 40,
   "mbs" : 0
 }, {
   "name" : "HNK Vukovar 1991 - Dinamo Zagreb II",
@@ -732,7 +668,7 @@
     "bttsNo" : 1.56,
     "mbs" : 3
   },
-  "index" : 45,
+  "index" : 41,
   "mbs" : 0
 }, {
   "name" : "Botosani - CS Corvinul 1921 Hunedoara",
@@ -748,7 +684,7 @@
     "bttsNo" : 1.64,
     "mbs" : 3
   },
-  "index" : 46,
+  "index" : 42,
   "mbs" : 0
 }, {
   "name" : "AKS Beskid Andrychow - Slask Wroclaw II",
@@ -764,7 +700,7 @@
     "bttsNo" : 2.28,
     "mbs" : 3
   },
-  "index" : 47,
+  "index" : 43,
   "mbs" : 0
 }, {
   "name" : "El Gouna Fc - Al Mokawloon",
@@ -780,7 +716,7 @@
     "bttsNo" : 1.35,
     "mbs" : 2
   },
-  "index" : 48,
+  "index" : 44,
   "mbs" : 0
 }, {
   "name" : "Gornik Zabrze II - Olimpia",
@@ -796,7 +732,7 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 49,
+  "index" : 45,
   "mbs" : 0
 }, {
   "name" : "Nestos Chrysoupoli FC - AEK Athens",
@@ -812,7 +748,7 @@
     "bttsNo" : 1.23,
     "mbs" : 3
   },
-  "index" : 50,
+  "index" : 46,
   "mbs" : 0
 }, {
   "name" : "Polkowice - Polonia Warszawa",
@@ -828,7 +764,7 @@
     "bttsNo" : 1.97,
     "mbs" : 3
   },
-  "index" : 51,
+  "index" : 47,
   "mbs" : 0
 }, {
   "name" : "Vanspor FK - Batman Petrolspor",
@@ -844,7 +780,7 @@
     "bttsNo" : 1.89,
     "mbs" : 1
   },
-  "index" : 52,
+  "index" : 48,
   "mbs" : 0
 }, {
   "name" : "FC Nomme United - Parnu JK Vap",
@@ -860,7 +796,7 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 53,
+  "index" : 49,
   "mbs" : 0
 }, {
   "name" : "FC Samtredia - FC Iberia 1999",
@@ -876,7 +812,7 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 54,
+  "index" : 50,
   "mbs" : 0
 }, {
   "name" : "Malavan Bandar Anzali FC - Nassaji Ma",
@@ -892,7 +828,7 @@
     "bttsNo" : 0.0,
     "mbs" : 2
   },
-  "index" : 55,
+  "index" : 51,
   "mbs" : 0
 }, {
   "name" : "Marko - AE Kifisia FC",
@@ -908,7 +844,7 @@
     "bttsNo" : 1.54,
     "mbs" : 3
   },
-  "index" : 56,
+  "index" : 52,
   "mbs" : 0
 }, {
   "name" : "ZOB Ahan Isfahan FC - Paykan Fc",
@@ -924,7 +860,7 @@
     "bttsNo" : 1.3,
     "mbs" : 2
   },
-  "index" : 57,
+  "index" : 53,
   "mbs" : 0
 }, {
   "name" : "ACS Unu Fotbal Club Gloria - Csikszereda M. Ciuc",
@@ -940,7 +876,7 @@
     "bttsNo" : 1.69,
     "mbs" : 3
   },
-  "index" : 58,
+  "index" : 54,
   "mbs" : 0
 }, {
   "name" : "G. Leczna - Stal Mielec",
@@ -956,7 +892,7 @@
     "bttsNo" : 2.19,
     "mbs" : 3
   },
-  "index" : 59,
+  "index" : 55,
   "mbs" : 0
 }, {
   "name" : "Kheybar Khorramabad FC - F Khuzestan",
@@ -972,7 +908,7 @@
     "bttsNo" : 1.44,
     "mbs" : 2
   },
-  "index" : 60,
+  "index" : 56,
   "mbs" : 0
 }, {
   "name" : "Mladost Zdralovi - NK Sesvete",
@@ -988,7 +924,7 @@
     "bttsNo" : 1.65,
     "mbs" : 3
   },
-  "index" : 61,
+  "index" : 57,
   "mbs" : 0
 }, {
   "name" : "NK Croatia Zmijavci - NK Bsk Bijelo Brdo",
@@ -1004,7 +940,7 @@
     "bttsNo" : 1.43,
     "mbs" : 3
   },
-  "index" : 62,
+  "index" : 58,
   "mbs" : 0
 }, {
   "name" : "NK Dugopolje - NK Karlovac 1919",
@@ -1020,7 +956,7 @@
     "bttsNo" : 1.64,
     "mbs" : 3
   },
-  "index" : 63,
+  "index" : 59,
   "mbs" : 0
 }, {
   "name" : "NK Jadran LP - NK Dubrava",
@@ -1036,7 +972,7 @@
     "bttsNo" : 1.65,
     "mbs" : 3
   },
-  "index" : 64,
+  "index" : 60,
   "mbs" : 0
 }, {
   "name" : "NK Segesta - NK Kustosija",
@@ -1052,7 +988,7 @@
     "bttsNo" : 1.72,
     "mbs" : 3
   },
-  "index" : 65,
+  "index" : 61,
   "mbs" : 0
 }, {
   "name" : "Maxline Rogachev - FC Belshina",
@@ -1068,7 +1004,7 @@
     "bttsNo" : 1.23,
     "mbs" : 3
   },
-  "index" : 66,
+  "index" : 62,
   "mbs" : 0
 }, {
   "name" : "NK Opatija - Hrvace",
@@ -1084,7 +1020,7 @@
     "bttsNo" : 1.64,
     "mbs" : 3
   },
-  "index" : 67,
+  "index" : 63,
   "mbs" : 0
 }, {
   "name" : "Z Pruszkow - Cracovia",
@@ -1100,7 +1036,7 @@
     "bttsNo" : 1.71,
     "mbs" : 3
   },
-  "index" : 68,
+  "index" : 64,
   "mbs" : 0
 }, {
   "name" : "Zenit - FC Dynamo-Makhachkala",
@@ -1116,7 +1052,7 @@
     "bttsNo" : 1.42,
     "mbs" : 2
   },
-  "index" : 69,
+  "index" : 65,
   "mbs" : 0
 }, {
   "name" : "Hajer FC Al-Hasa - AL Anwar",
@@ -1132,7 +1068,7 @@
     "bttsNo" : 1.7,
     "mbs" : 3
   },
-  "index" : 70,
+  "index" : 66,
   "mbs" : 0
 }, {
   "name" : "AS Gubbio 1910 - SSD Vis Pesaro 1898",
@@ -1148,7 +1084,7 @@
     "bttsNo" : 1.71,
     "mbs" : 3
   },
-  "index" : 71,
+  "index" : 67,
   "mbs" : 0
 }, {
   "name" : "Benfica U23 - Academico Viseu U23",
@@ -1164,7 +1100,7 @@
     "bttsNo" : 1.86,
     "mbs" : 3
   },
-  "index" : 72,
+  "index" : 68,
   "mbs" : 0
 }, {
   "name" : "Brno - Hradec Kralove",
@@ -1174,13 +1110,13 @@
     "ms1" : 2.06,
     "msX" : 2.94,
     "ms2" : 2.6,
-    "over25" : 1.68,
-    "under25" : 1.63,
-    "bttsYes" : 1.52,
-    "bttsNo" : 1.8,
+    "over25" : 1.71,
+    "under25" : 1.6,
+    "bttsYes" : 1.54,
+    "bttsNo" : 1.78,
     "mbs" : 3
   },
-  "index" : 73,
+  "index" : 69,
   "mbs" : 0
 }, {
   "name" : "Brodd - Viking",
@@ -1196,7 +1132,7 @@
     "bttsNo" : 1.6,
     "mbs" : 3
   },
-  "index" : 74,
+  "index" : 70,
   "mbs" : 0
 }, {
   "name" : "CS Sporting Liesti - D. Bükreş",
@@ -1212,7 +1148,7 @@
     "bttsNo" : 1.37,
     "mbs" : 3
   },
-  "index" : 75,
+  "index" : 71,
   "mbs" : 0
 }, {
   "name" : "Esteghlal FC - Persepolis",
@@ -1228,7 +1164,7 @@
     "bttsNo" : 1.46,
     "mbs" : 2
   },
-  "index" : 76,
+  "index" : 72,
   "mbs" : 0
 }, {
   "name" : "Flora Tall - Tartu JK Tam",
@@ -1244,7 +1180,7 @@
     "bttsNo" : 2.31,
     "mbs" : 3
   },
-  "index" : 77,
+  "index" : 73,
   "mbs" : 0
 }, {
   "name" : "Hannoverscher SC - FC Phonix Lubeck",
@@ -1260,7 +1196,7 @@
     "bttsNo" : 2.31,
     "mbs" : 3
   },
-  "index" : 78,
+  "index" : 74,
   "mbs" : 0
 }, {
   "name" : "KS Lechia Zielona Gora - Ruch Chorzow",
@@ -1276,7 +1212,7 @@
     "bttsNo" : 1.87,
     "mbs" : 3
   },
-  "index" : 79,
+  "index" : 75,
   "mbs" : 0
 }, {
   "name" : "Malkiya Club - Al Najma",
@@ -1292,7 +1228,7 @@
     "bttsNo" : 1.6,
     "mbs" : 3
   },
-  "index" : 80,
+  "index" : 76,
   "mbs" : 0
 }, {
   "name" : "Udinese - Venezia",
@@ -1308,7 +1244,7 @@
     "bttsNo" : 1.78,
     "mbs" : 1
   },
-  "index" : 81,
+  "index" : 77,
   "mbs" : 0
 }, {
   "name" : "Union Brescia - AS Giana Erminio",
@@ -1324,7 +1260,7 @@
     "bttsNo" : 1.49,
     "mbs" : 3
   },
-  "index" : 82,
+  "index" : 78,
   "mbs" : 0
 }, {
   "name" : "Velez Mostar - Rad. Bijelji",
@@ -1340,7 +1276,7 @@
     "bttsNo" : 1.49,
     "mbs" : 3
   },
-  "index" : 83,
+  "index" : 79,
   "mbs" : 0
 }, {
   "name" : "AL Wehda FC - Damac FC",
@@ -1356,7 +1292,7 @@
     "bttsNo" : 1.73,
     "mbs" : 3
   },
-  "index" : 84,
+  "index" : 80,
   "mbs" : 0
 }, {
   "name" : "ASD Sorrento 1945 - Cosenza",
@@ -1372,7 +1308,7 @@
     "bttsNo" : 1.69,
     "mbs" : 3
   },
-  "index" : 85,
+  "index" : 81,
   "mbs" : 0
 }, {
   "name" : "Athletic Carpi - FC Pro Vercelli 1892",
@@ -1388,7 +1324,7 @@
     "bttsNo" : 1.64,
     "mbs" : 3
   },
-  "index" : 86,
+  "index" : 82,
   "mbs" : 0
 }, {
   "name" : "Austria Wien - WSG Tirol",
@@ -1404,7 +1340,7 @@
     "bttsNo" : 1.92,
     "mbs" : 2
   },
-  "index" : 87,
+  "index" : 83,
   "mbs" : 0
 }, {
   "name" : "FC Arzignano Valchiampo - Dolomiti Bellunesi",
@@ -1420,7 +1356,7 @@
     "bttsNo" : 1.58,
     "mbs" : 3
   },
-  "index" : 88,
+  "index" : 84,
   "mbs" : 0
 }, {
   "name" : "Inter (K) - Wolfsburg (K)",
@@ -1436,7 +1372,7 @@
     "bttsNo" : 2.2,
     "mbs" : 3
   },
-  "index" : 89,
+  "index" : 85,
   "mbs" : 0
 }, {
   "name" : "Paris Saint-Germain (K) - Eintracht Frankfurt (K)",
@@ -1452,7 +1388,7 @@
     "bttsNo" : 1.99,
     "mbs" : 3
   },
-  "index" : 90,
+  "index" : 86,
   "mbs" : 0
 }, {
   "name" : "Servette FC (K) - AC Sparta Prag (K)",
@@ -1468,7 +1404,7 @@
     "bttsNo" : 2.13,
     "mbs" : 3
   },
-  "index" : 91,
+  "index" : 87,
   "mbs" : 0
 }, {
   "name" : "ABO Qair Semads - AL Ittihad",
@@ -1484,7 +1420,7 @@
     "bttsNo" : 1.4,
     "mbs" : 2
   },
-  "index" : 92,
+  "index" : 88,
   "mbs" : 0
 }, {
   "name" : "BK Olympic - IFK Göteborg",
@@ -1500,7 +1436,7 @@
     "bttsNo" : 1.63,
     "mbs" : 3
   },
-  "index" : 93,
+  "index" : 89,
   "mbs" : 0
 }, {
   "name" : "Carl Zeiss Jena - Altglienicke",
@@ -1516,7 +1452,7 @@
     "bttsNo" : 2.02,
     "mbs" : 3
   },
-  "index" : 94,
+  "index" : 90,
   "mbs" : 0
 }, {
   "name" : "Ceramica Cleopatra - Modern Sport Club",
@@ -1532,23 +1468,23 @@
     "bttsNo" : 1.46,
     "mbs" : 2
   },
-  "index" : 95,
+  "index" : 91,
   "mbs" : 0
 }, {
   "name" : "Fatih Karagümrük - Kayserispor",
   "time" : "20:00",
   "detailUrl" : "https://istatistik.nesine.com/3096876",
   "odds" : {
-    "ms1" : 2.18,
-    "msX" : 2.91,
-    "ms2" : 2.45,
+    "ms1" : 2.26,
+    "msX" : 2.9,
+    "ms2" : 2.36,
     "over25" : 1.71,
     "under25" : 1.6,
     "bttsYes" : 1.53,
     "bttsNo" : 1.79,
     "mbs" : 1
   },
-  "index" : 96,
+  "index" : 92,
   "mbs" : 0
 }, {
   "name" : "HB Koege (K) - PSV Eindhoven (K)",
@@ -1564,7 +1500,7 @@
     "bttsNo" : 1.88,
     "mbs" : 3
   },
-  "index" : 97,
+  "index" : 93,
   "mbs" : 0
 }, {
   "name" : "Larissa - Olympiacos",
@@ -1580,23 +1516,23 @@
     "bttsNo" : 1.43,
     "mbs" : 3
   },
-  "index" : 98,
+  "index" : 94,
   "mbs" : 0
 }, {
   "name" : "M. Legnica - C Glogow",
   "time" : "20:00",
   "detailUrl" : "https://istatistik.nesine.com/3129837",
   "odds" : {
-    "ms1" : 1.51,
-    "msX" : 3.32,
-    "ms2" : 4.06,
+    "ms1" : 1.58,
+    "msX" : 3.17,
+    "ms2" : 3.79,
     "over25" : 1.64,
     "under25" : 1.66,
-    "bttsYes" : 1.62,
-    "bttsNo" : 1.68,
+    "bttsYes" : 1.58,
+    "bttsNo" : 1.72,
     "mbs" : 3
   },
-  "index" : 99,
+  "index" : 95,
   "mbs" : 0
 }, {
   "name" : "Panseraikos FC - Atromitos",
@@ -1612,7 +1548,7 @@
     "bttsNo" : 1.6,
     "mbs" : 3
   },
-  "index" : 100,
+  "index" : 96,
   "mbs" : 0
 }, {
   "name" : "Real Sociedad (K) - Chelsea FC (K)",
@@ -1628,7 +1564,7 @@
     "bttsNo" : 2.0,
     "mbs" : 3
   },
-  "index" : 101,
+  "index" : 97,
   "mbs" : 0
 }, {
   "name" : "SN Abadan - Mobarake Sep",
@@ -1644,23 +1580,23 @@
     "bttsNo" : 1.42,
     "mbs" : 2
   },
-  "index" : 102,
+  "index" : 98,
   "mbs" : 0
 }, {
   "name" : "Sivasspor - Mardin 1969 Spor",
   "time" : "20:00",
   "detailUrl" : "https://istatistik.nesine.com/3096733",
   "odds" : {
-    "ms1" : 2.14,
-    "msX" : 2.84,
-    "ms2" : 2.56,
+    "ms1" : 2.08,
+    "msX" : 2.85,
+    "ms2" : 2.63,
     "over25" : 1.84,
     "under25" : 1.5,
     "bttsYes" : 1.63,
-    "bttsNo" : 1.68,
+    "bttsNo" : 1.67,
     "mbs" : 1
   },
-  "index" : 103,
+  "index" : 99,
   "mbs" : 0
 }, {
   "name" : "Slavya Sofya - Levski Sofya",
@@ -1670,13 +1606,13 @@
     "ms1" : 8.17,
     "msX" : 4.45,
     "ms2" : 1.16,
-    "over25" : 1.61,
-    "under25" : 1.7,
-    "bttsYes" : 2.04,
-    "bttsNo" : 1.39,
+    "over25" : 1.62,
+    "under25" : 1.68,
+    "bttsYes" : 2.06,
+    "bttsNo" : 1.38,
     "mbs" : 3
   },
-  "index" : 104,
+  "index" : 100,
   "mbs" : 0
 }, {
   "name" : "Sokol Ostrod - Sokol Kleczew",
@@ -1692,23 +1628,23 @@
     "bttsNo" : 2.13,
     "mbs" : 3
   },
-  "index" : 105,
+  "index" : 101,
   "mbs" : 0
 }, {
   "name" : "Resovia - Arka Gdynia",
   "time" : "20:05",
   "detailUrl" : "https://istatistik.nesine.com/3129787",
   "odds" : {
-    "ms1" : 4.24,
-    "msX" : 3.47,
-    "ms2" : 1.45,
+    "ms1" : 4.1,
+    "msX" : 3.44,
+    "ms2" : 1.48,
     "over25" : 1.56,
     "under25" : 1.76,
-    "bttsYes" : 1.58,
-    "bttsNo" : 1.73,
+    "bttsYes" : 1.57,
+    "bttsNo" : 1.74,
     "mbs" : 3
   },
-  "index" : 106,
+  "index" : 102,
   "mbs" : 0
 }, {
   "name" : "Dinamo Minsk - Naftan Novopolotsk",
@@ -1718,13 +1654,13 @@
     "ms1" : 0.0,
     "msX" : 6.75,
     "ms2" : 12.2,
-    "over25" : 1.25,
-    "under25" : 2.44,
-    "bttsYes" : 1.87,
-    "bttsNo" : 1.48,
+    "over25" : 1.27,
+    "under25" : 2.36,
+    "bttsYes" : 1.92,
+    "bttsNo" : 1.45,
     "mbs" : 3
   },
-  "index" : 107,
+  "index" : 103,
   "mbs" : 0
 }, {
   "name" : "HNK Cibalia Vinkovci - HNK Orijent 1919",
@@ -1740,7 +1676,7 @@
     "bttsNo" : 1.64,
     "mbs" : 3
   },
-  "index" : 108,
+  "index" : 104,
   "mbs" : 0
 }, {
   "name" : "Mamel Sundow - Milford FC",
@@ -1756,7 +1692,7 @@
     "bttsNo" : 1.37,
     "mbs" : 2
   },
-  "index" : 109,
+  "index" : 105,
   "mbs" : 0
 }, {
   "name" : "Wiedenbrück - Borussia M.Gladbach II",
@@ -1772,7 +1708,7 @@
     "bttsNo" : 2.01,
     "mbs" : 3
   },
-  "index" : 110,
+  "index" : 106,
   "mbs" : 0
 }, {
   "name" : "AL Ula - AL Raed FC",
@@ -1788,7 +1724,7 @@
     "bttsNo" : 1.78,
     "mbs" : 3
   },
-  "index" : 111,
+  "index" : 107,
   "mbs" : 0
 }, {
   "name" : "FC Baltika Kaliningrad - Krylia Sovetov",
@@ -1804,7 +1740,7 @@
     "bttsNo" : 1.6,
     "mbs" : 2
   },
-  "index" : 112,
+  "index" : 108,
   "mbs" : 0
 }, {
   "name" : "Spartak Moskova - Rodina Moscow",
@@ -1820,7 +1756,7 @@
     "bttsNo" : 1.7,
     "mbs" : 2
   },
-  "index" : 113,
+  "index" : 109,
   "mbs" : 0
 }, {
   "name" : "AGF Aarhus - Midtjylland",
@@ -1836,7 +1772,7 @@
     "bttsNo" : 2.17,
     "mbs" : 2
   },
-  "index" : 114,
+  "index" : 110,
   "mbs" : 0
 }, {
   "name" : "Bohemians Prag - Jablonec",
@@ -1852,7 +1788,7 @@
     "bttsNo" : 1.79,
     "mbs" : 3
   },
-  "index" : 115,
+  "index" : 111,
   "mbs" : 0
 }, {
   "name" : "Dongen - JOS Watergraafsmeer",
@@ -1868,23 +1804,23 @@
     "bttsNo" : 2.6,
     "mbs" : 3
   },
-  "index" : 116,
+  "index" : 112,
   "mbs" : 0
 }, {
   "name" : "Groene Ster - VV Heerjansdam",
   "time" : "21:00",
   "detailUrl" : "https://istatistik.nesine.com/3133926",
   "odds" : {
-    "ms1" : 1.61,
-    "msX" : 4.09,
-    "ms2" : 2.9,
+    "ms1" : 1.63,
+    "msX" : 3.96,
+    "ms2" : 2.91,
     "over25" : 0.0,
     "under25" : 0.0,
     "bttsYes" : 1.22,
-    "bttsNo" : 2.56,
+    "bttsNo" : 2.57,
     "mbs" : 3
   },
-  "index" : 117,
+  "index" : 113,
   "mbs" : 0
 }, {
   "name" : "Hibernians - Valletta",
@@ -1900,7 +1836,7 @@
     "bttsNo" : 1.73,
     "mbs" : 3
   },
-  "index" : 118,
+  "index" : 114,
   "mbs" : 0
 }, {
   "name" : "Hzvv Hoogeveen - SV Zwaluwen Wierden",
@@ -1916,23 +1852,23 @@
     "bttsNo" : 2.44,
     "mbs" : 3
   },
-  "index" : 119,
+  "index" : 115,
   "mbs" : 0
 }, {
   "name" : "NK Aluminij Kidricevo - NK Celje",
   "time" : "21:00",
   "detailUrl" : "https://istatistik.nesine.com/3157561",
   "odds" : {
-    "ms1" : 4.83,
-    "msX" : 4.01,
-    "ms2" : 1.32,
+    "ms1" : 4.66,
+    "msX" : 3.93,
+    "ms2" : 1.35,
     "over25" : 1.31,
     "under25" : 2.22,
-    "bttsYes" : 1.43,
-    "bttsNo" : 1.96,
+    "bttsYes" : 1.41,
+    "bttsNo" : 1.99,
     "mbs" : 3
   },
-  "index" : 120,
+  "index" : 116,
   "mbs" : 0
 }, {
   "name" : "OH Leuven (K) - Czarni Sosnowiec (K)",
@@ -1948,7 +1884,7 @@
     "bttsNo" : 1.81,
     "mbs" : 3
   },
-  "index" : 121,
+  "index" : 117,
   "mbs" : 0
 }, {
   "name" : "Real Madrid (K) - AFC Ajax (K)",
@@ -1964,7 +1900,7 @@
     "bttsNo" : 1.54,
     "mbs" : 3
   },
-  "index" : 122,
+  "index" : 118,
   "mbs" : 0
 }, {
   "name" : "SV Togb - Katwijk",
@@ -1980,7 +1916,7 @@
     "bttsNo" : 2.19,
     "mbs" : 3
   },
-  "index" : 123,
+  "index" : 119,
   "mbs" : 0
 }, {
   "name" : "Sparta Nijkerk - Venray",
@@ -1996,7 +1932,7 @@
     "bttsNo" : 2.41,
     "mbs" : 3
   },
-  "index" : 124,
+  "index" : 120,
   "mbs" : 0
 }, {
   "name" : "Staphorst - VV Una",
@@ -2012,7 +1948,7 @@
     "bttsNo" : 2.28,
     "mbs" : 3
   },
-  "index" : 125,
+  "index" : 121,
   "mbs" : 0
 }, {
   "name" : "USV Hercules - EVV Echt",
@@ -2028,7 +1964,7 @@
     "bttsNo" : 2.87,
     "mbs" : 3
   },
-  "index" : 126,
+  "index" : 122,
   "mbs" : 0
 }, {
   "name" : "A. Pitesti - FCSB",
@@ -2044,7 +1980,7 @@
     "bttsNo" : 1.75,
     "mbs" : 3
   },
-  "index" : 127,
+  "index" : 123,
   "mbs" : 0
 }, {
   "name" : "Banja Luka - Zelezniçar",
@@ -2054,13 +1990,13 @@
     "ms1" : 1.25,
     "msX" : 4.0,
     "ms2" : 6.11,
-    "over25" : 1.66,
-    "under25" : 1.64,
-    "bttsYes" : 1.89,
-    "bttsNo" : 1.46,
+    "over25" : 1.64,
+    "under25" : 1.66,
+    "bttsYes" : 1.86,
+    "bttsNo" : 1.48,
     "mbs" : 3
   },
-  "index" : 128,
+  "index" : 124,
   "mbs" : 0
 }, {
   "name" : "Grasshoppers - St. Gallen",
@@ -2076,7 +2012,7 @@
     "bttsNo" : 2.28,
     "mbs" : 2
   },
-  "index" : 129,
+  "index" : 125,
   "mbs" : 0
 }, {
   "name" : "Juventus (K) - SKN St. Polten (K)",
@@ -2092,15 +2028,15 @@
     "bttsNo" : 1.44,
     "mbs" : 3
   },
-  "index" : 130,
+  "index" : 126,
   "mbs" : 0
 }, {
   "name" : "Luzern - Vaduz",
   "time" : "21:30",
   "detailUrl" : "https://istatistik.nesine.com/3096741",
   "odds" : {
-    "ms1" : 1.43,
-    "msX" : 4.14,
+    "ms1" : 1.44,
+    "msX" : 4.1,
     "ms2" : 4.24,
     "over25" : 1.2,
     "under25" : 2.92,
@@ -2108,7 +2044,7 @@
     "bttsNo" : 2.56,
     "mbs" : 2
   },
-  "index" : 131,
+  "index" : 127,
   "mbs" : 0
 }, {
   "name" : "Salzburg - Rapid Wien",
@@ -2124,7 +2060,7 @@
     "bttsNo" : 2.38,
     "mbs" : 2
   },
-  "index" : 132,
+  "index" : 128,
   "mbs" : 0
 }, {
   "name" : "Siroki Brijeg - Sarajevo",
@@ -2140,23 +2076,23 @@
     "bttsNo" : 1.52,
     "mbs" : 3
   },
-  "index" : 133,
+  "index" : 129,
   "mbs" : 0
 }, {
   "name" : "St. Truidense - Union Saint Gilloise",
   "time" : "21:30",
   "detailUrl" : "https://istatistik.nesine.com/3096769",
   "odds" : {
-    "ms1" : 3.31,
-    "msX" : 3.13,
-    "ms2" : 1.8,
+    "ms1" : 3.38,
+    "msX" : 3.19,
+    "ms2" : 1.76,
     "over25" : 1.58,
     "under25" : 1.84,
-    "bttsYes" : 1.49,
-    "bttsNo" : 1.99,
+    "bttsYes" : 1.5,
+    "bttsNo" : 1.97,
     "mbs" : 1
   },
-  "index" : 134,
+  "index" : 130,
   "mbs" : 0
 }, {
   "name" : "Thun - Lausanne",
@@ -2172,7 +2108,7 @@
     "bttsNo" : 2.42,
     "mbs" : 2
   },
-  "index" : 135,
+  "index" : 131,
   "mbs" : 0
 }, {
   "name" : "Widzew Lodz - Korona Kielce",
@@ -2188,7 +2124,7 @@
     "bttsNo" : 1.72,
     "mbs" : 3
   },
-  "index" : 136,
+  "index" : 132,
   "mbs" : 0
 }, {
   "name" : "Barnsley - Blackpool",
@@ -2204,7 +2140,7 @@
     "bttsNo" : 2.0,
     "mbs" : 2
   },
-  "index" : 137,
+  "index" : 133,
   "mbs" : 0
 }, {
   "name" : "Burton Albion - Wimbledon",
@@ -2220,7 +2156,7 @@
     "bttsNo" : 1.69,
     "mbs" : 2
   },
-  "index" : 138,
+  "index" : 134,
   "mbs" : 0
 }, {
   "name" : "Celtic - Aberdeen",
@@ -2236,7 +2172,7 @@
     "bttsNo" : 1.79,
     "mbs" : 2
   },
-  "index" : 139,
+  "index" : 135,
   "mbs" : 0
 }, {
   "name" : "Dundee - St Johnstone",
@@ -2252,7 +2188,7 @@
     "bttsNo" : 1.93,
     "mbs" : 2
   },
-  "index" : 140,
+  "index" : 136,
   "mbs" : 0
 }, {
   "name" : "Kilmarnock - St Mirren",
@@ -2262,13 +2198,13 @@
     "ms1" : 2.51,
     "msX" : 3.07,
     "ms2" : 2.21,
-    "over25" : 1.59,
-    "under25" : 1.83,
-    "bttsYes" : 1.46,
-    "bttsNo" : 2.03,
+    "over25" : 1.56,
+    "under25" : 1.87,
+    "bttsYes" : 1.44,
+    "bttsNo" : 2.08,
     "mbs" : 2
   },
-  "index" : 141,
+  "index" : 137,
   "mbs" : 0
 }, {
   "name" : "Luton Town - Stockport",
@@ -2284,7 +2220,7 @@
     "bttsNo" : 2.01,
     "mbs" : 2
   },
-  "index" : 142,
+  "index" : 138,
   "mbs" : 0
 }, {
   "name" : "Millwall - Wrexham",
@@ -2300,7 +2236,7 @@
     "bttsNo" : 1.86,
     "mbs" : 1
   },
-  "index" : 143,
+  "index" : 139,
   "mbs" : 0
 }, {
   "name" : "Motherwell - Dundee Utd",
@@ -2316,7 +2252,7 @@
     "bttsNo" : 2.05,
     "mbs" : 2
   },
-  "index" : 144,
+  "index" : 140,
   "mbs" : 0
 }, {
   "name" : "Osnabruck - Bayern Münih",
@@ -2327,12 +2263,12 @@
     "msX" : 17.5,
     "ms2" : 0.0,
     "over25" : 0.0,
-    "under25" : 5.76,
+    "under25" : 5.81,
     "bttsYes" : 0.0,
     "bttsNo" : 0.0,
     "mbs" : 2
   },
-  "index" : 145,
+  "index" : 141,
   "mbs" : 0
 }, {
   "name" : "Queens Park Rangers - Cardiff City",
@@ -2348,7 +2284,7 @@
     "bttsNo" : 2.0,
     "mbs" : 1
   },
-  "index" : 146,
+  "index" : 142,
   "mbs" : 0
 }, {
   "name" : "West Bromwich - Charlton",
@@ -2358,13 +2294,13 @@
     "ms1" : 1.62,
     "msX" : 3.2,
     "ms2" : 4.04,
-    "over25" : 1.86,
-    "under25" : 1.57,
-    "bttsYes" : 1.77,
-    "bttsNo" : 1.64,
+    "over25" : 1.83,
+    "under25" : 1.58,
+    "bttsYes" : 1.74,
+    "bttsNo" : 1.66,
     "mbs" : 1
   },
-  "index" : 147,
+  "index" : 143,
   "mbs" : 0
 }, {
   "name" : "Wigan Athletic - MK Dons",
@@ -2380,7 +2316,7 @@
     "bttsNo" : 1.75,
     "mbs" : 2
   },
-  "index" : 148,
+  "index" : 144,
   "mbs" : 0
 }, {
   "name" : "Asd Team Altamura - SS Sambenedettese Calcio",
@@ -2396,7 +2332,7 @@
     "bttsNo" : 1.58,
     "mbs" : 3
   },
-  "index" : 149,
+  "index" : 145,
   "mbs" : 0
 }, {
   "name" : "Burnley - Middlesbrough",
@@ -2412,7 +2348,7 @@
     "bttsNo" : 2.07,
     "mbs" : 1
   },
-  "index" : 150,
+  "index" : 146,
   "mbs" : 0
 }, {
   "name" : "CSD Macara - Manta FC",
@@ -2428,7 +2364,7 @@
     "bttsNo" : 1.44,
     "mbs" : 3
   },
-  "index" : 151,
+  "index" : 147,
   "mbs" : 0
 }, {
   "name" : "Calcio Catania - AC Savoia 1908",
@@ -2444,7 +2380,7 @@
     "bttsNo" : 1.79,
     "mbs" : 3
   },
-  "index" : 152,
+  "index" : 148,
   "mbs" : 0
 }, {
   "name" : "Falkirk - Rangers",
@@ -2460,7 +2396,7 @@
     "bttsNo" : 1.96,
     "mbs" : 2
   },
-  "index" : 153,
+  "index" : 149,
   "mbs" : 0
 }, {
   "name" : "Floriana - Gzira United",
@@ -2476,7 +2412,7 @@
     "bttsNo" : 1.6,
     "mbs" : 3
   },
-  "index" : 154,
+  "index" : 150,
   "mbs" : 0
 }, {
   "name" : "Reading - Mansfield",
@@ -2492,7 +2428,7 @@
     "bttsNo" : 1.93,
     "mbs" : 2
   },
-  "index" : 155,
+  "index" : 151,
   "mbs" : 0
 }, {
   "name" : "Spezia - Vado FC",
@@ -2508,7 +2444,7 @@
     "bttsNo" : 1.65,
     "mbs" : 3
   },
-  "index" : 156,
+  "index" : 152,
   "mbs" : 0
 }, {
   "name" : "PAOK - Ofi Crete",
@@ -2524,7 +2460,7 @@
     "bttsNo" : 1.6,
     "mbs" : 3
   },
-  "index" : 157,
+  "index" : 153,
   "mbs" : 0
 }, {
   "name" : "Liverpool Montevideo - Boston River",
@@ -2540,7 +2476,7 @@
     "bttsNo" : 1.65,
     "mbs" : 3
   },
-  "index" : 158,
+  "index" : 154,
   "mbs" : 0
 }, {
   "name" : "Zamora - Depo Tachira",
@@ -2556,6 +2492,6 @@
     "bttsNo" : 1.61,
     "mbs" : 3
   },
-  "index" : 159,
+  "index" : 155,
   "mbs" : 0
 } ]
