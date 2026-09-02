@@ -1,0 +1,32 @@
+[ {
+  "homeTeam" : "Badalona",
+  "awayTeam" : "Manresa",
+  "homeStats" : {
+    "avgPointsFor" : 84.16666666666667,
+    "avgPointsAgainst" : 86.33333333333333,
+    "avgTotalPoints" : 170.5,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 94.66666666666667,
+    "avgPointsAgainst" : 86.5,
+    "avgTotalPoints" : 181.16666666666666,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.39,
+    "ms2" : 1.92,
+    "h1Value" : -3.5,
+    "h2Value" : 3.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 76.16666666666667,
+  "avgPointsForAway" : 83.16666666666667,
+  "h2hAvgTotalPoints" : 159.33333333333334
+} ]

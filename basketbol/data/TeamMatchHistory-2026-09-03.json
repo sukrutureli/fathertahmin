@@ -1,0 +1,172 @@
+[ {
+  "teamName" : "Badalona - Manresa",
+  "teamEv" : "Badalona",
+  "teamDep" : "Manresa",
+  "detailUrl" : "https://istatistik.nesine.com/3192945",
+  "odds" : {
+    "ms1" : 1.39,
+    "ms2" : 1.92,
+    "h1Value" : -3.5,
+    "h2Value" : 3.5,
+    "h1" : 1.65,
+    "h2" : 1.58,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Manresa",
+    "awayTeam" : "Badalona",
+    "homeScore" : 87,
+    "awayScore" : 77,
+    "matchDate" : "25/26",
+    "tournament" : "İSP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Badalona",
+    "awayTeam" : "Manresa",
+    "homeScore" : 83,
+    "awayScore" : 79,
+    "matchDate" : "25/26",
+    "tournament" : "İSP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Badalona",
+    "awayTeam" : "Manresa",
+    "homeScore" : 85,
+    "awayScore" : 92,
+    "matchDate" : "24/25",
+    "tournament" : "İSP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Manresa",
+    "awayTeam" : "Badalona",
+    "homeScore" : 87,
+    "awayScore" : 72,
+    "matchDate" : "24/25",
+    "tournament" : "İSP",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Badalona",
+    "awayTeam" : "Manresa",
+    "homeScore" : 59,
+    "awayScore" : 71,
+    "matchDate" : "2024",
+    "tournament" : "HAZ",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Badalona",
+    "awayTeam" : "Manresa",
+    "homeScore" : 81,
+    "awayScore" : 83,
+    "matchDate" : "23/24",
+    "tournament" : "İSP",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Badalona",
+    "awayTeam" : "Valencia",
+    "homeScore" : 75,
+    "awayScore" : 87,
+    "matchDate" : "14 Haz",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Valencia",
+    "awayTeam" : "Badalona",
+    "homeScore" : 90,
+    "awayScore" : 76,
+    "matchDate" : "12 Haz",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Valencia",
+    "awayTeam" : "Badalona",
+    "homeScore" : 105,
+    "awayScore" : 105,
+    "matchDate" : "10 Haz",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Baskonia",
+    "awayTeam" : "Badalona",
+    "homeScore" : 88,
+    "awayScore" : 96,
+    "matchDate" : "7 Haz",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Badalona",
+    "awayTeam" : "Baskonia",
+    "homeScore" : 82,
+    "awayScore" : 63,
+    "matchDate" : "5 Haz",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Baskonia",
+    "awayTeam" : "Badalona",
+    "homeScore" : 85,
+    "awayScore" : 71,
+    "matchDate" : "3 Haz",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Manresa",
+    "awayTeam" : "Cheshire P.",
+    "homeScore" : 113,
+    "awayScore" : 91,
+    "matchDate" : "30 Ağu",
+    "tournament" : "HAZ",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Manresa",
+    "awayTeam" : "Real Madrid",
+    "homeScore" : 94,
+    "awayScore" : 87,
+    "matchDate" : "29 May",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Gran Canaria",
+    "awayTeam" : "Manresa",
+    "homeScore" : 80,
+    "awayScore" : 87,
+    "matchDate" : "23 May",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Manresa",
+    "awayTeam" : "Zaragoza",
+    "homeScore" : 101,
+    "awayScore" : 83,
+    "matchDate" : "16 May",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "B. Girona",
+    "awayTeam" : "Manresa",
+    "homeScore" : 74,
+    "awayScore" : 79,
+    "matchDate" : "12 May",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "BC Andorra",
+    "awayTeam" : "Manresa",
+    "homeScore" : 104,
+    "awayScore" : 94,
+    "matchDate" : "10 May",
+    "tournament" : "İSP",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms2" : 0.6833333333333333,
+  "ms1" : 0.24166666666666664,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.4666666666666667,
+  "alt" : 0.5333333333333333,
+  "max" : "MS2"
+} ]
