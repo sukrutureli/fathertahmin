@@ -1,0 +1,156 @@
+[ {
+  "homeTeam" : "Saga Balloon",
+  "awayTeam" : "Goyang",
+  "homeStats" : {
+    "avgPointsFor" : 85.83333333333333,
+    "avgPointsAgainst" : 77.33333333333333,
+    "avgTotalPoints" : 163.16666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 78.5,
+    "avgPointsAgainst" : 82.5,
+    "avgTotalPoints" : 161.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.27,
+    "ms2" : 2.2,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 155.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 0.0,
+  "avgPointsForAway" : 0.0,
+  "h2hAvgTotalPoints" : 0.0
+}, {
+  "homeTeam" : "Mali",
+  "awayTeam" : "İspanya",
+  "homeStats" : {
+    "avgPointsFor" : 75.33333333333333,
+    "avgPointsAgainst" : 82.33333333333333,
+    "avgTotalPoints" : 157.66666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 82.16666666666667,
+    "avgPointsAgainst" : 63.333333333333336,
+    "avgTotalPoints" : 145.5,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 13.5,
+    "ms2" : 0.0,
+    "h1Value" : 23.5,
+    "h2Value" : -23.5,
+    "h1" : 1.59,
+    "h2" : 1.64,
+    "hOverUnderValue" : 144.5,
+    "over" : 1.6,
+    "under" : 1.63
+  },
+  "avgPointsForHome" : 47.0,
+  "avgPointsForAway" : 88.5,
+  "h2hAvgTotalPoints" : 135.5
+}, {
+  "homeTeam" : "Hanoi Buffal",
+  "awayTeam" : "Ho Chi Minh",
+  "homeStats" : {
+    "avgPointsFor" : 103.16666666666667,
+    "avgPointsAgainst" : 84.16666666666667,
+    "avgTotalPoints" : 187.33333333333334,
+    "ppg" : 2.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 85.66666666666667,
+    "avgPointsAgainst" : 78.83333333333333,
+    "avgTotalPoints" : 164.5,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.01,
+    "h1Value" : -17.5,
+    "h2Value" : 17.5,
+    "h1" : 1.61,
+    "h2" : 1.62,
+    "hOverUnderValue" : 179.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 96.0,
+  "avgPointsForAway" : 81.83333333333333,
+  "h2hAvgTotalPoints" : 177.83333333333334
+}, {
+  "homeTeam" : "Almanya",
+  "awayTeam" : "Japonya",
+  "homeStats" : {
+    "avgPointsFor" : 58.833333333333336,
+    "avgPointsAgainst" : 71.5,
+    "avgTotalPoints" : 130.33333333333334,
+    "ppg" : 1.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 79.66666666666667,
+    "avgPointsAgainst" : 75.33333333333333,
+    "avgTotalPoints" : 155.0,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.25,
+    "ms2" : 2.26,
+    "h1Value" : -4.5,
+    "h2Value" : 4.5,
+    "h1" : 1.57,
+    "h2" : 1.66,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 75.0,
+  "avgPointsForAway" : 64.0,
+  "h2hAvgTotalPoints" : 139.0
+}, {
+  "homeTeam" : "Porto",
+  "awayTeam" : "Sporting CP",
+  "homeStats" : {
+    "avgPointsFor" : 82.83333333333333,
+    "avgPointsAgainst" : 81.0,
+    "avgTotalPoints" : 163.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 85.66666666666667,
+    "avgPointsAgainst" : 79.0,
+    "avgTotalPoints" : 164.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.26,
+    "ms2" : 1.25,
+    "h1Value" : 4.5,
+    "h2Value" : -4.5,
+    "h1" : 1.64,
+    "h2" : 1.59,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 83.33333333333333,
+  "avgPointsForAway" : 80.33333333333333,
+  "h2hAvgTotalPoints" : 163.66666666666666
+} ]

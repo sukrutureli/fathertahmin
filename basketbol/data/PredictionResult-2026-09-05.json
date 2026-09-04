@@ -1,0 +1,61 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Saga Balloon",
+  "awayTeam" : "Goyang",
+  "pHome" : 0.8753660468624536,
+  "pDraw" : 0.0,
+  "pAway" : 0.12463395313754638,
+  "pOver25" : 0.7221668502298526,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.9331604056147659,
+  "scoreline" : "87-77"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Mali",
+  "awayTeam" : "İspanya",
+  "pHome" : 0.22515145823991556,
+  "pDraw" : 0.0,
+  "pAway" : 0.7748485417600844,
+  "pOver25" : 0.7329644691352339,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Üst",
+  "confidence" : 0.8070958144375204,
+  "scoreline" : "74-80"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Hanoi Buffal",
+  "awayTeam" : "Ho Chi Minh",
+  "pHome" : 0.8940524730716443,
+  "pDraw" : 0.0,
+  "pAway" : 0.10594752692835574,
+  "pOver25" : 0.48763039018342613,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.9312309586786607,
+  "scoreline" : "95-84"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Almanya",
+  "awayTeam" : "Japonya",
+  "pHome" : 0.2508075389200921,
+  "pDraw" : 0.0,
+  "pAway" : 0.7491924610799079,
+  "pOver25" : 0.2926106517658284,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.779933290454105,
+  "scoreline" : "69-75"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Porto",
+  "awayTeam" : "Sporting CP",
+  "pHome" : 0.5522958157666968,
+  "pDraw" : 0.0,
+  "pAway" : 0.4477041842333031,
+  "pOver25" : 0.5751866167036019,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.5919909521613622,
+  "scoreline" : "84-83"
+} ]
