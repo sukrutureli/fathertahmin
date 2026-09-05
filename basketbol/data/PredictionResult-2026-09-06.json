@@ -1,0 +1,73 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Türkiye",
+  "awayTeam" : "Avustralya",
+  "pHome" : 0.4139443634230609,
+  "pDraw" : 0.0,
+  "pAway" : 0.5860556365769392,
+  "pOver25" : 0.35421043734724844,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.6199264498963446,
+  "scoreline" : "69-71"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Saigon Heat",
+  "awayTeam" : "Nha Trang D.",
+  "pHome" : 0.21581508522849852,
+  "pDraw" : 0.0,
+  "pAway" : 0.7841849147715014,
+  "pOver25" : 0.521439656712987,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Sınırda",
+  "confidence" : 0.8256562983506188,
+  "scoreline" : "83-90"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Çin",
+  "awayTeam" : "Çekya",
+  "pHome" : 0.6391869281088238,
+  "pDraw" : 0.0,
+  "pAway" : 0.3608130718911761,
+  "pOver25" : 0.46495480965827857,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.6650777190966707,
+  "scoreline" : "75-72"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Portoriko",
+  "awayTeam" : "Belçika",
+  "pHome" : 0.22183310063896172,
+  "pDraw" : 0.0,
+  "pAway" : 0.7781668993610382,
+  "pOver25" : 0.17261362449564688,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.8191509373858563,
+  "scoreline" : "64-71"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Manresa",
+  "awayTeam" : "Lleida",
+  "pHome" : 0.892526759296082,
+  "pDraw" : 0.0,
+  "pAway" : 0.10747324070391795,
+  "pOver25" : 0.6307750437758555,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.95,
+  "scoreline" : "97-86"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "İtalya",
+  "awayTeam" : "ABD",
+  "pHome" : 0.19282054590671296,
+  "pDraw" : 0.0,
+  "pAway" : 0.8071794540932871,
+  "pOver25" : 0.31220132221673136,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.8348439846934546,
+  "scoreline" : "70-77"
+} ]
