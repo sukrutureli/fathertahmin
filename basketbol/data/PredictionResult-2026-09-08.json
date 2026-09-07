@@ -1,0 +1,37 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Macaristan",
+  "awayTeam" : "Japonya",
+  "pHome" : 0.7535336044870995,
+  "pDraw" : 0.0,
+  "pAway" : 0.24646639551290045,
+  "pOver25" : 0.5412056464094415,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.7736443736289649,
+  "scoreline" : "79-73"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Spartak Subo",
+  "awayTeam" : "Szolnok.Olaj",
+  "pHome" : 0.8189073876829365,
+  "pDraw" : 0.0,
+  "pAway" : 0.18109261231706358,
+  "pOver25" : 0.6583910299613387,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.8520944122217413,
+  "scoreline" : "85-78"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Almanya",
+  "awayTeam" : "Güney Kore",
+  "pHome" : 0.8076334000450748,
+  "pDraw" : 0.0,
+  "pAway" : 0.19236659995492522,
+  "pOver25" : 0.357663812309011,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.8400626514691649,
+  "scoreline" : "76-69"
+} ]
