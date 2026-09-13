@@ -1,0 +1,61 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Bahreyn",
+  "awayTeam" : "Kazakistan",
+  "pHome" : 0.8973459192168038,
+  "pDraw" : 0.0,
+  "pAway" : 0.10265408078319616,
+  "pOver25" : 0.1310805679563763,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.9431380807312421,
+  "scoreline" : "80-69"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Çin",
+  "awayTeam" : "Filipinler",
+  "pHome" : 0.921235572007038,
+  "pDraw" : 0.0,
+  "pAway" : 0.07876442799296202,
+  "pOver25" : 0.372491523205693,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.95,
+  "scoreline" : "88-75"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "BK Opava",
+  "awayTeam" : "Dziki Warsha",
+  "pHome" : 0.6514842542365201,
+  "pDraw" : 0.0,
+  "pAway" : 0.3485157457634799,
+  "pOver25" : 0.6396835292177989,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.675120244782556,
+  "scoreline" : "89-86"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Breogan",
+  "awayTeam" : "Rilski",
+  "pHome" : 0.7759786633754493,
+  "pDraw" : 0.0,
+  "pAway" : 0.22402133662455065,
+  "pOver25" : 0.8690547491520604,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.7985088626740268,
+  "scoreline" : "99-92"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Wurzburg",
+  "awayTeam" : "Manchester B",
+  "pHome" : 0.7607333094285935,
+  "pDraw" : 0.0,
+  "pAway" : 0.23926669057140648,
+  "pOver25" : 0.532461194548822,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Sınırda",
+  "confidence" : 0.7909119379223322,
+  "scoreline" : "88-82"
+} ]
