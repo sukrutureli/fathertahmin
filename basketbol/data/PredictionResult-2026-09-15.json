@@ -1,0 +1,73 @@
+[ {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Freseros de",
+  "awayTeam" : "Soles De Mex",
+  "pHome" : 0.4481407707022641,
+  "pDraw" : 0.0,
+  "pAway" : 0.5518592292977359,
+  "pOver25" : 0.5039455287977741,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Sınırda",
+  "confidence" : 0.5916551770975712,
+  "scoreline" : "83-84"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Promitheas",
+  "awayTeam" : "BC Vienna",
+  "pHome" : 0.38067503250257984,
+  "pDraw" : 0.0,
+  "pAway" : 0.6193249674974202,
+  "pOver25" : 0.6558327272638951,
+  "pBttsYes" : 0.0,
+  "pick" : "MS2 | Üst",
+  "confidence" : 0.6476620716027184,
+  "scoreline" : "86-88"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Manisa Bask.",
+  "awayTeam" : "Kolossos",
+  "pHome" : 0.8572121870741186,
+  "pDraw" : 0.0,
+  "pAway" : 0.14278781292588139,
+  "pOver25" : 0.8356556543998146,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.9086818363784646,
+  "scoreline" : "92-83"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Benfica L.",
+  "awayTeam" : "Geneve",
+  "pHome" : 0.5794690064171195,
+  "pDraw" : 0.0,
+  "pAway" : 0.4205309935828805,
+  "pOver25" : 0.5605529807444153,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.6141454410446032,
+  "scoreline" : "84-82"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Bilbao",
+  "awayTeam" : "Baskonia",
+  "pHome" : 0.8104378074419057,
+  "pDraw" : 0.0,
+  "pAway" : 0.18956219255809426,
+  "pOver25" : 0.40338304387738566,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Alt",
+  "confidence" : 0.8413218437642372,
+  "scoreline" : "91-83"
+}, {
+  "algorithm" : "BasketEnsembleModel",
+  "homeTeam" : "Rasta Vechta",
+  "awayTeam" : "Merkezefendi",
+  "pHome" : 0.7089544746793783,
+  "pDraw" : 0.0,
+  "pAway" : 0.2910455253206217,
+  "pOver25" : 0.7061528408255784,
+  "pBttsYes" : 0.0,
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.7287132737153892,
+  "scoreline" : "92-87"
+} ]
