@@ -1,19 +1,19 @@
 [ {
-  "homeTeam" : "-",
-  "awayTeam" : "-",
+  "homeTeam" : "L. Quilpue",
+  "awayTeam" : "Universidad",
   "homeStats" : {
-    "avgPointsFor" : 0.0,
-    "avgPointsAgainst" : 0.0,
-    "avgTotalPoints" : 0.0,
-    "ppg" : 0.0,
-    "empty" : true
+    "avgPointsFor" : 80.83333333333333,
+    "avgPointsAgainst" : 75.0,
+    "avgTotalPoints" : 155.83333333333334,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
   },
   "awayStats" : {
-    "avgPointsFor" : 0.0,
-    "avgPointsAgainst" : 0.0,
-    "avgTotalPoints" : 0.0,
-    "ppg" : 0.0,
-    "empty" : true
+    "avgPointsFor" : 88.66666666666667,
+    "avgPointsAgainst" : 75.66666666666667,
+    "avgTotalPoints" : 164.33333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
   },
   "odds" : {
     "ms1" : 0.0,
@@ -26,9 +26,9 @@
     "over" : 0.0,
     "under" : 0.0
   },
-  "avgPointsForHome" : 0.0,
-  "avgPointsForAway" : 0.0,
-  "h2hAvgTotalPoints" : 0.0
+  "avgPointsForHome" : 82.33333333333333,
+  "avgPointsForAway" : 84.0,
+  "h2hAvgTotalPoints" : 166.33333333333334
 }, {
   "homeTeam" : "Ürdün",
   "awayTeam" : "Güney Kore",
@@ -64,16 +64,16 @@
   "homeTeam" : "Dorados",
   "awayTeam" : "Calor",
   "homeStats" : {
-    "avgPointsFor" : 85.16666666666667,
-    "avgPointsAgainst" : 84.66666666666667,
-    "avgTotalPoints" : 169.83333333333334,
-    "ppg" : 1.5,
+    "avgPointsFor" : 89.83333333333333,
+    "avgPointsAgainst" : 85.0,
+    "avgTotalPoints" : 174.83333333333334,
+    "ppg" : 1.6666666666666667,
     "empty" : false
   },
   "awayStats" : {
-    "avgPointsFor" : 79.16666666666667,
-    "avgPointsAgainst" : 90.33333333333333,
-    "avgTotalPoints" : 169.5,
+    "avgPointsFor" : 85.66666666666667,
+    "avgPointsAgainst" : 90.66666666666667,
+    "avgTotalPoints" : 176.33333333333334,
     "ppg" : 1.1666666666666667,
     "empty" : false
   },
@@ -88,24 +88,24 @@
     "over" : 1.59,
     "under" : 1.64
   },
-  "avgPointsForHome" : 79.0,
-  "avgPointsForAway" : 80.5,
-  "h2hAvgTotalPoints" : 159.5
+  "avgPointsForHome" : 81.4,
+  "avgPointsForAway" : 82.2,
+  "h2hAvgTotalPoints" : 163.6
 }, {
   "homeTeam" : "Freseros de",
   "awayTeam" : "Soles De Mex",
   "homeStats" : {
-    "avgPointsFor" : 81.16666666666667,
-    "avgPointsAgainst" : 82.83333333333333,
-    "avgTotalPoints" : 164.0,
+    "avgPointsFor" : 77.66666666666667,
+    "avgPointsAgainst" : 83.66666666666667,
+    "avgTotalPoints" : 161.33333333333334,
     "ppg" : 1.3333333333333333,
     "empty" : false
   },
   "awayStats" : {
-    "avgPointsFor" : 85.66666666666667,
-    "avgPointsAgainst" : 78.16666666666667,
-    "avgTotalPoints" : 163.83333333333334,
-    "ppg" : 1.6666666666666667,
+    "avgPointsFor" : 88.66666666666667,
+    "avgPointsAgainst" : 75.66666666666667,
+    "avgTotalPoints" : 164.33333333333334,
+    "ppg" : 1.8333333333333333,
     "empty" : false
   },
   "odds" : {
@@ -119,24 +119,24 @@
     "over" : 1.6,
     "under" : 1.63
   },
-  "avgPointsForHome" : 76.66666666666667,
-  "avgPointsForAway" : 87.16666666666667,
-  "h2hAvgTotalPoints" : 163.83333333333334
+  "avgPointsForHome" : 75.66666666666667,
+  "avgPointsForAway" : 88.0,
+  "h2hAvgTotalPoints" : 163.66666666666666
 }, {
   "homeTeam" : "Lobos Platea",
   "awayTeam" : "Abejas",
   "homeStats" : {
-    "avgPointsFor" : 84.83333333333333,
-    "avgPointsAgainst" : 81.83333333333333,
-    "avgTotalPoints" : 166.66666666666666,
+    "avgPointsFor" : 83.66666666666667,
+    "avgPointsAgainst" : 81.66666666666667,
+    "avgTotalPoints" : 165.33333333333334,
     "ppg" : 1.5,
     "empty" : false
   },
   "awayStats" : {
-    "avgPointsFor" : 78.5,
-    "avgPointsAgainst" : 81.83333333333333,
-    "avgTotalPoints" : 160.33333333333334,
-    "ppg" : 1.3333333333333333,
+    "avgPointsFor" : 79.5,
+    "avgPointsAgainst" : 84.83333333333333,
+    "avgTotalPoints" : 164.33333333333334,
+    "ppg" : 1.1666666666666667,
     "empty" : false
   },
   "odds" : {
@@ -150,9 +150,9 @@
     "over" : 1.63,
     "under" : 1.6
   },
-  "avgPointsForHome" : 91.5,
-  "avgPointsForAway" : 92.0,
-  "h2hAvgTotalPoints" : 183.5
+  "avgPointsForHome" : 91.33333333333333,
+  "avgPointsForAway" : 90.33333333333333,
+  "h2hAvgTotalPoints" : 181.66666666666666
 }, {
   "homeTeam" : "Plateros",
   "awayTeam" : "Santos de Sa",
@@ -188,16 +188,16 @@
   "homeTeam" : "Fuerza Regia",
   "awayTeam" : "Mineros",
   "homeStats" : {
-    "avgPointsFor" : 92.16666666666667,
-    "avgPointsAgainst" : 85.16666666666667,
-    "avgTotalPoints" : 177.33333333333334,
+    "avgPointsFor" : 92.83333333333333,
+    "avgPointsAgainst" : 84.16666666666667,
+    "avgTotalPoints" : 177.0,
     "ppg" : 1.6666666666666667,
     "empty" : false
   },
   "awayStats" : {
-    "avgPointsFor" : 87.83333333333333,
-    "avgPointsAgainst" : 86.0,
-    "avgTotalPoints" : 173.83333333333334,
+    "avgPointsFor" : 87.66666666666667,
+    "avgPointsAgainst" : 85.5,
+    "avgTotalPoints" : 173.16666666666666,
     "ppg" : 1.5,
     "empty" : false
   },
@@ -212,9 +212,9 @@
     "over" : 1.58,
     "under" : 1.64
   },
-  "avgPointsForHome" : 84.0,
-  "avgPointsForAway" : 78.83333333333333,
-  "h2hAvgTotalPoints" : 162.83333333333334
+  "avgPointsForHome" : 86.66666666666667,
+  "avgPointsForAway" : 80.0,
+  "h2hAvgTotalPoints" : 166.66666666666666
 }, {
   "homeTeam" : "İran",
   "awayTeam" : "Bahreyn",

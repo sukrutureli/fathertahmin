@@ -205,6 +205,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.22499999999999998,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -216,8 +218,6 @@
   "yok" : 0.5416666666666666,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.22499999999999998,
   "max" : "Alt"
 }, {
   "teamName" : "U. Espanola - Temuco",
@@ -426,6 +426,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3666666666666667,
+  "ms2" : 0.39166666666666666,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -437,8 +439,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3666666666666667,
-  "ms2" : 0.39166666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Regatas - Recife",
@@ -647,6 +647,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4833333333333334,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -658,8 +660,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.4833333333333334,
-  "ms2" : 0.42500000000000004,
   "max" : "Üst"
 }, {
   "teamName" : "Chico - Alianza",
@@ -667,6 +667,17 @@
   "teamDep" : "Alianza",
   "originalMatchUrl" : "https://istatistik.nesine.com/3132163",
   "rekabetGecmisi" : [ {
+    "homeTeam" : "Chico",
+    "awayTeam" : "Alianza",
+    "homeScore" : 1,
+    "awayScore" : 2,
+    "matchDate" : "2026",
+    "tournament" : "KOL",
+    "season" : null,
+    "matchType" : "rekabet-gecmisi",
+    "originalUrl" : "https://istatistik.nesine.com/3132163/ozet",
+    "status" : "finished"
+  }, {
     "homeTeam" : "Alianza",
     "awayTeam" : "Chico",
     "homeScore" : 1,
@@ -724,6 +735,17 @@
   } ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Chico",
+    "awayTeam" : "Alianza",
+    "homeScore" : 1,
+    "awayScore" : 2,
+    "matchDate" : "16 Eyl",
+    "tournament" : "KOL",
+    "season" : null,
+    "matchType" : "son-maclari",
+    "originalUrl" : "https://istatistik.nesine.com/3132163/ozet",
+    "status" : "finished"
+  }, {
+    "homeTeam" : "Chico",
     "awayTeam" : "I. Medellin",
     "homeScore" : 2,
     "awayScore" : 1,
@@ -777,19 +799,19 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3132163/ozet",
     "status" : "finished"
-  }, {
-    "homeTeam" : "Santa Fe",
-    "awayTeam" : "Chico",
-    "homeScore" : 2,
-    "awayScore" : 0,
-    "matchDate" : "8 Ağu",
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Chico",
+    "awayTeam" : "Alianza",
+    "homeScore" : 1,
+    "awayScore" : 2,
+    "matchDate" : "16 Eyl",
     "tournament" : "KOL",
     "season" : null,
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3132163/ozet",
     "status" : "finished"
-  } ],
-  "sonMaclarAway" : [ {
+  }, {
     "homeTeam" : "Alianza",
     "awayTeam" : "Atl. Junior",
     "homeScore" : 1,
@@ -844,32 +866,21 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3132163/ozet",
     "status" : "finished"
-  }, {
-    "homeTeam" : "Alianza",
-    "awayTeam" : "D. Pereira",
-    "homeScore" : 0,
-    "awayScore" : 0,
-    "matchDate" : "22 Ağu",
-    "tournament" : "KOL",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/3132163/ozet",
-    "status" : "finished"
   } ],
-  "totalMatches" : 17,
+  "totalMatches" : 18,
+  "ms1" : 0.4833333333333333,
+  "ms2" : 0.35,
   "winCount" : 0,
-  "drawCount" : 4,
+  "drawCount" : 3,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
-  "var" : 0.265,
-  "ust" : 0.33999999999999997,
-  "ms0" : 0.245,
-  "alt" : 0.66,
-  "yok" : 0.735,
-  "lossCount" : 13,
+  "var" : 0.42500000000000004,
+  "ust" : 0.5,
+  "ms0" : 0.16666666666666674,
+  "alt" : 0.5,
+  "yok" : 0.575,
+  "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.49,
-  "ms2" : 0.265,
   "max" : "Yok"
 }, {
   "teamName" : "EC Bahia (K) - Corinthians",
@@ -1067,6 +1078,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.38,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -1078,8 +1091,6 @@
   "yok" : 0.245,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.38,
   "max" : "Var"
 }, {
   "teamName" : "Sao Paulo - Boca Juniors",
@@ -1233,6 +1244,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.25,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -1244,8 +1257,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.5,
   "max" : "Alt"
 }, {
   "teamName" : "Dorados - Cancun",
@@ -1454,6 +1465,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -1465,8 +1478,6 @@
   "yok" : 0.35,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.42500000000000004,
   "max" : "Üst"
 }, {
   "teamName" : "Puebla - Toluca",
@@ -1675,6 +1686,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666667,
+  "ms2" : 0.7250000000000001,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -1686,8 +1699,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666667,
-  "ms2" : 0.7250000000000001,
   "max" : "MS2"
 }, {
   "teamName" : "BAE - İran",
@@ -1841,6 +1852,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.25,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -1852,16 +1865,36 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.3333333333333333,
   "max" : "Yok"
 }, {
   "teamName" : "Tayland - Kırgızistan",
   "teamEv" : "Tayland",
   "teamDep" : "Kırgızistan",
   "originalMatchUrl" : "https://istatistik.nesine.com/3161332",
-  "rekabetGecmisi" : [ ],
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Tayland",
+    "awayTeam" : "Kırgızistan",
+    "homeScore" : 3,
+    "awayScore" : 2,
+    "matchDate" : "2026",
+    "tournament" : "ASY",
+    "season" : null,
+    "matchType" : "rekabet-gecmisi",
+    "originalUrl" : "https://istatistik.nesine.com/3161332/ozet",
+    "status" : "finished"
+  } ],
   "sonMaclarHome" : [ {
+    "homeTeam" : "Tayland",
+    "awayTeam" : "Kırgızistan",
+    "homeScore" : 3,
+    "awayScore" : 2,
+    "matchDate" : "16 Eyl",
+    "tournament" : "ASY",
+    "season" : null,
+    "matchType" : "son-maclari",
+    "originalUrl" : "https://istatistik.nesine.com/3161332/ozet",
+    "status" : "finished"
+  }, {
     "homeTeam" : "Tayland",
     "awayTeam" : "BAE",
     "homeScore" : 2,
@@ -1916,19 +1949,19 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3161332/ozet",
     "status" : "finished"
-  }, {
+  } ],
+  "sonMaclarAway" : [ {
     "homeTeam" : "Tayland",
-    "awayTeam" : "Irak",
-    "homeScore" : 1,
-    "awayScore" : 1,
-    "matchDate" : "11 Oca",
-    "tournament" : "U23AS",
+    "awayTeam" : "Kırgızistan",
+    "homeScore" : 3,
+    "awayScore" : 2,
+    "matchDate" : "16 Eyl",
+    "tournament" : "ASY",
     "season" : null,
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3161332/ozet",
     "status" : "finished"
-  } ],
-  "sonMaclarAway" : [ {
+  }, {
     "homeTeam" : "Ürdün",
     "awayTeam" : "Kırgızistan",
     "homeScore" : 1,
@@ -1983,32 +2016,21 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3161332/ozet",
     "status" : "finished"
-  }, {
-    "homeTeam" : "Kırgızistan",
-    "awayTeam" : "Özbekistan",
-    "homeScore" : 2,
-    "awayScore" : 2,
-    "matchDate" : "6 Eyl",
-    "tournament" : "U23",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/3161332/ozet",
-    "status" : "finished"
   } ],
-  "totalMatches" : 12,
+  "totalMatches" : 13,
+  "ms1" : 0.5,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
-  "drawCount" : 4,
+  "drawCount" : 2,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "var" : 0.5833333333333333,
-  "ust" : 0.5833333333333333,
-  "ms0" : 0.3333333333333334,
-  "alt" : 0.41666666666666674,
+  "ust" : 0.6666666666666666,
+  "ms0" : 0.16666666666666669,
+  "alt" : 0.33333333333333337,
   "yok" : 0.41666666666666674,
-  "lossCount" : 8,
+  "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Borneo S. - Dewa Utd",
@@ -2217,6 +2239,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.44166666666666665,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -2228,16 +2252,36 @@
   "yok" : 0.6499999999999999,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.44166666666666665,
-  "ms2" : 0.4083333333333333,
   "max" : "Yok"
 }, {
   "teamName" : "Seul - Persib B.",
   "teamEv" : "Seul",
   "teamDep" : "Persib B.",
   "originalMatchUrl" : "https://istatistik.nesine.com/3166341",
-  "rekabetGecmisi" : [ ],
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Seul",
+    "awayTeam" : "Persib B.",
+    "homeScore" : 0,
+    "awayScore" : 1,
+    "matchDate" : "26/27",
+    "tournament" : "AFC",
+    "season" : null,
+    "matchType" : "rekabet-gecmisi",
+    "originalUrl" : "https://istatistik.nesine.com/3166341/ozet",
+    "status" : "finished"
+  } ],
   "sonMaclarHome" : [ {
+    "homeTeam" : "Seul",
+    "awayTeam" : "Persib B.",
+    "homeScore" : 0,
+    "awayScore" : 1,
+    "matchDate" : "16 Eyl",
+    "tournament" : "AFC",
+    "season" : null,
+    "matchType" : "son-maclari",
+    "originalUrl" : "https://istatistik.nesine.com/3166341/ozet",
+    "status" : "finished"
+  }, {
     "homeTeam" : "Jeonbuk Hm",
     "awayTeam" : "Seul",
     "homeScore" : 1,
@@ -2292,19 +2336,19 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3166341/ozet",
     "status" : "finished"
-  }, {
-    "homeTeam" : "Anyang",
-    "awayTeam" : "Seul",
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Seul",
+    "awayTeam" : "Persib B.",
     "homeScore" : 0,
-    "awayScore" : 7,
-    "matchDate" : "22 Ağu",
-    "tournament" : "GKL1",
+    "awayScore" : 1,
+    "matchDate" : "16 Eyl",
+    "tournament" : "AFC",
     "season" : null,
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3166341/ozet",
     "status" : "finished"
-  } ],
-  "sonMaclarAway" : [ {
+  }, {
     "homeTeam" : "P. Jakarta",
     "awayTeam" : "Persib B.",
     "homeScore" : 2,
@@ -2359,39 +2403,39 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3166341/ozet",
     "status" : "finished"
-  }, {
-    "homeTeam" : "P. Jakarta",
-    "awayTeam" : "Persib B.",
-    "homeScore" : 1,
-    "awayScore" : 2,
-    "matchDate" : "10 May",
-    "tournament" : "END",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/3166341/ozet",
-    "status" : "finished"
   } ],
-  "totalMatches" : 12,
+  "totalMatches" : 13,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
-  "var" : 0.5,
-  "ust" : 0.5833333333333333,
+  "var" : 0.41666666666666663,
+  "ust" : 0.41666666666666663,
   "ms0" : 0.08333333333333337,
-  "alt" : 0.41666666666666674,
-  "yok" : 0.5,
-  "lossCount" : 11,
+  "alt" : 0.5833333333333334,
+  "yok" : 0.5833333333333334,
+  "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.41666666666666663,
-  "max" : "Üst"
+  "max" : "Alt"
 }, {
   "teamName" : "Hamburg II - St. Pauli II",
   "teamEv" : "Hamburg II",
   "teamDep" : "St. Pauli II",
   "originalMatchUrl" : "https://istatistik.nesine.com/3132388",
   "rekabetGecmisi" : [ {
+    "homeTeam" : "Hamburg II",
+    "awayTeam" : "St. Pauli II",
+    "homeScore" : 0,
+    "awayScore" : 3,
+    "matchDate" : "26/27",
+    "tournament" : "ALMK",
+    "season" : null,
+    "matchType" : "rekabet-gecmisi",
+    "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
+    "status" : "finished"
+  }, {
     "homeTeam" : "St. Pauli II",
     "awayTeam" : "Hamburg II",
     "homeScore" : 1,
@@ -2446,19 +2490,19 @@
     "matchType" : "rekabet-gecmisi",
     "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
     "status" : "finished"
-  }, {
-    "homeTeam" : "St. Pauli II",
-    "awayTeam" : "Hamburg II",
-    "homeScore" : 0,
-    "awayScore" : 1,
-    "matchDate" : "23/24",
-    "tournament" : "ALMK",
-    "season" : null,
-    "matchType" : "rekabet-gecmisi",
-    "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
-    "status" : "finished"
   } ],
   "sonMaclarHome" : [ {
+    "homeTeam" : "Hamburg II",
+    "awayTeam" : "St. Pauli II",
+    "homeScore" : 0,
+    "awayScore" : 3,
+    "matchDate" : "16 Eyl",
+    "tournament" : "ALMK",
+    "season" : null,
+    "matchType" : "son-maclari",
+    "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
+    "status" : "finished"
+  }, {
     "homeTeam" : "SC Weiche F.",
     "awayTeam" : "Hamburg II",
     "homeScore" : 4,
@@ -2513,19 +2557,19 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
     "status" : "finished"
-  }, {
+  } ],
+  "sonMaclarAway" : [ {
     "homeTeam" : "Hamburg II",
-    "awayTeam" : "Drochtersen",
-    "homeScore" : 1,
-    "awayScore" : 4,
-    "matchDate" : "16 Ağu",
+    "awayTeam" : "St. Pauli II",
+    "homeScore" : 0,
+    "awayScore" : 3,
+    "matchDate" : "16 Eyl",
     "tournament" : "ALMK",
     "season" : null,
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
     "status" : "finished"
-  } ],
-  "sonMaclarAway" : [ {
+  }, {
     "homeTeam" : "St. Pauli II",
     "awayTeam" : "Norderstedt",
     "homeScore" : 5,
@@ -2580,32 +2624,21 @@
     "matchType" : "son-maclari",
     "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
     "status" : "finished"
-  }, {
-    "homeTeam" : "Jeddeloh",
-    "awayTeam" : "St. Pauli II",
-    "homeScore" : 2,
-    "awayScore" : 0,
-    "matchDate" : "12 Ağu",
-    "tournament" : "ALMK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/3132388/ozet",
-    "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3666666666666667,
+  "ms2" : 0.5416666666666666,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
-  "var" : 0.5916666666666667,
-  "ust" : 0.725,
+  "var" : 0.5166666666666666,
+  "ust" : 0.8166666666666667,
   "ms0" : 0.09166666666666667,
-  "alt" : 0.275,
-  "yok" : 0.4083333333333333,
+  "alt" : 0.18333333333333335,
+  "yok" : 0.4833333333333334,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.45833333333333337,
-  "ms2" : 0.44999999999999996,
   "max" : "Üst"
 }, {
   "teamName" : "Jeonbuk Hm - Kashiwa",
@@ -2814,6 +2847,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.425,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -2825,8 +2860,6 @@
   "yok" : 0.5,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.425,
   "max" : "Alt"
 }, {
   "teamName" : "Çin - Kuzey Kore",
@@ -2991,6 +3024,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.3,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -3002,8 +3037,6 @@
   "yok" : 0.5,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.35,
   "max" : "Alt"
 }, {
   "teamName" : "Cordoba - Sevilla",
@@ -3168,6 +3201,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.15,
+  "ms2" : 0.725,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -3179,8 +3214,6 @@
   "yok" : 0.725,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.725,
   "max" : "MS2"
 }, {
   "teamName" : "Japonya - Hong Kong",
@@ -3345,6 +3378,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.7749999999999999,
+  "ms2" : 0.15,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -3356,8 +3391,6 @@
   "yok" : 0.925,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.7749999999999999,
-  "ms2" : 0.15,
   "max" : "Yok"
 }, {
   "teamName" : "Cadiz U19 - Atletico Mel",
@@ -3456,6 +3489,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 8,
+  "ms1" : 0.25,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -3467,8 +3502,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Chainat - Pattaya Dol.",
@@ -3677,6 +3710,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -3688,8 +3723,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Uttaradit - Nongbua P.",
@@ -3821,6 +3854,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 11,
+  "ms1" : 0.35,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -3832,8 +3867,6 @@
   "yok" : 0.4833333333333333,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.35,
   "max" : "Üst"
 }, {
   "teamName" : "Nakhon P. - Kanchanaburi",
@@ -3987,6 +4020,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -3998,8 +4033,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.25,
   "max" : "Yok"
 }, {
   "teamName" : "Mahasarakham - Nakhon",
@@ -4153,6 +4186,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -4164,8 +4199,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.5,
   "max" : "Yok"
 }, {
   "teamName" : "Niki Volou - Asteras",
@@ -4330,6 +4363,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.325,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -4341,8 +4376,6 @@
   "yok" : 0.625,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.325,
   "max" : "Alt"
 }, {
   "teamName" : "Viettel - Melbourne V.",
@@ -4485,6 +4518,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -4496,8 +4531,6 @@
   "yok" : 0.75,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "Port - Vissel Kobe",
@@ -4640,6 +4673,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.4166666666666667,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -4651,8 +4686,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.4166666666666667,
   "max" : "Üst"
 }, {
   "teamName" : "Karvan Y. - S. Zakatala",
@@ -4861,6 +4894,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.4833333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -4872,8 +4907,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.4833333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Yenisey K. - Arsenal Tula",
@@ -5082,6 +5115,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.25833333333333336,
+  "ms2" : 0.35000000000000003,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -5093,8 +5128,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.25833333333333336,
-  "ms2" : 0.35000000000000003,
   "max" : "Üst"
 }, {
   "teamName" : "AS Kigali - Al Hilal Omd",
@@ -5259,6 +5292,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.55,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -5270,8 +5305,6 @@
   "yok" : 0.3500000000000001,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.55,
   "max" : "Var"
 }, {
   "teamName" : "Arjantin - G. Kore",
@@ -5414,6 +5447,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5833333333333333,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -5425,8 +5460,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333333,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "Brezilya - ABD",
@@ -5580,6 +5613,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -5591,8 +5626,6 @@
   "yok" : 0.5,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "L. Municipal - Uganda Polic",
@@ -5779,6 +5812,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.4,
+  "ms2" : 0.32499999999999996,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -5790,8 +5825,6 @@
   "yok" : 0.725,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.4,
-  "ms2" : 0.32499999999999996,
   "max" : "Alt"
 }, {
   "teamName" : "Mbarara - Gadaffi",
@@ -6000,6 +6033,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.44166666666666665,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -6011,8 +6046,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.44166666666666665,
   "max" : "Alt"
 }, {
   "teamName" : "Terengganu - Brunei DPMM",
@@ -6188,6 +6221,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.55,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -6199,8 +6234,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.55,
-  "ms2" : 0.3,
   "max" : "Üst"
 }, {
   "teamName" : "Besat Kerman - Naft Gachsar",
@@ -6398,6 +6431,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.49,
+  "ms2" : 0.32,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -6409,8 +6444,6 @@
   "yok" : 0.755,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.49,
-  "ms2" : 0.32,
   "max" : "Yok"
 }, {
   "teamName" : "Aris - Marko",
@@ -6564,6 +6597,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.25,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -6575,8 +6610,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.41666666666666663,
   "max" : "Var"
 }, {
   "teamName" : "El Gouna - Petrojet",
@@ -6785,6 +6818,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.42500000000000004,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -6796,8 +6831,6 @@
   "yok" : 0.2416666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.42500000000000004,
-  "ms2" : 0.3333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "FK Kozlovice - Pardubice",
@@ -6940,6 +6973,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -6951,8 +6986,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.16666666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Kraluv Dvur - Brno",
@@ -7095,6 +7128,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -7106,8 +7141,6 @@
   "yok" : 0.41666666666666663,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Neratovic B. - Slovacko",
@@ -7250,6 +7283,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -7261,8 +7296,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.25,
   "max" : "Var"
 }, {
   "teamName" : "Varnsdorf - Slavia Prag",
@@ -7438,6 +7471,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.2583333333333333,
+  "ms2" : 0.33333333333333337,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -7449,8 +7484,6 @@
   "yok" : 0.3666666666666667,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.2583333333333333,
-  "ms2" : 0.33333333333333337,
   "max" : "Üst"
 }, {
   "teamName" : "MFK Havirov - Zlin",
@@ -7593,6 +7626,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -7604,8 +7639,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.41666666666666663,
   "max" : "Yok"
 }, {
   "teamName" : "Pribram - H. Kralove",
@@ -7814,6 +7847,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666664,
+  "ms2" : 0.29166666666666663,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -7825,8 +7860,6 @@
   "yok" : 0.275,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666664,
-  "ms2" : 0.29166666666666663,
   "max" : "Var"
 }, {
   "teamName" : "Mas Taborsko - Teplice",
@@ -8035,6 +8068,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.45,
+  "ms2" : 0.3666666666666667,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -8046,8 +8081,6 @@
   "yok" : 0.575,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.45,
-  "ms2" : 0.3666666666666667,
   "max" : "Yok"
 }, {
   "teamName" : "Vitkovice - Lisen",
@@ -8223,6 +8256,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.525,
+  "ms2" : 0.29166666666666663,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -8234,8 +8269,6 @@
   "yok" : 0.6333333333333333,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.525,
-  "ms2" : 0.29166666666666663,
   "max" : "Yok"
 }, {
   "teamName" : "Brabrand IF - Viborg",
@@ -8433,6 +8466,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.41500000000000004,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -8444,8 +8479,6 @@
   "yok" : 0.36,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.41500000000000004,
   "max" : "Var"
 }, {
   "teamName" : "Bremer 1906 - Oldenburg",
@@ -8654,6 +8687,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.15,
+  "ms2" : 0.5916666666666667,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -8665,8 +8700,6 @@
   "yok" : 0.33333333333333326,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.5916666666666667,
   "max" : "Var"
 }, {
   "teamName" : "Hoersholm U. - A. Fremad",
@@ -8809,6 +8842,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -8820,8 +8855,6 @@
   "yok" : 0.5,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.3333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Rafsanjan - Havadar",
@@ -9030,6 +9063,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.18333333333333335,
+  "ms2" : 0.525,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -9041,8 +9076,6 @@
   "yok" : 0.6833333333333333,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.18333333333333335,
-  "ms2" : 0.525,
   "max" : "Alt"
 }, {
   "teamName" : "NK Kustosija - Bijelo Brdo",
@@ -9251,6 +9284,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.21666666666666667,
+  "ms2" : 0.39166666666666666,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -9262,8 +9297,6 @@
   "yok" : 0.575,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.21666666666666667,
-  "ms2" : 0.39166666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "NK Vrbovec - Rijeka",
@@ -9395,6 +9428,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 11,
+  "ms1" : 0.29166666666666663,
+  "ms2" : 0.5416666666666666,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -9406,8 +9441,6 @@
   "yok" : 0.29166666666666674,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.29166666666666663,
-  "ms2" : 0.5416666666666666,
   "max" : "Var"
 }, {
   "teamName" : "Naesby - Horsens",
@@ -9572,6 +9605,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.55,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -9583,8 +9618,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.55,
   "max" : "Üst"
 }, {
   "teamName" : "AE Kifisia - P'Naikos",
@@ -9793,6 +9826,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.09166666666666666,
+  "ms2" : 0.5916666666666667,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -9804,8 +9839,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.09166666666666666,
-  "ms2" : 0.5916666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Zarzis - Monastir",
@@ -10014,6 +10047,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -10025,8 +10060,6 @@
   "yok" : 0.6833333333333333,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.42500000000000004,
   "max" : "Yok"
 }, {
   "teamName" : "Greenville - Corpus Chri",
@@ -10180,6 +10213,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -10191,8 +10226,6 @@
   "yok" : 0.33333333333333326,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.41666666666666663,
   "max" : "Var"
 }, {
   "teamName" : "Grorud - Tromsdalen",
@@ -10401,6 +10434,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -10412,8 +10447,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.3333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Rivers Utd - Warri Wolves",
@@ -10622,6 +10655,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6666666666666666,
+  "ms2" : 0.18333333333333332,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -10633,8 +10668,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.6666666666666666,
-  "ms2" : 0.18333333333333332,
   "max" : "MS1"
 }, {
   "teamName" : "Ben Guerdane - CS Sfaxien",
@@ -10843,6 +10876,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.3833333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -10854,8 +10889,6 @@
   "yok" : 0.6083333333333334,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.3833333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Rodina Mosc. - Rubin Kazan",
@@ -11042,6 +11075,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.05,
+  "ms2" : 0.55,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -11053,8 +11088,6 @@
   "yok" : 0.22499999999999998,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.05,
-  "ms2" : 0.55,
   "max" : "Var"
 }, {
   "teamName" : "S. Moskova - Fakel",
@@ -11263,6 +11296,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5,
+  "ms2" : 0.10833333333333334,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -11274,8 +11309,6 @@
   "yok" : 0.3666666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.10833333333333334,
   "max" : "Var"
 }, {
   "teamName" : "Z. Vilnius - K. Zalgiris",
@@ -11484,6 +11517,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.18333333333333332,
+  "ms2" : 0.65,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -11495,8 +11530,6 @@
   "yok" : 0.8,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.18333333333333332,
-  "ms2" : 0.65,
   "max" : "Yok"
 }, {
   "teamName" : "Akademisk B. - Sonderjyske",
@@ -11639,6 +11672,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -11650,8 +11685,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Al H. Irbid - East Bengal",
@@ -11794,6 +11827,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.5833333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -11805,8 +11840,6 @@
   "yok" : 0.75,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.5833333333333333,
   "max" : "Yok"
 }, {
   "teamName" : "Khalidiyah - Nasaf Qarshi",
@@ -11949,6 +11982,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.6666666666666666,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -11960,8 +11995,6 @@
   "yok" : 0.5,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.6666666666666666,
-  "ms2" : 0.25,
   "max" : "MS1"
 }, {
   "teamName" : "Al Wahda - Al Kuwait SC",
@@ -12115,6 +12148,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.25,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -12126,8 +12161,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.5,
   "max" : "Alt"
 }, {
   "teamName" : "Al Nahda - Al Taawoun",
@@ -12270,6 +12303,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -12281,8 +12316,6 @@
   "yok" : 0.5,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "Arenas Armil - Calavera",
@@ -12447,6 +12480,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.475,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -12458,8 +12493,6 @@
   "yok" : 0.5,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.475,
   "max" : "Üst"
 }, {
   "teamName" : "Atlético Zab - FC Alhendin",
@@ -12514,6 +12547,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 4,
+  "ms1" : 0.25,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -12525,8 +12560,6 @@
   "yok" : 0.25,
   "lossCount" : 3,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.5,
   "max" : "Var"
 }, {
   "teamName" : "Azam - Simba",
@@ -12735,6 +12768,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -12746,8 +12781,6 @@
   "yok" : 0.45833333333333337,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.5,
   "max" : "Var"
 }, {
   "teamName" : "Brattvag - Kristiansund",
@@ -12945,6 +12978,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.47,
+  "ms2" : 0.28500000000000003,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -12956,8 +12991,6 @@
   "yok" : 0.3600000000000001,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.47,
-  "ms2" : 0.28500000000000003,
   "max" : "Üst"
 }, {
   "teamName" : "CD Mosquito - UD Almeria",
@@ -13122,6 +13155,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.15,
+  "ms2" : 0.725,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -13133,8 +13168,6 @@
   "yok" : 0.625,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.725,
   "max" : "Üst"
 }, {
   "teamName" : "Elverum - Raufoss",
@@ -13343,6 +13376,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.575,
+  "ms2" : 0.24166666666666664,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -13354,8 +13389,6 @@
   "yok" : 0.3500000000000001,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.575,
-  "ms2" : 0.24166666666666664,
   "max" : "Üst"
 }, {
   "teamName" : "Arendal - Sandnes",
@@ -13564,6 +13597,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.525,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -13575,8 +13610,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.525,
-  "ms2" : 0.35,
   "max" : "Üst"
 }, {
   "teamName" : "Auda - Ogre Utd",
@@ -13741,6 +13774,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.65,
+  "ms2" : 0.0,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -13752,8 +13787,6 @@
   "yok" : 0.35,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.65,
-  "ms2" : 0.0,
   "max" : "Üst"
 }, {
   "teamName" : "FK Sloga Dob - B. B. Luka",
@@ -13962,6 +13995,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.475,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -13973,8 +14008,6 @@
   "yok" : 0.65,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.475,
   "max" : "Alt"
 }, {
   "teamName" : "Schoningen - SC Weiche F.",
@@ -14139,6 +14172,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.425,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -14150,8 +14185,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.425,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Gamle Oslo - Lyn",
@@ -14294,6 +14327,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.4166666666666667,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -14305,8 +14340,6 @@
   "yok" : 0.16666666666666674,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.4166666666666667,
-  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Jerv - Egersund",
@@ -14504,6 +14537,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.47,
+  "ms2" : 0.21000000000000002,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -14515,8 +14550,6 @@
   "yok" : 0.395,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.47,
-  "ms2" : 0.21000000000000002,
   "max" : "Üst"
 }, {
   "teamName" : "Kjelsas - Ham Kam",
@@ -14681,6 +14714,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.525,
+  "ms2" : 0.275,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -14692,8 +14727,6 @@
   "yok" : 0.575,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.525,
-  "ms2" : 0.275,
   "max" : "Üst"
 }, {
   "teamName" : "L. Sofya - CSKA Sofya",
@@ -14902,6 +14935,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.15,
+  "ms2" : 0.5333333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -14913,8 +14948,6 @@
   "yok" : 0.21666666666666667,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.5333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Malaga - Marbella",
@@ -15024,6 +15057,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 9,
+  "ms1" : 0.5,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -15035,8 +15070,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "Notodden - Odds BK",
@@ -15245,6 +15278,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.45,
+  "ms2" : 0.30833333333333335,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -15256,8 +15291,6 @@
   "yok" : 0.575,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.45,
-  "ms2" : 0.30833333333333335,
   "max" : "Yok"
 }, {
   "teamName" : "Os - Brann",
@@ -15422,6 +15455,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.525,
+  "ms2" : 0.32499999999999996,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -15433,8 +15468,6 @@
   "yok" : 0.30000000000000004,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.525,
-  "ms2" : 0.32499999999999996,
   "max" : "Üst"
 }, {
   "teamName" : "Paide Flora - Parnu JK V.",
@@ -15643,6 +15676,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5166666666666667,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -15654,8 +15689,6 @@
   "yok" : 0.3500000000000001,
   "lossCount" : 17,
   "winRate" : 0.0,
-  "ms1" : 0.5166666666666667,
-  "ms2" : 0.4083333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Sandviken - Asane",
@@ -15798,6 +15831,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : false,
@@ -15809,8 +15844,6 @@
   "yok" : 0.25,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Thor Akureyr - FK Zalgiris",
@@ -15887,6 +15920,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 6,
+  "ms1" : 0.5,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -15898,8 +15933,6 @@
   "yok" : 0.5,
   "lossCount" : 6,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Triglav K. - NK Brezice",
@@ -16108,6 +16141,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6333333333333333,
+  "ms2" : 0.18333333333333332,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -16119,8 +16154,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.6333333333333333,
-  "ms2" : 0.18333333333333332,
   "max" : "MS1"
 }, {
   "teamName" : "Trygg Lade - Molde",
@@ -16263,6 +16296,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.5833333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -16274,8 +16309,6 @@
   "yok" : 0.16666666666666663,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.5833333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Vindbjart - Start",
@@ -16484,6 +16517,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5583333333333333,
+  "ms2" : 0.44166666666666665,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : true,
@@ -16495,8 +16530,6 @@
   "yok" : 0.575,
   "lossCount" : 18,
   "winRate" : 0.0,
-  "ms1" : 0.5583333333333333,
-  "ms2" : 0.44166666666666665,
   "max" : "Üst"
 }, {
   "teamName" : "Ostia Mare - Ravenna",
@@ -16639,6 +16672,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.5833333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -16650,8 +16685,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.5833333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Pineto Calci - Forli",
@@ -16838,6 +16871,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.25,
+  "ms2" : 0.32499999999999996,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -16849,8 +16884,6 @@
   "yok" : 0.25,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.32499999999999996,
   "max" : "Var"
 }, {
   "teamName" : "Torres - US Pianese",
@@ -17037,6 +17070,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.475,
+  "ms2" : 0.275,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -17048,8 +17083,6 @@
   "yok" : 0.575,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.475,
-  "ms2" : 0.275,
   "max" : "Alt"
 }, {
   "teamName" : "Apr - Marines",
@@ -17258,6 +17291,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5916666666666667,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -17269,8 +17304,6 @@
   "yok" : 0.4666666666666667,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.5916666666666667,
-  "ms2" : 0.3,
   "max" : "Üst"
 }, {
   "teamName" : "Norderstedt - HSC Hannover",
@@ -17468,6 +17501,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.33999999999999997,
+  "ms2" : 0.41500000000000004,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -17479,8 +17514,6 @@
   "yok" : 0.41500000000000004,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.33999999999999997,
-  "ms2" : 0.41500000000000004,
   "max" : "Üst"
 }, {
   "teamName" : "Latina - Monterosi T.",
@@ -17689,6 +17722,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.2583333333333333,
+  "ms2" : 0.4666666666666667,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -17700,8 +17735,6 @@
   "yok" : 0.45833333333333337,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.2583333333333333,
-  "ms2" : 0.4666666666666667,
   "max" : "Var"
 }, {
   "teamName" : "Samb. Calcio - Atalanta BC",
@@ -17844,6 +17877,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -17855,8 +17890,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Grosseto - Citta Di C.",
@@ -18010,6 +18043,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -18021,8 +18056,6 @@
   "yok" : 0.5,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "İspanya - Portekiz",
@@ -18132,6 +18165,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 9,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -18143,8 +18178,6 @@
   "yok" : 0.8333333333333334,
   "lossCount" : 7,
   "winRate" : 0.0,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.16666666666666666,
   "max" : "Yok"
 }, {
   "teamName" : "İtalya - Çin",
@@ -18287,6 +18320,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -18298,8 +18333,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.41666666666666663,
   "max" : "Yok"
 }, {
   "teamName" : "Ararat A. - S. Prag",
@@ -18464,6 +18497,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.475,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -18475,8 +18510,6 @@
   "yok" : 0.525,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.475,
   "max" : "Üst"
 }, {
   "teamName" : "Omonia - Celta Vigo",
@@ -18619,6 +18652,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : false,
@@ -18630,8 +18665,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 6,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.16666666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "AIK - Mjallby",
@@ -18840,6 +18873,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.7416666666666667,
+  "ms2" : 0.09166666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -18851,8 +18886,6 @@
   "yok" : 0.4833333333333334,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.7416666666666667,
-  "ms2" : 0.09166666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "Atl. Madrid - Osasuna",
@@ -19061,6 +19094,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.44166666666666665,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -19072,8 +19107,6 @@
   "yok" : 0.5166666666666666,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.44166666666666665,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Atromitos - Paok",
@@ -19282,6 +19315,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.44166666666666665,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -19293,8 +19328,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.44166666666666665,
   "max" : "Var"
 }, {
   "teamName" : "Bodens - Lulea",
@@ -19503,6 +19536,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.39166666666666666,
+  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -19514,8 +19549,6 @@
   "yok" : 0.2583333333333333,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.39166666666666666,
-  "ms2" : 0.4083333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Chemnitzer - Babelsberg",
@@ -19724,6 +19757,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.5583333333333333,
+  "ms2" : 0.03333333333333333,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -19735,8 +19770,6 @@
   "yok" : 0.3666666666666667,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5583333333333333,
-  "ms2" : 0.03333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Deportivo - Sevilla",
@@ -19945,6 +19978,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -19956,8 +19991,6 @@
   "yok" : 0.18333333333333335,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.35,
   "max" : "Var"
 }, {
   "teamName" : "Eidsvold - Kongsvinger",
@@ -20166,6 +20199,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.31666666666666665,
+  "ms2" : 0.3833333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -20177,8 +20212,6 @@
   "yok" : 0.2583333333333333,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.31666666666666665,
-  "ms2" : 0.3833333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Fortuna Köln - W. Wiesbaden",
@@ -20387,6 +20420,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4666666666666667,
+  "ms2" : 0.125,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -20398,8 +20433,6 @@
   "yok" : 0.6083333333333334,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.4666666666666667,
-  "ms2" : 0.125,
   "max" : "Yok"
 }, {
   "teamName" : "Ghazl El M. - Zamalek",
@@ -20608,6 +20641,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.09166666666666666,
+  "ms2" : 0.6666666666666667,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -20619,8 +20654,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.09166666666666666,
-  "ms2" : 0.6666666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "H. Rostock - Stuttgart II",
@@ -20829,6 +20862,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.44166666666666665,
+  "ms2" : 0.39166666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -20840,8 +20875,6 @@
   "yok" : 0.3500000000000001,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.44166666666666665,
-  "ms2" : 0.39166666666666666,
   "max" : "Üst"
 }, {
   "teamName" : "IFK Östersun - Gottne IF",
@@ -21050,6 +21083,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4833333333333334,
+  "ms2" : 0.2,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -21061,8 +21096,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.4833333333333334,
-  "ms2" : 0.2,
   "max" : "Üst"
 }, {
   "teamName" : "ingolstadt - Hoffenheim",
@@ -21227,6 +21260,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.475,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -21238,8 +21273,6 @@
   "yok" : 0.5,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.475,
-  "ms2" : 0.3,
   "max" : "Üst"
 }, {
   "teamName" : "Kubikenborgs - Lucksta IF",
@@ -21437,6 +21470,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.8300000000000001,
+  "ms2" : 0.095,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -21448,8 +21483,6 @@
   "yok" : 0.245,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.8300000000000001,
-  "ms2" : 0.095,
   "max" : "MS1"
 }, {
   "teamName" : "Lugano - St Gallen",
@@ -21658,6 +21691,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.675,
+  "ms2" : 0.14166666666666666,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -21669,8 +21704,6 @@
   "yok" : 0.3916666666666666,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.675,
-  "ms2" : 0.14166666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "W. Mannheim - Essen",
@@ -21879,6 +21912,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.2583333333333333,
+  "ms2" : 0.5166666666666666,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -21890,8 +21925,6 @@
   "yok" : 0.6083333333333334,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.2583333333333333,
-  "ms2" : 0.5166666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "P. Munster - Saarbrucken",
@@ -22100,6 +22133,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.4083333333333333,
+  "ms2" : 0.375,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -22111,8 +22146,6 @@
   "yok" : 0.19999999999999996,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.4083333333333333,
-  "ms2" : 0.375,
   "max" : "Var"
 }, {
   "teamName" : "Thun - Servette",
@@ -22321,6 +22354,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.30833333333333335,
+  "ms2" : 0.4666666666666667,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -22332,8 +22367,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.30833333333333335,
-  "ms2" : 0.4666666666666667,
   "max" : "Yok"
 }, {
   "teamName" : "Santa Marta - Bergantinos",
@@ -22476,6 +22509,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -22487,8 +22522,6 @@
   "yok" : 0.5,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Union Omaha - Spokane V.",
@@ -22697,6 +22730,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.33333333333333337,
+  "ms2" : 0.33333333333333337,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -22708,8 +22743,6 @@
   "yok" : 0.19999999999999996,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.33333333333333337,
-  "ms2" : 0.33333333333333337,
   "max" : "Var"
 }, {
   "teamName" : "Vendsyssel - Randers",
@@ -22918,6 +22951,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.45,
+  "ms2" : 0.44166666666666665,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -22929,8 +22964,6 @@
   "yok" : 0.65,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.45,
-  "ms2" : 0.44166666666666665,
   "max" : "Üst"
 }, {
   "teamName" : "Comillas - Sestao River",
@@ -23073,6 +23106,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -23084,8 +23119,6 @@
   "yok" : 0.5,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.3333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Skelleftea - Taftea IK",
@@ -23294,6 +23327,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.625,
+  "ms2" : 0.15,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -23305,8 +23340,6 @@
   "yok" : 0.275,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.625,
-  "ms2" : 0.15,
   "max" : "Üst"
 }, {
   "teamName" : "Terrassa - CD Binefar",
@@ -23449,6 +23482,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -23460,8 +23495,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "CD Derio - Salamanca",
@@ -23604,6 +23637,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -23615,8 +23650,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "Kaliningrad - Zenit",
@@ -23825,6 +23858,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.24166666666666664,
+  "ms2" : 0.3666666666666667,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -23836,8 +23871,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.24166666666666664,
-  "ms2" : 0.3666666666666667,
   "max" : "Alt"
 }, {
   "teamName" : "Lokomotiv M. - K. Sovetov",
@@ -24046,6 +24079,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.09166666666666666,
+  "ms2" : 0.4833333333333333,
   "winCount" : 0,
   "drawCount" : 8,
   "infoEnough" : true,
@@ -24057,8 +24092,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.09166666666666666,
-  "ms2" : 0.4833333333333333,
   "max" : "Yok"
 }, {
   "teamName" : "Albion - River P(Uru)",
@@ -24234,6 +24267,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.3,
+  "ms2" : 0.47500000000000003,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -24245,8 +24280,6 @@
   "yok" : 0.5916666666666667,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.47500000000000003,
   "max" : "Alt"
 }, {
   "teamName" : "Progreso - Nacional",
@@ -24455,6 +24488,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.15,
+  "ms2" : 0.6083333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -24466,8 +24501,6 @@
   "yok" : 0.575,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.6083333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Real Betis - Granada U19",
@@ -24632,6 +24665,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.45,
+  "ms2" : 0.275,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -24643,8 +24678,6 @@
   "yok" : 0.575,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.45,
-  "ms2" : 0.275,
   "max" : "Alt"
 }, {
   "teamName" : "San Martin - Tristan S.",
@@ -24853,6 +24886,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.35000000000000003,
+  "ms2" : 0.425,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -24864,8 +24899,6 @@
   "yok" : 0.575,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.35000000000000003,
-  "ms2" : 0.425,
   "max" : "Alt"
 }, {
   "teamName" : "AL Shorta - Al Seeb",
@@ -25008,6 +25041,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -25019,8 +25054,6 @@
   "yok" : 0.5833333333333334,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "Al Rayyan - Al Faisaly",
@@ -25163,6 +25196,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -25174,8 +25209,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.3333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Newport City - Trethomas",
@@ -25362,6 +25395,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.3,
+  "ms2" : 0.525,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -25373,8 +25408,6 @@
   "yok" : 0.32499999999999996,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.525,
   "max" : "Üst"
 }, {
   "teamName" : "R. Huelva - Cacereno",
@@ -25539,6 +25572,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.3,
+  "ms2" : 0.3,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -25550,8 +25585,6 @@
   "yok" : 0.6499999999999999,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.3,
   "max" : "Alt"
 }, {
   "teamName" : "Altrincham - Hartlepool",
@@ -25760,6 +25793,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6166666666666667,
+  "ms2" : 0.35000000000000003,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -25771,8 +25806,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.6166666666666667,
-  "ms2" : 0.35000000000000003,
   "max" : "MS1"
 }, {
   "teamName" : "Everton - Wolves",
@@ -25981,6 +26014,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.2583333333333333,
+  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 7,
   "infoEnough" : true,
@@ -25992,8 +26027,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.2583333333333333,
-  "ms2" : 0.3333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Fleetwood T. - Sheffield U.",
@@ -26202,6 +26235,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.24166666666666667,
   "winCount" : 0,
   "drawCount" : 8,
   "infoEnough" : true,
@@ -26213,8 +26248,6 @@
   "yok" : 0.35,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.24166666666666667,
   "max" : "Var"
 }, {
   "teamName" : "Kidderminst. - Gateshead",
@@ -26423,6 +26456,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.6916666666666667,
+  "ms2" : 0.06666666666666667,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -26434,8 +26469,6 @@
   "yok" : 0.45833333333333337,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.6916666666666667,
-  "ms2" : 0.06666666666666667,
   "max" : "MS1"
 }, {
   "teamName" : "Orihuela - Murcia",
@@ -26611,6 +26644,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.3,
+  "ms2" : 0.44166666666666665,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -26622,8 +26657,6 @@
   "yok" : 0.44999999999999996,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.3,
-  "ms2" : 0.44166666666666665,
   "max" : "Var"
 }, {
   "teamName" : "Scunthorpe - Boreham",
@@ -26810,6 +26843,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 16,
+  "ms1" : 0.25,
+  "ms2" : 0.65,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -26821,8 +26856,6 @@
   "yok" : 0.275,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.65,
   "max" : "Var"
 }, {
   "teamName" : "AC Milan - Benfica",
@@ -26976,6 +27009,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.25,
+  "ms2" : 0.5833333333333334,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -26987,8 +27022,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.5833333333333334,
   "max" : "Üst"
 }, {
   "teamName" : "Anderlecht - Lyon",
@@ -27186,6 +27219,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.415,
+  "ms2" : 0.28500000000000003,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -27197,8 +27232,6 @@
   "yok" : 0.66,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.415,
-  "ms2" : 0.28500000000000003,
   "max" : "Yok"
 }, {
   "teamName" : "Saguntino - Navalcarnero",
@@ -27341,6 +27374,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -27352,8 +27387,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.41666666666666663,
   "max" : "Var"
 }, {
   "teamName" : "B.Leverkusen - Celje",
@@ -27496,6 +27529,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.25,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -27507,8 +27542,6 @@
   "yok" : 0.33333333333333337,
   "lossCount" : 9,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.25,
   "max" : "Üst"
 }, {
   "teamName" : "Coventry - Aston Villa",
@@ -27651,6 +27684,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -27662,8 +27697,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.41666666666666663,
   "max" : "Yok"
 }, {
   "teamName" : "Guabira - Aurora",
@@ -27872,6 +27905,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.05,
+  "ms2" : 0.575,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -27883,8 +27918,6 @@
   "yok" : 0.4833333333333334,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.05,
-  "ms2" : 0.575,
   "max" : "MS2"
 }, {
   "teamName" : "H.Beer Sheva - D. Zagreb",
@@ -28049,6 +28082,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.375,
+  "ms2" : 0.42500000000000004,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -28060,8 +28095,6 @@
   "yok" : 0.275,
   "lossCount" : 11,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.42500000000000004,
   "max" : "Üst"
 }, {
   "teamName" : "Livorno - Vado",
@@ -28204,6 +28237,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.5,
+  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -28215,8 +28250,6 @@
   "yok" : 0.6666666666666667,
   "lossCount" : 8,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.16666666666666666,
   "max" : "Alt"
 }, {
   "teamName" : "Man. Utd - Brighton",
@@ -28425,6 +28458,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.275,
+  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -28436,8 +28471,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 15,
   "winRate" : 0.0,
-  "ms1" : 0.275,
-  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Olympiakos - Jagiellonia",
@@ -28591,6 +28624,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
+  "ms1" : 0.5,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -28602,8 +28637,6 @@
   "yok" : 0.5,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.5,
-  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Perugia - Spezia",
@@ -28812,6 +28845,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.5583333333333333,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -28823,8 +28858,6 @@
   "yok" : 0.4083333333333333,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.5583333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Pescara - Gubbio",
@@ -29033,6 +29066,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.35,
+  "ms2" : 0.5583333333333333,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -29044,8 +29079,6 @@
   "yok" : 0.42500000000000004,
   "lossCount" : 16,
   "winRate" : 0.0,
-  "ms1" : 0.35,
-  "ms2" : 0.5583333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "SSD Vis Pes. - Reggiana",
@@ -29243,6 +29276,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 17,
+  "ms1" : 0.15,
+  "ms2" : 0.625,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -29254,8 +29289,6 @@
   "yok" : 0.28500000000000003,
   "lossCount" : 14,
   "winRate" : 0.0,
-  "ms1" : 0.15,
-  "ms2" : 0.625,
   "max" : "Var"
 }, {
   "teamName" : "Sturm Graz - Rennes",
@@ -29398,6 +29431,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -29409,8 +29444,6 @@
   "yok" : 0.25,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.41666666666666663,
   "max" : "Var"
 }, {
   "teamName" : "Sunderland - AZ Alkmaar",
@@ -29553,6 +29586,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
+  "ms1" : 0.25,
+  "ms2" : 0.5833333333333334,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -29564,8 +29599,6 @@
   "yok" : 0.41666666666666674,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.25,
-  "ms2" : 0.5833333333333334,
   "max" : "MS2"
 }, {
   "teamName" : "Barcelona - Santander",
@@ -29741,6 +29774,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
+  "ms1" : 0.7000000000000001,
+  "ms2" : 0.15,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -29752,8 +29787,6 @@
   "yok" : 0.4,
   "lossCount" : 13,
   "winRate" : 0.0,
-  "ms1" : 0.7000000000000001,
-  "ms2" : 0.15,
   "max" : "Üst"
 }, {
   "teamName" : "Levante - Ath. Bilbao",
@@ -29962,6 +29995,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
+  "ms1" : 0.375,
+  "ms2" : 0.35,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -29973,8 +30008,6 @@
   "yok" : 0.5583333333333333,
   "lossCount" : 12,
   "winRate" : 0.0,
-  "ms1" : 0.375,
-  "ms2" : 0.35,
   "max" : "Yok"
 }, {
   "teamName" : "C. D. Cuenca - San Antonio",
@@ -30139,6 +30172,8 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
+  "ms1" : 0.275,
+  "ms2" : 0.44999999999999996,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -30150,7 +30185,5 @@
   "yok" : 0.725,
   "lossCount" : 10,
   "winRate" : 0.0,
-  "ms1" : 0.275,
-  "ms2" : 0.44999999999999996,
   "max" : "Yok"
 } ]

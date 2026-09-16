@@ -1,15 +1,15 @@
 [ {
   "algorithm" : "BasketEnsembleModel",
-  "homeTeam" : "-",
-  "awayTeam" : "-",
-  "pHome" : 0.5,
+  "homeTeam" : "L. Quilpue",
+  "awayTeam" : "Universidad",
+  "pHome" : 0.48508764629327544,
   "pDraw" : 0.0,
-  "pAway" : 0.5,
+  "pAway" : 0.5149123537067246,
   "pOver25" : 0.5,
   "pBttsYes" : 0.0,
   "pick" : "Yakın | Sınırda",
-  "confidence" : 0.5,
-  "scoreline" : "0-0"
+  "confidence" : 0.5637192052983788,
+  "scoreline" : "82-82"
 }, {
   "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "Ürdün",
@@ -26,38 +26,38 @@
   "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "Dorados",
   "awayTeam" : "Calor",
-  "pHome" : 0.8616983889050831,
+  "pHome" : 0.8443672603710359,
   "pDraw" : 0.0,
-  "pAway" : 0.1383016110949169,
-  "pOver25" : 0.5352294462642488,
+  "pAway" : 0.155632739628964,
+  "pOver25" : 0.7043588631937383,
   "pBttsYes" : 0.0,
-  "pick" : "MS1 | Sınırda",
-  "confidence" : 0.9160605497328447,
-  "scoreline" : "90-81"
+  "pick" : "MS1 | Üst",
+  "confidence" : 0.8882253598456898,
+  "scoreline" : "93-85"
 }, {
   "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "Freseros de",
   "awayTeam" : "Soles De Mex",
-  "pHome" : 0.4449947539141206,
+  "pHome" : 0.2686021283575088,
   "pDraw" : 0.0,
-  "pAway" : 0.5550052460858794,
-  "pOver25" : 0.4776613256612916,
+  "pAway" : 0.7313978716424911,
+  "pOver25" : 0.4466071733014413,
   "pBttsYes" : 0.0,
-  "pick" : "MS2 | Sınırda",
-  "confidence" : 0.5941839216749574,
-  "scoreline" : "82-84"
+  "pick" : "MS2 | Alt",
+  "confidence" : 0.7544576683758035,
+  "scoreline" : "80-85"
 }, {
   "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "Lobos Platea",
   "awayTeam" : "Abejas",
-  "pHome" : 0.8057628355338887,
+  "pHome" : 0.8129542398106983,
   "pDraw" : 0.0,
-  "pAway" : 0.19423716446611128,
-  "pOver25" : 0.35521467960478537,
+  "pAway" : 0.18704576018930175,
+  "pOver25" : 0.38512678393316147,
   "pBttsYes" : 0.0,
   "pick" : "MS1 | Alt",
-  "confidence" : 0.8348079559235555,
-  "scoreline" : "86-79"
+  "confidence" : 0.8438653105623224,
+  "scoreline" : "87-80"
 }, {
   "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "Plateros",
@@ -74,14 +74,14 @@
   "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "Fuerza Regia",
   "awayTeam" : "Mineros",
-  "pHome" : 0.7862847042677181,
+  "pHome" : 0.8087065939588626,
   "pDraw" : 0.0,
-  "pAway" : 0.21371529573228187,
-  "pOver25" : 0.5876266717752321,
+  "pAway" : 0.19129340604113743,
+  "pOver25" : 0.5773368172214659,
   "pBttsYes" : 0.0,
   "pick" : "MS1 | Üst",
-  "confidence" : 0.8106967883786178,
-  "scoreline" : "93-86"
+  "confidence" : 0.8386296690062138,
+  "scoreline" : "93-85"
 }, {
   "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "İran",
