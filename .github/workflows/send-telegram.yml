@@ -1,4 +1,4 @@
-name: Send Telegram HTML
+name: Send Telegram Notifications
 
 on:
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Detect changed HTML files
+      - name: Detect changed files
         id: detect
         run: |
           ALL_CHANGED=$(git diff --name-only HEAD~1 HEAD)
@@ -29,6 +29,174 @@ jobs:
             printf '%s\n' "$CHANGED_FILES" > changed.txt
             echo "found=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Build football Telegram messages
+        if: steps.detect.outputs.found == 'true'
+        run: |
+          rm -rf telegram-messages
+          mkdir -p telegram-messages
+
+          python3 <<'PY'
+          import json
+          import re
+          import subprocess
+          from pathlib import Path
+
+          changed = Path("all-changed.txt").read_text(encoding="utf-8").splitlines()
+          out = Path("telegram-messages")
+          counter = 0
+
+          pick_re = re.compile(r"^(.*?)\s*\(([^ ]+)\s*-\s*([0-9.]+)%\)$")
+
+          def parse_pick(pick):
+              m = pick_re.match(pick.strip())
+              if not m:
+                  return None
+              return m.group(1).strip(), m.group(2).strip(), float(m.group(3))
+
+          def selected(pick):
+              parsed = parse_pick(pick)
+              if not parsed:
+                  return False
+              market, _, confidence = parsed
+              threshold = 65.0 if re.match(r"^MS[012]\b", market, re.IGNORECASE) else 70.0
+              return confidence >= threshold
+
+          def write_message(text):
+              global counter
+              counter += 1
+              (out / f"{counter:03d}.txt").write_text(text, encoding="utf-8")
+
+          def load_json(path):
+              with open(path, encoding="utf-8") as f:
+                  return json.load(f)
+
+          # DAILY: PredictionData değiştiyse filtreyi geçen her futbol tahminini ayrı mesaj yap.
+          daily_files = [p for p in changed if re.fullmatch(r"futbol/data/PredictionData-\d{4}-\d{2}-\d{2}\.json", p)]
+          for pred_path in daily_files:
+              date = re.search(r"(\d{4}-\d{2}-\d{2})", pred_path).group(1)
+              last_path = Path(f"futbol/data/LastPrediction-{date}.json")
+              if not last_path.exists():
+                  print(f"LastPrediction bulunamadı: {last_path}")
+                  continue
+
+              predictions = load_json(pred_path)
+              last_predictions = load_json(last_path)
+              last_by_name = {x.get("name"): x for x in last_predictions}
+
+              for match in predictions:
+                  name = f'{match.get("homeTeam", "")} - {match.get("awayTeam", "")}'
+                  last = last_by_name.get(name, {})
+                  for pick in match.get("picks", []):
+                      if not selected(pick):
+                          continue
+                      parsed = parse_pick(pick)
+                      if not parsed:
+                          continue
+                      market, odds, confidence = parsed
+                      time = last.get("time", "-")
+                      predicted_score = last.get("score", "-")
+                      write_message(
+                          f"⚽ {name}\n"
+                          f"🕒 {time}\n\n"
+                          f"🎯 {market}\n"
+                          f"📊 %{confidence:g} | Oran: {odds}\n"
+                          f"🔮 Skor Tahmini: {predicted_score}"
+                      )
+
+          # CONTROL: yalnızca pending -> won/lost olan ve Telegram filtresini geçen tahminleri bildir.
+          score_files = [p for p in changed if re.fullmatch(r"futbol/data/RealScores-\d{4}-\d{2}-\d{2}\.json", p)]
+          for score_path in score_files:
+              date = re.search(r"(\d{4}-\d{2}-\d{2})", score_path).group(1)
+              pred_path = f"futbol/data/PredictionData-{date}.json"
+              last_path = Path(f"futbol/data/LastPrediction-{date}.json")
+              if not Path(pred_path).exists():
+                  continue
+
+              current = load_json(pred_path)
+              try:
+                  old_raw = subprocess.check_output(
+                      ["git", "show", f"HEAD~1:{pred_path}"], text=True
+                  )
+                  previous = json.loads(old_raw)
+              except Exception as exc:
+                  print(f"Önceki PredictionData okunamadı, sonuç mesajı atlanıyor: {exc}")
+                  continue
+
+              previous_by_match = {
+                  (m.get("homeTeam"), m.get("awayTeam")): m for m in previous
+              }
+              last_by_name = {}
+              if last_path.exists():
+                  last_by_name = {x.get("name"): x for x in load_json(last_path)}
+
+              changed_result_count = 0
+              selected_entries = []
+
+              for match in current:
+                  key = (match.get("homeTeam"), match.get("awayTeam"))
+                  name = f"{key[0]} - {key[1]}"
+                  prev = previous_by_match.get(key, {})
+                  statuses = match.get("statuses", {})
+                  prev_statuses = prev.get("statuses", {})
+                  last = last_by_name.get(name, {})
+
+                  for pick in match.get("picks", []):
+                      if not selected(pick):
+                          continue
+                      status = statuses.get(pick, "pending")
+                      selected_entries.append(status)
+                      old_status = prev_statuses.get(pick, "pending")
+
+                      if old_status == "pending" and status in ("won", "lost"):
+                          parsed = parse_pick(pick)
+                          if not parsed:
+                              continue
+                          market, _, confidence = parsed
+                          icon = "✅" if status == "won" else "❌"
+                          predicted_score = last.get("score", "-")
+                          real_score = match.get("score", "-")
+                          write_message(
+                              f"{icon} {name}\n\n"
+                              f"🎯 {market} (%{confidence:g})\n"
+                              f"🔮 Tahmini Skor: {predicted_score}\n"
+                              f"🏁 Sonuç: {real_score}"
+                          )
+                          changed_result_count += 1
+
+              # Son seçili tahmin de sonuçlandığı CONTROL çalışmasında gün sonu özetini bir kez gönder.
+              if changed_result_count and selected_entries and all(s in ("won", "lost") for s in selected_entries):
+                  won = sum(s == "won" for s in selected_entries)
+                  lost = sum(s == "lost" for s in selected_entries)
+                  total = won + lost
+                  success = (won / total * 100.0) if total else 0.0
+                  display_date = ".".join(reversed(date.split("-")))
+                  write_message(
+                      f"📊 GÜN SONU — {display_date}\n\n"
+                      f"✅ Doğru: {won}\n"
+                      f"❌ Yanlış: {lost}\n\n"
+                      f"🎯 {won} / {total}\n"
+                      f"📈 Başarı: %{success:.1f}"
+                  )
+
+          print(f"Hazırlanan futbol Telegram mesajı: {counter}")
+          PY
+
+      - name: Send football text messages via Telegram
+        if: steps.detect.outputs.found == 'true'
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          shopt -s nullglob
+          for MESSAGE in telegram-messages/*.txt; do
+            echo "Sending $MESSAGE"
+            curl --fail --silent --show-error -X POST \
+              "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+              --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
+              --data-urlencode "text@$MESSAGE"
+            echo
+          done
 
       - name: Send changed HTML files via Telegram
         if: steps.detect.outputs.found == 'true'
@@ -65,8 +233,9 @@ jobs:
             fi
 
             CAPTION="$ICON $BASENAME - $DISPLAY_DATE"
-            curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
+            curl --fail --silent --show-error -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
               -F chat_id="$TELEGRAM_CHAT_ID" \
               -F document="@$FILE" \
               -F caption="$CAPTION"
+            echo
           done < changed.txt
