@@ -71,9 +71,23 @@ jobs:
               with open(path, encoding="utf-8") as f:
                   return json.load(f)
 
-          # DAILY: PredictionData değiştiyse filtreyi geçen her futbol tahminini ayrı mesaj yap.
+          # DAILY: PredictionData ilk kez oluştuğunda filtreyi geçen tahminleri gönder.
+          # CONTROL aynı PredictionData dosyasını status/score için değiştirdiği için burada tekrar gönderme.
           daily_files = [p for p in changed if re.fullmatch(r"futbol/data/PredictionData-\d{4}-\d{2}-\d{2}\.json", p)]
           for pred_path in daily_files:
+              try:
+                  subprocess.check_output(
+                      ["git", "cat-file", "-e", f"HEAD~1:{pred_path}"],
+                      stderr=subprocess.DEVNULL,
+                  )
+                  existed_before = True
+              except subprocess.CalledProcessError:
+                  existed_before = False
+
+              if existed_before:
+                  print(f"PredictionData zaten vardı; CONTROL güncellemesi, tahminler tekrar gönderilmiyor: {pred_path}")
+                  continue
+
               date = re.search(r"(\d{4}-\d{2}-\d{2})", pred_path).group(1)
               last_path = Path(f"futbol/data/LastPrediction-{date}.json")
               if not last_path.exists():
@@ -164,7 +178,6 @@ jobs:
                           )
                           changed_result_count += 1
 
-              # Son seçili tahmin de sonuçlandığı CONTROL çalışmasında gün sonu özetini bir kez gönder.
               if changed_result_count and selected_entries and all(s in ("won", "lost") for s in selected_entries):
                   won = sum(s == "won" for s in selected_entries)
                   lost = sum(s == "lost" for s in selected_entries)
@@ -217,8 +230,6 @@ jobs:
               SPORT="basketbol"
             fi
 
-            # CONTROL commitlerinde değişen RealScores dosyası kontrol edilen günü taşır.
-            # Daily commitlerinde PredictionData dosyası tahmin gününü taşır.
             DATE=$(grep -E "^${SPORT}/data/RealScores-[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$" all-changed.txt \
               | sed -E 's/.*RealScores-([0-9]{4}-[0-9]{2}-[0-9]{2})\.json/\1/' | tail -1)
             if [ -z "$DATE" ]; then
