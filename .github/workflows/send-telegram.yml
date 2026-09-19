@@ -201,14 +201,56 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          send_with_retry() {
+            local response_file http_code retry_after attempt=1 max_attempts=8
+            response_file=$(mktemp)
+
+            while [ "$attempt" -le "$max_attempts" ]; do
+              http_code=$(curl --silent --show-error --output "$response_file" --write-out '%{http_code}' "$@") || http_code=000
+
+              if [[ "$http_code" =~ ^2 ]]; then
+                rm -f "$response_file"
+                return 0
+              fi
+
+              if [ "$http_code" = "429" ]; then
+                retry_after=$(python3 - "$response_file" <<'PY'
+          import json
+          import sys
+
+          try:
+              with open(sys.argv[1], encoding="utf-8") as response:
+                  print(max(1, int(json.load(response).get("parameters", {}).get("retry_after", 10))))
+          except Exception:
+              print(10)
+          PY
+                )
+                echo "Telegram rate limit: ${retry_after}s bekleniyor (deneme $attempt/$max_attempts)"
+                sleep "$retry_after"
+              else
+                echo "Telegram HTTP $http_code yanıtı (deneme $attempt/$max_attempts):"
+                cat "$response_file"
+                sleep $((attempt * 5))
+              fi
+
+              attempt=$((attempt + 1))
+            done
+
+            echo "Telegram gönderimi $max_attempts denemeden sonra başarısız oldu."
+            cat "$response_file"
+            rm -f "$response_file"
+            return 1
+          }
+
           shopt -s nullglob
           for MESSAGE in telegram-messages/*.txt; do
             echo "Sending $MESSAGE"
-            curl --fail --silent --show-error -X POST \
+            send_with_retry -X POST \
               "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
               --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
               --data-urlencode "text@$MESSAGE"
             echo
+            sleep 2
           done
 
       - name: Send changed HTML files via Telegram
@@ -218,6 +260,47 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TZ: Europe/Istanbul
         run: |
+          send_with_retry() {
+            local response_file http_code retry_after attempt=1 max_attempts=8
+            response_file=$(mktemp)
+
+            while [ "$attempt" -le "$max_attempts" ]; do
+              http_code=$(curl --silent --show-error --output "$response_file" --write-out '%{http_code}' "$@") || http_code=000
+
+              if [[ "$http_code" =~ ^2 ]]; then
+                rm -f "$response_file"
+                return 0
+              fi
+
+              if [ "$http_code" = "429" ]; then
+                retry_after=$(python3 - "$response_file" <<'PY'
+          import json
+          import sys
+
+          try:
+              with open(sys.argv[1], encoding="utf-8") as response:
+                  print(max(1, int(json.load(response).get("parameters", {}).get("retry_after", 10))))
+          except Exception:
+              print(10)
+          PY
+                )
+                echo "Telegram rate limit: ${retry_after}s bekleniyor (deneme $attempt/$max_attempts)"
+                sleep "$retry_after"
+              else
+                echo "Telegram HTTP $http_code yanıtı (deneme $attempt/$max_attempts):"
+                cat "$response_file"
+                sleep $((attempt * 5))
+              fi
+
+              attempt=$((attempt + 1))
+            done
+
+            echo "Telegram gönderimi $max_attempts denemeden sonra başarısız oldu."
+            cat "$response_file"
+            rm -f "$response_file"
+            return 1
+          }
+
           while read FILE; do
             [ -f "$FILE" ] || continue
             BASENAME=$(basename "$FILE")
@@ -244,9 +327,10 @@ jobs:
             fi
 
             CAPTION="$ICON $BASENAME - $DISPLAY_DATE"
-            curl --fail --silent --show-error -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
+            send_with_retry -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
               -F chat_id="$TELEGRAM_CHAT_ID" \
               -F document="@$FILE" \
               -F caption="$CAPTION"
             echo
+            sleep 2
           done < changed.txt
