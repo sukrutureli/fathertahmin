@@ -1,0 +1,32 @@
+[ {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Dallas Wings",
+  "homeStats" : {
+    "avgPointsFor" : 78.33333333333333,
+    "avgPointsAgainst" : 67.33333333333333,
+    "avgTotalPoints" : 145.66666666666666,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 94.33333333333333,
+    "avgPointsAgainst" : 81.0,
+    "avgTotalPoints" : 175.33333333333334,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.11,
+    "ms2" : 2.97,
+    "h1Value" : -7.5,
+    "h2Value" : 7.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 154.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 87.16666666666667,
+  "avgPointsForAway" : 77.16666666666667,
+  "h2hAvgTotalPoints" : 164.33333333333334
+} ]
