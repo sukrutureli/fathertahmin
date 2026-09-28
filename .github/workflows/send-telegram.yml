@@ -321,7 +321,7 @@ jobs:
 
           html = open(sys.argv[1], encoding="utf-8").read()
           match = re.search(
-              r"<[^>]*class=[\"\'][^\"\']*\\bday-title\\b[^\"\']*[\"\'][^>]*>(.*?)</[^>]+>",
+              r"<[^>]*class=[\"\'][^\"\']*\bday-title\b[^\"\']*[\"\'][^>]*>(.*?)</[^>]+>",
               html,
               re.IGNORECASE | re.DOTALL,
           )
