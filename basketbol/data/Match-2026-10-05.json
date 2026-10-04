@@ -1,0 +1,280 @@
+[ {
+  "homeTeam" : "Independiente de Oliva",
+  "awayTeam" : "Mogi Das Cruzes",
+  "homeStats" : {
+    "avgPointsFor" : 80.16666666666667,
+    "avgPointsAgainst" : 72.0,
+    "avgTotalPoints" : 152.16666666666666,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 90.33333333333333,
+    "avgPointsAgainst" : 74.5,
+    "avgTotalPoints" : 164.83333333333334,
+    "ppg" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.54,
+    "ms2" : 1.7,
+    "h1Value" : -1.5,
+    "h2Value" : 1.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.63,
+    "under" : 1.6
+  },
+  "avgPointsForHome" : 0.0,
+  "avgPointsForAway" : 0.0,
+  "h2hAvgTotalPoints" : 0.0
+}, {
+  "homeTeam" : "Mobis Phoebus",
+  "awayTeam" : "KCC Egis",
+  "homeStats" : {
+    "avgPointsFor" : 81.16666666666667,
+    "avgPointsAgainst" : 82.33333333333333,
+    "avgTotalPoints" : 163.5,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 79.5,
+    "avgPointsAgainst" : 86.33333333333333,
+    "avgTotalPoints" : 165.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.14,
+    "ms2" : 2.8,
+    "h1Value" : -6.5,
+    "h2Value" : 6.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 171.5,
+    "over" : 1.59,
+    "under" : 1.64
+  },
+  "avgPointsForHome" : 80.66666666666667,
+  "avgPointsForAway" : 80.33333333333333,
+  "h2hAvgTotalPoints" : 161.0
+}, {
+  "homeTeam" : "Daegu Pegasus",
+  "awayTeam" : "Anyang Jungkwanjang Red Boosters",
+  "homeStats" : {
+    "avgPointsFor" : 78.5,
+    "avgPointsAgainst" : 79.33333333333333,
+    "avgTotalPoints" : 157.83333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 79.66666666666667,
+    "avgPointsAgainst" : 82.66666666666667,
+    "avgTotalPoints" : 162.33333333333334,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.21,
+    "ms2" : 1.27,
+    "h1Value" : 4.5,
+    "h2Value" : -4.5,
+    "h1" : 1.63,
+    "h2" : 1.6,
+    "hOverUnderValue" : 160.5,
+    "over" : 1.62,
+    "under" : 1.61
+  },
+  "avgPointsForHome" : 68.33333333333333,
+  "avgPointsForAway" : 74.5,
+  "h2hAvgTotalPoints" : 142.83333333333334
+}, {
+  "homeTeam" : "KK Partizan Belgrade",
+  "awayTeam" : "KK Mega Basket Belgrade",
+  "homeStats" : {
+    "avgPointsFor" : 93.16666666666667,
+    "avgPointsAgainst" : 81.16666666666667,
+    "avgTotalPoints" : 174.33333333333334,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 79.2,
+    "avgPointsAgainst" : 88.2,
+    "avgTotalPoints" : 167.4,
+    "ppg" : 1.2,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.92,
+    "h1Value" : -14.5,
+    "h2Value" : 14.5,
+    "h1" : 1.64,
+    "h2" : 1.58,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 82.66666666666667,
+  "avgPointsForAway" : 77.83333333333333,
+  "h2hAvgTotalPoints" : 160.5
+}, {
+  "homeTeam" : "Anwil Wloclawek",
+  "awayTeam" : "Gornik Walbrzych",
+  "homeStats" : {
+    "avgPointsFor" : 80.16666666666667,
+    "avgPointsAgainst" : 79.83333333333333,
+    "avgTotalPoints" : 160.0,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 82.5,
+    "avgPointsAgainst" : 86.83333333333333,
+    "avgTotalPoints" : 169.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.59,
+    "h1Value" : -8.5,
+    "h2Value" : 8.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 87.25,
+  "avgPointsForAway" : 70.5,
+  "h2hAvgTotalPoints" : 157.75
+}, {
+  "homeTeam" : "Pallacanestro Cantu",
+  "awayTeam" : "Apu Udine",
+  "homeStats" : {
+    "avgPointsFor" : 78.83333333333333,
+    "avgPointsAgainst" : 86.33333333333333,
+    "avgTotalPoints" : 165.16666666666666,
+    "ppg" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 77.5,
+    "avgPointsAgainst" : 82.33333333333333,
+    "avgTotalPoints" : 159.83333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.42,
+    "ms2" : 1.86,
+    "h1Value" : -2.5,
+    "h2Value" : 2.5,
+    "h1" : 1.6,
+    "h2" : 1.63,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.64,
+    "under" : 1.59
+  },
+  "avgPointsForHome" : 81.5,
+  "avgPointsForAway" : 85.66666666666667,
+  "h2hAvgTotalPoints" : 167.16666666666666
+}, {
+  "homeTeam" : "Rasta Vechta",
+  "awayTeam" : "Basketball Lowen Braunschweig",
+  "homeStats" : {
+    "avgPointsFor" : 85.5,
+    "avgPointsAgainst" : 87.16666666666667,
+    "avgTotalPoints" : 172.66666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 92.0,
+    "avgPointsAgainst" : 87.83333333333333,
+    "avgTotalPoints" : 179.83333333333334,
+    "ppg" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.22,
+    "ms2" : 2.39,
+    "h1Value" : -5.5,
+    "h2Value" : 5.5,
+    "h1" : 1.66,
+    "h2" : 1.57,
+    "hOverUnderValue" : 176.5,
+    "over" : 1.61,
+    "under" : 1.62
+  },
+  "avgPointsForHome" : 89.83333333333333,
+  "avgPointsForAway" : 89.0,
+  "h2hAvgTotalPoints" : 178.83333333333334
+}, {
+  "homeTeam" : "KK Zadar",
+  "awayTeam" : "KK Studentski centar Podgorica",
+  "homeStats" : {
+    "avgPointsFor" : 91.66666666666667,
+    "avgPointsAgainst" : 69.83333333333333,
+    "avgTotalPoints" : 161.5,
+    "ppg" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 79.33333333333333,
+    "avgPointsAgainst" : 84.83333333333333,
+    "avgTotalPoints" : 164.16666666666666,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.35,
+    "ms2" : 2.03,
+    "h1Value" : -3.5,
+    "h2Value" : 3.5,
+    "h1" : 1.58,
+    "h2" : 1.64,
+    "hOverUnderValue" : 155.5,
+    "over" : 1.64,
+    "under" : 1.58
+  },
+  "avgPointsForHome" : 69.16666666666667,
+  "avgPointsForAway" : 73.33333333333333,
+  "h2hAvgTotalPoints" : 142.5
+}, {
+  "homeTeam" : "Scaligera Basket Verona",
+  "awayTeam" : "Olimpia Milano",
+  "homeStats" : {
+    "avgPointsFor" : 79.5,
+    "avgPointsAgainst" : 82.83333333333333,
+    "avgTotalPoints" : 162.33333333333334,
+    "ppg" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "avgPointsFor" : 80.16666666666667,
+    "avgPointsAgainst" : 82.0,
+    "avgTotalPoints" : 162.16666666666666,
+    "ppg" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.55,
+    "ms2" : 0.0,
+    "h1Value" : 8.5,
+    "h2Value" : -8.5,
+    "h1" : 1.62,
+    "h2" : 1.61,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.58,
+    "under" : 1.65
+  },
+  "avgPointsForHome" : 57.5,
+  "avgPointsForAway" : 80.5,
+  "h2hAvgTotalPoints" : 138.0
+} ]
